@@ -1,0 +1,109 @@
+{
+    "name": "Peraceae",
+    "machine_name": "peraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Klotzsch.",
+    "description": null,
+    "archival_data": {
+        "id": "2325241",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527102357"
+    },
+    "genus_items": [
+        {
+            "name": "Clutia",
+            "machine_name": "clutia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "peraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Clutia [Cultivars]",
+                    "machine_name": "clutia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "clutia",
+                    "family": "peraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386688",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Clutia pulchella",
+                    "machine_name": "clutia_pulchella",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "clutia",
+                    "family": "peraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325236",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527102240"
+                    }
+                },
+                {
+                    "name": "Clutia robusta",
+                    "machine_name": "clutia_robusta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pax.",
+                    "description": null,
+                    "genus": "clutia",
+                    "family": "peraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325246",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527102518"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386687",
+                "legacy_id": "8969",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

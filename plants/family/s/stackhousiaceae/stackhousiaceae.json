@@ -1,0 +1,156 @@
+{
+    "name": "Stackhousiaceae",
+    "machine_name": "stackhousiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381406",
+        "legacy_id": "393",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Macgregoria",
+            "machine_name": "macgregoria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "stackhousiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Macgregoria [Cultivars]",
+                    "machine_name": "macgregoria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "macgregoria",
+                    "family": "stackhousiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388012",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Macgregoria racemigera",
+                    "machine_name": "macgregoria_racemigera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "macgregoria",
+                    "family": "stackhousiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420820",
+                        "legacy_id": "13504",
+                        "fgsid": "21784",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388011",
+                "legacy_id": "3374",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Tripterococcus",
+            "machine_name": "tripterococcus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Endl.",
+            "description": null,
+            "family": "stackhousiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tripterococcus [Cultivars]",
+                    "machine_name": "tripterococcus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tripterococcus",
+                    "family": "stackhousiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392704",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Tripterococcus brunonis",
+                    "machine_name": "tripterococcus_brunonis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tripterococcus",
+                    "family": "stackhousiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433525",
+                        "legacy_id": "2385",
+                        "fgsid": "35424",
+                        "legacy_from_data_cross_ref": [
+                            "+Stackhousia brunonis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392703",
+                "legacy_id": "5649",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

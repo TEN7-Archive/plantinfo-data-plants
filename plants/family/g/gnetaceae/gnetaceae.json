@@ -1,0 +1,157 @@
+{
+    "name": "Gnetaceae",
+    "machine_name": "gnetaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381256",
+        "legacy_id": "192",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Gnetum",
+            "machine_name": "gnetum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "gnetaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gnetum [Cultivars]",
+                    "machine_name": "gnetum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gnetum",
+                    "family": "gnetaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394134",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gnetum urens",
+                    "machine_name": "gnetum_urens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "gnetum",
+                    "family": "gnetaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404291",
+                        "legacy_id": "17018",
+                        "fgsid": "144441",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gnetum gnemon",
+                    "machine_name": "gnetum_gnemon",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "gnetum",
+                    "family": "gnetaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412701",
+                        "legacy_id": "6747",
+                        "fgsid": "16627",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gnetum leyboldii",
+                    "machine_name": "gnetum_leyboldii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Tul.",
+                    "description": null,
+                    "genus": "gnetum",
+                    "family": "gnetaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412702",
+                        "legacy_id": "9222",
+                        "fgsid": "16628",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gnetum montanum",
+                    "machine_name": "gnetum_montanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Markgraf.",
+                    "description": null,
+                    "genus": "gnetum",
+                    "family": "gnetaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412703",
+                        "legacy_id": "10694",
+                        "fgsid": "16629",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394133",
+                "legacy_id": "2471",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

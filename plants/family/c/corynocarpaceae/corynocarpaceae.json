@@ -1,0 +1,170 @@
+{
+    "name": "Corynocarpaceae",
+    "machine_name": "corynocarpaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381202",
+        "legacy_id": "118",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Corynocarpus",
+            "machine_name": "corynocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forster & Forster.",
+            "description": null,
+            "family": "corynocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Corynocarpus [Cultivars]",
+                    "machine_name": "corynocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "corynocarpus",
+                    "family": "corynocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386890",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Corynocarpus laevigatus",
+                    "machine_name": "corynocarpus_laevigatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Forster & Forster.",
+                    "description": null,
+                    "genus": "corynocarpus",
+                    "family": "corynocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Corynocarpus laevigatus 'Gold Heart'",
+                            "machine_name": "corynocarpus_laevigatus_gold_heart",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Heart",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corynocarpus_laevigatus",
+                            "genus": "corynocarpus",
+                            "family": "corynocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471292",
+                                "legacy_id": "5513",
+                                "fgsid": "8941",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Corynocarpus laevigatus 'Variegata'",
+                            "machine_name": "corynocarpus_laevigatus_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corynocarpus_laevigatus",
+                            "genus": "corynocarpus",
+                            "family": "corynocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660157",
+                                "legacy_id": "272836",
+                                "fgsid": "8941",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Corynocarpus laevigatus 'Aureus'",
+                            "machine_name": "corynocarpus_laevigatus_aureus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aureus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corynocarpus_laevigatus",
+                            "genus": "corynocarpus",
+                            "family": "corynocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2378626",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1537626572"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406399",
+                        "legacy_id": "8762",
+                        "fgsid": "8941",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386889",
+                "legacy_id": "1514",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

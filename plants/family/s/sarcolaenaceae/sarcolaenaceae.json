@@ -1,0 +1,247 @@
+{
+    "name": "Sarcolaenaceae",
+    "machine_name": "sarcolaenaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381392",
+        "legacy_id": "374",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Sarcolaena",
+            "machine_name": "sarcolaena",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Thouars.",
+            "description": null,
+            "family": "sarcolaenaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sarcolaena [Cultivars]",
+                    "machine_name": "sarcolaena_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sarcolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386638",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sarcolaena oblongifolia",
+                    "machine_name": "sarcolaena_oblongifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Gerard.",
+                    "description": null,
+                    "genus": "sarcolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444762",
+                        "legacy_id": "11428",
+                        "fgsid": "45769",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sarcolaena multiflora",
+                    "machine_name": "sarcolaena_multiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Thou.",
+                    "description": null,
+                    "genus": "sarcolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444763",
+                        "legacy_id": "10834",
+                        "fgsid": "45770",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386637",
+                "legacy_id": "4935",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Leptolaena",
+            "machine_name": "leptolaena",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Thouars.",
+            "description": null,
+            "family": "sarcolaenaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Leptolaena [Cultivars]",
+                    "machine_name": "leptolaena_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "leptolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331516",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528466457"
+                    }
+                },
+                {
+                    "name": "Leptolaena bojeriana",
+                    "machine_name": "leptolaena_bojeriana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cavaco.",
+                    "description": null,
+                    "genus": "leptolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331521",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528466495"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331511",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528466457"
+            }
+        },
+        {
+            "name": "Xyloolaena",
+            "machine_name": "xyloolaena",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "sarcolaenaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Xyloolaena [Cultivars]",
+                    "machine_name": "xyloolaena_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xyloolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331531",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528466605"
+                    }
+                },
+                {
+                    "name": "Xyloolaena perrieri",
+                    "machine_name": "xyloolaena_perrieri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "F. Gerard.",
+                    "description": null,
+                    "genus": "xyloolaena",
+                    "family": "sarcolaenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331536",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528466638"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331526",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528466605"
+            }
+        }
+    ]
+}

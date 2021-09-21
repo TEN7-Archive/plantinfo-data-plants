@@ -1,0 +1,1595 @@
+{
+    "name": "Altingiaceae",
+    "machine_name": "altingiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Horan.",
+    "description": null,
+    "archival_data": {
+        "id": "2318136",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526150797"
+    },
+    "genus_items": [
+        {
+            "name": "Liquidambar",
+            "machine_name": "liquidambar",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "altingiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Liquidambar formosana",
+                    "machine_name": "liquidambar_formosana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hance.",
+                    "description": null,
+                    "genus": "liquidambar",
+                    "family": "altingiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Liquidambar formosana 'Afterglow'",
+                            "machine_name": "liquidambar_formosana_afterglow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Afterglow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_formosana",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1560634",
+                                "legacy_id": "169760",
+                                "fgsid": "21131",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar formosana 'Monticola'",
+                            "machine_name": "liquidambar_formosana_monticola",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Monticola",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_formosana",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578391",
+                                "legacy_id": "202436",
+                                "fgsid": "21131",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418457",
+                        "legacy_id": "6166",
+                        "fgsid": "21131",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Liquidambar orientalis",
+                    "machine_name": "liquidambar_orientalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Mill.",
+                    "description": null,
+                    "genus": "liquidambar",
+                    "family": "altingiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418458",
+                        "legacy_id": "11720",
+                        "fgsid": "21132",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Liquidambar styraciflua",
+                    "machine_name": "liquidambar_styraciflua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "liquidambar",
+                    "family": "altingiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Liquidambar styraciflua 'Aurea'",
+                            "machine_name": "liquidambar_styraciflua_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": "Royal.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479623",
+                                "legacy_id": "17644",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Corky'",
+                            "machine_name": "liquidambar_styraciflua_corky",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Corky",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479624",
+                                "legacy_id": "17645",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Lane Roberts'",
+                            "machine_name": "liquidambar_styraciflua_lane_roberts",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lane Roberts",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479625",
+                                "legacy_id": "17646",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Palo Alto'",
+                            "machine_name": "liquidambar_styraciflua_palo_alto",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Palo Alto",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479626",
+                                "legacy_id": "17647",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Rotundiloba'",
+                            "machine_name": "liquidambar_styraciflua_rotundiloba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rotundiloba",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479627",
+                                "legacy_id": "17648",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Silver King'",
+                            "machine_name": "liquidambar_styraciflua_silver_king",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silver King",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479628",
+                                "legacy_id": "17649",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Variegata'",
+                            "machine_name": "liquidambar_styraciflua_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479629",
+                                "legacy_id": "17650",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Albo-marginata'",
+                            "machine_name": "liquidambar_styraciflua_albo_marginata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albo-marginata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515161",
+                                "legacy_id": "90854",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua Burgundy \u2122",
+                            "machine_name": "liquidambar_styraciflua_burgundy",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Burgundy",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515162",
+                                "legacy_id": "90855",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Festival'",
+                            "machine_name": "liquidambar_styraciflua_festival",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Festival",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr has as cv.",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr has as cv.",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515163",
+                                "legacy_id": "90856",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua Gold Dust \u00ae",
+                            "machine_name": "liquidambar_styraciflua_gold_dust",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Gold Dust",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr has as registered",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr has as registered",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515164",
+                                "legacy_id": "90857",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Gold Star'",
+                            "machine_name": "liquidambar_styraciflua_gold_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Star",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515165",
+                                "legacy_id": "90858",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Golden Treasure'",
+                            "machine_name": "liquidambar_styraciflua_golden_treasure",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Treasure",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515166",
+                                "legacy_id": "90859",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Gumball'",
+                            "machine_name": "liquidambar_styraciflua_gumball",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gumball",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515167",
+                                "legacy_id": "90860",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Lollipop'",
+                            "machine_name": "liquidambar_styraciflua_lollipop",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lollipop",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515168",
+                                "legacy_id": "90861",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Moraine'",
+                            "machine_name": "liquidambar_styraciflua_moraine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Moraine",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515169",
+                                "legacy_id": "90862",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Pendula'",
+                            "machine_name": "liquidambar_styraciflua_pendula",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendula",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515170",
+                                "legacy_id": "90863",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Pieces of Eight'",
+                            "machine_name": "liquidambar_styraciflua_pieces_of_eight",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pieces of Eight",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515171",
+                                "legacy_id": "90864",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Worplesdon'",
+                            "machine_name": "liquidambar_styraciflua_worplesdon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Worplesdon",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1515172",
+                                "legacy_id": "90865",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Plattsburg'",
+                            "machine_name": "liquidambar_styraciflua_plattsburg",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Plattsburg",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537209",
+                                "legacy_id": "115791",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Cherokee'",
+                            "machine_name": "liquidambar_styraciflua_cherokee",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cherokee",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr has as cv",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr has as cv",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537630",
+                                "legacy_id": "112362",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Parasol'",
+                            "machine_name": "liquidambar_styraciflua_parasol",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Parasol",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546352",
+                                "legacy_id": "121854",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua Grandmaster \u2122",
+                            "machine_name": "liquidambar_styraciflua_grandmaster",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Grandmaster",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546829",
+                                "legacy_id": "124347",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua Emerald Sentinel \u2122",
+                            "machine_name": "liquidambar_styraciflua_emerald_sentinel",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Emerald Sentinel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1552197",
+                                "legacy_id": "147842",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Oconee'",
+                            "machine_name": "liquidambar_styraciflua_oconee",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Oconee",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557600",
+                                "legacy_id": "154230",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua Happidaze \u2122",
+                            "machine_name": "liquidambar_styraciflua_happidaze",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Happidaze",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1558579",
+                                "legacy_id": "148427",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Aurora'",
+                            "machine_name": "liquidambar_styraciflua_aurora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurora",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1564567",
+                                "legacy_id": "158032",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Jubdell'",
+                            "machine_name": "liquidambar_styraciflua_jubdell",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jubdell",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574893",
+                                "legacy_id": "197499",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Moonbeam'",
+                            "machine_name": "liquidambar_styraciflua_moonbeam",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Moonbeam",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578392",
+                                "legacy_id": "202437",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Fastigiata'",
+                            "machine_name": "liquidambar_styraciflua_fastigiata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fastigiata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582488",
+                                "legacy_id": "210555",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Variegata Aurea'",
+                            "machine_name": "liquidambar_styraciflua_variegata_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata Aurea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585687",
+                                "legacy_id": "220826",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua Gold Beacon \u00ae",
+                            "machine_name": "liquidambar_styraciflua_gold_beacon",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Gold Beacon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1595733",
+                                "legacy_id": "363476",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Brotzman'",
+                            "machine_name": "liquidambar_styraciflua_brotzman",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brotzman",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1611191",
+                                "legacy_id": "379100",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Slender Silhouette'",
+                            "machine_name": "liquidambar_styraciflua_slender_silhouette",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Slender Silhouette",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616888",
+                                "legacy_id": "237014",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Sun Spot'",
+                            "machine_name": "liquidambar_styraciflua_sun_spot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sun Spot",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1617358",
+                                "legacy_id": "348898",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Ward'",
+                            "machine_name": "liquidambar_styraciflua_ward",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ward",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622773",
+                                "legacy_id": "374685",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Kia'",
+                            "machine_name": "liquidambar_styraciflua_kia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622944",
+                                "legacy_id": "368562",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Andrew Hewson'",
+                            "machine_name": "liquidambar_styraciflua_andrew_hewson",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Andrew Hewson",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622945",
+                                "legacy_id": "368563",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Goldmember'",
+                            "machine_name": "liquidambar_styraciflua_goldmember",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goldmember",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622946",
+                                "legacy_id": "368564",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Stared'",
+                            "machine_name": "liquidambar_styraciflua_stared",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Stared",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626592",
+                                "legacy_id": "358248",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'White Star'",
+                            "machine_name": "liquidambar_styraciflua_white_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "White Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1630920",
+                                "legacy_id": "248871",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Clyde's Form'",
+                            "machine_name": "liquidambar_styraciflua_clyde_s_form",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Clyde's Form",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634052",
+                                "legacy_id": "307976",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Tony's Variegated'",
+                            "machine_name": "liquidambar_styraciflua_tony_s_variegated",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tony's Variegated",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1637425",
+                                "legacy_id": "335780",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Frosty'",
+                            "machine_name": "liquidambar_styraciflua_frosty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frosty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647832",
+                                "legacy_id": "372601",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Anja'",
+                            "machine_name": "liquidambar_styraciflua_anja",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Anja",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1653507",
+                                "legacy_id": "368560",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Rotundifolia'",
+                            "machine_name": "liquidambar_styraciflua_rotundifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rotundifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655448",
+                                "legacy_id": "368561",
+                                "fgsid": "21133",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Liquidambar styraciflua 'Penwood'",
+                            "machine_name": "liquidambar_styraciflua_penwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Penwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_styraciflua",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2191016",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1515155220"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418459",
+                        "legacy_id": "15704",
+                        "fgsid": "21133",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Liquidambar acalycina",
+                    "machine_name": "liquidambar_acalycina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Chang.",
+                    "description": null,
+                    "genus": "liquidambar",
+                    "family": "altingiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Liquidambar acalycina 'Burgundy Flush'",
+                            "machine_name": "liquidambar_acalycina_burgundy_flush",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Burgundy Flush",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_acalycina",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581942",
+                                "legacy_id": "213001",
+                                "fgsid": "40391",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434984",
+                        "legacy_id": "18866",
+                        "fgsid": "40391",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Liquidambar [Cultivars]",
+                    "machine_name": "liquidambar_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "liquidambar",
+                    "family": "altingiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Liquidambar [Cultivars] 'Burgundy Blush'",
+                            "machine_name": "liquidambar_cultivars_burgundy_blush",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Burgundy Blush",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "liquidambar_cultivars",
+                            "genus": "liquidambar",
+                            "family": "altingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1668893",
+                                "legacy_id": "404109",
+                                "fgsid": "152879",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461933",
+                        "legacy_id": "2",
+                        "fgsid": "152879",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387165",
+                "legacy_id": "3268",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

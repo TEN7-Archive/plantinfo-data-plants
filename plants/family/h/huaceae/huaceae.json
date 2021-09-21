@@ -1,0 +1,85 @@
+{
+    "name": "Huaceae",
+    "machine_name": "huaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "A. Chev.",
+    "description": null,
+    "archival_data": {
+        "id": "2321966",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526818029"
+    },
+    "genus_items": [
+        {
+            "name": "Afrostyrax",
+            "machine_name": "afrostyrax",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Perkins & Gilg.",
+            "description": null,
+            "family": "huaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Afrostyrax [Cultivars]",
+                    "machine_name": "afrostyrax_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "afrostyrax",
+                    "family": "huaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526818092"
+                    }
+                },
+                {
+                    "name": "Afrostyrax lepidophyllus",
+                    "machine_name": "afrostyrax_lepidophyllus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mildbr.",
+                    "description": null,
+                    "genus": "afrostyrax",
+                    "family": "huaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321981",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526818138"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2321971",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526818092"
+            }
+        }
+    ]
+}

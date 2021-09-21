@@ -1,0 +1,4330 @@
+{
+    "name": "Podocarpaceae",
+    "machine_name": "podocarpaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381362",
+        "legacy_id": "336",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Phyllocladus",
+            "machine_name": "phyllocladus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Rich. & Mirbel.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phyllocladus [Cultivars]",
+                    "machine_name": "phyllocladus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382286",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Phyllocladus alpinus",
+                    "machine_name": "phyllocladus_alpinus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Royal.",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424119",
+                        "legacy_id": "546",
+                        "fgsid": "27071",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Phyllocladus asplenifolius",
+                    "machine_name": "phyllocladus_asplenifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424120",
+                        "legacy_id": "1262",
+                        "fgsid": "27072",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Phyllocladus glaucus",
+                    "machine_name": "phyllocladus_glaucus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Carr.",
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424121",
+                        "legacy_id": "6674",
+                        "fgsid": "27073",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Phyllocladus trichomanoides",
+                    "machine_name": "phyllocladus_trichomanoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Phyllocladus trichomanoides 'Highland Lass'",
+                            "machine_name": "phyllocladus_trichomanoides_highland_lass",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Highland Lass",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phyllocladus_trichomanoides",
+                            "genus": "phyllocladus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2461276",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1550148785"
+                            }
+                        },
+                        {
+                            "name": "Phyllocladus trichomanoides 'Highlander'",
+                            "machine_name": "phyllocladus_trichomanoides_highlander",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Highlander",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phyllocladus_trichomanoides",
+                            "genus": "phyllocladus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2461281",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1550148841"
+                            }
+                        },
+                        {
+                            "name": "Phyllocladus trichomanoides alpinus",
+                            "machine_name": "phyllocladus_trichomanoides_alpinus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "alpinus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "phyllocladus_trichomanoides",
+                            "genus": "phyllocladus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2461286",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1550148906"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424122",
+                        "legacy_id": "16620",
+                        "fgsid": "27074",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Phyllocladus hypophyllus",
+                    "machine_name": "phyllocladus_hypophyllus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459179",
+                        "legacy_id": "80029",
+                        "fgsid": "139307",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Phyllocladus toatoa",
+                    "machine_name": "phyllocladus_toatoa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Molloy.",
+                    "description": null,
+                    "genus": "phyllocladus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2443611",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1548854042"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382285",
+                "legacy_id": "4337",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Podocarpus",
+            "machine_name": "podocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L'Her. & Pers.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Podocarpus andinus",
+                    "machine_name": "podocarpus_andinus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal not Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427111",
+                        "legacy_id": "752",
+                        "fgsid": "27835",
+                        "legacy_from_data_cross_ref": [
+                            "+Sunacarpus amarus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus costalis",
+                    "machine_name": "podocarpus_costalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Presl.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427112",
+                        "legacy_id": "4083",
+                        "fgsid": "27836",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus elatus",
+                    "machine_name": "podocarpus_elatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "R. Br. & Endl.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427113",
+                        "legacy_id": "5338",
+                        "fgsid": "27837",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus falcatus",
+                    "machine_name": "podocarpus_falcatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "afrocarpus_falcata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1427114",
+                        "legacy_id": "5775",
+                        "fgsid": "27838",
+                        "legacy_from_data_cross_ref": [
+                            "+Afrocarpus falcata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus gracilior",
+                    "machine_name": "podocarpus_gracilior",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pilg.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "afrocarpus_gracilior",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1427115",
+                        "legacy_id": "6826",
+                        "fgsid": "27839",
+                        "legacy_from_data_cross_ref": [
+                            "Afrocarpus gracilior"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus henkelii",
+                    "machine_name": "podocarpus_henkelii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Stapf.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427116",
+                        "legacy_id": "7340",
+                        "fgsid": "27840",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus imbricatus",
+                    "machine_name": "podocarpus_imbricatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "dacrycarpus_imbricatus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1427117",
+                        "legacy_id": "7928",
+                        "fgsid": "27841",
+                        "legacy_from_data_cross_ref": [
+                            "+Dacrycarpus imbricatus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus latifolius",
+                    "machine_name": "podocarpus_latifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "R. Br. & Mirb.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427118",
+                        "legacy_id": "8940",
+                        "fgsid": "27842",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus lawrencei",
+                    "machine_name": "podocarpus_lawrencei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis II",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus lawrencei 'Purple King'",
+                            "machine_name": "podocarpus_lawrencei_purple_king",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Purple King",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_lawrencei",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545822",
+                                "legacy_id": "119228",
+                                "fgsid": "27843",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus lawrencei 'Blue Gem'",
+                            "machine_name": "podocarpus_lawrencei_blue_gem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blue Gem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_lawrencei",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572533",
+                                "legacy_id": "191716",
+                                "fgsid": "41914",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus lawrencei 'Red Tip'",
+                            "machine_name": "podocarpus_lawrencei_red_tip",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Tip",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_lawrencei",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572534",
+                                "legacy_id": "191717",
+                                "fgsid": "41914",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus lawrencei 'Really Blue'",
+                            "machine_name": "podocarpus_lawrencei_really_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Really Blue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_lawrencei",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476711",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100433"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427119",
+                        "legacy_id": "8986",
+                        "fgsid": "27843",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus macrophyllus",
+                    "machine_name": "podocarpus_macrophyllus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus macrophyllus angustifolius",
+                            "machine_name": "podocarpus_macrophyllus_angustifolius",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "angustifolius",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486615",
+                                "legacy_id": "24384",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Maki'",
+                            "machine_name": "podocarpus_macrophyllus_maki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maki",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486616",
+                                "legacy_id": "24385",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Albo-marginatus'",
+                            "machine_name": "podocarpus_macrophyllus_albo_marginatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albo-marginatus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518960",
+                                "legacy_id": "96574",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Nana'",
+                            "machine_name": "podocarpus_macrophyllus_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518961",
+                                "legacy_id": "96575",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Spreading'",
+                            "machine_name": "podocarpus_macrophyllus_spreading",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spreading",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518962",
+                                "legacy_id": "96576",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Variegatus'",
+                            "machine_name": "podocarpus_macrophyllus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegatus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518963",
+                                "legacy_id": "96577",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Okina'",
+                            "machine_name": "podocarpus_macrophyllus_okina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Okina",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1592507",
+                                "legacy_id": "317875",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus 'Sekka'",
+                            "machine_name": "podocarpus_macrophyllus_sekka",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sekka",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1592732",
+                                "legacy_id": "317876",
+                                "fgsid": "27844",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus macrophyllus Mood Ring \u2122",
+                            "machine_name": "podocarpus_macrophyllus_mood_ring",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Mood Ring",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "podocarpus_macrophyllus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2564931",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1569413565"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427120",
+                        "legacy_id": "9802",
+                        "fgsid": "27844",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus milanjianus",
+                    "machine_name": "podocarpus_milanjianus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427121",
+                        "legacy_id": "10483",
+                        "fgsid": "27845",
+                        "legacy_from_data_cross_ref": [
+                            "+P. latifolus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus nagi",
+                    "machine_name": "podocarpus_nagi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal not Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427122",
+                        "legacy_id": "10975",
+                        "fgsid": "27846",
+                        "legacy_from_data_cross_ref": [
+                            "+Nageia nagi"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus nankoensis",
+                    "machine_name": "podocarpus_nankoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "Hayata.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427123",
+                        "legacy_id": "10994",
+                        "fgsid": "27847",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus neriifolius",
+                    "machine_name": "podocarpus_neriifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427124",
+                        "legacy_id": "11137",
+                        "fgsid": "27848",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus nivalis",
+                    "machine_name": "podocarpus_nivalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus nivalis 'Jack's Pass'",
+                            "machine_name": "podocarpus_nivalis_jack_s_pass",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jack's Pass",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1553125",
+                                "legacy_id": "127204",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Kilworth Cream'",
+                            "machine_name": "podocarpus_nivalis_kilworth_cream",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kilworth Cream",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1569154",
+                                "legacy_id": "172756",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Kralingen'",
+                            "machine_name": "podocarpus_nivalis_kralingen",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kralingen",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572535",
+                                "legacy_id": "191718",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Pink Tip'",
+                            "machine_name": "podocarpus_nivalis_pink_tip",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Tip",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572536",
+                                "legacy_id": "191719",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Rockery Gem'",
+                            "machine_name": "podocarpus_nivalis_rockery_gem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rockery Gem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572537",
+                                "legacy_id": "191720",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Trompenburg'",
+                            "machine_name": "podocarpus_nivalis_trompenburg",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Trompenburg",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572538",
+                                "legacy_id": "191721",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Christmas Lights'",
+                            "machine_name": "podocarpus_nivalis_christmas_lights",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Christmas Lights",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1656359",
+                                "legacy_id": "269557",
+                                "fgsid": "27849",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Otari'",
+                            "machine_name": "podocarpus_nivalis_otari",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Otari",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2270631",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1520855692"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Bronze'",
+                            "machine_name": "podocarpus_nivalis_bronze",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bronze",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476811",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100822"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Clarence'",
+                            "machine_name": "podocarpus_nivalis_clarence",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Clarence",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476816",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100849"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Lucky Lad'",
+                            "machine_name": "podocarpus_nivalis_lucky_lad",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lucky Lad",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476821",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100874"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Maori Prince'",
+                            "machine_name": "podocarpus_nivalis_maori_prince",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maori Prince",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476826",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100897"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Tauhini'",
+                            "machine_name": "podocarpus_nivalis_tauhini",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tauhini",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476831",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551101017"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus nivalis 'Jalako Red'",
+                            "machine_name": "podocarpus_nivalis_jalako_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jalako Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_nivalis",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2617846",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585688639"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427125",
+                        "legacy_id": "11248",
+                        "fgsid": "27849",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus philippinensis",
+                    "machine_name": "podocarpus_philippinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427126",
+                        "legacy_id": "12462",
+                        "fgsid": "27850",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus polystachyos",
+                    "machine_name": "podocarpus_polystachyos",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427127",
+                        "legacy_id": "12872",
+                        "fgsid": "27851",
+                        "legacy_from_data_cross_ref": [
+                            "+P. neriifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus rumphii",
+                    "machine_name": "podocarpus_rumphii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427128",
+                        "legacy_id": "14178",
+                        "fgsid": "27852",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus salignus",
+                    "machine_name": "podocarpus_salignus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427129",
+                        "legacy_id": "14299",
+                        "fgsid": "27853",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus spinulosus",
+                    "machine_name": "podocarpus_spinulosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II",
+                    "naming_authorities": "R. Br. & Mirb.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427130",
+                        "legacy_id": "15408",
+                        "fgsid": "27854",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus totara",
+                    "machine_name": "podocarpus_totara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus totara 'Aurea'",
+                            "machine_name": "podocarpus_totara_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_totara",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545823",
+                                "legacy_id": "119229",
+                                "fgsid": "27855",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus totara 'Pendula'",
+                            "machine_name": "podocarpus_totara_pendula",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendula",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_totara",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548526",
+                                "legacy_id": "123613",
+                                "fgsid": "27855",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus totara 'Albany Gold'",
+                            "machine_name": "podocarpus_totara_albany_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albany Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_totara",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476836",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551101197"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427131",
+                        "legacy_id": "16513",
+                        "fgsid": "27855",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus matudae",
+                    "machine_name": "podocarpus_matudae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Lundell.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433553",
+                        "legacy_id": "10142",
+                        "fgsid": "41464",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus alpinus",
+                    "machine_name": "podocarpus_alpinus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "R. Br. & Hook.f.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435088",
+                        "legacy_id": "546",
+                        "fgsid": "41914",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus acutifolius",
+                    "machine_name": "podocarpus_acutifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "podocarpus_lawrencei",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435932",
+                        "legacy_id": "169",
+                        "fgsid": "39223",
+                        "legacy_from_data_cross_ref": [
+                            "P. lawrencei"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus chinensis",
+                    "machine_name": "podocarpus_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "podocarpus_macrophyllus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435933",
+                        "legacy_id": "3351",
+                        "fgsid": "39224",
+                        "legacy_from_data_cross_ref": [
+                            "P. macrophyllus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus richei",
+                    "machine_name": "podocarpus_richei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "podocarpus_matudae",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435934",
+                        "legacy_id": "19188",
+                        "fgsid": "39225",
+                        "legacy_from_data_cross_ref": [
+                            "P. matudae"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Podocarpus nubigenus",
+                    "machine_name": "podocarpus_nubigenus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440009",
+                        "legacy_id": "19954",
+                        "fgsid": "43181",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus [Cultivars]",
+                    "machine_name": "podocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus [Cultivars] 'Country Park Fire'",
+                            "machine_name": "podocarpus_cultivars_country_park_fire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Country Park Fire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1527360",
+                                "legacy_id": "105863",
+                                "fgsid": "42656",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Young Rusty'",
+                            "machine_name": "podocarpus_cultivars_young_rusty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Young Rusty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615046",
+                                "legacy_id": "233363",
+                                "fgsid": "42656",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Pringle's Dwarf'",
+                            "machine_name": "podocarpus_cultivars_pringle_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pringle's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1630036",
+                                "legacy_id": "248397",
+                                "fgsid": "42656",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Orangeade'",
+                            "machine_name": "podocarpus_cultivars_orangeade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Orangeade",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1637429",
+                                "legacy_id": "335784",
+                                "fgsid": "42656",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Guardsman'",
+                            "machine_name": "podocarpus_cultivars_guardsman",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Guardsman",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2270641",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1520856076"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'County Park Fire'",
+                            "machine_name": "podocarpus_cultivars_county_park_fire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "County Park Fire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2270646",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1520856158"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Flame'",
+                            "machine_name": "podocarpus_cultivars_flame",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Flame",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2333251",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1528822211"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Blaze'",
+                            "machine_name": "podocarpus_cultivars_blaze",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blaze",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476716",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100490"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Chocolate Box'",
+                            "machine_name": "podocarpus_cultivars_chocolate_box",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chocolate Box",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476721",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100550"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus [Cultivars] 'Emerald Flame'",
+                            "machine_name": "podocarpus_cultivars_emerald_flame",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Emerald Flame",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cultivars",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2614616",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1584546384"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443521",
+                        "legacy_id": "2",
+                        "fgsid": "42656",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus forrestii",
+                    "machine_name": "podocarpus_forrestii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "podocarpus_macrophyllus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1444667",
+                        "legacy_id": "6180",
+                        "fgsid": "44352",
+                        "legacy_from_data_cross_ref": [
+                            "Podocarpus macrophyllus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus hallii",
+                    "machine_name": "podocarpus_hallii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "T. Kirk.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446631",
+                        "legacy_id": "7124",
+                        "fgsid": "85380",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus oleifolius",
+                    "machine_name": "podocarpus_oleifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "D.Don.",
+                    "description": "Varieties use P. oleifolius.  Orig. incorrectly named P. oleifolia",
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448130",
+                        "legacy_id": "50043",
+                        "fgsid": "92375",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus elongatus",
+                    "machine_name": "podocarpus_elongatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "L'Herit. & Pers.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus elongatus Icee Blue \u00ae",
+                            "machine_name": "podocarpus_elongatus_icee_blue",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Icee Blue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "podocarpus_elongatus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586976",
+                                "legacy_id": "216808",
+                                "fgsid": "82776",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus elongatus 'Blue Chip'",
+                            "machine_name": "podocarpus_elongatus_blue_chip",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blue Chip",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_elongatus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1645430",
+                                "legacy_id": "258445",
+                                "fgsid": "82776",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Podocarpus elongatus 'Monmal'",
+                            "machine_name": "podocarpus_elongatus_monmal",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Monmal",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_elongatus",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476706",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100287"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450142",
+                        "legacy_id": "5391",
+                        "fgsid": "82776",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus cunninghamii",
+                    "machine_name": "podocarpus_cunninghamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Colenso.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Podocarpus cunninghamii 'Roro'",
+                            "machine_name": "podocarpus_cunninghamii_roro",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roro",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "podocarpus_cunninghamii",
+                            "genus": "podocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2476696",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551100110"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458784",
+                        "legacy_id": "4323",
+                        "fgsid": "137529",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus parlatorei",
+                    "machine_name": "podocarpus_parlatorei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pilg.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460817",
+                        "legacy_id": "81466",
+                        "fgsid": "141206",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Podocarpus laetus",
+                    "machine_name": "podocarpus_laetus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hooibr. & Endl.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2270636",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1520856015"
+                    }
+                },
+                {
+                    "name": "Podocarpus dispermus",
+                    "machine_name": "podocarpus_dispermus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.T. White.",
+                    "description": null,
+                    "genus": "podocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2476701",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551100211"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383141",
+                "legacy_id": "4451",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nageia",
+            "machine_name": "nageia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Gaertn.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nageia [Cultivars]",
+                    "machine_name": "nageia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nageia",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383290",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nageia nagi",
+                    "machine_name": "nageia_nagi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Kuntze.",
+                    "description": null,
+                    "genus": "nageia",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438246",
+                        "legacy_id": "10975",
+                        "fgsid": "41224",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Nageia fleuryi",
+                    "machine_name": "nageia_fleuryi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "de Laub.",
+                    "description": null,
+                    "genus": "nageia",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457913",
+                        "legacy_id": "65265",
+                        "fgsid": "137527",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383289",
+                "legacy_id": "6204",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Prumnopitys",
+            "machine_name": "prumnopitys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Philipps.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Prumnopitys [Cultivars]",
+                    "machine_name": "prumnopitys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "prumnopitys",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383990",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Prumnopitys andina",
+                    "machine_name": "prumnopitys_andina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Laub.",
+                    "description": null,
+                    "genus": "prumnopitys",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Prumnopitys andina 'Blijdensteinii'",
+                            "machine_name": "prumnopitys_andina_blijdensteinii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blijdensteinii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "prumnopitys_andina",
+                            "genus": "prumnopitys",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647502",
+                                "legacy_id": "365937",
+                                "fgsid": "28710",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425022",
+                        "legacy_id": "750",
+                        "fgsid": "28710",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Prumnopitys ferruginea",
+                    "machine_name": "prumnopitys_ferruginea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis 17",
+                    "naming_authorities": "Laub.",
+                    "description": null,
+                    "genus": "prumnopitys",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425023",
+                        "legacy_id": "5880",
+                        "fgsid": "28711",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Prumnopitys taxifolia",
+                    "machine_name": "prumnopitys_taxifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis 17",
+                    "naming_authorities": "Laub.",
+                    "description": null,
+                    "genus": "prumnopitys",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425024",
+                        "legacy_id": "16100",
+                        "fgsid": "28712",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383989",
+                "legacy_id": "4559",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lagarostrobos",
+            "machine_name": "lagarostrobos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Quinn.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lagarostrobus [Cultivars]",
+                    "machine_name": "lagarostrobus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lagarostrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Lagarostrobus franklinii",
+                    "machine_name": "lagarostrobus_franklinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "lagarostrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Lagarostrobus franklinii 'Pendula'",
+                            "machine_name": "lagarostrobus_franklinii_pendula",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendula",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lagarostrobus_franklinii",
+                            "genus": "lagarostrobos",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538334",
+                                "legacy_id": "113780",
+                                "fgsid": "20159",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420641",
+                        "legacy_id": "6242",
+                        "fgsid": "20159",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Lagarostrobos colensoi",
+                    "machine_name": "lagarostrobos_colensoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "lagarostrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2451086",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549637378"
+                    }
+                },
+                {
+                    "name": "Lagarostrobos franklinii",
+                    "machine_name": "lagarostrobos_franklinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "lagarostrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Lagarostrobos franklinii 'Pendulum'",
+                            "machine_name": "lagarostrobos_franklinii_pendulum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendulum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lagarostrobos_franklinii",
+                            "genus": "lagarostrobos",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2460571",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1550075529"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2460566",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1550075486"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385495",
+                "legacy_id": "3075",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Falcatifolium",
+            "machine_name": "falcatifolium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Laubenf.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Falcatifolium [Cultivars]",
+                    "machine_name": "falcatifolium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "falcatifolium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385942",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Falcatifolium taxoides",
+                    "machine_name": "falcatifolium_taxoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis",
+                    "naming_authorities": "de Laub.",
+                    "description": null,
+                    "genus": "falcatifolium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444016",
+                        "legacy_id": "20816",
+                        "fgsid": "45566",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385941",
+                "legacy_id": "9335",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lepidothamnus",
+            "machine_name": "lepidothamnus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Philippi.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lepidothamnus [Cultivars]",
+                    "machine_name": "lepidothamnus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lepidothamnus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386338",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lepidothamnus laxifolius",
+                    "machine_name": "lepidothamnus_laxifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort not Ma",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "lepidothamnus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416212",
+                        "legacy_id": "8998",
+                        "fgsid": "20579",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lepidothamnus fonkii",
+                    "machine_name": "lepidothamnus_fonkii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Phil.",
+                    "description": null,
+                    "genus": "lepidothamnus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2444391",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1548868244"
+                    }
+                },
+                {
+                    "name": "Lepidothamnus intermedius",
+                    "machine_name": "lepidothamnus_intermedius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "lepidothamnus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2451091",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549637484"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386337",
+                "legacy_id": "3180",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Halocarpus",
+            "machine_name": "halocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Quinn.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Halocarpus [Cultivars]",
+                    "machine_name": "halocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "halocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386736",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Halocarpus bidwillii",
+                    "machine_name": "halocarpus_bidwillii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "halocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444441",
+                        "legacy_id": "1903",
+                        "fgsid": "45720",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Halocarpus biformis",
+                    "machine_name": "halocarpus_biformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "halocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379041",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537706062"
+                    }
+                },
+                {
+                    "name": "Halocarpus kirkii",
+                    "machine_name": "halocarpus_kirkii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Quinn.",
+                    "description": null,
+                    "genus": "halocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379046",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537706139"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386735",
+                "legacy_id": "8993",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Saxegothaea",
+            "machine_name": "saxegothaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lindl.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Saxegothaea [Cultivars]",
+                    "machine_name": "saxegothaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "saxegothaea",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387336",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Saxegothaea conspicua",
+                    "machine_name": "saxegothaea_conspicua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "saxegothaea",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431417",
+                        "legacy_id": "3901",
+                        "fgsid": "31845",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387335",
+                "legacy_id": "4958",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dacrycarpus",
+            "machine_name": "dacrycarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Laubenf.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dacrycarpus [Cultivars]",
+                    "machine_name": "dacrycarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dacrycarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387890",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dacrycarpus dacrydioides",
+                    "machine_name": "dacrycarpus_dacrydioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Laubenf.",
+                    "description": null,
+                    "genus": "dacrycarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404632",
+                        "legacy_id": "4490",
+                        "fgsid": "10070",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrycarpus imbricatus",
+                    "machine_name": "dacrycarpus_imbricatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Laub.",
+                    "description": null,
+                    "genus": "dacrycarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404633",
+                        "legacy_id": "7928",
+                        "fgsid": "10071",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387889",
+                "legacy_id": "1695",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dacrydium",
+            "machine_name": "dacrydium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lambert.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dacrydium [Cultivars]",
+                    "machine_name": "dacrydium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387892",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dacrydium arusutiensis",
+                    "machine_name": "dacrydium_arusutiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404634",
+                        "legacy_id": "71795",
+                        "fgsid": "10072",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrydium biforme",
+                    "machine_name": "dacrydium_biforme",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Pilg.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404635",
+                        "legacy_id": "1923",
+                        "fgsid": "10073",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrydium cupressinum",
+                    "machine_name": "dacrydium_cupressinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Sol. & Lambert.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404636",
+                        "legacy_id": "4337",
+                        "fgsid": "10074",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrydium franklinii",
+                    "machine_name": "dacrydium_franklinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Dacrydium franklinii 'Pendulum'",
+                            "machine_name": "dacrydium_franklinii_pendulum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendulum",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "dacrydium_franklinii",
+                            "genus": "dacrydium",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471654",
+                                "legacy_id": "6780",
+                                "fgsid": "10075",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "lagarostrobus_franklinii",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1404637",
+                        "legacy_id": "6242",
+                        "fgsid": "10075",
+                        "legacy_from_data_cross_ref": [
+                            "Lagarostrobus franklinii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrydium kirkii",
+                    "machine_name": "dacrydium_kirkii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell. & Parl.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404638",
+                        "legacy_id": "8533",
+                        "fgsid": "10076",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrydium laxifolium",
+                    "machine_name": "dacrydium_laxifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "lepidothamnus_laxifolius",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1404639",
+                        "legacy_id": "8997",
+                        "fgsid": "10077",
+                        "legacy_from_data_cross_ref": [
+                            "Lepidothamnus laxifolius"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dacrydium guillauminii",
+                    "machine_name": "dacrydium_guillauminii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "Buchholz.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444116",
+                        "legacy_id": "27863",
+                        "fgsid": "56915",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dacrydium colensoi",
+                    "machine_name": "dacrydium_colensoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": null,
+                    "description": "basionym of: Manoao colensoi",
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "manoao_colensoi",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1445548",
+                        "legacy_id": "3704",
+                        "fgsid": "84157",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dacrydium elatum",
+                    "machine_name": "dacrydium_elatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Wall. & Hook.",
+                    "description": null,
+                    "genus": "dacrydium",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2585361",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1576594708"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387891",
+                "legacy_id": "1696",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Acmopyle",
+            "machine_name": "acmopyle",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Pilger.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Acmopyle [Cultivars]",
+                    "machine_name": "acmopyle_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acmopyle",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388536",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Acmopyle pancheri",
+                    "machine_name": "acmopyle_pancheri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Pilger.",
+                    "description": null,
+                    "genus": "acmopyle",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398196",
+                        "legacy_id": "11958",
+                        "fgsid": "826",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Acmopyle sahniana",
+                    "machine_name": "acmopyle_sahniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "J. Buchholz & N.E. Gray.",
+                    "description": null,
+                    "genus": "acmopyle",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2456101",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549900454"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388535",
+                "legacy_id": "63",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Microcachrys",
+            "machine_name": "microcachrys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Microcachrys [Cultivars]",
+                    "machine_name": "microcachrys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "microcachrys",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389076",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Microcachrys tetragona",
+                    "machine_name": "microcachrys_tetragona",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "microcachrys",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420103",
+                        "legacy_id": "16252",
+                        "fgsid": "23052",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389075",
+                "legacy_id": "3573",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Afrocarpus",
+            "machine_name": "afrocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Page.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Afrocarpus [Cultivars]",
+                    "machine_name": "afrocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "afrocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389378",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Afrocarpus falcata",
+                    "machine_name": "afrocarpus_falcata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Page.",
+                    "description": null,
+                    "genus": "afrocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400566",
+                        "legacy_id": "5771",
+                        "fgsid": "1433",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Afrocarpus gracilior",
+                    "machine_name": "afrocarpus_gracilior",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Page.",
+                    "description": null,
+                    "genus": "afrocarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [
+                        {
+                            "name": "Afrocarpus gracilior 'Fern Clouds'",
+                            "machine_name": "afrocarpus_gracilior_fern_clouds",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fern Clouds",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "afrocarpus_gracilior",
+                            "genus": "afrocarpus",
+                            "family": "podocarpaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647638",
+                                "legacy_id": "365931",
+                                "fgsid": "41815",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434717",
+                        "legacy_id": "6826",
+                        "fgsid": "41815",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389377",
+                "legacy_id": "155",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Microstrobos",
+            "machine_name": "microstrobos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "J. Garden & John.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Microstrobos [Cultivars]",
+                    "machine_name": "microstrobos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "microstrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389786",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Microstrobos fitzgeraldii",
+                    "machine_name": "microstrobos_fitzgeraldii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Garden & Johnston.",
+                    "description": null,
+                    "genus": "microstrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420139",
+                        "legacy_id": "5999",
+                        "fgsid": "23090",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Microstrobos niphophilus",
+                    "machine_name": "microstrobos_niphophilus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Garden & Johnston.",
+                    "description": null,
+                    "genus": "microstrobos",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420140",
+                        "legacy_id": "11231",
+                        "fgsid": "23091",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389785",
+                "legacy_id": "3588",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sundacarpus",
+            "machine_name": "sundacarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Page.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sundacarpus [Cultivars]",
+                    "machine_name": "sundacarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sundacarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390076",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sundacarpus andinus",
+                    "machine_name": "sundacarpus_andinus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sundacarpus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428125",
+                        "legacy_id": "752",
+                        "fgsid": "34003",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390075",
+                "legacy_id": "5347",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Retrophyllum",
+            "machine_name": "retrophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "C.N. Page.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Retrophyllum [Cultivars]",
+                    "machine_name": "retrophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "retrophyllum",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395574",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Retrophyllum vitiensis",
+                    "machine_name": "retrophyllum_vitiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "C.N. Page.",
+                    "description": null,
+                    "genus": "retrophyllum",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461633",
+                        "legacy_id": "17474",
+                        "fgsid": "146721",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Retrophyllum minus",
+                    "machine_name": "retrophyllum_minus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.N. Page.",
+                    "description": null,
+                    "genus": "retrophyllum",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309066",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524834986"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395573",
+                "legacy_id": "28724",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Parasitaxus",
+            "machine_name": "parasitaxus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Laubenf.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Parasitaxus [Cultivars]",
+                    "machine_name": "parasitaxus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "parasitaxus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395918",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Parasitaxus ustus",
+                    "machine_name": "parasitaxus_ustus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Laubenf.",
+                    "description": null,
+                    "genus": "parasitaxus",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444115",
+                        "legacy_id": "27843",
+                        "fgsid": "56895",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395917",
+                "legacy_id": "10342",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Manoao",
+            "machine_name": "manoao",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "B.P.J.Molloy.",
+            "description": null,
+            "family": "podocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Manoao [Cultivars]",
+                    "machine_name": "manoao_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "manoao",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396490",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Manoao colensoi",
+                    "machine_name": "manoao_colensoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "B.P.J.Molloy.",
+                    "description": null,
+                    "genus": "manoao",
+                    "family": "podocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445547",
+                        "legacy_id": "3704",
+                        "fgsid": "84156",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396489",
+                "legacy_id": "14442",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

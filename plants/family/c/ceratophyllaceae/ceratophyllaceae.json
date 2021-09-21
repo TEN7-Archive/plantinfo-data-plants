@@ -1,0 +1,162 @@
+{
+    "name": "Ceratophyllaceae",
+    "machine_name": "ceratophyllaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381187",
+        "legacy_id": "94",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Ceratophyllum",
+            "machine_name": "ceratophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "ceratophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ceratophyllum [Cultivars]",
+                    "machine_name": "ceratophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ceratophyllum",
+                    "family": "ceratophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383620",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ceratophyllum demersum",
+                    "machine_name": "ceratophyllum_demersum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "ceratophyllum",
+                    "family": "ceratophyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ceratophyllum demersum demersum",
+                            "machine_name": "ceratophyllum_demersum_demersum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "demersum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "ceratophyllum_demersum",
+                            "genus": "ceratophyllum",
+                            "family": "ceratophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2257121",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1519308670"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404847",
+                        "legacy_id": "4718",
+                        "fgsid": "7062",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ceratophyllum submersum",
+                    "machine_name": "ceratophyllum_submersum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "ceratophyllum",
+                    "family": "ceratophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404848",
+                        "legacy_id": "15772",
+                        "fgsid": "7063",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ceratophyllum echinatum",
+                    "machine_name": "ceratophyllum_echinatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "ceratophyllum",
+                    "family": "ceratophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452306",
+                        "legacy_id": "5249",
+                        "fgsid": "112601",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383619",
+                "legacy_id": "1155",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

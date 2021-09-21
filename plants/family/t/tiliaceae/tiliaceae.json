@@ -1,0 +1,651 @@
+{
+    "name": "Tiliaceae",
+    "machine_name": "tiliaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381424",
+        "legacy_id": "415",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Burretiodendron",
+            "machine_name": "burretiodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Rehder.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Burretiodendron [Cultivars]",
+                    "machine_name": "burretiodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "burretiodendron",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381836",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Burretiodendron hsienmu",
+                    "machine_name": "burretiodendron_hsienmu",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": "Chun & How.",
+                    "description": null,
+                    "genus": "burretiodendron",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398527",
+                        "legacy_id": "7716",
+                        "fgsid": "5389",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381835",
+                "legacy_id": "890",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Colona",
+            "machine_name": "colona",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Ca.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Colona [Cultivars]",
+                    "machine_name": "colona_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "colona",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386052",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Colona auriculata",
+                    "machine_name": "colona_auriculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "colona",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403758",
+                        "legacy_id": "1416",
+                        "fgsid": "8304",
+                        "legacy_from_data_cross_ref": [
+                            "+Diplophractum auriculatum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Colona floribunda",
+                    "machine_name": "colona_floribunda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "colona",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403759",
+                        "legacy_id": "6083",
+                        "fgsid": "8305",
+                        "legacy_from_data_cross_ref": [
+                            "+Columbia floribunda"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Colona winteri",
+                    "machine_name": "colona_winteri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "colona",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403760",
+                        "legacy_id": "17756",
+                        "fgsid": "8306",
+                        "legacy_from_data_cross_ref": [
+                            "+Columbia winterii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386051",
+                "legacy_id": "1419",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Schoutenia",
+            "machine_name": "schoutenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Korth.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Schoutenia [Cultivars]",
+                    "machine_name": "schoutenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "schoutenia",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387438",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Schoutenia curtisii",
+                    "machine_name": "schoutenia_curtisii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": "Roekm.-Hart.",
+                    "description": null,
+                    "genus": "schoutenia",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432942",
+                        "legacy_id": "4360",
+                        "fgsid": "32239",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Schoutenia ovata",
+                    "machine_name": "schoutenia_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Korth.",
+                    "description": null,
+                    "genus": "schoutenia",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432943",
+                        "legacy_id": "11800",
+                        "fgsid": "32240",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Schoutenia peregrina",
+                    "machine_name": "schoutenia_peregrina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Craib.",
+                    "description": null,
+                    "genus": "schoutenia",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432944",
+                        "legacy_id": "12318",
+                        "fgsid": "32241",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387437",
+                "legacy_id": "5010",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dasymalla",
+            "machine_name": "dasymalla",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Endl.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dasymalla [Cultivars]",
+                    "machine_name": "dasymalla_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dasymalla",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387952",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dasymalla terminalis",
+                    "machine_name": "dasymalla_terminalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dasymalla",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405407",
+                        "legacy_id": "16217",
+                        "fgsid": "10268",
+                        "legacy_from_data_cross_ref": [
+                            "+Pityrodia racemosa"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387951",
+                "legacy_id": "1727",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Apeiba",
+            "machine_name": "apeiba",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Apeiba [Cultivars]",
+                    "machine_name": "apeiba_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "apeiba",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391194",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Apeiba echinata",
+                    "machine_name": "apeiba_echinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Gaertn.",
+                    "description": null,
+                    "genus": "apeiba",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400589",
+                        "legacy_id": "5247",
+                        "fgsid": "2832",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Apeiba glabra",
+                    "machine_name": "apeiba_glabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Aublet.",
+                    "description": null,
+                    "genus": "apeiba",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400590",
+                        "legacy_id": "6617",
+                        "fgsid": "2833",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391193",
+                "legacy_id": "395",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Berrya",
+            "machine_name": "berrya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Roxb.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Berrya [Cultivars]",
+                    "machine_name": "berrya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "berrya",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393116",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Berrya cordifolia",
+                    "machine_name": "berrya_cordifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Burret.",
+                    "description": null,
+                    "genus": "berrya",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401157",
+                        "legacy_id": "3974",
+                        "fgsid": "4486",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393115",
+                "legacy_id": "687",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Heliocarpus",
+            "machine_name": "heliocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "tiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Heliocarpus [Cultivars]",
+                    "machine_name": "heliocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "heliocarpus",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394830",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Heliocarpus attenuatus",
+                    "machine_name": "heliocarpus_attenuatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "S. Watson.",
+                    "description": null,
+                    "genus": "heliocarpus",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454888",
+                        "legacy_id": "1354",
+                        "fgsid": "118580",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Heliocarpus palmeri",
+                    "machine_name": "heliocarpus_palmeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "S. Watson.",
+                    "description": null,
+                    "genus": "heliocarpus",
+                    "family": "tiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454889",
+                        "legacy_id": "11931",
+                        "fgsid": "118581",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394829",
+                "legacy_id": "21664",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

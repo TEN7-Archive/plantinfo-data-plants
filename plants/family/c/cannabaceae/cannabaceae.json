@@ -1,0 +1,3789 @@
+{
+    "name": "Cannabaceae",
+    "machine_name": "cannabaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381175",
+        "legacy_id": "75",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cannabis",
+            "machine_name": "cannabis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cannabis [Cultivars]",
+                    "machine_name": "cannabis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cannabis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382690",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cannabis sativa",
+                    "machine_name": "cannabis_sativa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cannabis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cannabis sativa 'Chamaeleon'",
+                            "machine_name": "cannabis_sativa_chamaeleon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chamaeleon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cannabis_sativa",
+                            "genus": "cannabis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574222",
+                                "legacy_id": "189762",
+                                "fgsid": "6074",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Cannabis sativa indica",
+                            "machine_name": "cannabis_sativa_indica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "indica",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "E.Small & A.Cronquist.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "cannabis_sativa",
+                            "genus": "cannabis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580826",
+                                "legacy_id": "215816",
+                                "fgsid": "6074",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407041",
+                        "legacy_id": "14443",
+                        "fgsid": "6074",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cannabis indica",
+                    "machine_name": "cannabis_indica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Lam.",
+                    "description": "later name= C. sativa ssp. indica",
+                    "genus": "cannabis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cannabis_sativa_indica",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1447450",
+                        "legacy_id": "8004",
+                        "fgsid": "91395",
+                        "legacy_from_data_cross_ref": [
+                            "Cannabis sativa indica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382689",
+                "legacy_id": "1006",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pteroceltis",
+            "machine_name": "pteroceltis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Maxim.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pteroceltis [Cultivars]",
+                    "machine_name": "pteroceltis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pteroceltis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383386",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Pteroceltis tatarinowii",
+                    "machine_name": "pteroceltis_tatarinowii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "pteroceltis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433923",
+                        "legacy_id": "19255",
+                        "fgsid": "41563",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383385",
+                "legacy_id": "6252",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Celtis",
+            "machine_name": "celtis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Celtis africana",
+                    "machine_name": "celtis_africana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Burm.f.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404078",
+                        "legacy_id": "302",
+                        "fgsid": "6865",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis amblyphylla",
+                    "machine_name": "celtis_amblyphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404079",
+                        "legacy_id": "629",
+                        "fgsid": "6866",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis australis",
+                    "machine_name": "celtis_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404080",
+                        "legacy_id": "1443",
+                        "fgsid": "6867",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis bungeana",
+                    "machine_name": "celtis_bungeana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404081",
+                        "legacy_id": "2460",
+                        "fgsid": "6868",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis formosana",
+                    "machine_name": "celtis_formosana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Hayata.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404082",
+                        "legacy_id": "6166",
+                        "fgsid": "6869",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis jessoensis",
+                    "machine_name": "celtis_jessoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "G. Koidz.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404083",
+                        "legacy_id": "8297",
+                        "fgsid": "6870",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis laevigata",
+                    "machine_name": "celtis_laevigata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Celtis laevigata smallii",
+                            "machine_name": "celtis_laevigata_smallii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "smallii",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": "Sarg.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_laevigata",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467056",
+                                "legacy_id": "4419",
+                                "fgsid": "6871",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Celtis laevigata 'All Seasons'",
+                            "machine_name": "celtis_laevigata_all_seasons",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "All Seasons",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_laevigata",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561611",
+                                "legacy_id": "159839",
+                                "fgsid": "6871",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Celtis laevigata reticulata",
+                            "machine_name": "celtis_laevigata_reticulata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "reticulata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_laevigata",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1635414",
+                                "legacy_id": "295219",
+                                "fgsid": "6871",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404084",
+                        "legacy_id": "8762",
+                        "fgsid": "6871",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis lindheimeri",
+                    "machine_name": "celtis_lindheimeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Engelm. & C. Koch.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404085",
+                        "legacy_id": "9311",
+                        "fgsid": "6872",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis nervosa",
+                    "machine_name": "celtis_nervosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404086",
+                        "legacy_id": "11144",
+                        "fgsid": "6873",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis occidentalis",
+                    "machine_name": "celtis_occidentalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Celtis occidentalis 'Chicagoland'",
+                            "machine_name": "celtis_occidentalis_chicagoland",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chicagoland",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503124",
+                                "legacy_id": "74041",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis 'Prairie Pride'",
+                            "machine_name": "celtis_occidentalis_prairie_pride",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prairie Pride",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503125",
+                                "legacy_id": "74042",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis pumila",
+                            "machine_name": "celtis_occidentalis_pumila",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pumila",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": "Pursh.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503126",
+                                "legacy_id": "74043",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis deamii",
+                            "machine_name": "celtis_occidentalis_deamii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "deamii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1551155",
+                                "legacy_id": "142782",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis 'Oahe'",
+                            "machine_name": "celtis_occidentalis_oahe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Oahe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559578",
+                                "legacy_id": "150938",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis cordata",
+                            "machine_name": "celtis_occidentalis_cordata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cordata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576868",
+                                "legacy_id": "201726",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis Ultra \u2122",
+                            "machine_name": "celtis_occidentalis_ultra",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Ultra",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590474",
+                                "legacy_id": "320356",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis 'Windy City'",
+                            "machine_name": "celtis_occidentalis_windy_city",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Windy City",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1639937",
+                                "legacy_id": "330378",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis 'Prairie Harvest'",
+                            "machine_name": "celtis_occidentalis_prairie_harvest",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prairie Harvest",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1667356",
+                                "legacy_id": "395391",
+                                "fgsid": "6874",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Celtis occidentalis Prairie Sentinel \u00ae",
+                            "machine_name": "celtis_occidentalis_prairie_sentinel",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Prairie Sentinel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "celtis_occidentalis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2533161",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1560858287"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404087",
+                        "legacy_id": "11476",
+                        "fgsid": "6874",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis paniculata",
+                    "machine_name": "celtis_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Planch.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404088",
+                        "legacy_id": "11974",
+                        "fgsid": "6875",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis philippinensis",
+                    "machine_name": "celtis_philippinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Blanco.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404089",
+                        "legacy_id": "12462",
+                        "fgsid": "6876",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis reticulata",
+                    "machine_name": "celtis_reticulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404090",
+                        "legacy_id": "13746",
+                        "fgsid": "6877",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis sinensis",
+                    "machine_name": "celtis_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Celtis sinensis 'Pendula'",
+                            "machine_name": "celtis_sinensis_pendula",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendula",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_sinensis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548530",
+                                "legacy_id": "123617",
+                                "fgsid": "6878",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Celtis sinensis 'Green Cascade'",
+                            "machine_name": "celtis_sinensis_green_cascade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Green Cascade",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_sinensis",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1552200",
+                                "legacy_id": "147845",
+                                "fgsid": "6878",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404091",
+                        "legacy_id": "15144",
+                        "fgsid": "6878",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis tenuifolia",
+                    "machine_name": "celtis_tenuifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404092",
+                        "legacy_id": "16168",
+                        "fgsid": "6879",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis tournefortii",
+                    "machine_name": "celtis_tournefortii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404093",
+                        "legacy_id": "16517",
+                        "fgsid": "6880",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis koraiensis",
+                    "machine_name": "celtis_koraiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Nak.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434334",
+                        "legacy_id": "8612",
+                        "fgsid": "41702",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis glabrata",
+                    "machine_name": "celtis_glabrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Planch.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434377",
+                        "legacy_id": "6619",
+                        "fgsid": "37257",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis integrifolia",
+                    "machine_name": "celtis_integrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434378",
+                        "legacy_id": "8094",
+                        "fgsid": "37258",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis labilis",
+                    "machine_name": "celtis_labilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Schneid.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434381",
+                        "legacy_id": "26403",
+                        "fgsid": "37262",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis biondii",
+                    "machine_name": "celtis_biondii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Pamp.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Celtis biondii heterophylla",
+                            "machine_name": "celtis_biondii_heterophylla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "heterophylla",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": "Schneid.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_biondii",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503123",
+                                "legacy_id": "74040",
+                                "fgsid": "41825",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435001",
+                        "legacy_id": "1968",
+                        "fgsid": "41825",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis tetrandra",
+                    "machine_name": "celtis_tetrandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Roxb.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435384",
+                        "legacy_id": "16267",
+                        "fgsid": "42027",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Celtis pallida",
+                    "machine_name": "celtis_pallida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438390",
+                        "legacy_id": "11912",
+                        "fgsid": "38468",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis pumila",
+                    "machine_name": "celtis_pumila",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Celtis pumila deamii",
+                            "machine_name": "celtis_pumila_deamii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "deamii",
+                            "authorities": "MOBOT, Sarg.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "celtis_pumila",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1625352",
+                                "legacy_id": "357130",
+                                "fgsid": "38469",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "celtis_occidentalis_pumila",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1438391",
+                        "legacy_id": "13298",
+                        "fgsid": "38469",
+                        "legacy_from_data_cross_ref": [
+                            "Celtis occidentalis pumila"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis erbiculatus",
+                    "machine_name": "celtis_erbiculatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438392",
+                        "legacy_id": "71237",
+                        "fgsid": "38470",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis [Cultivars]",
+                    "machine_name": "celtis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Celtis [Cultivars] 'Magnifica'",
+                            "machine_name": "celtis_cultivars_magnifica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magnifica",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "celtis_cultivars",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533884",
+                                "legacy_id": "110081",
+                                "fgsid": "43310",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Celtis [Cultivars] Prairie Sentinel \u2122",
+                            "machine_name": "celtis_cultivars_prairie_sentinel",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Prairie Sentinel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "celtis_cultivars",
+                            "genus": "celtis",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623504",
+                                "legacy_id": "376445",
+                                "fgsid": "43310",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440406",
+                        "legacy_id": "2",
+                        "fgsid": "43310",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis caucasica",
+                    "machine_name": "celtis_caucasica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443165",
+                        "legacy_id": "3099",
+                        "fgsid": "42549",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis spinosa",
+                    "machine_name": "celtis_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Spreng.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444650",
+                        "legacy_id": "15394",
+                        "fgsid": "44335",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis julianae",
+                    "machine_name": "celtis_julianae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "C.K. Schneider.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444651",
+                        "legacy_id": "8350",
+                        "fgsid": "44336",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis ehrenbergia",
+                    "machine_name": "celtis_ehrenbergia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis I has C. ehrenbergiana cross to C. aculeata",
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446598",
+                        "legacy_id": "44823",
+                        "fgsid": "85216",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Celtis iguanaea",
+                    "machine_name": "celtis_iguanaea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Sarg.",
+                    "description": null,
+                    "genus": "celtis",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454891",
+                        "legacy_id": "65165",
+                        "fgsid": "118583",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383535",
+                "legacy_id": "1113",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Humulus",
+            "machine_name": "humulus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Humulus japonicus",
+                    "machine_name": "humulus_japonicus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Sieb. & Zucc.",
+                    "description": null,
+                    "genus": "humulus",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Humulus japonicus 'Variegatus'",
+                            "machine_name": "humulus_japonicus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegatus",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_japonicus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480637",
+                                "legacy_id": "14204",
+                                "fgsid": "18700",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420929",
+                        "legacy_id": "8269",
+                        "fgsid": "18700",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Humulus lupulus",
+                    "machine_name": "humulus_lupulus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "humulus",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Humulus lupulus 'Aureus'",
+                            "machine_name": "humulus_lupulus_aureus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aureus",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480638",
+                                "legacy_id": "14205",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Cascade'",
+                            "machine_name": "humulus_lupulus_cascade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cascade",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480639",
+                                "legacy_id": "14206",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Brewer's Gold'",
+                            "machine_name": "humulus_lupulus_brewer_s_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brewer's Gold",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510308",
+                                "legacy_id": "84978",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Hallertauer'",
+                            "machine_name": "humulus_lupulus_hallertauer",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hallertauer",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510309",
+                                "legacy_id": "84979",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Mount Hood'",
+                            "machine_name": "humulus_lupulus_mount_hood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mount Hood",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510310",
+                                "legacy_id": "84980",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Nuggett'",
+                            "machine_name": "humulus_lupulus_nuggett",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nuggett",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510311",
+                                "legacy_id": "84981",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Tettnanger'",
+                            "machine_name": "humulus_lupulus_tettnanger",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tettnanger",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510312",
+                                "legacy_id": "84982",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Willamette'",
+                            "machine_name": "humulus_lupulus_willamette",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Willamette",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510313",
+                                "legacy_id": "84983",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus neomexicanus",
+                            "machine_name": "humulus_lupulus_neomexicanus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "neomexicanus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510314",
+                                "legacy_id": "84984",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'First Gold'",
+                            "machine_name": "humulus_lupulus_first_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "First Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540164",
+                                "legacy_id": "115375",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Fuggle'",
+                            "machine_name": "humulus_lupulus_fuggle",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fuggle",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544223",
+                                "legacy_id": "116450",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Liberty'",
+                            "machine_name": "humulus_lupulus_liberty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Liberty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544224",
+                                "legacy_id": "116451",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Sunbeam'",
+                            "machine_name": "humulus_lupulus_sunbeam",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunbeam",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544225",
+                                "legacy_id": "116452",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Goldings'",
+                            "machine_name": "humulus_lupulus_goldings",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goldings",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1549078",
+                                "legacy_id": "122552",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Bullion'",
+                            "machine_name": "humulus_lupulus_bullion",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bullion",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1560655",
+                                "legacy_id": "169818",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Bianca'",
+                            "machine_name": "humulus_lupulus_bianca",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bianca",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1560690",
+                                "legacy_id": "159225",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Centennial'",
+                            "machine_name": "humulus_lupulus_centennial",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Centennial",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574465",
+                                "legacy_id": "186086",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Chinook'",
+                            "machine_name": "humulus_lupulus_chinook",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chinook",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574466",
+                                "legacy_id": "186087",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Northern Brewer'",
+                            "machine_name": "humulus_lupulus_northern_brewer",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Northern Brewer",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574467",
+                                "legacy_id": "186088",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Pride of Ringwood'",
+                            "machine_name": "humulus_lupulus_pride_of_ringwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pride of Ringwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574468",
+                                "legacy_id": "186089",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Golden Tassels'",
+                            "machine_name": "humulus_lupulus_golden_tassels",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Tassels",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582751",
+                                "legacy_id": "207960",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Target'",
+                            "machine_name": "humulus_lupulus_target",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Target",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584153",
+                                "legacy_id": "214756",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Boadicea'",
+                            "machine_name": "humulus_lupulus_boadicea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Boadicea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586141",
+                                "legacy_id": "222666",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Diva'",
+                            "machine_name": "humulus_lupulus_diva",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Diva",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1587248",
+                                "legacy_id": "217853",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Taurus'",
+                            "machine_name": "humulus_lupulus_taurus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Taurus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590431",
+                                "legacy_id": "320056",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Canadian Redvine'",
+                            "machine_name": "humulus_lupulus_canadian_redvine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Canadian Redvine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596773",
+                                "legacy_id": "370056",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Summer Shandy'",
+                            "machine_name": "humulus_lupulus_summer_shandy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Summer Shandy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1608122",
+                                "legacy_id": "384798",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Gold Nugget'",
+                            "machine_name": "humulus_lupulus_gold_nugget",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Nugget",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618791",
+                                "legacy_id": "346236",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Horizon'",
+                            "machine_name": "humulus_lupulus_horizon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Horizon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1621610",
+                                "legacy_id": "352936",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Newport'",
+                            "machine_name": "humulus_lupulus_newport",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Newport",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1621611",
+                                "legacy_id": "352937",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus lupulus",
+                            "machine_name": "humulus_lupulus_lupulus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lupulus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626246",
+                                "legacy_id": "357542",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus pubescens",
+                            "machine_name": "humulus_lupulus_pubescens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pubescens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626247",
+                                "legacy_id": "357543",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Kent Golding'",
+                            "machine_name": "humulus_lupulus_kent_golding",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kent Golding",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1629146",
+                                "legacy_id": "247974",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Perle'",
+                            "machine_name": "humulus_lupulus_perle",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Perle",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631033",
+                                "legacy_id": "251136",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Crystal'",
+                            "machine_name": "humulus_lupulus_crystal",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crystal",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633402",
+                                "legacy_id": "299976",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Galena'",
+                            "machine_name": "humulus_lupulus_galena",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Galena",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633403",
+                                "legacy_id": "299977",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Magnum'",
+                            "machine_name": "humulus_lupulus_magnum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magnum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633404",
+                                "legacy_id": "299978",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Spalt Select'",
+                            "machine_name": "humulus_lupulus_spalt_select",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spalt Select",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633405",
+                                "legacy_id": "299979",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Sterling'",
+                            "machine_name": "humulus_lupulus_sterling",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sterling",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633406",
+                                "legacy_id": "299980",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus lupuloides",
+                            "machine_name": "humulus_lupulus_lupuloides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lupuloides",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1635847",
+                                "legacy_id": "304036",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Teamaker'",
+                            "machine_name": "humulus_lupulus_teamaker",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Teamaker",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660918",
+                                "legacy_id": "391374",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Wye Challenger'",
+                            "machine_name": "humulus_lupulus_wye_challenger",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wye Challenger",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660920",
+                                "legacy_id": "391375",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Wye Viking'",
+                            "machine_name": "humulus_lupulus_wye_viking",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wye Viking",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1663079",
+                                "legacy_id": "391376",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Zeus'",
+                            "machine_name": "humulus_lupulus_zeus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Zeus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1663080",
+                                "legacy_id": "391377",
+                                "fgsid": "18701",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Columbus'",
+                            "machine_name": "humulus_lupulus_columbus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Columbus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2127746",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1494341545"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Citra'",
+                            "machine_name": "humulus_lupulus_citra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Citra",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2128996",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1496159319"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Lambic'",
+                            "machine_name": "humulus_lupulus_lambic",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lambic",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2129001",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1496159431"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus Mosaic \u00ae",
+                            "machine_name": "humulus_lupulus_mosaic",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Mosaic",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2129006",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1496159486"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Saaz'",
+                            "machine_name": "humulus_lupulus_saaz",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Saaz",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2129011",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1496159527"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Simcoe'",
+                            "machine_name": "humulus_lupulus_simcoe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Simcoe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2129016",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1496159619"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Tardif de Bourgogne'",
+                            "machine_name": "humulus_lupulus_tardif_de_bourgogne",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tardif de Bourgogne",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2129021",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1496159646"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Tahoma'",
+                            "machine_name": "humulus_lupulus_tahoma",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tahoma",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2132261",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1502135790"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Triple Pearl'",
+                            "machine_name": "humulus_lupulus_triple_pearl",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Triple Pearl",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2132266",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1502135809"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Glacier'",
+                            "machine_name": "humulus_lupulus_glacier",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Glacier",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219491",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516988475"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Pacific Gem'",
+                            "machine_name": "humulus_lupulus_pacific_gem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pacific Gem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219496",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516988567"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Santiam'",
+                            "machine_name": "humulus_lupulus_santiam",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Santiam",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219501",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516988589"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Sorachi Ace'",
+                            "machine_name": "humulus_lupulus_sorachi_ace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sorachi Ace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219506",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516988611"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Southern Cross'",
+                            "machine_name": "humulus_lupulus_southern_cross",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Southern Cross",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219511",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516988638"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'AlphAroma'",
+                            "machine_name": "humulus_lupulus_alpharoma",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "AlphAroma",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2256156",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1519246236"
+                            }
+                        },
+                        {
+                            "name": "Humulus lupulus 'Comet'",
+                            "machine_name": "humulus_lupulus_comet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Comet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_lupulus",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2559356",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1567537255"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420930",
+                        "legacy_id": "9621",
+                        "fgsid": "18701",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Humulus scandens",
+                    "machine_name": "humulus_scandens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "humulus",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420931",
+                        "legacy_id": "14500",
+                        "fgsid": "18702",
+                        "legacy_from_data_cross_ref": [
+                            "+Antidesma scandens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Humulus americanus",
+                    "machine_name": "humulus_americanus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "humulus",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "humulus_lupulus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1445831",
+                        "legacy_id": "649",
+                        "fgsid": "84182",
+                        "legacy_from_data_cross_ref": [
+                            "Humulus lupulus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Humulus [Cultivars]",
+                    "machine_name": "humulus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "humulus",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Humulus [Cultivars] 'Sumner'",
+                            "machine_name": "humulus_cultivars_sumner",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sumner",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "humulus_cultivars",
+                            "genus": "humulus",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1652602",
+                                "legacy_id": "390053",
+                                "fgsid": "146059",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460789",
+                        "legacy_id": "2",
+                        "fgsid": "146059",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383721",
+                "legacy_id": "2816",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Aphananthe",
+            "machine_name": "aphananthe",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Planch.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aphananthe [Cultivars]",
+                    "machine_name": "aphananthe_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aphananthe",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391198",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Aphananthe aspera",
+                    "machine_name": "aphananthe_aspera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Planchon.",
+                    "description": null,
+                    "genus": "aphananthe",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400593",
+                        "legacy_id": "1245",
+                        "fgsid": "2836",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Aphananthe monoica",
+                    "machine_name": "aphananthe_monoica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "J.-F. Leroy.",
+                    "description": null,
+                    "genus": "aphananthe",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454890",
+                        "legacy_id": "10664",
+                        "fgsid": "118582",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391197",
+                "legacy_id": "397",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Trema",
+            "machine_name": "trema",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Trema [Cultivars]",
+                    "machine_name": "trema_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trema",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391910",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Trema aspera",
+                    "machine_name": "trema_aspera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "trema",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432701",
+                        "legacy_id": "1245",
+                        "fgsid": "35155",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Trema micrantha",
+                    "machine_name": "trema_micrantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "trema",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432702",
+                        "legacy_id": "10407",
+                        "fgsid": "35156",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Trema orientalis",
+                    "machine_name": "trema_orientalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "trema",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432703",
+                        "legacy_id": "11720",
+                        "fgsid": "35157",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Trema virgata",
+                    "machine_name": "trema_virgata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trema",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432704",
+                        "legacy_id": "17398",
+                        "fgsid": "35158",
+                        "legacy_from_data_cross_ref": [
+                            "+T. timorensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Trema tomentosa",
+                    "machine_name": "trema_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H. Hara.",
+                    "description": null,
+                    "genus": "trema",
+                    "family": "cannabaceae",
+                    "variety_items": [
+                        {
+                            "name": "Trema tomentosa viridis",
+                            "machine_name": "trema_tomentosa_viridis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "viridis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "trema_tomentosa",
+                            "genus": "trema",
+                            "family": "cannabaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647098",
+                                "legacy_id": "390450",
+                                "fgsid": "146342",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461114",
+                        "legacy_id": "16461",
+                        "fgsid": "146342",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391909",
+                "legacy_id": "5589",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Lozanella",
+            "machine_name": "lozanella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Greenm.",
+            "description": null,
+            "family": "cannabaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lozanella [Cultivars]",
+                    "machine_name": "lozanella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lozanella",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2319161",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526401940"
+                    }
+                },
+                {
+                    "name": "Lozanella enantiophylla",
+                    "machine_name": "lozanella_enantiophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Killip & C.V. Morton.",
+                    "description": null,
+                    "genus": "lozanella",
+                    "family": "cannabaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2319166",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526401985"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2319156",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526401940"
+            }
+        }
+    ]
+}

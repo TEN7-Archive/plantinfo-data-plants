@@ -1,0 +1,862 @@
+{
+    "name": "Menyanthaceae",
+    "machine_name": "menyanthaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381315",
+        "legacy_id": "277",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Limnanthemum",
+            "machine_name": "limnanthemum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": null,
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [
+                {
+                    "machine_name": "nymphoides",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Limnanthemum [Cultivars]",
+                    "machine_name": "limnanthemum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "limnanthemum",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438460",
+                        "legacy_id": "2",
+                        "fgsid": "39850",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382547",
+                "legacy_id": "6170",
+                "legacy_from_data_cross_ref": [
+                    "Nymphoides"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Menyanthes",
+            "machine_name": "menyanthes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Menyanthes [Cultivars]",
+                    "machine_name": "menyanthes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "menyanthes",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389006",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Menyanthes trifoliata",
+                    "machine_name": "menyanthes_trifoliata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "menyanthes",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419720",
+                        "legacy_id": "16664",
+                        "fgsid": "22943",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389005",
+                "legacy_id": "3537",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nephrophyllidium",
+            "machine_name": "nephrophyllidium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gilg.",
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nephrophyllidium [Cultivars]",
+                    "machine_name": "nephrophyllidium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nephrophyllidium",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391578",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nephrophyllidium crista-galli",
+                    "machine_name": "nephrophyllidium_crista_galli",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Gilg.",
+                    "description": null,
+                    "genus": "nephrophyllidium",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417585",
+                        "legacy_id": "4210",
+                        "fgsid": "24131",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391577",
+                "legacy_id": "3810",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nymphoides",
+            "machine_name": "nymphoides",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hill.",
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nymphoides [Cultivars]",
+                    "machine_name": "nymphoides_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391734",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nymphoides aquatica",
+                    "machine_name": "nymphoides_aquatica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "O. Kuntze.",
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425421",
+                        "legacy_id": "979",
+                        "fgsid": "24421",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides aurantiaca",
+                    "machine_name": "nymphoides_aurantiaca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425422",
+                        "legacy_id": "1379",
+                        "fgsid": "24422",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides crenata",
+                    "machine_name": "nymphoides_crenata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (APNI)",
+                    "naming_authorities": "Kuntze.",
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425423",
+                        "legacy_id": "4168",
+                        "fgsid": "24423",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides cristata",
+                    "machine_name": "nymphoides_cristata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425424",
+                        "legacy_id": "4211",
+                        "fgsid": "24424",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides geminata",
+                    "machine_name": "nymphoides_geminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425425",
+                        "legacy_id": "6480",
+                        "fgsid": "24425",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides humboldtianum",
+                    "machine_name": "nymphoides_humboldtianum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 12",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425426",
+                        "legacy_id": "18730",
+                        "fgsid": "24426",
+                        "legacy_from_data_cross_ref": [
+                            "+Villardia humboldtiana"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides indica",
+                    "machine_name": "nymphoides_indica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "O. Kuntze.",
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nymphoides indica occidentalis",
+                            "machine_name": "nymphoides_indica_occidentalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "occidentalis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "nymphoides_indica",
+                            "genus": "nymphoides",
+                            "family": "menyanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1481948",
+                                "legacy_id": "20752",
+                                "fgsid": "24427",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Nymphoides indica 'Variegata'",
+                            "machine_name": "nymphoides_indica_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nymphoides_indica",
+                            "genus": "nymphoides",
+                            "family": "menyanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521809",
+                                "legacy_id": "93802",
+                                "fgsid": "24427",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425427",
+                        "legacy_id": "8004",
+                        "fgsid": "24427",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides peltata",
+                    "machine_name": "nymphoides_peltata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "O. Kuntze.",
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425428",
+                        "legacy_id": "12232",
+                        "fgsid": "24428",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides thunbergiana",
+                    "machine_name": "nymphoides_thunbergiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425429",
+                        "legacy_id": "16372",
+                        "fgsid": "24429",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nymphoides hydrocharoides",
+                    "machine_name": "nymphoides_hydrocharoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448674",
+                        "legacy_id": "40783",
+                        "fgsid": "79095",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Nymphoides cordata",
+                    "machine_name": "nymphoides_cordata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Fern.",
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456117",
+                        "legacy_id": "3968",
+                        "fgsid": "128259",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Nymphoides beaglensis",
+                    "machine_name": "nymphoides_beaglensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymphoides",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358911",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532876389"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391733",
+                "legacy_id": "3889",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Fauria",
+            "machine_name": "fauria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley change",
+            "naming_authorities": null,
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Fauria [Cultivars]",
+                    "machine_name": "fauria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "fauria",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392402",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Fauria crista-galli",
+                    "machine_name": "fauria_crista_galli",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "fauria",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nephrophyllidium_crista_galli",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1448341",
+                        "legacy_id": "4210",
+                        "fgsid": "78579",
+                        "legacy_from_data_cross_ref": [
+                            "Nephrophyllidium crista-galli"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392401",
+                "legacy_id": "2277",
+                "legacy_from_data_cross_ref": [
+                    "Nephrosphyllidiu"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Villarsia",
+            "machine_name": "villarsia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Vent.",
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Villarsia [Cultivars]",
+                    "machine_name": "villarsia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "villarsia",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393674",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Villarsia albiflora",
+                    "machine_name": "villarsia_albiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "villarsia",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436500",
+                        "legacy_id": "416",
+                        "fgsid": "36257",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Villarsia exaltata",
+                    "machine_name": "villarsia_exaltata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "villarsia",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436501",
+                        "legacy_id": "5686",
+                        "fgsid": "36258",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Villarsia umbricola",
+                    "machine_name": "villarsia_umbricola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": "Aston.",
+                    "description": null,
+                    "genus": "villarsia",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436502",
+                        "legacy_id": "16937",
+                        "fgsid": "36259",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393673",
+                "legacy_id": "5795",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ornduffia",
+            "machine_name": "ornduffia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Tippery & Les.",
+            "description": null,
+            "family": "menyanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ornduffia [Cultivars]",
+                    "machine_name": "ornduffia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ornduffia",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358921",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532876517"
+                    }
+                },
+                {
+                    "name": "Ornduffia parnassifolia",
+                    "machine_name": "ornduffia_parnassifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Tippery & Les.",
+                    "description": null,
+                    "genus": "ornduffia",
+                    "family": "menyanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358926",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532876566"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2358916",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532876517"
+            }
+        }
+    ]
+}

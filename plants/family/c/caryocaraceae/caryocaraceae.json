@@ -1,0 +1,202 @@
+{
+    "name": "Caryocaraceae",
+    "machine_name": "caryocaraceae",
+    "type": "family",
+    "authorities": "Royal Hort.",
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381487",
+        "legacy_id": "498",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Caryocar",
+            "machine_name": "caryocar",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal HOrt.",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "caryocaraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Caryocar [Cultivars]",
+                    "machine_name": "caryocar_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caryocar",
+                    "family": "caryocaraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385950",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Caryocar villosum",
+                    "machine_name": "caryocar_villosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "caryocar",
+                    "family": "caryocaraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444358",
+                        "legacy_id": "17357",
+                        "fgsid": "45637",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Caryocar microcarpum",
+                    "machine_name": "caryocar_microcarpum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ducke.",
+                    "description": null,
+                    "genus": "caryocar",
+                    "family": "caryocaraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322826",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915037"
+                    }
+                },
+                {
+                    "name": "Caryocar brasiliense",
+                    "machine_name": "caryocar_brasiliense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cambess.",
+                    "description": null,
+                    "genus": "caryocar",
+                    "family": "caryocaraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322831",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915104"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385949",
+                "legacy_id": "9339",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Anthodiscus",
+            "machine_name": "anthodiscus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "G. Mey.",
+            "description": null,
+            "family": "caryocaraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anthodiscus [Cultivars]",
+                    "machine_name": "anthodiscus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anthodiscus",
+                    "family": "caryocaraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322841",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915204"
+                    }
+                },
+                {
+                    "name": "Anthodiscus chocoensis",
+                    "machine_name": "anthodiscus_chocoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Prance.",
+                    "description": null,
+                    "genus": "anthodiscus",
+                    "family": "caryocaraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322846",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915274"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322836",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526915204"
+            }
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "name": "Nitrariaceae",
+    "machine_name": "nitrariaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Lindl.",
+    "description": null,
+    "archival_data": {
+        "id": "2327336",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527602813"
+    },
+    "genus_items": [
+        {
+            "name": "Nitraria",
+            "machine_name": "nitraria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "nitrariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nitraria [Cultivars]",
+                    "machine_name": "nitraria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nitraria",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391648",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Nitraria billardierei",
+                    "machine_name": "nitraria_billardierei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nitraria",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424678",
+                        "legacy_id": "1943",
+                        "fgsid": "24241",
+                        "legacy_from_data_cross_ref": [
+                            "+N schoberi"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nitraria retusa*",
+                    "machine_name": "nitraria_retusa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nitraria",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nitraria_tridentata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1424679",
+                        "legacy_id": "13764",
+                        "fgsid": "24242",
+                        "legacy_from_data_cross_ref": [
+                            "+N. tridentata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nitraria tridentata",
+                    "machine_name": "nitraria_tridentata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Desf.",
+                    "description": null,
+                    "genus": "nitraria",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424680",
+                        "legacy_id": "16649",
+                        "fgsid": "24243",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nitraria schoberi",
+                    "machine_name": "nitraria_schoberi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "nitraria",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438571",
+                        "legacy_id": "18999",
+                        "fgsid": "41278",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391647",
+                "legacy_id": "3846",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Peganum",
+            "machine_name": "peganum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "nitrariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Peganum [Cultivars]",
+                    "machine_name": "peganum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "peganum",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394344",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Peganum harmala",
+                    "machine_name": "peganum_harmala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "peganum",
+                    "family": "nitrariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426635",
+                        "legacy_id": "7176",
+                        "fgsid": "26219",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394343",
+                "legacy_id": "4182",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

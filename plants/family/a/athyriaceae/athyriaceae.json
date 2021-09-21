@@ -1,0 +1,2591 @@
+{
+    "name": "Athyriaceae",
+    "machine_name": "athyriaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Alston.",
+    "description": null,
+    "archival_data": {
+        "id": "2359436",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532958924"
+    },
+    "genus_items": [
+        {
+            "name": "Athyrium",
+            "machine_name": "athyrium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Roth.",
+            "description": null,
+            "family": "athyriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Athyrium alpestre",
+                    "machine_name": "athyrium_alpestre",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium alpestre americanum",
+                            "machine_name": "athyrium_alpestre_americanum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "americanum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "athyrium_alpestre",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1555945",
+                                "legacy_id": "149382",
+                                "fgsid": "39790",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438137",
+                        "legacy_id": "534",
+                        "fgsid": "39790",
+                        "legacy_from_data_cross_ref": [
+                            "A. distentifolium"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium filix-femina",
+                    "machine_name": "athyrium_filix_femina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Roth.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium filix-femina 'Victoriae'",
+                            "machine_name": "athyrium_filix_femina_victoriae",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Victoriae",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531874",
+                                "legacy_id": "110838",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina asplenioides",
+                            "machine_name": "athyrium_filix_femina_asplenioides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "asplenioides",
+                            "authorities": "Royal Hort.",
+                            "naming_authorities": "Farw.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531875",
+                                "legacy_id": "110839",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Rubellum'",
+                            "machine_name": "athyrium_filix_femina_rubellum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rubellum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531876",
+                                "legacy_id": "110840",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Rotstiel'",
+                            "machine_name": "athyrium_filix_femina_rotstiel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rotstiel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531877",
+                                "legacy_id": "110841",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Corymbiferum'",
+                            "machine_name": "athyrium_filix_femina_corymbiferum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Corymbiferum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531878",
+                                "legacy_id": "110842",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Minutissimum'",
+                            "machine_name": "athyrium_filix_femina_minutissimum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Minutissimum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531879",
+                                "legacy_id": "110843",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Grandiceps'",
+                            "machine_name": "athyrium_filix_femina_grandiceps",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grandiceps",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531880",
+                                "legacy_id": "110844",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Frizelliae'",
+                            "machine_name": "athyrium_filix_femina_frizelliae",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frizelliae",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531881",
+                                "legacy_id": "110845",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Fieldii '",
+                            "machine_name": "athyrium_filix_femina_fieldii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fieldii ",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531882",
+                                "legacy_id": "110846",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Fieldii Cristatum'",
+                            "machine_name": "athyrium_filix_femina_fieldii_cristatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fieldii Cristatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531883",
+                                "legacy_id": "110847",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Fancy Fronds'",
+                            "machine_name": "athyrium_filix_femina_fancy_fronds",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fancy Fronds",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531884",
+                                "legacy_id": "110848",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Cristatum'",
+                            "machine_name": "athyrium_filix_femina_cristatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cristatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531885",
+                                "legacy_id": "110849",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Cruciatum'",
+                            "machine_name": "athyrium_filix_femina_cruciatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cruciatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531887",
+                                "legacy_id": "110853",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Aximinster'",
+                            "machine_name": "athyrium_filix_femina_aximinster",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aximinster",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1536555",
+                                "legacy_id": "110748",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Vernoniae '",
+                            "machine_name": "athyrium_filix_femina_vernoniae",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Vernoniae ",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1536556",
+                                "legacy_id": "110749",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Vernoniae Cristatum'",
+                            "machine_name": "athyrium_filix_femina_vernoniae_cristatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Vernoniae Cristatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1536557",
+                                "legacy_id": "110750",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Congestum Cristatum'",
+                            "machine_name": "athyrium_filix_femina_congestum_cristatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Congestum Cristatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1570511",
+                                "legacy_id": "194059",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina cyclosorum",
+                            "machine_name": "athyrium_filix_femina_cyclosorum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cyclosorum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571439",
+                                "legacy_id": "196322",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Lady Victoria'",
+                            "machine_name": "athyrium_filix_femina_lady_victoria",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lady Victoria",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573803",
+                                "legacy_id": "195262",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Caput-medusae'",
+                            "machine_name": "athyrium_filix_femina_caput_medusae",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Caput-medusae",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576949",
+                                "legacy_id": "204328",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Cruciato-cristatum'",
+                            "machine_name": "athyrium_filix_femina_cruciato_cristatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cruciato-cristatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579939",
+                                "legacy_id": "215296",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Dre's Dagger'",
+                            "machine_name": "athyrium_filix_femina_dre_s_dagger",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dre's Dagger",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586973",
+                                "legacy_id": "216805",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina angustum",
+                            "machine_name": "athyrium_filix_femina_angustum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "angustum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634276",
+                                "legacy_id": "301276",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Plumosum'",
+                            "machine_name": "athyrium_filix_femina_plumosum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Plumosum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638013",
+                                "legacy_id": "336343",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Athyrium filix-femina 'Encourage'",
+                            "machine_name": "athyrium_filix_femina_encourage",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Encourage",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_filix_femina",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1658150",
+                                "legacy_id": "216556",
+                                "fgsid": "43357",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440716",
+                        "legacy_id": "18191",
+                        "fgsid": "43357",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium otophorum",
+                    "machine_name": "athyrium_otophorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Koidz.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium otophorum 'Okanum'",
+                            "machine_name": "athyrium_otophorum_okanum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Okanum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_otophorum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531890",
+                                "legacy_id": "110856",
+                                "fgsid": "43361",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium otophorum 'Auriculate Lady'",
+                            "machine_name": "athyrium_otophorum_auriculate_lady",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Auriculate Lady",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_otophorum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573804",
+                                "legacy_id": "195263",
+                                "fgsid": "43361",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440720",
+                        "legacy_id": "18194",
+                        "fgsid": "43361",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium vidalii",
+                    "machine_name": "athyrium_vidalii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Nak.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441068",
+                        "legacy_id": "17332",
+                        "fgsid": "43441",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium distentifolium",
+                    "machine_name": "athyrium_distentifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Mak.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441069",
+                        "legacy_id": "18190",
+                        "fgsid": "43442",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium deparia",
+                    "machine_name": "athyrium_deparia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium deparia petersonii",
+                            "machine_name": "athyrium_deparia_petersonii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "petersonii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "athyrium_deparia",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544282",
+                                "legacy_id": "117626",
+                                "fgsid": "43443",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441070",
+                        "legacy_id": "20024",
+                        "fgsid": "43443",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium cyclosum",
+                    "machine_name": "athyrium_cyclosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441071",
+                        "legacy_id": "20025",
+                        "fgsid": "43444",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium pycnocarpon",
+                    "machine_name": "athyrium_pycnocarpon",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Tidestr.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441072",
+                        "legacy_id": "18195",
+                        "fgsid": "43445",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium [Cultivars]",
+                    "machine_name": "athyrium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium [Cultivars] 'Branford Beauty'",
+                            "machine_name": "athyrium_cultivars_branford_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Branford Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1542721",
+                                "legacy_id": "121021",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Branford Rambler'",
+                            "machine_name": "athyrium_cultivars_branford_rambler",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Branford Rambler",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1549974",
+                                "legacy_id": "122790",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Ghost'",
+                            "machine_name": "athyrium_cultivars_ghost",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ghost",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559285",
+                                "legacy_id": "150864",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Wildwood Twist'",
+                            "machine_name": "athyrium_cultivars_wildwood_twist",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wildwood Twist",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559286",
+                                "legacy_id": "150865",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Lady in Red'",
+                            "machine_name": "athyrium_cultivars_lady_in_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lady in Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571483",
+                                "legacy_id": "188133",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'The Ghost'",
+                            "machine_name": "athyrium_cultivars_the_ghost",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "The Ghost",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573622",
+                                "legacy_id": "189476",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] Pewter Veil \u00ae",
+                            "machine_name": "athyrium_cultivars_pewter_veil",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Pewter Veil",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586688",
+                                "legacy_id": "222153",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Ocean's Fury'",
+                            "machine_name": "athyrium_cultivars_ocean_s_fury",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ocean's Fury",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588472",
+                                "legacy_id": "325417",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Apple Court'",
+                            "machine_name": "athyrium_cultivars_apple_court",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Apple Court",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1658151",
+                                "legacy_id": "216557",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Silver Slippers'",
+                            "machine_name": "athyrium_cultivars_silver_slippers",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silver Slippers",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661385",
+                                "legacy_id": "394184",
+                                "fgsid": "45286",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Bradford Beauty'",
+                            "machine_name": "athyrium_cultivars_bradford_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bradford Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2271316",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1520941080"
+                            }
+                        },
+                        {
+                            "name": "Athyrium [Cultivars] 'Godzilla'",
+                            "machine_name": "athyrium_cultivars_godzilla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Godzilla",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_cultivars",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2420981",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1544821615"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442940",
+                        "legacy_id": "2",
+                        "fgsid": "45286",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium cyclosorum",
+                    "machine_name": "athyrium_cyclosorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443317",
+                        "legacy_id": "20754",
+                        "fgsid": "45407",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium niponicum",
+                    "machine_name": "athyrium_niponicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IF)",
+                    "naming_authorities": "Hance.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium niponicum 'Pictum '",
+                            "machine_name": "athyrium_niponicum_pictum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pictum ",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1529069",
+                                "legacy_id": "106446",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Metallicum'",
+                            "machine_name": "athyrium_niponicum_metallicum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Metallicum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531886",
+                                "legacy_id": "110851",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Samurai Sword'",
+                            "machine_name": "athyrium_niponicum_samurai_sword",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Samurai Sword",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531888",
+                                "legacy_id": "110854",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Pictum Red'",
+                            "machine_name": "athyrium_niponicum_pictum_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pictum Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531889",
+                                "legacy_id": "110855",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Ursula's Red'",
+                            "machine_name": "athyrium_niponicum_ursula_s_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ursula's Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533023",
+                                "legacy_id": "111133",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum Silver Falls \u00ae",
+                            "machine_name": "athyrium_niponicum_silver_falls",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Silver Falls",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1553670",
+                                "legacy_id": "127796",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum Burgundy Lace \u00ae",
+                            "machine_name": "athyrium_niponicum_burgundy_lace",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Burgundy Lace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580102",
+                                "legacy_id": "208876",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Pictum Applecourt'",
+                            "machine_name": "athyrium_niponicum_pictum_applecourt",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pictum Applecourt",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580113",
+                                "legacy_id": "211824",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Pewter Lace'",
+                            "machine_name": "athyrium_niponicum_pewter_lace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pewter Lace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586990",
+                                "legacy_id": "216838",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Red Beauty'",
+                            "machine_name": "athyrium_niponicum_red_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1612382",
+                                "legacy_id": "234791",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum nipponicum",
+                            "machine_name": "athyrium_niponicum_nipponicum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "nipponicum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618991",
+                                "legacy_id": "356276",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Regal Red'",
+                            "machine_name": "athyrium_niponicum_regal_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Regal Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620557",
+                                "legacy_id": "344036",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Godzila'",
+                            "machine_name": "athyrium_niponicum_godzila",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Godzila",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638710",
+                                "legacy_id": "339557",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum Thrill Seeker \u00ae",
+                            "machine_name": "athyrium_niponicum_thrill_seeker",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Thrill Seeker",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1665179",
+                                "legacy_id": "399987",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Lemon Cream'",
+                            "machine_name": "athyrium_niponicum_lemon_cream",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lemon Cream",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1665180",
+                                "legacy_id": "399988",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum Joy Ride \u00ae",
+                            "machine_name": "athyrium_niponicum_joy_ride",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Joy Ride",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1665181",
+                                "legacy_id": "399989",
+                                "fgsid": "42859",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Pearly White'",
+                            "machine_name": "athyrium_niponicum_pearly_white",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pearly White",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2480821",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551367386"
+                            }
+                        },
+                        {
+                            "name": "Athyrium niponicum 'Crested Surf'",
+                            "machine_name": "athyrium_niponicum_crested_surf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crested Surf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_niponicum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2548486",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1563486482"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444256",
+                        "legacy_id": "75704",
+                        "fgsid": "42859",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium japonicum*",
+                    "machine_name": "athyrium_japonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross",
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "asplenium_japonicum",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1451504",
+                        "legacy_id": "8267",
+                        "fgsid": "101923",
+                        "legacy_from_data_cross_ref": [
+                            "Asplenium japonicum"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium thelypterioides",
+                    "machine_name": "athyrium_thelypterioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Desv.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452905",
+                        "legacy_id": "75124",
+                        "fgsid": "132679",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium clivicola",
+                    "machine_name": "athyrium_clivicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Tagawa.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455902",
+                        "legacy_id": "3615",
+                        "fgsid": "100695",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Athyrium asplenioides",
+                    "machine_name": "athyrium_asplenioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Eaton.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308296",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524766020"
+                    }
+                },
+                {
+                    "name": "Athyrium goeringianum",
+                    "machine_name": "athyrium_goeringianum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "T. Moore.",
+                    "description": null,
+                    "genus": "athyrium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Athyrium goeringianum 'Pictum'",
+                            "machine_name": "athyrium_goeringianum_pictum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pictum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "athyrium_goeringianum",
+                            "genus": "athyrium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2511761",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1556727843"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2511756",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1556727809"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381611",
+                "legacy_id": "6037",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Deparia",
+            "machine_name": "deparia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Hook. & Grev.",
+            "description": null,
+            "family": "athyriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Deparia [Cultivars]",
+                    "machine_name": "deparia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "deparia",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382408",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Deparia acrostichoides",
+                    "machine_name": "deparia_acrostichoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Kato.",
+                    "description": null,
+                    "genus": "deparia",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437883",
+                        "legacy_id": "18466",
+                        "fgsid": "41130",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Deparia pycnosora",
+                    "machine_name": "deparia_pycnosora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "deparia",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448105",
+                        "legacy_id": "46123",
+                        "fgsid": "86956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Deparia petersenii",
+                    "machine_name": "deparia_petersenii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "M. Kato.",
+                    "description": null,
+                    "genus": "deparia",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452924",
+                        "legacy_id": "75204",
+                        "fgsid": "132839",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Deparia okuboana",
+                    "machine_name": "deparia_okuboana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "M. Kato.",
+                    "description": null,
+                    "genus": "deparia",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459373",
+                        "legacy_id": "83824",
+                        "fgsid": "144520",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Deparia tomitaroana",
+                    "machine_name": "deparia_tomitaroana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R. Sano.",
+                    "description": null,
+                    "genus": "deparia",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2595126",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1578601238"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382407",
+                "legacy_id": "6099",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Diplazium",
+            "machine_name": "diplazium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "athyriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Diplazium [Cultivars]",
+                    "machine_name": "diplazium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382422",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Diplazium acrostichoides",
+                    "machine_name": "diplazium_acrostichoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438163",
+                        "legacy_id": "18466",
+                        "fgsid": "39818",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium australe",
+                    "machine_name": "diplazium_australe",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Wakef.",
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441140",
+                        "legacy_id": "1435",
+                        "fgsid": "43516",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium proliferum",
+                    "machine_name": "diplazium_proliferum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Kaulf.",
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442208",
+                        "legacy_id": "19221",
+                        "fgsid": "45095",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium pycnocarpon",
+                    "machine_name": "diplazium_pycnocarpon",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445883",
+                        "legacy_id": "18195",
+                        "fgsid": "84339",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium esculentum",
+                    "machine_name": "diplazium_esculentum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Diplazium esculentum 'Snow Flurry'",
+                            "machine_name": "diplazium_esculentum_snow_flurry",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Snow Flurry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "diplazium_esculentum",
+                            "genus": "diplazium",
+                            "family": "athyriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1592502",
+                                "legacy_id": "317870",
+                                "fgsid": "90183",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445958",
+                        "legacy_id": "5623",
+                        "fgsid": "90183",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium tomitaroanum",
+                    "machine_name": "diplazium_tomitaroanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446339",
+                        "legacy_id": "48823",
+                        "fgsid": "90555",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium sibiricum",
+                    "machine_name": "diplazium_sibiricum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Kurata.",
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447807",
+                        "legacy_id": "15032",
+                        "fgsid": "91975",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium subsinuatum*",
+                    "machine_name": "diplazium_subsinuatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "diplazium_lanceum",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1449164",
+                        "legacy_id": "47003",
+                        "fgsid": "88135",
+                        "legacy_from_data_cross_ref": [
+                            "Diplazium lanceum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium lanceum",
+                    "machine_name": "diplazium_lanceum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Presl.",
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449165",
+                        "legacy_id": "18533",
+                        "fgsid": "88136",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplazium wichurae",
+                    "machine_name": "diplazium_wichurae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Diels.",
+                    "description": null,
+                    "genus": "diplazium",
+                    "family": "athyriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460027",
+                        "legacy_id": "82425",
+                        "fgsid": "142642",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382421",
+                "legacy_id": "6106",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

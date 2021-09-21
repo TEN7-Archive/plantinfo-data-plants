@@ -1,0 +1,138 @@
+{
+    "name": "Ximeniaceae",
+    "machine_name": "ximeniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Horan.",
+    "description": null,
+    "archival_data": {
+        "id": "2332396",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528639716"
+    },
+    "genus_items": [
+        {
+            "name": "Ximenia",
+            "machine_name": "ximenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "ximeniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ximenia [Cultivars]",
+                    "machine_name": "ximenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ximenia",
+                    "family": "ximeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394554",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Ximenia americana",
+                    "machine_name": "ximenia_americana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "ximenia",
+                    "family": "ximeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438353",
+                        "legacy_id": "646",
+                        "fgsid": "36785",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Ximenia caffra",
+                    "machine_name": "ximenia_caffra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Sond.",
+                    "description": null,
+                    "genus": "ximenia",
+                    "family": "ximeniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ximenia caffra caffra",
+                            "machine_name": "ximenia_caffra_caffra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "caffra",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "ximenia_caffra",
+                            "genus": "ximenia",
+                            "family": "ximeniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1496101",
+                                "legacy_id": "34281",
+                                "fgsid": "36786",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438354",
+                        "legacy_id": "2584",
+                        "fgsid": "36786",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394553",
+                "legacy_id": "5899",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

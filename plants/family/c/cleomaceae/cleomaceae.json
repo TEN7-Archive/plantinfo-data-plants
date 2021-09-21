@@ -1,0 +1,1443 @@
+{
+    "name": "Cleomaceae",
+    "machine_name": "cleomaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "DC.",
+    "description": null,
+    "archival_data": {
+        "id": "2331986",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528563504"
+    },
+    "genus_items": [
+        {
+            "name": "Isomeris",
+            "machine_name": "isomeris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Nutt.",
+            "description": null,
+            "family": "cleomaceae",
+            "cross_references": [
+                {
+                    "machine_name": "cleome",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Isomeris [Cultivars]",
+                    "machine_name": "isomeris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "isomeris",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438453",
+                        "legacy_id": "2",
+                        "fgsid": "39843",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Isomeris arborea",
+                    "machine_name": "isomeris_arborea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Nutt.& Torr. & Gray.",
+                    "description": null,
+                    "genus": "isomeris",
+                    "family": "cleomaceae",
+                    "variety_items": [
+                        {
+                            "name": "Isomeris arborea globosa",
+                            "machine_name": "isomeris_arborea_globosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "globosa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "isomeris_arborea",
+                            "genus": "isomeris",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1547916",
+                                "legacy_id": "122269",
+                                "fgsid": "45540",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443721",
+                        "legacy_id": "1021",
+                        "fgsid": "45540",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382521",
+                "legacy_id": "6157",
+                "legacy_from_data_cross_ref": [
+                    "Cleome"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Polanisia",
+            "machine_name": "polanisia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Raf.",
+            "description": null,
+            "family": "cleomaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Polanisia [Cultivars]",
+                    "machine_name": "polanisia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polanisia",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383172",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Polanisia dodecandra",
+                    "machine_name": "polanisia_dodecandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "polanisia",
+                    "family": "cleomaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polanisia dodecandra trachysperma",
+                            "machine_name": "polanisia_dodecandra_trachysperma",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "trachysperma",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "polanisia_dodecandra",
+                            "genus": "polanisia",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632140",
+                                "legacy_id": "297496",
+                                "fgsid": "27889",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Polanisia dodecandra dodecandra",
+                            "machine_name": "polanisia_dodecandra_dodecandra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "dodecandra",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "polanisia_dodecandra",
+                            "genus": "polanisia",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634988",
+                                "legacy_id": "309716",
+                                "fgsid": "27889",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427164",
+                        "legacy_id": "5040",
+                        "fgsid": "27889",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Polanisia graveolens*",
+                    "machine_name": "polanisia_graveolens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference.",
+                    "genus": "polanisia",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "polanisia_dodecandra",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435936",
+                        "legacy_id": "6914",
+                        "fgsid": "39227",
+                        "legacy_from_data_cross_ref": [
+                            "P. dodecandra"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Polanisia jamesii",
+                    "machine_name": "polanisia_jamesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.H. Iltis.",
+                    "description": null,
+                    "genus": "polanisia",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453777",
+                        "legacy_id": "8261",
+                        "fgsid": "115700",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383171",
+                "legacy_id": "4466",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Cleome",
+            "machine_name": "cleome",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cleomaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cleome [Cultivars]",
+                    "machine_name": "cleome_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cleome [Cultivars] 'Colour Fountain'",
+                            "machine_name": "cleome_cultivars_colour_fountain",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Colour Fountain",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470144",
+                                "legacy_id": "5219",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Helen Campbell'",
+                            "machine_name": "cleome_cultivars_helen_campbell",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Helen Campbell",
+                            "authorities": "Source",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470145",
+                                "legacy_id": "5220",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Queen Series'",
+                            "machine_name": "cleome_cultivars_queen_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Queen Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470146",
+                                "legacy_id": "5221",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Sparkler Series'",
+                            "machine_name": "cleome_cultivars_sparkler_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sparkler Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1563623",
+                                "legacy_id": "157097",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Solo'",
+                            "machine_name": "cleome_cultivars_solo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Solo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1564030",
+                                "legacy_id": "161456",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Linde Armstrong'",
+                            "machine_name": "cleome_cultivars_linde_armstrong",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Linde Armstrong",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581882",
+                                "legacy_id": "209917",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Spirit Series'",
+                            "machine_name": "cleome_cultivars_spirit_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spirit Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582535",
+                                "legacy_id": "210660",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'White Spider'",
+                            "machine_name": "cleome_cultivars_white_spider",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "White Spider",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585234",
+                                "legacy_id": "220177",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] Clio Series \u2122",
+                            "machine_name": "cleome_cultivars_clio_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Clio Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1610281",
+                                "legacy_id": "383242",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] 'Damask'",
+                            "machine_name": "cleome_cultivars_damask",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Damask",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631279",
+                                "legacy_id": "249015",
+                                "fgsid": "7981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Cleome [Cultivars] Pequena Rosalita \u00ae",
+                            "machine_name": "cleome_cultivars_pequena_rosalita",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Pequena Rosalita",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleome_cultivars",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2403881",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1541004399"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408642",
+                        "legacy_id": "2",
+                        "fgsid": "7981",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome affinis",
+                    "machine_name": "cleome_affinis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408643",
+                        "legacy_id": "294",
+                        "fgsid": "7982",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome augustifolia",
+                    "machine_name": "cleome_augustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cleome augustifolia petersiana",
+                            "machine_name": "cleome_augustifolia_petersiana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "petersiana",
+                            "authorities": "Cv.",
+                            "naming_authorities": "Kers.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "cleome_augustifolia",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470147",
+                                "legacy_id": "5222",
+                                "fgsid": "7983",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408644",
+                        "legacy_id": "1370",
+                        "fgsid": "7983",
+                        "legacy_from_data_cross_ref": [
+                            "+C. tenella"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome dendroides",
+                    "machine_name": "cleome_dendroides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Schult.f.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408645",
+                        "legacy_id": "4726",
+                        "fgsid": "7984",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome dodecandra",
+                    "machine_name": "cleome_dodecandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I???",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408646",
+                        "legacy_id": "5040",
+                        "fgsid": "7985",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome glaucescens",
+                    "machine_name": "cleome_glaucescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408647",
+                        "legacy_id": "6656",
+                        "fgsid": "7986",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome gynandra",
+                    "machine_name": "cleome_gynandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408648",
+                        "legacy_id": "7050",
+                        "fgsid": "7987",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome hirta",
+                    "machine_name": "cleome_hirta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408649",
+                        "legacy_id": "7529",
+                        "fgsid": "7989",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome isomeris",
+                    "machine_name": "cleome_isomeris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408650",
+                        "legacy_id": "70860",
+                        "fgsid": "7990",
+                        "legacy_from_data_cross_ref": [
+                            "+Isomeris arborea"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome lutea",
+                    "machine_name": "cleome_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408651",
+                        "legacy_id": "9629",
+                        "fgsid": "7991",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome maculata",
+                    "machine_name": "cleome_maculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408652",
+                        "legacy_id": "9842",
+                        "fgsid": "7992",
+                        "legacy_from_data_cross_ref": [
+                            "+Polanisia maculata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome monophylla",
+                    "machine_name": "cleome_monophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408653",
+                        "legacy_id": "10669",
+                        "fgsid": "7993",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome oxyphylla",
+                    "machine_name": "cleome_oxyphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Burch.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cleome oxyphylla robusta",
+                            "machine_name": "cleome_oxyphylla_robusta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "robusta",
+                            "authorities": "Cv.",
+                            "naming_authorities": "Kers.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cleome_oxyphylla",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470148",
+                                "legacy_id": "5223",
+                                "fgsid": "7994",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408654",
+                        "legacy_id": "11832",
+                        "fgsid": "7994",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome pentaphylla*",
+                    "machine_name": "cleome_pentaphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cleome_gynandra",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1408655",
+                        "legacy_id": "12296",
+                        "fgsid": "7995",
+                        "legacy_from_data_cross_ref": [
+                            "+C. gynandra"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome rubella",
+                    "machine_name": "cleome_rubella",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Burch.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408656",
+                        "legacy_id": "14080",
+                        "fgsid": "7996",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome rutidosperma",
+                    "machine_name": "cleome_rutidosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408657",
+                        "legacy_id": "14221",
+                        "fgsid": "7997",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome serrulata",
+                    "machine_name": "cleome_serrulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Pursh.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408658",
+                        "legacy_id": "14924",
+                        "fgsid": "7998",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome speciosa",
+                    "machine_name": "cleome_speciosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Raf.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408659",
+                        "legacy_id": "15309",
+                        "fgsid": "7999",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome spinosa",
+                    "machine_name": "cleome_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408660",
+                        "legacy_id": "15394",
+                        "fgsid": "8000",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome viscosa",
+                    "machine_name": "cleome_viscosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408661",
+                        "legacy_id": "17453",
+                        "fgsid": "8001",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome hassleriana",
+                    "machine_name": "cleome_hassleriana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Chodat.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cleome hassleriana Senorita Series \u2122",
+                            "machine_name": "cleome_hassleriana_senorita_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Senorita Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "cleome_hassleriana",
+                            "genus": "cleome",
+                            "family": "cleomaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1606173",
+                                "legacy_id": "279982",
+                                "fgsid": "40412",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435281",
+                        "legacy_id": "18391",
+                        "fgsid": "40412",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome arborea",
+                    "machine_name": "cleome_arborea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "HBK.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437145",
+                        "legacy_id": "1021",
+                        "fgsid": "40912",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleome marseillei",
+                    "machine_name": "cleome_marseillei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Wildem.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446269",
+                        "legacy_id": "44623",
+                        "fgsid": "84895",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cleome multicaulis",
+                    "machine_name": "cleome_multicaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450982",
+                        "legacy_id": "10819",
+                        "fgsid": "129884",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cleome graveolens",
+                    "machine_name": "cleome_graveolens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Schult.f.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456584",
+                        "legacy_id": "6914",
+                        "fgsid": "138240",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cleome cleomoides",
+                    "machine_name": "cleome_cleomoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Iltis.",
+                    "description": null,
+                    "genus": "cleome",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2275676",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1521741660"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385265",
+                "legacy_id": "1343",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Cleomella",
+            "machine_name": "cleomella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "DC.",
+            "description": null,
+            "family": "cleomaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cleomella [Cultivars]",
+                    "machine_name": "cleomella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleomella",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394860",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Cleomella angustifolia",
+                    "machine_name": "cleomella_angustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "cleomella",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455695",
+                        "legacy_id": "827",
+                        "fgsid": "120299",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cleomella palmeriana",
+                    "machine_name": "cleomella_palmeriana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "M.E. Jones.",
+                    "description": null,
+                    "genus": "cleomella",
+                    "family": "cleomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458010",
+                        "legacy_id": "72069",
+                        "fgsid": "136446",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394859",
+                "legacy_id": "21944",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

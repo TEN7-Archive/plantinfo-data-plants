@@ -1,0 +1,109 @@
+{
+    "name": "Grubbiaceae",
+    "machine_name": "grubbiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Endl. & Meisn.",
+    "description": null,
+    "archival_data": {
+        "id": "2338006",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529771576"
+    },
+    "genus_items": [
+        {
+            "name": "Grubbia",
+            "machine_name": "grubbia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "P..J. Bergius.",
+            "description": null,
+            "family": "grubbiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Grubbia [Cultivars]",
+                    "machine_name": "grubbia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grubbia",
+                    "family": "grubbiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338016",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529771610"
+                    }
+                },
+                {
+                    "name": "Grubbia tomentosa",
+                    "machine_name": "grubbia_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Harms.",
+                    "description": null,
+                    "genus": "grubbia",
+                    "family": "grubbiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338021",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529771659"
+                    }
+                },
+                {
+                    "name": "Grubbia rosmarinifolia",
+                    "machine_name": "grubbia_rosmarinifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "P.J. Bergius.",
+                    "description": null,
+                    "genus": "grubbia",
+                    "family": "grubbiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338026",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529771715"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2338011",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529771610"
+            }
+        }
+    ]
+}

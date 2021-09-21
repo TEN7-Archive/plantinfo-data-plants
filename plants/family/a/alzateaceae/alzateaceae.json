@@ -1,0 +1,85 @@
+{
+    "name": "Alzateaceae",
+    "machine_name": "alzateaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "S.A. Graham..",
+    "description": null,
+    "archival_data": {
+        "id": "2326681",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527343068"
+    },
+    "genus_items": [
+        {
+            "name": "Alzatea",
+            "machine_name": "alzatea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "alzateaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Alzatea [Cultivars]",
+                    "machine_name": "alzatea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alzatea",
+                    "family": "alzateaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326691",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343118"
+                    }
+                },
+                {
+                    "name": "Alzatea verticillata",
+                    "machine_name": "alzatea_verticillata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "alzatea",
+                    "family": "alzateaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326696",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343158"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326686",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527343118"
+            }
+        }
+    ]
+}

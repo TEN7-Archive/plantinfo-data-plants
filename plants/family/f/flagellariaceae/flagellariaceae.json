@@ -1,0 +1,109 @@
+{
+    "name": "Flagellariaceae",
+    "machine_name": "flagellariaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381245",
+        "legacy_id": "177",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Flagellaria",
+            "machine_name": "flagellaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "flagellariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Flagellaria [Cultivars]",
+                    "machine_name": "flagellaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "flagellaria",
+                    "family": "flagellariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392460",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Flagellaria indica",
+                    "machine_name": "flagellaria_indica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "flagellaria",
+                    "family": "flagellariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413697",
+                        "legacy_id": "8004",
+                        "fgsid": "15399",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Flagellaria neocaledonica",
+                    "machine_name": "flagellaria_neocaledonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Schltr.",
+                    "description": null,
+                    "genus": "flagellaria",
+                    "family": "flagellariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2316466",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525973154"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392459",
+                "legacy_id": "2306",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

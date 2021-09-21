@@ -1,0 +1,154 @@
+{
+    "name": "Tapisciaceae",
+    "machine_name": "tapisciaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2328006",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527772913"
+    },
+    "genus_items": [
+        {
+            "name": "Huertea",
+            "machine_name": "huertea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Ruiz & Pavon.",
+            "description": null,
+            "family": "tapisciaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Huertea [Cultivars]",
+                    "machine_name": "huertea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "huertea",
+                    "family": "tapisciaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385008",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Huertea glandulosa",
+                    "machine_name": "huertea_glandulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "huertea",
+                    "family": "tapisciaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2328011",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527773278"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385007",
+                "legacy_id": "9100",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Tapiscia",
+            "machine_name": "tapiscia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Oliver.",
+            "description": null,
+            "family": "tapisciaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tapiscia [Cultivars]",
+                    "machine_name": "tapiscia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tapiscia",
+                    "family": "tapisciaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396740",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Tapiscia sinensis",
+                    "machine_name": "tapiscia_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "tapiscia",
+                    "family": "tapisciaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448881",
+                        "legacy_id": "15144",
+                        "fgsid": "93552",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396739",
+                "legacy_id": "16383",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

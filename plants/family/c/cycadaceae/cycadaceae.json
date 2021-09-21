@@ -1,0 +1,1306 @@
+{
+    "name": "Cycadaceae",
+    "machine_name": "cycadaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381211",
+        "legacy_id": "131",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cycas",
+            "machine_name": "cycas",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cycadaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cycas [Cultivars]",
+                    "machine_name": "cycas_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cycas [Cultivars] 'Glen Idle Blue'",
+                            "machine_name": "cycas_cultivars_glen_idle_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Glen Idle Blue",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469555",
+                                "legacy_id": "6288",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cycas [Cultivars] 'Marlborough Blue'",
+                            "machine_name": "cycas_cultivars_marlborough_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Marlborough Blue",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469556",
+                                "legacy_id": "6289",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cycas [Cultivars] 'Mt Surprise'",
+                            "machine_name": "cycas_cultivars_mt_surprise",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mt Surprise",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469557",
+                                "legacy_id": "6290",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cycas [Cultivars] 'New Caledonica?'",
+                            "machine_name": "cycas_cultivars_new_caledonica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "New Caledonica?",
+                            "authorities": "Cv.? species????",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469558",
+                                "legacy_id": "6291",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cycas [Cultivars] 'Pine Creek'",
+                            "machine_name": "cycas_cultivars_pine_creek",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pine Creek",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469559",
+                                "legacy_id": "6292",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cycas [Cultivars] 'Surprise Blue'",
+                            "machine_name": "cycas_cultivars_surprise_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Surprise Blue",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469560",
+                                "legacy_id": "6293",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cycas [Cultivars] 'Wilialak'",
+                            "machine_name": "cycas_cultivars_wilialak",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wilialak",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_cultivars",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598070",
+                                "legacy_id": "229666",
+                                "fgsid": "9673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409134",
+                        "legacy_id": "2",
+                        "fgsid": "9673",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas angulata",
+                    "machine_name": "cycas_angulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409135",
+                        "legacy_id": "813",
+                        "fgsid": "9674",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas armstrongii",
+                    "machine_name": "cycas_armstrongii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409136",
+                        "legacy_id": "1180",
+                        "fgsid": "9675",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas basaltica",
+                    "machine_name": "cycas_basaltica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cycas_media_basaltica",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1409137",
+                        "legacy_id": "1681",
+                        "fgsid": "9676",
+                        "legacy_from_data_cross_ref": [
+                            "+C. media basaltica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas brunnea",
+                    "machine_name": "cycas_brunnea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409138",
+                        "legacy_id": "2377",
+                        "fgsid": "9677",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas cairnsiana",
+                    "machine_name": "cycas_cairnsiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409139",
+                        "legacy_id": "2594",
+                        "fgsid": "9678",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas calcicola",
+                    "machine_name": "cycas_calcicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "Maconochie.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409140",
+                        "legacy_id": "2628",
+                        "fgsid": "9679",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas circinalis",
+                    "machine_name": "cycas_circinalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409141",
+                        "legacy_id": "3518",
+                        "fgsid": "9680",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas conferta",
+                    "machine_name": "cycas_conferta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409142",
+                        "legacy_id": "3837",
+                        "fgsid": "9681",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas couttsiana",
+                    "machine_name": "cycas_couttsiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409143",
+                        "legacy_id": "71534",
+                        "fgsid": "9682",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas kennedyana",
+                    "machine_name": "cycas_kennedyana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cycas_papuana",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1409144",
+                        "legacy_id": "8472",
+                        "fgsid": "9683",
+                        "legacy_from_data_cross_ref": [
+                            "+C. papuana"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas lane-poolei",
+                    "machine_name": "cycas_lane_poolei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": "C.A. Gardn.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409145",
+                        "legacy_id": "8832",
+                        "fgsid": "9684",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas media",
+                    "machine_name": "cycas_media",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cycas media basaltica",
+                            "machine_name": "cycas_media_basaltica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "basaltica",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": "Schust.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cycas_media",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469561",
+                                "legacy_id": "6294",
+                                "fgsid": "9685",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409146",
+                        "legacy_id": "10203",
+                        "fgsid": "9685",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas neocaledonica",
+                    "machine_name": "cycas_neocaledonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Linden.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409147",
+                        "legacy_id": "11107",
+                        "fgsid": "9686",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas normanbyana",
+                    "machine_name": "cycas_normanbyana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "F.J. Muell.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409148",
+                        "legacy_id": "11292",
+                        "fgsid": "9687",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas ophiolitica",
+                    "machine_name": "cycas_ophiolitica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409149",
+                        "legacy_id": "72038",
+                        "fgsid": "9688",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas papuana",
+                    "machine_name": "cycas_papuana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409150",
+                        "legacy_id": "12003",
+                        "fgsid": "9689",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas pectinata",
+                    "machine_name": "cycas_pectinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Griff.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409151",
+                        "legacy_id": "12176",
+                        "fgsid": "9690",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas pruinosa",
+                    "machine_name": "cycas_pruinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "Maconochie.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409152",
+                        "legacy_id": "13092",
+                        "fgsid": "9691",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas revoluta",
+                    "machine_name": "cycas_revoluta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cycas revoluta 'Aurea'",
+                            "machine_name": "cycas_revoluta_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_revoluta",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1606175",
+                                "legacy_id": "279984",
+                                "fgsid": "9692",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Cycas revoluta 'Sago Palm'",
+                            "machine_name": "cycas_revoluta_sago_palm",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sago Palm",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cycas_revoluta",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2614786",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1584557132"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409153",
+                        "legacy_id": "13777",
+                        "fgsid": "9692",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas rumphii",
+                    "machine_name": "cycas_rumphii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409154",
+                        "legacy_id": "14178",
+                        "fgsid": "9693",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas siamensis",
+                    "machine_name": "cycas_siamensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409155",
+                        "legacy_id": "15028",
+                        "fgsid": "9694",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas taiwaniana",
+                    "machine_name": "cycas_taiwaniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Carruth.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409156",
+                        "legacy_id": "16001",
+                        "fgsid": "9695",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas thouarsii",
+                    "machine_name": "cycas_thouarsii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cycas_rumphii",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1409157",
+                        "legacy_id": "16364",
+                        "fgsid": "9696",
+                        "legacy_from_data_cross_ref": [
+                            "+C. rumphii"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas wadei",
+                    "machine_name": "cycas_wadei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": "Merrill.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409158",
+                        "legacy_id": "17530",
+                        "fgsid": "9697",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cycas chamaoensis",
+                    "machine_name": "cycas_chamaoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439254",
+                        "legacy_id": "29683",
+                        "fgsid": "60455",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas tansachana",
+                    "machine_name": "cycas_tansachana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440532",
+                        "legacy_id": "21028",
+                        "fgsid": "46109",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas taitungensis",
+                    "machine_name": "cycas_taitungensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 20",
+                    "naming_authorities": "Shen & Hill.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441413",
+                        "legacy_id": "15998",
+                        "fgsid": "43528",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas micronesica",
+                    "machine_name": "cycas_micronesica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 20",
+                    "naming_authorities": "K.D. Hill.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443202",
+                        "legacy_id": "20212",
+                        "fgsid": "43978",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas petrea",
+                    "machine_name": "cycas_petrea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446316",
+                        "legacy_id": "48745",
+                        "fgsid": "90441",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas loei",
+                    "machine_name": "cycas_loei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446317",
+                        "legacy_id": "48746",
+                        "fgsid": "90442",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas panzhihuaensis",
+                    "machine_name": "cycas_panzhihuaensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "L. Zhou & S.Y. Yang.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449689",
+                        "legacy_id": "35223",
+                        "fgsid": "70295",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas nongnoochiae",
+                    "machine_name": "cycas_nongnoochiae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455104",
+                        "legacy_id": "54902",
+                        "fgsid": "99882",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas sexeminifera",
+                    "machine_name": "cycas_sexeminifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "F.N. Wei.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455105",
+                        "legacy_id": "54904",
+                        "fgsid": "99883",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas silvestris",
+                    "machine_name": "cycas_silvestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455520",
+                        "legacy_id": "15098",
+                        "fgsid": "100147",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas canalis",
+                    "machine_name": "cycas_canalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cycas canalis carinata",
+                            "machine_name": "cycas_canalis_carinata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "carinata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cycas_canalis",
+                            "genus": "cycas",
+                            "family": "cycadaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614148",
+                                "legacy_id": "243193",
+                                "fgsid": "100148",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455521",
+                        "legacy_id": "55106",
+                        "fgsid": "100148",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas szechuanensis",
+                    "machine_name": "cycas_szechuanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "W.C. Cheng & L.K. Fu.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456729",
+                        "legacy_id": "53071",
+                        "fgsid": "146872",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas maconochiei",
+                    "machine_name": "cycas_maconochiei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Chirgwin & K.D. Hill.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459684",
+                        "legacy_id": "83764",
+                        "fgsid": "144439",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cycas seemannii",
+                    "machine_name": "cycas_seemannii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. Braun.",
+                    "description": null,
+                    "genus": "cycas",
+                    "family": "cycadaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308956",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524834051"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387777",
+                "legacy_id": "1638",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

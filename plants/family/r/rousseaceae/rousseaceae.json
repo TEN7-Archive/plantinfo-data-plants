@@ -1,0 +1,223 @@
+{
+    "name": "Rousseaceae",
+    "machine_name": "rousseaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "DC.",
+    "description": null,
+    "archival_data": {
+        "id": "2358471",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532803403"
+    },
+    "genus_items": [
+        {
+            "name": "Carpodetus",
+            "machine_name": "carpodetus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Forst. & Forst.f.",
+            "description": null,
+            "family": "rousseaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Carpodetus [Cultivars]",
+                    "machine_name": "carpodetus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carpodetus",
+                    "family": "rousseaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385838",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Carpodetus serratus",
+                    "machine_name": "carpodetus_serratus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Forst. & Forst.f.",
+                    "description": null,
+                    "genus": "carpodetus",
+                    "family": "rousseaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441560",
+                        "legacy_id": "14921",
+                        "fgsid": "44985",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385837",
+                "legacy_id": "9283",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Abrophyllum",
+            "machine_name": "abrophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "rousseaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Abrophyllum [Cultivars]",
+                    "machine_name": "abrophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "abrophyllum",
+                    "family": "rousseaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388438",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Abrophyllum ornans",
+                    "machine_name": "abrophyllum_ornans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "abrophyllum",
+                    "family": "rousseaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400877",
+                        "legacy_id": "11728",
+                        "fgsid": "90",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388437",
+                "legacy_id": "10",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Roussea",
+            "machine_name": "roussea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Sm.",
+            "description": null,
+            "family": "rousseaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Roussea [Cultivars]",
+                    "machine_name": "roussea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "roussea",
+                    "family": "rousseaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358491",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532806083"
+                    }
+                },
+                {
+                    "name": "Roussea simplex",
+                    "machine_name": "roussea_simplex",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "roussea",
+                    "family": "rousseaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532806125"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2358486",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532806083"
+            }
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "name": "Psilotaceae",
+    "machine_name": "psilotaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381485",
+        "legacy_id": "496",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Tmesipteris",
+            "machine_name": "tmesipteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Bernh.",
+            "description": null,
+            "family": "psilotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tmesipteris [Cultivars]",
+                    "machine_name": "tmesipteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tmesipteris",
+                    "family": "psilotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385808",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Tmesipteris billardieri",
+                    "machine_name": "tmesipteris_billardieri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none for this fern",
+                    "genus": "tmesipteris",
+                    "family": "psilotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440136",
+                        "legacy_id": "1945",
+                        "fgsid": "44641",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Tmesipteris ovata",
+                    "machine_name": "tmesipteris_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tmesipteris",
+                    "family": "psilotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306401",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524680611"
+                    }
+                },
+                {
+                    "name": "Tmesipteris viellardii",
+                    "machine_name": "tmesipteris_viellardii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "P.A. Dang.",
+                    "description": null,
+                    "genus": "tmesipteris",
+                    "family": "psilotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524680668"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385807",
+                "legacy_id": "9268",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Psilotum",
+            "machine_name": "psilotum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "psilotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Psilotum [Cultivars]",
+                    "machine_name": "psilotum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "psilotum",
+                    "family": "psilotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385882",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Psilotum nudum",
+                    "machine_name": "psilotum_nudum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Beauv.",
+                    "description": null,
+                    "genus": "psilotum",
+                    "family": "psilotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Psilotum nudum 'Ho O Ryu'",
+                            "machine_name": "psilotum_nudum_ho_o_ryu",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ho O Ryu",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "psilotum_nudum",
+                            "genus": "psilotum",
+                            "family": "psilotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616453",
+                                "legacy_id": "241803",
+                                "fgsid": "45159",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Psilotum nudum 'Yoji Bunryu'",
+                            "machine_name": "psilotum_nudum_yoji_bunryu",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yoji Bunryu",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "psilotum_nudum",
+                            "genus": "psilotum",
+                            "family": "psilotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2209391",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1516454108"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442272",
+                        "legacy_id": "11356",
+                        "fgsid": "45159",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Psilotum complanatum",
+                    "machine_name": "psilotum_complanatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "psilotum",
+                    "family": "psilotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2209396",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1516454208"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385881",
+                "legacy_id": "9305",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

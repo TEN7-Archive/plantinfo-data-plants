@@ -1,0 +1,1347 @@
+{
+    "name": "Myricaceae",
+    "machine_name": "myricaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381324",
+        "legacy_id": "287",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Comptonia",
+            "machine_name": "comptonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L'Herit.",
+            "description": null,
+            "family": "myricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Comptonia [Cultivars]",
+                    "machine_name": "comptonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "comptonia",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386098",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Comptonia peregrina",
+                    "machine_name": "comptonia_peregrina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Coult.",
+                    "description": null,
+                    "genus": "comptonia",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404147",
+                        "legacy_id": "12318",
+                        "fgsid": "8397",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386097",
+                "legacy_id": "1442",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Myrica",
+            "machine_name": "myrica",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "myricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Myrica [Cultivars]",
+                    "machine_name": "myrica_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390704",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Myrica adenophora",
+                    "machine_name": "myrica_adenophora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Myrica adenophora kusanoi",
+                            "machine_name": "myrica_adenophora_kusanoi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "kusanoi",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "myrica_adenophora",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482705",
+                                "legacy_id": "19736",
+                                "fgsid": "23661",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416066",
+                        "legacy_id": "200",
+                        "fgsid": "23661",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica californica",
+                    "machine_name": "myrica_californica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Cham. & Schlecten.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416067",
+                        "legacy_id": "2647",
+                        "fgsid": "23662",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica caroliniensis",
+                    "machine_name": "myrica_caroliniensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "morella_pensylvanica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1416068",
+                        "legacy_id": "2996",
+                        "fgsid": "23663",
+                        "legacy_from_data_cross_ref": [
+                            "Morella pensylvanica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica cerifera",
+                    "machine_name": "myrica_cerifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Myrica cerifera 'Don's Dwarf'",
+                            "machine_name": "myrica_cerifera_don_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Don's Dwarf",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521779",
+                                "legacy_id": "92656",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Emperor'",
+                            "machine_name": "myrica_cerifera_emperor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Emperor",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521780",
+                                "legacy_id": "92657",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Fairfax'",
+                            "machine_name": "myrica_cerifera_fairfax",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fairfax",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521781",
+                                "legacy_id": "92658",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Luray'",
+                            "machine_name": "myrica_cerifera_luray",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Luray",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521782",
+                                "legacy_id": "92659",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Pumila'",
+                            "machine_name": "myrica_cerifera_pumila",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pumila",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521783",
+                                "legacy_id": "92660",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Lynn's Dwarf'",
+                            "machine_name": "myrica_cerifera_lynn_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lynn's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1542478",
+                                "legacy_id": "120915",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Hiawassee'",
+                            "machine_name": "myrica_cerifera_hiawassee",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hiawassee",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556667",
+                                "legacy_id": "153753",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Robbie Green'",
+                            "machine_name": "myrica_cerifera_robbie_green",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Robbie Green",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557511",
+                                "legacy_id": "152366",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Jamaica Road'",
+                            "machine_name": "myrica_cerifera_jamaica_road",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jamaica Road",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571430",
+                                "legacy_id": "196296",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera 'Escarosa'",
+                            "machine_name": "myrica_cerifera_escarosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Escarosa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1589435",
+                                "legacy_id": "315447",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera Suwannee Elf \u2122",
+                            "machine_name": "myrica_cerifera_suwannee_elf",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Suwannee Elf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Escarosa",
+                                "summary": null,
+                                "format": null,
+                                "safe_value": "Escarosa",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598405",
+                                "legacy_id": "229951",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Myrica cerifera Augusta Green \u2122",
+                            "machine_name": "myrica_cerifera_augusta_green",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Augusta Green",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "myrica_cerifera",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620174",
+                                "legacy_id": "340609",
+                                "fgsid": "23664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416069",
+                        "legacy_id": "3210",
+                        "fgsid": "23664",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica esculenta",
+                    "machine_name": "myrica_esculenta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "myrica_nagi",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1416070",
+                        "legacy_id": "5621",
+                        "fgsid": "23665",
+                        "legacy_from_data_cross_ref": [
+                            "+M. nagi"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica faya",
+                    "machine_name": "myrica_faya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Ait.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416071",
+                        "legacy_id": "5840",
+                        "fgsid": "23666",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica gale",
+                    "machine_name": "myrica_gale",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416072",
+                        "legacy_id": "6390",
+                        "fgsid": "23667",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica heterophylla",
+                    "machine_name": "myrica_heterophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II",
+                    "naming_authorities": "Rafin.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416073",
+                        "legacy_id": "7427",
+                        "fgsid": "23668",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica inodora",
+                    "machine_name": "myrica_inodora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Bartr.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416074",
+                        "legacy_id": "8048",
+                        "fgsid": "23669",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica nagi",
+                    "machine_name": "myrica_nagi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416075",
+                        "legacy_id": "10975",
+                        "fgsid": "23670",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica pensylvanica",
+                    "machine_name": "myrica_pensylvanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus not p",
+                    "naming_authorities": "Loisel.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Myrica pensylvanica 'Wildwood'",
+                            "machine_name": "myrica_pensylvanica_wildwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wildwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_pensylvanica",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598767",
+                                "legacy_id": "232683",
+                                "fgsid": "23671",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Myrica pensylvanica Bobbee \u2122",
+                            "machine_name": "myrica_pensylvanica_bobbee",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Bobbee",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "myrica_pensylvanica",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "morella_pensylvanica_bobbee",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1656981",
+                                "legacy_id": "270557",
+                                "fgsid": "23671",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Myrica pensylvanica 'Morton'",
+                            "machine_name": "myrica_pensylvanica_morton",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Morton",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_pensylvanica",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1668782",
+                                "legacy_id": "402727",
+                                "fgsid": "23671",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "morella_pensylvanica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1416361",
+                        "legacy_id": "12274",
+                        "fgsid": "23671",
+                        "legacy_from_data_cross_ref": [
+                            "Morella pensylvanica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica pumila",
+                    "machine_name": "myrica_pumila",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Myrica pumila 'Willow Leaf'",
+                            "machine_name": "myrica_pumila_willow_leaf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Willow Leaf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myrica_pumila",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573796",
+                                "legacy_id": "195245",
+                                "fgsid": "23672",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416362",
+                        "legacy_id": "13298",
+                        "fgsid": "23672",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica rubra",
+                    "machine_name": "myrica_rubra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Sieb. & Zucc.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Myrica rubra acuminata",
+                            "machine_name": "myrica_rubra_acuminata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "acuminata",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "myrica_rubra",
+                            "genus": "myrica",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482706",
+                                "legacy_id": "19737",
+                                "fgsid": "23673",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416363",
+                        "legacy_id": "14103",
+                        "fgsid": "23673",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica serrata",
+                    "machine_name": "myrica_serrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416364",
+                        "legacy_id": "14914",
+                        "fgsid": "23674",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica pusilla",
+                    "machine_name": "myrica_pusilla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Rafin.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436117",
+                        "legacy_id": "13361",
+                        "fgsid": "41933",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myrica pavonis",
+                    "machine_name": "myrica_pavonis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "C. DC.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449226",
+                        "legacy_id": "50748",
+                        "fgsid": "93905",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Myrica nana",
+                    "machine_name": "myrica_nana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. Chev.",
+                    "description": null,
+                    "genus": "myrica",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2320651",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526500273"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390703",
+                "legacy_id": "3710",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Morella",
+            "machine_name": "morella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "MBOT",
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "myricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Morella [Cultivars]",
+                    "machine_name": "morella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "morella",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396804",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Morella pensylvanica",
+                    "machine_name": "morella_pensylvanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Am Nurseryman200\/10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "morella",
+                    "family": "myricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Morella pensylvanica 'Willowwood'",
+                            "machine_name": "morella_pensylvanica_willowwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Willowwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "morella_pensylvanica",
+                            "genus": "morella",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1569739",
+                                "legacy_id": "183037",
+                                "fgsid": "95457",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Morella pensylvanica 'Bayview'",
+                            "machine_name": "morella_pensylvanica_bayview",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bayview",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "morella_pensylvanica",
+                            "genus": "morella",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605445",
+                                "legacy_id": "277585",
+                                "fgsid": "95457",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Morella pensylvanica Bobbee \u2122",
+                            "machine_name": "morella_pensylvanica_bobbee",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Bobbee",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "morella_pensylvanica",
+                            "genus": "morella",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1630051",
+                                "legacy_id": "248491",
+                                "fgsid": "95457",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Morella pensylvanica Silver Sprite \u2122",
+                            "machine_name": "morella_pensylvanica_silver_sprite",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Silver Sprite",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "morella_pensylvanica",
+                            "genus": "morella",
+                            "family": "myricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631514",
+                                "legacy_id": "246814",
+                                "fgsid": "95457",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450328",
+                        "legacy_id": "12274",
+                        "fgsid": "95457",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Morella quercifolia",
+                    "machine_name": "morella_quercifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Killick.",
+                    "description": null,
+                    "genus": "morella",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450648",
+                        "legacy_id": "13472",
+                        "fgsid": "129727",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Morella californica",
+                    "machine_name": "morella_californica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "Wilbur.",
+                    "description": null,
+                    "genus": "morella",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452702",
+                        "legacy_id": "2647",
+                        "fgsid": "113800",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Morella cerifera",
+                    "machine_name": "morella_cerifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "morella",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453569",
+                        "legacy_id": "3210",
+                        "fgsid": "126121",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Morella inodora",
+                    "machine_name": "morella_inodora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "morella",
+                    "family": "myricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456847",
+                        "legacy_id": "8048",
+                        "fgsid": "137819",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396803",
+                "legacy_id": "16742",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

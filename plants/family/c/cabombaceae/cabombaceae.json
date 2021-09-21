@@ -1,0 +1,202 @@
+{
+    "name": "Cabombaceae",
+    "machine_name": "cabombaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381169",
+        "legacy_id": "66",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cabomba",
+            "machine_name": "cabomba",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "cabombaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cabomba [Cultivars]",
+                    "machine_name": "cabomba_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cabomba",
+                    "family": "cabombaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381864",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cabomba caroliniana",
+                    "machine_name": "cabomba_caroliniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "cabomba",
+                    "family": "cabombaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398856",
+                        "legacy_id": "2992",
+                        "fgsid": "5427",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cabomba pulcherrima",
+                    "machine_name": "cabomba_pulcherrima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal HOrt.",
+                    "naming_authorities": "Fassett.",
+                    "description": null,
+                    "genus": "cabomba",
+                    "family": "cabombaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440262",
+                        "legacy_id": "13261",
+                        "fgsid": "62035",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cabomba aquatica",
+                    "machine_name": "cabomba_aquatica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "cabomba",
+                    "family": "cabombaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309181",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524836383"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381863",
+                "legacy_id": "904",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Brasenia",
+            "machine_name": "brasenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Schreber.",
+            "description": null,
+            "family": "cabombaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Brasenia [Cultivars]",
+                    "machine_name": "brasenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brasenia",
+                    "family": "cabombaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394036",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Brasenia schreberi",
+                    "machine_name": "brasenia_schreberi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "J.F. Gmel.",
+                    "description": null,
+                    "genus": "brasenia",
+                    "family": "cabombaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403104",
+                        "legacy_id": "14621",
+                        "fgsid": "4975",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394035",
+                "legacy_id": "810",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

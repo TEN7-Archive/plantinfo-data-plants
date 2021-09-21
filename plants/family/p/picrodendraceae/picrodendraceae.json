@@ -1,0 +1,340 @@
+{
+    "name": "Picrodendraceae",
+    "machine_name": "picrodendraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381510",
+        "legacy_id": "1000",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Picrodendron",
+            "machine_name": "picrodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Griseb.",
+            "description": null,
+            "family": "picrodendraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Picrodendron [Cultivars]",
+                    "machine_name": "picrodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "picrodendron",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395306",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Picrodendron baccatum",
+                    "machine_name": "picrodendron_baccatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Krug & Urb. & Urb.",
+                    "description": null,
+                    "genus": "picrodendron",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461317",
+                        "legacy_id": "30803",
+                        "fgsid": "139425",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Picrodendron macrocarpum",
+                    "machine_name": "picrodendron_macrocarpum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Britton.",
+                    "description": null,
+                    "genus": "picrodendron",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325531",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527107793"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395305",
+                "legacy_id": "26466",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Hyaenanche",
+            "machine_name": "hyaenanche",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Lamb.",
+            "description": null,
+            "family": "picrodendraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hyaenanche [Cultivars]",
+                    "machine_name": "hyaenanche_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hyaenanche",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395604",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hyaenanche globosa",
+                    "machine_name": "hyaenanche_globosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Lamb.",
+                    "description": null,
+                    "genus": "hyaenanche",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460786",
+                        "legacy_id": "6689",
+                        "fgsid": "146008",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395603",
+                "legacy_id": "28385",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Tetracoccus",
+            "machine_name": "tetracoccus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Engelm. & Parry.",
+            "description": null,
+            "family": "picrodendraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tetracoccus [Cultivars]",
+                    "machine_name": "tetracoccus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tetracoccus",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325516",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527107581"
+                    }
+                },
+                {
+                    "name": "Tetracoccus dioicus",
+                    "machine_name": "tetracoccus_dioicus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Parry.",
+                    "description": null,
+                    "genus": "tetracoccus",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325521",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527107625"
+                    }
+                },
+                {
+                    "name": "Tetracoccus hallii",
+                    "machine_name": "tetracoccus_hallii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brandegee.",
+                    "description": null,
+                    "genus": "tetracoccus",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325526",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527107661"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2325511",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527107581"
+            }
+        },
+        {
+            "name": "Austrobuxus",
+            "machine_name": "austrobuxus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Miq.",
+            "description": null,
+            "family": "picrodendraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Austrobuxus [Cultivars]",
+                    "machine_name": "austrobuxus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "austrobuxus",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325541",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527107874"
+                    }
+                },
+                {
+                    "name": "Austrobuxus montis-do",
+                    "machine_name": "austrobuxus_montis_do",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Airy Shaw.",
+                    "description": null,
+                    "genus": "austrobuxus",
+                    "family": "picrodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527107940"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2325536",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527107874"
+            }
+        }
+    ]
+}

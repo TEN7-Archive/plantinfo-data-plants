@@ -1,0 +1,109 @@
+{
+    "name": "Oncothecaceae",
+    "machine_name": "oncothecaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Kobuski & Airy Shaw.",
+    "description": null,
+    "archival_data": {
+        "id": "2339076",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530015854"
+    },
+    "genus_items": [
+        {
+            "name": "Oncotheca",
+            "machine_name": "oncotheca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "oncothecaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Oncotheca [Cultivars]",
+                    "machine_name": "oncotheca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "oncotheca",
+                    "family": "oncothecaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339086",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530015893"
+                    }
+                },
+                {
+                    "name": "Oncotheca humboldtiana",
+                    "machine_name": "oncotheca_humboldtiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Morat & Veillon.",
+                    "description": null,
+                    "genus": "oncotheca",
+                    "family": "oncothecaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339091",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530015931"
+                    }
+                },
+                {
+                    "name": "Oncotheca balansae",
+                    "machine_name": "oncotheca_balansae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "oncotheca",
+                    "family": "oncothecaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339096",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530015966"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339081",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530015893"
+            }
+        }
+    ]
+}

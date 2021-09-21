@@ -1,0 +1,278 @@
+{
+    "name": "Philydraceae",
+    "machine_name": "philydraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381352",
+        "legacy_id": "323",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Philydrella",
+            "machine_name": "philydrella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Caruel.",
+            "description": null,
+            "family": "philydraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Philydrella [Cultivars]",
+                    "machine_name": "philydrella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "philydrella",
+                    "family": "philydraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382210",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Philydrella pygmaea",
+                    "machine_name": "philydrella_pygmaea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "philydrella",
+                    "family": "philydraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423365",
+                        "legacy_id": "13389",
+                        "fgsid": "26872",
+                        "legacy_from_data_cross_ref": [
+                            "+Pritzelia pygmaea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382209",
+                "legacy_id": "4298",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Philydrum",
+            "machine_name": "philydrum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Banks & Gaertner.",
+            "description": null,
+            "family": "philydraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Philydrum [Cultivars]",
+                    "machine_name": "philydrum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "philydrum",
+                    "family": "philydraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382212",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Philydrum lanuginosum",
+                    "machine_name": "philydrum_lanuginosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Banks & Gaertner.",
+                    "description": null,
+                    "genus": "philydrum",
+                    "family": "philydraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423366",
+                        "legacy_id": "8859",
+                        "fgsid": "26873",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382211",
+                "legacy_id": "4299",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Helmholtzia",
+            "machine_name": "helmholtzia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "philydraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Helmholtzia [Cultivars]",
+                    "machine_name": "helmholtzia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "helmholtzia",
+                    "family": "philydraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382796",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Helmholtzia glaberrima",
+                    "machine_name": "helmholtzia_glaberrima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Caruel.",
+                    "description": null,
+                    "genus": "helmholtzia",
+                    "family": "philydraceae",
+                    "variety_items": [
+                        {
+                            "name": "Helmholtzia glaberrima 'Stream Lily'",
+                            "machine_name": "helmholtzia_glaberrima_stream_lily",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Stream Lily",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "helmholtzia_glaberrima",
+                            "genus": "helmholtzia",
+                            "family": "philydraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578615",
+                                "legacy_id": "199116",
+                                "fgsid": "18030",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1411992",
+                        "legacy_id": "6613",
+                        "fgsid": "18030",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Helmholtzia acorifolia",
+                    "machine_name": "helmholtzia_acorifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "F.Muell.",
+                    "description": null,
+                    "genus": "helmholtzia",
+                    "family": "philydraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448131",
+                        "legacy_id": "50063",
+                        "fgsid": "92395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382795",
+                "legacy_id": "2670",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "name": "Cibotiaceae",
+    "machine_name": "cibotiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Korali.",
+    "description": null,
+    "archival_data": {
+        "id": "2403961",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1541244704"
+    },
+    "genus_items": [
+        {
+            "name": "Cibotium",
+            "machine_name": "cibotium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Kaulf.",
+            "description": null,
+            "family": "cibotiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cibotium [Cultivars]",
+                    "machine_name": "cibotium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cibotium",
+                    "family": "cibotiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381678",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Cibotium glaucum",
+                    "machine_name": "cibotium_glaucum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Hook. & Arn.",
+                    "description": null,
+                    "genus": "cibotium",
+                    "family": "cibotiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437500",
+                        "legacy_id": "6672",
+                        "fgsid": "41003",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cibotium schiedei",
+                    "machine_name": "cibotium_schiedei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Schltdl. & Cham.",
+                    "description": null,
+                    "genus": "cibotium",
+                    "family": "cibotiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463136",
+                        "legacy_id": "14555",
+                        "fgsid": "155942",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cibotium barometz",
+                    "machine_name": "cibotium_barometz",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "J. Sm.",
+                    "description": null,
+                    "genus": "cibotium",
+                    "family": "cibotiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307716",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524753840"
+                    }
+                },
+                {
+                    "name": "Cibotium chamissoi",
+                    "machine_name": "cibotium_chamissoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kaulf.",
+                    "description": null,
+                    "genus": "cibotium",
+                    "family": "cibotiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2565736",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1569609938"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381677",
+                "legacy_id": "6070",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

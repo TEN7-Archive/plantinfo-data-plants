@@ -1,0 +1,728 @@
+{
+    "name": "Tecophilaeaceae",
+    "machine_name": "tecophilaeaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Torr.",
+    "description": null,
+    "archival_data": {
+        "id": "2312236",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525260716"
+    },
+    "genus_items": [
+        {
+            "name": "Conanthera",
+            "machine_name": "conanthera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Ruiz & Pavon.",
+            "description": null,
+            "family": "tecophilaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Conanthera [Cultivars]",
+                    "machine_name": "conanthera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "conanthera",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386102",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Conanthera bifolia",
+                    "machine_name": "conanthera_bifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Ruiz & Pavon.",
+                    "description": null,
+                    "genus": "conanthera",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404149",
+                        "legacy_id": "1921",
+                        "fgsid": "8399",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Conanthera campanulata",
+                    "machine_name": "conanthera_campanulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "conanthera",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404150",
+                        "legacy_id": "2742",
+                        "fgsid": "8400",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Conanthera simsii*",
+                    "machine_name": "conanthera_simsii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "conanthera",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "conanthera_campanulata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1404151",
+                        "legacy_id": "15127",
+                        "fgsid": "8401",
+                        "legacy_from_data_cross_ref": [
+                            "+C. campanulata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Conanthera trimaculata",
+                    "machine_name": "conanthera_trimaculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Meigen.",
+                    "description": null,
+                    "genus": "conanthera",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445327",
+                        "legacy_id": "52468",
+                        "fgsid": "96313",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Conanthera sabulosa",
+                    "machine_name": "conanthera_sabulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "conanthera",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445328",
+                        "legacy_id": "14244",
+                        "fgsid": "96314",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386101",
+                "legacy_id": "1444",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Cyanastrum",
+            "machine_name": "cyanastrum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Oliver.",
+            "description": null,
+            "family": "tecophilaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cyanastrum [Cultivars]",
+                    "machine_name": "cyanastrum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyanastrum",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387758",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Cyanastrum hostifolium",
+                    "machine_name": "cyanastrum_hostifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "cyanastrum",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409103",
+                        "legacy_id": "7690",
+                        "fgsid": "9642",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387757",
+                "legacy_id": "1628",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Cyanella",
+            "machine_name": "cyanella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "tecophilaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cyanella [Cultivars]",
+                    "machine_name": "cyanella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyanella",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387762",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Cyanella alba",
+                    "machine_name": "cyanella_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.f.",
+                    "description": null,
+                    "genus": "cyanella",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409113",
+                        "legacy_id": "384",
+                        "fgsid": "9652",
+                        "legacy_from_data_cross_ref": [
+                            "+Ornithogalum affine"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cyanella hyacinthoides",
+                    "machine_name": "cyanella_hyacinthoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 12",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cyanella",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409114",
+                        "legacy_id": "7778",
+                        "fgsid": "9653",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cyanella lutea",
+                    "machine_name": "cyanella_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.f.",
+                    "description": null,
+                    "genus": "cyanella",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409115",
+                        "legacy_id": "9629",
+                        "fgsid": "9654",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cyanella orchidiformis",
+                    "machine_name": "cyanella_orchidiformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "cyanella",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437855",
+                        "legacy_id": "18473",
+                        "fgsid": "41102",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387761",
+                "legacy_id": "1630",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Tecophilaea",
+            "machine_name": "tecophilaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Leyb.",
+            "description": null,
+            "family": "tecophilaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tecophilaea cyanocrocus",
+                    "machine_name": "tecophilaea_cyanocrocus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Leyb.",
+                    "description": null,
+                    "genus": "tecophilaea",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [
+                        {
+                            "name": "Tecophilaea cyanocrocus 'Leichtlinii'",
+                            "machine_name": "tecophilaea_cyanocrocus_leichtlinii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Leichtlinii",
+                            "authorities": "Royal Hort change",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tecophilaea_cyanocrocus",
+                            "genus": "tecophilaea",
+                            "family": "tecophilaeaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491279",
+                                "legacy_id": "32951",
+                                "fgsid": "34373",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        },
+                        {
+                            "name": "Tecophilaea cyanocrocus 'Violacea'",
+                            "machine_name": "tecophilaea_cyanocrocus_violacea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Violacea",
+                            "authorities": "Royal Hort change",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tecophilaea_cyanocrocus",
+                            "genus": "tecophilaea",
+                            "family": "tecophilaeaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491280",
+                                "legacy_id": "32952",
+                                "fgsid": "34373",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        },
+                        {
+                            "name": "Tecophilaea cyanocrocus 'Craigton Cloud'",
+                            "machine_name": "tecophilaea_cyanocrocus_craigton_cloud",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Craigton Cloud",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tecophilaea_cyanocrocus",
+                            "genus": "tecophilaea",
+                            "family": "tecophilaeaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1594215",
+                                "legacy_id": "368946",
+                                "fgsid": "34373",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Tecophilaea cyanocrocus 'Leybold'",
+                            "machine_name": "tecophilaea_cyanocrocus_leybold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Leybold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tecophilaea_cyanocrocus",
+                            "genus": "tecophilaea",
+                            "family": "tecophilaeaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1658211",
+                                "legacy_id": "216733",
+                                "fgsid": "34373",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429352",
+                        "legacy_id": "4411",
+                        "fgsid": "34373",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tecophilaea leichtlinii",
+                    "machine_name": "tecophilaea_leichtlinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "tecophilaea",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445371",
+                        "legacy_id": "9053",
+                        "fgsid": "73255",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Tecophilaea violiflora",
+                    "machine_name": "tecophilaea_violiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Bert. & Colla.",
+                    "description": null,
+                    "genus": "tecophilaea",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446989",
+                        "legacy_id": "45284",
+                        "fgsid": "85791",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Tecophilaea [Cultivars]",
+                    "machine_name": "tecophilaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tecophilaea",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [
+                        {
+                            "name": "Tecophilaea [Cultivars] 'Storm Cloud'",
+                            "machine_name": "tecophilaea_cultivars_storm_cloud",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Storm Cloud",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tecophilaea_cultivars",
+                            "genus": "tecophilaea",
+                            "family": "tecophilaeaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618100",
+                                "legacy_id": "342365",
+                                "fgsid": "128123",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455802",
+                        "legacy_id": "2",
+                        "fgsid": "128123",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390921",
+                "legacy_id": "5435",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Odontostomum",
+            "machine_name": "odontostomum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Torr.",
+            "description": null,
+            "family": "tecophilaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Odontostomum [Cultivars]",
+                    "machine_name": "odontostomum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "odontostomum",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391788",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Odontostomum hartwegii",
+                    "machine_name": "odontostomum_hartwegii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "odontostomum",
+                    "family": "tecophilaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425858",
+                        "legacy_id": "7197",
+                        "fgsid": "24578",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391787",
+                "legacy_id": "3916",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

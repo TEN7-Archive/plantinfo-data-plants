@@ -1,0 +1,183 @@
+{
+    "name": "Torricelliaceae",
+    "machine_name": "torricelliaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "H.H. Hu.",
+    "description": null,
+    "archival_data": {
+        "id": "2360066",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1533300339"
+    },
+    "genus_items": [
+        {
+            "name": "Aralidium",
+            "machine_name": "aralidium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Miq.",
+            "description": null,
+            "family": "torricelliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aralidium [Cultivars]",
+                    "machine_name": "aralidium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aralidium",
+                    "family": "torricelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360076",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533300376"
+                    }
+                },
+                {
+                    "name": "Aralidium pinnatifidum",
+                    "machine_name": "aralidium_pinnatifidum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "aralidium",
+                    "family": "torricelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360081",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533300409"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2360071",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1533300376"
+            }
+        },
+        {
+            "name": "Torricellia",
+            "machine_name": "torricellia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "DC.",
+            "description": null,
+            "family": "torricelliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Torricellia [Cultivars]",
+                    "machine_name": "torricellia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "torricellia",
+                    "family": "torricelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360091",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533300506"
+                    }
+                },
+                {
+                    "name": "Torricellia angulata",
+                    "machine_name": "torricellia_angulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Oliv.",
+                    "description": null,
+                    "genus": "torricellia",
+                    "family": "torricelliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Torricellia angulata intermedia",
+                            "machine_name": "torricellia_angulata_intermedia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "intermedia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "torricellia_angulata",
+                            "genus": "torricellia",
+                            "family": "torricelliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2360101",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1533300576"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360096",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533300550"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2360086",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1533300506"
+            }
+        }
+    ]
+}

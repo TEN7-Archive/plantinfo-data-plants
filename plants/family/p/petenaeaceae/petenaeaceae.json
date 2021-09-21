@@ -1,0 +1,85 @@
+{
+    "name": "Petenaeaceae",
+    "machine_name": "petenaeaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Christenh. & M.F. Fay & M.W. Chase.",
+    "description": null,
+    "archival_data": {
+        "id": "2327966",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527772369"
+    },
+    "genus_items": [
+        {
+            "name": "Petenaea",
+            "machine_name": "petenaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Lundell.",
+            "description": null,
+            "family": "petenaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Petenaea [Cultivars]",
+                    "machine_name": "petenaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "petenaea",
+                    "family": "petenaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527772397"
+                    }
+                },
+                {
+                    "name": "Petenaea cordata",
+                    "machine_name": "petenaea_cordata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Lundell.",
+                    "description": null,
+                    "genus": "petenaea",
+                    "family": "petenaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327981",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527772439"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2327971",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527772397"
+            }
+        }
+    ]
+}

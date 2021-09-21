@@ -1,0 +1,157 @@
+{
+    "name": "Blandfordiaceae",
+    "machine_name": "blandfordiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "R. Dahlgren & Clifford.",
+    "description": null,
+    "archival_data": {
+        "id": "2312111",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525208466"
+    },
+    "genus_items": [
+        {
+            "name": "Blandfordia",
+            "machine_name": "blandfordia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Sm.",
+            "description": null,
+            "family": "blandfordiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Blandfordia [Cultivars]",
+                    "machine_name": "blandfordia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "blandfordia",
+                    "family": "blandfordiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393874",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Blandfordia cunninghamii",
+                    "machine_name": "blandfordia_cunninghamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "blandfordia",
+                    "family": "blandfordiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401904",
+                        "legacy_id": "4323",
+                        "fgsid": "4649",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Blandfordia grandiflora",
+                    "machine_name": "blandfordia_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "blandfordia",
+                    "family": "blandfordiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401905",
+                        "legacy_id": "6879",
+                        "fgsid": "4650",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Blandfordia nobilis",
+                    "machine_name": "blandfordia_nobilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "blandfordia",
+                    "family": "blandfordiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401906",
+                        "legacy_id": "11262",
+                        "fgsid": "4651",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Blandfordia punicea",
+                    "machine_name": "blandfordia_punicea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Sweet.",
+                    "description": null,
+                    "genus": "blandfordia",
+                    "family": "blandfordiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401907",
+                        "legacy_id": "13319",
+                        "fgsid": "4652",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393873",
+                "legacy_id": "727",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

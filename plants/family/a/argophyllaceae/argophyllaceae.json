@@ -1,0 +1,731 @@
+{
+    "name": "Argophyllaceae",
+    "machine_name": "argophyllaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2339281",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530022135"
+    },
+    "genus_items": [
+        {
+            "name": "Corokia",
+            "machine_name": "corokia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "A. Cunn.",
+            "description": null,
+            "family": "argophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Corokia buddleioides",
+                    "machine_name": "corokia_buddleioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Cunn.",
+                    "description": null,
+                    "genus": "corokia",
+                    "family": "argophyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Corokia buddleioides 'Coco'",
+                            "machine_name": "corokia_buddleioides_coco",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Coco",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_buddleioides",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2357341",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532694494"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405341",
+                        "legacy_id": "2418",
+                        "fgsid": "8731",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Corokia carpodetoides",
+                    "machine_name": "corokia_carpodetoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "corokia",
+                    "family": "argophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405342",
+                        "legacy_id": "71418",
+                        "fgsid": "8732",
+                        "legacy_from_data_cross_ref": [
+                            "+Colmeiroa carpodetoides"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Corokia cotoneaster",
+                    "machine_name": "corokia_cotoneaster",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Raoul.",
+                    "description": null,
+                    "genus": "corokia",
+                    "family": "argophyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Corokia cotoneaster 'Little Prince'",
+                            "machine_name": "corokia_cotoneaster_little_prince",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Little Prince",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_cotoneaster",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567784",
+                                "legacy_id": "178123",
+                                "fgsid": "8733",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Corokia cotoneaster 'Geentry's Ghost'",
+                            "machine_name": "corokia_cotoneaster_geentry_s_ghost",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Geentry's Ghost",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_cotoneaster",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493641",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736629"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405343",
+                        "legacy_id": "4099",
+                        "fgsid": "8733",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Corokia virgata",
+                    "machine_name": "corokia_virgata",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Metcalfe.",
+                    "description": null,
+                    "genus": "corokia",
+                    "family": "argophyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Corokia virgata 'Coppershine'",
+                            "machine_name": "corokia_virgata_coppershine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Coppershine",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471030",
+                                "legacy_id": "5453",
+                                "fgsid": "8734",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Bronze King'",
+                            "machine_name": "corokia_virgata_bronze_king",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bronze King",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1501785",
+                                "legacy_id": "74846",
+                                "fgsid": "8734",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Yellow Wonder'",
+                            "machine_name": "corokia_virgata_yellow_wonder",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yellow Wonder",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1501786",
+                                "legacy_id": "74847",
+                                "fgsid": "8734",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Sunsplash'",
+                            "machine_name": "corokia_virgata_sunsplash",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunsplash",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1566881",
+                                "legacy_id": "177331",
+                                "fgsid": "72955",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Frosted Chocolate'",
+                            "machine_name": "corokia_virgata_frosted_chocolate",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frosted Chocolate",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1610321",
+                                "legacy_id": "385088",
+                                "fgsid": "8734",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Silver Ghost'",
+                            "machine_name": "corokia_virgata_silver_ghost",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silver Ghost",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2357346",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532694720"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Pink Delight'",
+                            "machine_name": "corokia_virgata_pink_delight",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Delight",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2357386",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532694845"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Geenty's Green'",
+                            "machine_name": "corokia_virgata_geenty_s_green",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Geenty's Green",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493626",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736374"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Welsh Whiskey'",
+                            "machine_name": "corokia_virgata_welsh_whiskey",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Welsh Whiskey",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493631",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736450"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Limey'",
+                            "machine_name": "corokia_virgata_limey",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Limey",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493636",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736545"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Havering'",
+                            "machine_name": "corokia_virgata_havering",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Havering",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493646",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736697"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'County Park Lemon'",
+                            "machine_name": "corokia_virgata_county_park_lemon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "County Park Lemon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493651",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736773"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Sunsprite'",
+                            "machine_name": "corokia_virgata_sunsprite",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunsprite",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493656",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552736848"
+                            }
+                        },
+                        {
+                            "name": "Corokia virgata 'Maori Green'",
+                            "machine_name": "corokia_virgata_maori_green",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maori Green",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "corokia_virgata",
+                            "genus": "corokia",
+                            "family": "argophyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2493661",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552737004"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405344",
+                        "legacy_id": "17398",
+                        "fgsid": "8734",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Corokia [Cultivars]",
+                    "machine_name": "corokia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "corokia",
+                    "family": "argophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445075",
+                        "legacy_id": "2",
+                        "fgsid": "72955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Corokia macrocarpa",
+                    "machine_name": "corokia_macrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "T. Kirk.",
+                    "description": null,
+                    "genus": "corokia",
+                    "family": "argophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449012",
+                        "legacy_id": "9768",
+                        "fgsid": "69138",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386197",
+                "legacy_id": "1493",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Argophyllum",
+            "machine_name": "argophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "J.R. Forst. & G. Frost.",
+            "description": null,
+            "family": "argophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Argophyllum [Cultivars]",
+                    "machine_name": "argophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "argophyllum",
+                    "family": "argophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358901",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532876077"
+                    }
+                },
+                {
+                    "name": "Argophyllum vernicosum",
+                    "machine_name": "argophyllum_vernicosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Daniker.",
+                    "description": null,
+                    "genus": "argophyllum",
+                    "family": "argophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358906",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532876130"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2358896",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532876077"
+            }
+        }
+    ]
+}

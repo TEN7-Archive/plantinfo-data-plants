@@ -1,0 +1,940 @@
+{
+    "name": "Cyatheaceae",
+    "machine_name": "cyatheaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381474",
+        "legacy_id": "485",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Alsophila",
+            "machine_name": "alsophila",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": null,
+            "description": null,
+            "family": "cyatheaceae",
+            "cross_references": [
+                {
+                    "machine_name": "cyathea",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Alsophila [Cultivars]",
+                    "machine_name": "alsophila_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alsophila",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438129",
+                        "legacy_id": "2",
+                        "fgsid": "39782",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Alsophila imrayana",
+                    "machine_name": "alsophila_imrayana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "D.S. Conant.",
+                    "description": null,
+                    "genus": "alsophila",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307731",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524754472"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381575",
+                "legacy_id": "6019",
+                "legacy_from_data_cross_ref": [
+                    "Cyathea"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cyathea",
+            "machine_name": "cyathea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Sm.",
+            "description": null,
+            "family": "cyatheaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cyathea [Cultivars]",
+                    "machine_name": "cyathea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382382",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cyathea australis",
+                    "machine_name": "cyathea_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435685",
+                        "legacy_id": "1443",
+                        "fgsid": "40544",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cyathea princeps",
+                    "machine_name": "cyathea_princeps",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440969",
+                        "legacy_id": "13019",
+                        "fgsid": "63995",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea mutica",
+                    "machine_name": "cyathea_mutica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI",
+                    "naming_authorities": "Domin.",
+                    "description": "Mabberley has Cnemidaria as included in Cyathea.",
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440986",
+                        "legacy_id": "10918",
+                        "fgsid": "64235",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea cooperi",
+                    "machine_name": "cyathea_cooperi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": "Domin.",
+                    "description": "AHS A-Z encyc.: C. cooperi, syn. C. australis of gardens.",
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cyathea cooperi 'Brentwood'",
+                            "machine_name": "cyathea_cooperi_brentwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brentwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cyathea_cooperi",
+                            "genus": "cyathea",
+                            "family": "cyatheaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559634",
+                                "legacy_id": "151003",
+                                "fgsid": "44890",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441197",
+                        "legacy_id": "3942",
+                        "fgsid": "44890",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea medullaris",
+                    "machine_name": "cyathea_medullaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441245",
+                        "legacy_id": "21503",
+                        "fgsid": "47795",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea dealbata",
+                    "machine_name": "cyathea_dealbata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441246",
+                        "legacy_id": "4612",
+                        "fgsid": "47796",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea myosuroides",
+                    "machine_name": "cyathea_myosuroides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444118",
+                        "legacy_id": "22443",
+                        "fgsid": "56955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea arborea",
+                    "machine_name": "cyathea_arborea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445879",
+                        "legacy_id": "1021",
+                        "fgsid": "84335",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea schiedeana",
+                    "machine_name": "cyathea_schiedeana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (GCI)",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446263",
+                        "legacy_id": "14553",
+                        "fgsid": "84875",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea smithii",
+                    "machine_name": "cyathea_smithii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Hk.fil.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448203",
+                        "legacy_id": "15200",
+                        "fgsid": "92876",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea veillardii",
+                    "machine_name": "cyathea_veillardii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Mett.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448638",
+                        "legacy_id": "34083",
+                        "fgsid": "68115",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea brownii",
+                    "machine_name": "cyathea_brownii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cyathea brownii 'Little Aussie Larrikin'",
+                            "machine_name": "cyathea_brownii_little_aussie_larrikin",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Little Aussie Larrikin",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cyathea_brownii",
+                            "genus": "cyathea",
+                            "family": "cyatheaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598004",
+                                "legacy_id": "226676",
+                                "fgsid": "94815",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449643",
+                        "legacy_id": "2364",
+                        "fgsid": "94815",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea woollsiana",
+                    "machine_name": "cyathea_woollsiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456737",
+                        "legacy_id": "85348",
+                        "fgsid": "146889",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea robertsiana",
+                    "machine_name": "cyathea_robertsiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456738",
+                        "legacy_id": "72365",
+                        "fgsid": "146890",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea baileyana",
+                    "machine_name": "cyathea_baileyana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458260",
+                        "legacy_id": "1533",
+                        "fgsid": "146891",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea intermedia",
+                    "machine_name": "cyathea_intermedia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Copel.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459547",
+                        "legacy_id": "8100",
+                        "fgsid": "139042",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea gracilis",
+                    "machine_name": "cyathea_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Griseb.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460848",
+                        "legacy_id": "6829",
+                        "fgsid": "143390",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea caracasana",
+                    "machine_name": "cyathea_caracasana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Domin.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461357",
+                        "legacy_id": "2900",
+                        "fgsid": "143392",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea tomentosissima",
+                    "machine_name": "cyathea_tomentosissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Copel.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463135",
+                        "legacy_id": "72773",
+                        "fgsid": "155941",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyathea spinulosa",
+                    "machine_name": "cyathea_spinulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Wall. & Hook.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2209561",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1516456183"
+                    }
+                },
+                {
+                    "name": "Cyathea grandifolia",
+                    "machine_name": "cyathea_grandifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307721",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524754216"
+                    }
+                },
+                {
+                    "name": "Cyathea cunninghamii",
+                    "machine_name": "cyathea_cunninghamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2357866",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532776308"
+                    }
+                },
+                {
+                    "name": "Cyathea fauriei",
+                    "machine_name": "cyathea_fauriei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Copel.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2403836",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1540994935"
+                    }
+                },
+                {
+                    "name": "Cyathea atrox",
+                    "machine_name": "cyathea_atrox",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Chr.",
+                    "description": null,
+                    "genus": "cyathea",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2565741",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1569610137"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382381",
+                "legacy_id": "6086",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sphaeropteris",
+            "machine_name": "sphaeropteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Bernh.",
+            "description": null,
+            "family": "cyatheaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sphaeropteris [Cultivars]",
+                    "machine_name": "sphaeropteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sphaeropteris",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395246",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sphaeropteris medullaris",
+                    "machine_name": "sphaeropteris_medullaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Bernh.",
+                    "description": null,
+                    "genus": "sphaeropteris",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404766",
+                        "legacy_id": "21503",
+                        "fgsid": "135179",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Sphaeropteris cooperi",
+                    "machine_name": "sphaeropteris_cooperi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "R.M. Tryon.",
+                    "description": null,
+                    "genus": "sphaeropteris",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459468",
+                        "legacy_id": "3942",
+                        "fgsid": "133646",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sphaeropteris intermedia",
+                    "machine_name": "sphaeropteris_intermedia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R.M. Tryon.",
+                    "description": null,
+                    "genus": "sphaeropteris",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307726",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524754332"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395245",
+                "legacy_id": "24624",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cnemidaria",
+            "machine_name": "cnemidaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": null,
+            "description": null,
+            "family": "cyatheaceae",
+            "cross_references": [
+                {
+                    "machine_name": "cyathea",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Cnemidaria [Cultivars]",
+                    "machine_name": "cnemidaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cnemidaria",
+                    "family": "cyatheaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396056",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396055",
+                "legacy_id": "11262",
+                "legacy_from_data_cross_ref": [
+                    "Cyathea"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

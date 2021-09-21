@@ -1,0 +1,1730 @@
+{
+    "name": "Lecythidaceae",
+    "machine_name": "lecythidaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381287",
+        "legacy_id": "239",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Gustavia",
+            "machine_name": "gustavia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gustavia [Cultivars]",
+                    "machine_name": "gustavia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381932",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gustavia augusta",
+                    "machine_name": "gustavia_augusta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414260",
+                        "legacy_id": "1369",
+                        "fgsid": "17040",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gustavia gracillima",
+                    "machine_name": "gustavia_gracillima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Miers.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414261",
+                        "legacy_id": "6832",
+                        "fgsid": "17041",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gustavia pulchra",
+                    "machine_name": "gustavia_pulchra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Miers.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414262",
+                        "legacy_id": "13266",
+                        "fgsid": "17042",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gustavia superba",
+                    "machine_name": "gustavia_superba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "O. Berg.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414263",
+                        "legacy_id": "15886",
+                        "fgsid": "17043",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gustavia hexapetala",
+                    "machine_name": "gustavia_hexapetala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441905",
+                        "legacy_id": "18658",
+                        "fgsid": "45064",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gustavia marcgraaviana",
+                    "machine_name": "gustavia_marcgraaviana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Miers.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Gustavia marcgraaviana 'Augusta'",
+                            "machine_name": "gustavia_marcgraaviana_augusta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Augusta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gustavia_marcgraaviana",
+                            "genus": "gustavia",
+                            "family": "lecythidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598005",
+                                "legacy_id": "226677",
+                                "fgsid": "94816",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449644",
+                        "legacy_id": "51363",
+                        "fgsid": "94816",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gustavia macarenensis",
+                    "machine_name": "gustavia_macarenensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Philipson.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451464",
+                        "legacy_id": "56246",
+                        "fgsid": "101883",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gustavia longifolia",
+                    "machine_name": "gustavia_longifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Poepp. & O. Berg.",
+                    "description": null,
+                    "genus": "gustavia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457804",
+                        "legacy_id": "9474",
+                        "fgsid": "138650",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381931",
+                "legacy_id": "2546",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cariniana",
+            "machine_name": "cariniana",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Casar.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cariniana [Cultivars]",
+                    "machine_name": "cariniana_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cariniana",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382752",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cariniana estrellensis",
+                    "machine_name": "cariniana_estrellensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Kuntze.",
+                    "description": null,
+                    "genus": "cariniana",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451070",
+                        "legacy_id": "56044",
+                        "fgsid": "101600",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cariniana legalis",
+                    "machine_name": "cariniana_legalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kuntze.",
+                    "description": null,
+                    "genus": "cariniana",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454136",
+                        "legacy_id": "64184",
+                        "fgsid": "116739",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382751",
+                "legacy_id": "1038",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Planchonia",
+            "machine_name": "planchonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Planchonia [Cultivars]",
+                    "machine_name": "planchonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383052",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Planchonia careya",
+                    "machine_name": "planchonia_careya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426026",
+                        "legacy_id": "2931",
+                        "fgsid": "27575",
+                        "legacy_from_data_cross_ref": [
+                            "+Barringtonia careya"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383051",
+                "legacy_id": "4406",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lecythis",
+            "machine_name": "lecythis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Loefl.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lecythis [Cultivars]",
+                    "machine_name": "lecythis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lecythis ollaria",
+                    "machine_name": "lecythis_ollaria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421462",
+                        "legacy_id": "11618",
+                        "fgsid": "20422",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lecythis persistans",
+                    "machine_name": "lecythis_persistans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Sagot.",
+                    "description": null,
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Lecythis persistans aurantiaca",
+                            "machine_name": "lecythis_persistans_aurantiaca",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "aurantiaca",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "lecythis_persistans",
+                            "genus": "lecythis",
+                            "family": "lecythidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1477771",
+                                "legacy_id": "17137",
+                                "fgsid": "20423",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421463",
+                        "legacy_id": "12368",
+                        "fgsid": "20423",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lecythis pisonis",
+                    "machine_name": "lecythis_pisonis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Cambess.",
+                    "description": null,
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421464",
+                        "legacy_id": "12620",
+                        "fgsid": "20424",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lecythis zabucaya",
+                    "machine_name": "lecythis_zabucaya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441638",
+                        "legacy_id": "22303",
+                        "fgsid": "49835",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Lecythis poiteaui",
+                    "machine_name": "lecythis_poiteaui",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441904",
+                        "legacy_id": "20610",
+                        "fgsid": "45063",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Lecythis lanceolata",
+                    "machine_name": "lecythis_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Poir.",
+                    "description": null,
+                    "genus": "lecythis",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451069",
+                        "legacy_id": "8822",
+                        "fgsid": "101599",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386265",
+                "legacy_id": "3142",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Corythophora",
+            "machine_name": "corythophora",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Knuth.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Corythophora [Cultivars]",
+                    "machine_name": "corythophora_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "corythophora",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386900",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Corythophora amapaensis",
+                    "machine_name": "corythophora_amapaensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": "Pires & S.A. Mori.",
+                    "description": null,
+                    "genus": "corythophora",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406463",
+                        "legacy_id": "603",
+                        "fgsid": "9005",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386899",
+                "legacy_id": "1519",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Couratari",
+            "machine_name": "couratari",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Couratari [Cultivars]",
+                    "machine_name": "couratari_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "couratari",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386922",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Couratari stellata",
+                    "machine_name": "couratari_stellata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": "A.C. Sm.",
+                    "description": null,
+                    "genus": "couratari",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407151",
+                        "legacy_id": "15508",
+                        "fgsid": "9134",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386921",
+                "legacy_id": "1530",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Couroupita",
+            "machine_name": "couroupita",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Couroupita [Cultivars]",
+                    "machine_name": "couroupita_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "couroupita",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386924",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Couroupita guianensis",
+                    "machine_name": "couroupita_guianensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Aublet.",
+                    "description": null,
+                    "genus": "couroupita",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407152",
+                        "legacy_id": "7000",
+                        "fgsid": "9135",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386923",
+                "legacy_id": "1531",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Eschweilera",
+            "machine_name": "eschweilera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "C. Martius. & DC.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eschweilera [Cultivars]",
+                    "machine_name": "eschweilera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eschweilera",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391552",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Eschweilera congestiflora",
+                    "machine_name": "eschweilera_congestiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eschweilera",
+                    "family": "lecythidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eschweilera congestiflora congestiflora",
+                            "machine_name": "eschweilera_congestiflora_congestiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "congestiflora",
+                            "authorities": "Kewensis 9",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "eschweilera_congestiflora",
+                            "genus": "eschweilera",
+                            "family": "lecythidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476085",
+                                "legacy_id": "9251",
+                                "fgsid": "13758",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412923",
+                        "legacy_id": "3856",
+                        "fgsid": "13758",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eschweilera coriacea",
+                    "machine_name": "eschweilera_coriacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eschweilera",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412924",
+                        "legacy_id": "3985",
+                        "fgsid": "13759",
+                        "legacy_from_data_cross_ref": [
+                            "+Lecythis coriacea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eschweilera corrugata",
+                    "machine_name": "eschweilera_corrugata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eschweilera",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412925",
+                        "legacy_id": "4050",
+                        "fgsid": "13760",
+                        "legacy_from_data_cross_ref": [
+                            "+Lecythis corrugata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eschweilera poiteaui",
+                    "machine_name": "eschweilera_poiteaui",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eschweilera",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412926",
+                        "legacy_id": "20610",
+                        "fgsid": "13761",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eschweilera itayensis",
+                    "machine_name": "eschweilera_itayensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R. Knuth.",
+                    "description": null,
+                    "genus": "eschweilera",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338336",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846443"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391551",
+                "legacy_id": "2190",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Barringtonia",
+            "machine_name": "barringtonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forster & G. Fors.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Barringtonia [Cultivars]",
+                    "machine_name": "barringtonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393020",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Barringtonia acutangula",
+                    "machine_name": "barringtonia_acutangula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Gaertn.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399951",
+                        "legacy_id": "160",
+                        "fgsid": "4157",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia asiatica",
+                    "machine_name": "barringtonia_asiatica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Kurz.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399952",
+                        "legacy_id": "1236",
+                        "fgsid": "4158",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia butonica",
+                    "machine_name": "barringtonia_butonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Forst.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399953",
+                        "legacy_id": "2525",
+                        "fgsid": "4159",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia calyptrata",
+                    "machine_name": "barringtonia_calyptrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399954",
+                        "legacy_id": "2717",
+                        "fgsid": "4160",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia edulis",
+                    "machine_name": "barringtonia_edulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399955",
+                        "legacy_id": "5291",
+                        "fgsid": "4161",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia macrostachya",
+                    "machine_name": "barringtonia_macrostachya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Kurz.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399956",
+                        "legacy_id": "9825",
+                        "fgsid": "4162",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia novae-hiberniae",
+                    "machine_name": "barringtonia_novae_hiberniae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Lauterb.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399957",
+                        "legacy_id": "11324",
+                        "fgsid": "4163",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia procera",
+                    "machine_name": "barringtonia_procera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399958",
+                        "legacy_id": "13046",
+                        "fgsid": "4164",
+                        "legacy_from_data_cross_ref": [
+                            "+Butonica procera"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia racemosa",
+                    "machine_name": "barringtonia_racemosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "K. Spreng.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399959",
+                        "legacy_id": "13506",
+                        "fgsid": "4165",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia speciosa",
+                    "machine_name": "barringtonia_speciosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "barringtonia_asiatica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1399960",
+                        "legacy_id": "15309",
+                        "fgsid": "4166",
+                        "legacy_from_data_cross_ref": [
+                            "Barringtonia asiatica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Barringtonia neocaledonica",
+                    "machine_name": "barringtonia_neocaledonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Vieill.",
+                    "description": null,
+                    "genus": "barringtonia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2409951",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1542547670"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393019",
+                "legacy_id": "638",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Bertholettia",
+            "machine_name": "bertholettia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Bonpl.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bertholettia [Cultivars]",
+                    "machine_name": "bertholettia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bertholettia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393122",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Bertholettia excelsa",
+                    "machine_name": "bertholettia_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Humb. & Bonpl.",
+                    "description": null,
+                    "genus": "bertholettia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401160",
+                        "legacy_id": "5699",
+                        "fgsid": "4489",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393121",
+                "legacy_id": "690",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Grias",
+            "machine_name": "grias",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Grias [Cultivars]",
+                    "machine_name": "grias_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grias",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394232",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Grias neuberthii",
+                    "machine_name": "grias_neuberthii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": "Macbride.",
+                    "description": null,
+                    "genus": "grias",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414210",
+                        "legacy_id": "11155",
+                        "fgsid": "16990",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Grias cauliflora",
+                    "machine_name": "grias_cauliflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "grias",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2628376",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1609272463"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394231",
+                "legacy_id": "2521",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Careya",
+            "machine_name": "careya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Roxb.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Careya [Cultivars]",
+                    "machine_name": "careya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "careya",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394680",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394679",
+                "legacy_id": "5963",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Napoleonaea",
+            "machine_name": "napoleonaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "P. Beauv.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Napoleonaea [Cultivars]",
+                    "machine_name": "napoleonaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "napoleonaea",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338326",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846201"
+                    }
+                },
+                {
+                    "name": "Napoleonaea imperialis",
+                    "machine_name": "napoleonaea_imperialis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "P. Beauv.",
+                    "description": null,
+                    "genus": "napoleonaea",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338331",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846247"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2338321",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529846201"
+            }
+        },
+        {
+            "name": "Bertholletia",
+            "machine_name": "bertholletia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Bonpl.",
+            "description": null,
+            "family": "lecythidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bertholletia [Cultivars]",
+                    "machine_name": "bertholletia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bertholletia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2501406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1554635945"
+                    }
+                },
+                {
+                    "name": "Bertholletia excelsa",
+                    "machine_name": "bertholletia_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Bonpl.",
+                    "description": null,
+                    "genus": "bertholletia",
+                    "family": "lecythidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2501411",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1554635972"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2501401",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1554635945"
+            }
+        }
+    ]
+}

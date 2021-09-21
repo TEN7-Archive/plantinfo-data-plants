@@ -1,0 +1,85 @@
+{
+    "name": "Amborellaceae",
+    "machine_name": "amborellaceae",
+    "type": "family",
+    "authorities": "Mabberley",
+    "naming_authorities": "Pichon.",
+    "description": null,
+    "archival_data": {
+        "id": "1381494",
+        "legacy_id": "600",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Amborella",
+            "machine_name": "amborella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Baillon.",
+            "description": null,
+            "family": "amborellaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Amborella [Cultivars]",
+                    "machine_name": "amborella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "amborella",
+                    "family": "amborellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396270",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Amborella trichopoda",
+                    "machine_name": "amborella_trichopoda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Baillon.",
+                    "description": null,
+                    "genus": "amborella",
+                    "family": "amborellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446487",
+                        "legacy_id": "20073",
+                        "fgsid": "75235",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396269",
+                "legacy_id": "13022",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

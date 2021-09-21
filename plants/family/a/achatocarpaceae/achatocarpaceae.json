@@ -1,0 +1,154 @@
+{
+    "name": "Achatocarpaceae",
+    "machine_name": "achatocarpaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Triana.",
+    "description": null,
+    "archival_data": {
+        "id": "2333091",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528750716"
+    },
+    "genus_items": [
+        {
+            "name": "Phaulothamnus",
+            "machine_name": "phaulothamnus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "A. Gray.",
+            "description": null,
+            "family": "achatocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phaulothamnus [Cultivars]",
+                    "machine_name": "phaulothamnus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phaulothamnus",
+                    "family": "achatocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395164",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Phaulothamnus spinescens",
+                    "machine_name": "phaulothamnus_spinescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "phaulothamnus",
+                    "family": "achatocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451730",
+                        "legacy_id": "15386",
+                        "fgsid": "130442",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395163",
+                "legacy_id": "23964",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Achatocarpus",
+            "machine_name": "achatocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Triana.",
+            "description": null,
+            "family": "achatocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Achatocarpus [Cultivars]",
+                    "machine_name": "achatocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "achatocarpus",
+                    "family": "achatocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2333101",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528750750"
+                    }
+                },
+                {
+                    "name": "Achatocarpus pubescens",
+                    "machine_name": "achatocarpus_pubescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.H. Wright.",
+                    "description": null,
+                    "genus": "achatocarpus",
+                    "family": "achatocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2333106",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528750783"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2333096",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528750750"
+            }
+        }
+    ]
+}

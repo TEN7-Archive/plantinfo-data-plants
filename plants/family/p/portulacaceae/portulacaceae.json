@@ -1,0 +1,3861 @@
+{
+    "name": "Portulacaceae",
+    "machine_name": "portulacaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381368",
+        "legacy_id": "346",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Hectorella",
+            "machine_name": "hectorella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hectorella [Cultivars]",
+                    "machine_name": "hectorella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hectorella",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382102",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hectorella caespitosa",
+                    "machine_name": "hectorella_caespitosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "hectorella",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410824",
+                        "legacy_id": "2578",
+                        "fgsid": "17631",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382101",
+                "legacy_id": "2637",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Calyptridium",
+            "machine_name": "calyptridium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Nutt. & Torr. & G.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Calyptridium [Cultivars]",
+                    "machine_name": "calyptridium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calyptridium",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382638",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Calyptridium umbellatum",
+                    "machine_name": "calyptridium_umbellatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Greene.",
+                    "description": null,
+                    "genus": "calyptridium",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calyptridium umbellatum caudicifermum",
+                            "machine_name": "calyptridium_umbellatum_caudicifermum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "caudicifermum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "calyptridium_umbellatum",
+                            "genus": "calyptridium",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1583405",
+                                "legacy_id": "211076",
+                                "fgsid": "5845",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Calyptridium umbellatum umbellatum",
+                            "machine_name": "calyptridium_umbellatum_umbellatum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "umbellatum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "calyptridium_umbellatum",
+                            "genus": "calyptridium",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1583407",
+                                "legacy_id": "211078",
+                                "fgsid": "5845",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399661",
+                        "legacy_id": "16921",
+                        "fgsid": "5845",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Calyptridium monospermum",
+                    "machine_name": "calyptridium_monospermum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Greene.",
+                    "description": null,
+                    "genus": "calyptridium",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449879",
+                        "legacy_id": "10676",
+                        "fgsid": "88941",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382637",
+                "legacy_id": "980",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Portulaca",
+            "machine_name": "portulaca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Portulaca [Cultivars]",
+                    "machine_name": "portulaca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Portulaca [Cultivars] 'Apricot'",
+                            "machine_name": "portulaca_cultivars_apricot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Apricot",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486909",
+                                "legacy_id": "24453",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Cloud Beater'",
+                            "machine_name": "portulaca_cultivars_cloud_beater",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cloud Beater",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486910",
+                                "legacy_id": "24454",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Cocktail Series'",
+                            "machine_name": "portulaca_cultivars_cocktail_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cocktail Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486911",
+                                "legacy_id": "24455",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Minilaca Series'",
+                            "machine_name": "portulaca_cultivars_minilaca_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Minilaca Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486912",
+                                "legacy_id": "24456",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Peppermint Patty'",
+                            "machine_name": "portulaca_cultivars_peppermint_patty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Peppermint Patty",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486913",
+                                "legacy_id": "24457",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sahara'",
+                            "machine_name": "portulaca_cultivars_sahara",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sahara",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486914",
+                                "legacy_id": "24458",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Samba Series'",
+                            "machine_name": "portulaca_cultivars_samba_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Samba Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486915",
+                                "legacy_id": "24459",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Schwefelgelb'",
+                            "machine_name": "portulaca_cultivars_schwefelgelb",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Schwefelgelb",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486916",
+                                "legacy_id": "24460",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sundance Series'",
+                            "machine_name": "portulaca_cultivars_sundance_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sundance Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486917",
+                                "legacy_id": "24461",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Sundial Series \u2122",
+                            "machine_name": "portulaca_cultivars_sundial_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Sundial Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486918",
+                                "legacy_id": "24462",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sunny Boys Series'",
+                            "machine_name": "portulaca_cultivars_sunny_boys_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunny Boys Series",
+                            "authorities": "Cv",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486919",
+                                "legacy_id": "24463",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Swanlake'",
+                            "machine_name": "portulaca_cultivars_swanlake",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Swanlake",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486920",
+                                "legacy_id": "24464",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Afternoon Delight'",
+                            "machine_name": "portulaca_cultivars_afternoon_delight",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Afternoon Delight",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519229",
+                                "legacy_id": "96633",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Bogota'",
+                            "machine_name": "portulaca_cultivars_bogota",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bogota",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519230",
+                                "legacy_id": "96634",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Cabaret Series'",
+                            "machine_name": "portulaca_cultivars_cabaret_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cabaret Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519231",
+                                "legacy_id": "96635",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Calypso Series'",
+                            "machine_name": "portulaca_cultivars_calypso_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Calypso Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519232",
+                                "legacy_id": "96636",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Extra Double Series'",
+                            "machine_name": "portulaca_cultivars_extra_double_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Extra Double Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519233",
+                                "legacy_id": "96637",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Kariba Series'",
+                            "machine_name": "portulaca_cultivars_kariba_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kariba Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519234",
+                                "legacy_id": "96638",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sunnyside Series'",
+                            "machine_name": "portulaca_cultivars_sunnyside_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunnyside Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519235",
+                                "legacy_id": "96639",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Wildfire Series'",
+                            "machine_name": "portulaca_cultivars_wildfire_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wildfire Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519236",
+                                "legacy_id": "96640",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Strawberries and Cream'",
+                            "machine_name": "portulaca_cultivars_strawberries_and_cream",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Strawberries and Cream",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532165",
+                                "legacy_id": "110931",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Radiance Series \u2122",
+                            "machine_name": "portulaca_cultivars_radiance_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Radiance Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532682",
+                                "legacy_id": "109768",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Yubi Series \u00ae",
+                            "machine_name": "portulaca_cultivars_yubi_series",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Yubi Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1535440",
+                                "legacy_id": "106790",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Duet Series'",
+                            "machine_name": "portulaca_cultivars_duet_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Duet Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1535801",
+                                "legacy_id": "108119",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Morocco Pinks'",
+                            "machine_name": "portulaca_cultivars_morocco_pinks",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Morocco Pinks",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540455",
+                                "legacy_id": "115454",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Summer Joy Series'",
+                            "machine_name": "portulaca_cultivars_summer_joy_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Summer Joy Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540463",
+                                "legacy_id": "115462",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Margarita Series'",
+                            "machine_name": "portulaca_cultivars_margarita_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Margarita Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1541586",
+                                "legacy_id": "120674",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Hot Shots Series \u00ae",
+                            "machine_name": "portulaca_cultivars_hot_shots_series",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Hot Shots Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544390",
+                                "legacy_id": "118907",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Mexican Doll'",
+                            "machine_name": "portulaca_cultivars_mexican_doll",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mexican Doll",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546217",
+                                "legacy_id": "124173",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Fruity Series'",
+                            "machine_name": "portulaca_cultivars_fruity_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fruity Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546228",
+                                "legacy_id": "124185",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Magic Carpet Series'",
+                            "machine_name": "portulaca_cultivars_magic_carpet_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magic Carpet Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567529",
+                                "legacy_id": "181399",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Tutti Frutti Series'",
+                            "machine_name": "portulaca_cultivars_tutti_frutti_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tutti Frutti Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1570803",
+                                "legacy_id": "194127",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Fruit Splash Series'",
+                            "machine_name": "portulaca_cultivars_fruit_splash_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fruit Splash Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575790",
+                                "legacy_id": "197747",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Warm Gold'",
+                            "machine_name": "portulaca_cultivars_warm_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Warm Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579140",
+                                "legacy_id": "197321",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Doublet Series'",
+                            "machine_name": "portulaca_cultivars_doublet_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Doublet Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579744",
+                                "legacy_id": "208676",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sunglo Series'",
+                            "machine_name": "portulaca_cultivars_sunglo_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunglo Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580366",
+                                "legacy_id": "209076",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Gold \u00ae",
+                            "machine_name": "portulaca_cultivars_gold",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600893",
+                                "legacy_id": "223789",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Ruby Jewel'",
+                            "machine_name": "portulaca_cultivars_ruby_jewel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ruby Jewel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605065",
+                                "legacy_id": "275479",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Cupcake Series \u2122",
+                            "machine_name": "portulaca_cultivars_cupcake_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Cupcake Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607897",
+                                "legacy_id": "383249",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Happy Hour Series \u2122",
+                            "machine_name": "portulaca_cultivars_happy_hour_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Happy Hour Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1609361",
+                                "legacy_id": "372980",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Dynamite Series'",
+                            "machine_name": "portulaca_cultivars_dynamite_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dynamite Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1613144",
+                                "legacy_id": "240454",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Stopwatch Series \u2122",
+                            "machine_name": "portulaca_cultivars_stopwatch_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Stopwatch Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614917",
+                                "legacy_id": "238595",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Firegold'",
+                            "machine_name": "portulaca_cultivars_firegold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Firegold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615220",
+                                "legacy_id": "238777",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Pink Parfait'",
+                            "machine_name": "portulaca_cultivars_pink_parfait",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Parfait",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615582",
+                                "legacy_id": "241362",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'PortoGrande Series'",
+                            "machine_name": "portulaca_cultivars_portogrande_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "PortoGrande Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620724",
+                                "legacy_id": "352149",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Pazazz Series \u2122",
+                            "machine_name": "portulaca_cultivars_pazazz_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Pazazz Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1621180",
+                                "legacy_id": "344621",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Mojave Series \u2122",
+                            "machine_name": "portulaca_cultivars_mojave_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Mojave Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1624627",
+                                "legacy_id": "376359",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Tequila Series'",
+                            "machine_name": "portulaca_cultivars_tequila_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tequila Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626966",
+                                "legacy_id": "244579",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sunset Fire'",
+                            "machine_name": "portulaca_cultivars_sunset_fire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunset Fire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1627158",
+                                "legacy_id": "251702",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Rio Series'",
+                            "machine_name": "portulaca_cultivars_rio_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rio Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1628565",
+                                "legacy_id": "249737",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Golden Sun Series \u2122",
+                            "machine_name": "portulaca_cultivars_golden_sun_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Golden Sun Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634025",
+                                "legacy_id": "301186",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Margarita Rosita'",
+                            "machine_name": "portulaca_cultivars_margarita_rosita",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Margarita Rosita",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634381",
+                                "legacy_id": "308879",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Double Yubi Series \u2122",
+                            "machine_name": "portulaca_cultivars_double_yubi_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Double Yubi Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1639790",
+                                "legacy_id": "337396",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Toucan Series'",
+                            "machine_name": "portulaca_cultivars_toucan_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Toucan Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1641194",
+                                "legacy_id": "331118",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Happy Trails Series'",
+                            "machine_name": "portulaca_cultivars_happy_trails_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Happy Trails Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647851",
+                                "legacy_id": "383529",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Big Bloom Series'",
+                            "machine_name": "portulaca_cultivars_big_bloom_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Big Bloom Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1657766",
+                                "legacy_id": "267020",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Sun Daze Series'",
+                            "machine_name": "portulaca_cultivars_sun_daze_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sun Daze Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661913",
+                                "legacy_id": "391774",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'SunDome Series'",
+                            "machine_name": "portulaca_cultivars_sundome_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "SunDome Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1668787",
+                                "legacy_id": "402937",
+                                "fgsid": "28187",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'ColorBlast Series'",
+                            "machine_name": "portulaca_cultivars_colorblast_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "ColorBlast Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2131426",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1500652277"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Nano Series \u2122",
+                            "machine_name": "portulaca_cultivars_nano_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Nano Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2230416",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1517843460"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Pazzaz Nano \u2122",
+                            "machine_name": "portulaca_cultivars_pazzaz_nano",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Pazzaz Nano Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "There are Pazzaz Series and Pazzaz Nano Series",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "There are Pazzaz Series and Pazzaz Nano Series",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2485466",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551793320"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Pazzaz Series \u2122",
+                            "machine_name": "portulaca_cultivars_pazzaz_series",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Pazzaz Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "There are Pazzaz Series and Pazzaz Nano Series",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "There are Pazzaz Series and Pazzaz Nano Series",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2499101",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1554118769"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Bright Pink'",
+                            "machine_name": "portulaca_cultivars_bright_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bright Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2619061",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585854509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] 'Hot Pink'",
+                            "machine_name": "portulaca_cultivars_hot_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hot Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2619066",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585854526"
+                            }
+                        },
+                        {
+                            "name": "Portulaca [Cultivars] Campino \u2122",
+                            "machine_name": "portulaca_cultivars_campino",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Campino",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_cultivars",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2629061",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1612983064"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423087",
+                        "legacy_id": "2",
+                        "fgsid": "28187",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca grandiflora",
+                    "machine_name": "portulaca_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Portulaca grandiflora 'Sunseeker Series'",
+                            "machine_name": "portulaca_grandiflora_sunseeker_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunseeker Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_grandiflora",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577923",
+                                "legacy_id": "198840",
+                                "fgsid": "28188",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca grandiflora 'Aurantiaca'",
+                            "machine_name": "portulaca_grandiflora_aurantiaca",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurantiaca",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_grandiflora",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626307",
+                                "legacy_id": "369999",
+                                "fgsid": "28188",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca grandiflora 'Rouge Rubis'",
+                            "machine_name": "portulaca_grandiflora_rouge_rubis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rouge Rubis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_grandiflora",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1641030",
+                                "legacy_id": "338277",
+                                "fgsid": "28188",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423088",
+                        "legacy_id": "6879",
+                        "fgsid": "28188",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca kermesina",
+                    "machine_name": "portulaca_kermesina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "N.E. Br.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423089",
+                        "legacy_id": "8485",
+                        "fgsid": "28189",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca lutea",
+                    "machine_name": "portulaca_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Soland. & Forst.f.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423090",
+                        "legacy_id": "9629",
+                        "fgsid": "28190",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca molokiniensis",
+                    "machine_name": "portulaca_molokiniensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hobdy.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Portulaca molokiniensis 'Maraca'",
+                            "machine_name": "portulaca_molokiniensis_maraca",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maraca",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_molokiniensis",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1611220",
+                                "legacy_id": "368807",
+                                "fgsid": "28191",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423091",
+                        "legacy_id": "71885",
+                        "fgsid": "28191",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca oleracea",
+                    "machine_name": "portulaca_oleracea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Portulaca oleracea 'Giganthes'",
+                            "machine_name": "portulaca_oleracea_giganthes",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Giganthes",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486921",
+                                "legacy_id": "24465",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Goldgelber'",
+                            "machine_name": "portulaca_oleracea_goldgelber",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goldgelber",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486922",
+                                "legacy_id": "24466",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea sativa",
+                            "machine_name": "portulaca_oleracea_sativa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "sativa",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": "DC.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486923",
+                                "legacy_id": "24467",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Golden Sunset'",
+                            "machine_name": "portulaca_oleracea_golden_sunset",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Sunset",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519237",
+                                "legacy_id": "96641",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Golden'",
+                            "machine_name": "portulaca_oleracea_golden",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519238",
+                                "legacy_id": "96642",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [
+                                    "P.o. aurea"
+                                ],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Green Leaves'",
+                            "machine_name": "portulaca_oleracea_green_leaves",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Green Leaves",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519239",
+                                "legacy_id": "96643",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Peppermint Star'",
+                            "machine_name": "portulaca_oleracea_peppermint_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Peppermint Star",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519240",
+                                "legacy_id": "96644",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Pink Perfection'",
+                            "machine_name": "portulaca_oleracea_pink_perfection",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Perfection",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519241",
+                                "legacy_id": "96645",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea aurea",
+                            "machine_name": "portulaca_oleracea_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "aurea",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519242",
+                                "legacy_id": "96646",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Fairytales Series'",
+                            "machine_name": "portulaca_oleracea_fairytales_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fairytales Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571393",
+                                "legacy_id": "194389",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea oleracea",
+                            "machine_name": "portulaca_oleracea_oleracea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "oleracea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1587033",
+                                "legacy_id": "217696",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Goldberg'",
+                            "machine_name": "portulaca_oleracea_goldberg",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goldberg",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605250",
+                                "legacy_id": "279496",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Puerto Rico Pink'",
+                            "machine_name": "portulaca_oleracea_puerto_rico_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Puerto Rico Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633052",
+                                "legacy_id": "299138",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Jumbo Series'",
+                            "machine_name": "portulaca_oleracea_jumbo_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jumbo Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633053",
+                                "legacy_id": "299139",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Portulaca oleracea 'Gruner'",
+                            "machine_name": "portulaca_oleracea_gruner",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gruner",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_oleracea",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634586",
+                                "legacy_id": "301999",
+                                "fgsid": "28192",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423092",
+                        "legacy_id": "11579",
+                        "fgsid": "28192",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca pilosa",
+                    "machine_name": "portulaca_pilosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Portulaca pilosa 'Hortualis'",
+                            "machine_name": "portulaca_pilosa_hortualis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hortualis",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulaca_pilosa",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486924",
+                                "legacy_id": "24468",
+                                "fgsid": "28193",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Portulaca pilosa villosa",
+                            "machine_name": "portulaca_pilosa_villosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "villosa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "portulaca_pilosa",
+                            "genus": "portulaca",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1641239",
+                                "legacy_id": "334876",
+                                "fgsid": "28193",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423093",
+                        "legacy_id": "12550",
+                        "fgsid": "28193",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca quadrifida",
+                    "machine_name": "portulaca_quadrifida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423094",
+                        "legacy_id": "13441",
+                        "fgsid": "28194",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca sclerocarpa",
+                    "machine_name": "portulaca_sclerocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423095",
+                        "legacy_id": "14668",
+                        "fgsid": "28195",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Portulaca suffrutescens",
+                    "machine_name": "portulaca_suffrutescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Engelm.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441770",
+                        "legacy_id": "15854",
+                        "fgsid": "43620",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca mauritiensis",
+                    "machine_name": "portulaca_mauritiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": "von Poellen.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443540",
+                        "legacy_id": "19766",
+                        "fgsid": "42677",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca fulgens",
+                    "machine_name": "portulaca_fulgens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Griseb.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450636",
+                        "legacy_id": "6311",
+                        "fgsid": "129680",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca cyclophylla",
+                    "machine_name": "portulaca_cyclophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453144",
+                        "legacy_id": "20152",
+                        "fgsid": "125521",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca gilliesii",
+                    "machine_name": "portulaca_gilliesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456550",
+                        "legacy_id": "6591",
+                        "fgsid": "129140",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca australis",
+                    "machine_name": "portulaca_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462869",
+                        "legacy_id": "1443",
+                        "fgsid": "155362",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca bicolor",
+                    "machine_name": "portulaca_bicolor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463232",
+                        "legacy_id": "1888",
+                        "fgsid": "155386",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca intraterranea",
+                    "machine_name": "portulaca_intraterranea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463233",
+                        "legacy_id": "90607",
+                        "fgsid": "155387",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Portulaca trianthemoides",
+                    "machine_name": "portulaca_trianthemoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Bremek.",
+                    "description": null,
+                    "genus": "portulaca",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2588786",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1577005706"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383909",
+                "legacy_id": "4518",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Neopaxia",
+            "machine_name": "neopaxia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "O. Nilsson.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Neopaxia [Cultivars]",
+                    "machine_name": "neopaxia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "neopaxia",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390858",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Neopaxia australasica",
+                    "machine_name": "neopaxia_australasica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "neopaxia",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "claytonia_australasica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1418261",
+                        "legacy_id": "1431",
+                        "fgsid": "23949",
+                        "legacy_from_data_cross_ref": [
+                            "+Claytonia australasica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390857",
+                "legacy_id": "3790",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Grahamia",
+            "machine_name": "grahamia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gillies & Hook.&A.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Grahamia [Cultivars]",
+                    "machine_name": "grahamia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grahamia",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Grahamia australiana",
+                    "machine_name": "grahamia_australiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grahamia",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413413",
+                        "legacy_id": "1437",
+                        "fgsid": "16762",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Grahamia coahuilensis",
+                    "machine_name": "grahamia_coahuilensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grahamia",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413414",
+                        "legacy_id": "3637",
+                        "fgsid": "16763",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Grahamia kurtzii",
+                    "machine_name": "grahamia_kurtzii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grahamia",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413415",
+                        "legacy_id": "70798",
+                        "fgsid": "16764",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394195",
+                "legacy_id": "2503",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Philippiamra",
+            "machine_name": "philippiamra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Kuntze.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Philippiamra [Cultivars]",
+                    "machine_name": "philippiamra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "philippiamra",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394944",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Philippiamra celosioides",
+                    "machine_name": "philippiamra_celosioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kuntze.",
+                    "description": null,
+                    "genus": "philippiamra",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452045",
+                        "legacy_id": "3151",
+                        "fgsid": "124420",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394943",
+                "legacy_id": "22584",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Talinella",
+            "machine_name": "talinella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (IK)",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Talinella [Cultivars]",
+                    "machine_name": "talinella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "talinella",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396088",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Talinella pachypoda",
+                    "machine_name": "talinella_pachypoda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "U. Eggli.",
+                    "description": null,
+                    "genus": "talinella",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448255",
+                        "legacy_id": "11856",
+                        "fgsid": "66875",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396087",
+                "legacy_id": "11582",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cistanthe",
+            "machine_name": "cistanthe",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (IK)",
+            "naming_authorities": "Spach.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cistanthe longiscapa",
+                    "machine_name": "cistanthe_longiscapa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Carolin ex Hershk.",
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448167",
+                        "legacy_id": "9494",
+                        "fgsid": "92621",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe guadalupensis",
+                    "machine_name": "cistanthe_guadalupensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Carolin ex M.A. Hershkovitz.",
+                    "description": "Basionymn: Talinum guadalupense.",
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448948",
+                        "legacy_id": "6984",
+                        "fgsid": "68595",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe rosea",
+                    "machine_name": "cistanthe_rosea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "usda",
+                    "naming_authorities": "Hershk.",
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451602",
+                        "legacy_id": "13990",
+                        "fgsid": "111239",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe umbellata",
+                    "machine_name": "cistanthe_umbellata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "Hershkovitz.",
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cistanthe umbellata umbellata",
+                            "machine_name": "cistanthe_umbellata_umbellata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "umbellata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cistanthe_umbellata",
+                            "genus": "cistanthe",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1635429",
+                                "legacy_id": "295234",
+                                "fgsid": "112621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452309",
+                        "legacy_id": "16919",
+                        "fgsid": "112621",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe grandiflora",
+                    "machine_name": "cistanthe_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Carolin & Hershkovitz.",
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cistanthe grandiflora 'Brightness'",
+                            "machine_name": "cistanthe_grandiflora_brightness",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brightness",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cistanthe_grandiflora",
+                            "genus": "cistanthe",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1644135",
+                                "legacy_id": "253652",
+                                "fgsid": "103278",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Cistanthe grandiflora 'Jazz Time'",
+                            "machine_name": "cistanthe_grandiflora_jazz_time",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jazz Time",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cistanthe_grandiflora",
+                            "genus": "cistanthe",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1659297",
+                                "legacy_id": "272276",
+                                "fgsid": "103278",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452957",
+                        "legacy_id": "6879",
+                        "fgsid": "103278",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe discolor",
+                    "machine_name": "cistanthe_discolor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Ford.",
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453901",
+                        "legacy_id": "4974",
+                        "fgsid": "126302",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe [Cultivars]",
+                    "machine_name": "cistanthe_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cistanthe [Cultivars] 'Twinky Pinky'",
+                            "machine_name": "cistanthe_cultivars_twinky_pinky",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Twinky Pinky",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cistanthe_cultivars",
+                            "genus": "cistanthe",
+                            "family": "portulacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1639111",
+                                "legacy_id": "332803",
+                                "fgsid": "126420",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453943",
+                        "legacy_id": "2",
+                        "fgsid": "126420",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cistanthe litoralis",
+                    "machine_name": "cistanthe_litoralis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "D.I. Ford.",
+                    "description": null,
+                    "genus": "cistanthe",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2442316",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1548504303"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396111",
+                "legacy_id": "11782",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Montiopsis",
+            "machine_name": "montiopsis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Kuntze.",
+            "description": null,
+            "family": "portulacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Montiopsis [Cultivars]",
+                    "machine_name": "montiopsis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "montiopsis",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396738",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Montiopsis gayana",
+                    "machine_name": "montiopsis_gayana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 20 says is Calandrinia gayana",
+                    "genus": "montiopsis",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448877",
+                        "legacy_id": "6471",
+                        "fgsid": "93548",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Montiopsis andicola",
+                    "machine_name": "montiopsis_andicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 20 says is Calandrinia andicola",
+                    "genus": "montiopsis",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449958",
+                        "legacy_id": "748",
+                        "fgsid": "94977",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Montiopsis sericea",
+                    "machine_name": "montiopsis_sericea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "TAropicos",
+                    "naming_authorities": "D.I. Ford.",
+                    "description": null,
+                    "genus": "montiopsis",
+                    "family": "portulacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2189841",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1515088021"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396737",
+                "legacy_id": "16382",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

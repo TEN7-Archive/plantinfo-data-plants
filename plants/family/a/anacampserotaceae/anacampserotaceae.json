@@ -1,0 +1,1359 @@
+{
+    "name": "Anacampserotaceae",
+    "machine_name": "anacampserotaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Eggli & Nyffeler.",
+    "description": null,
+    "archival_data": {
+        "id": "2337421",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529507330"
+    },
+    "genus_items": [
+        {
+            "name": "Anacampseros",
+            "machine_name": "anacampseros",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "anacampserotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anacampseros [Cultivars]",
+                    "machine_name": "anacampseros_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390328",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Anacampseros alstonii",
+                    "machine_name": "anacampseros_alstonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Schonl.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398649",
+                        "legacy_id": "556",
+                        "fgsid": "2356",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros bremekampii",
+                    "machine_name": "anacampseros_bremekampii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Poelln.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398650",
+                        "legacy_id": "2272",
+                        "fgsid": "2357",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros comptonii",
+                    "machine_name": "anacampseros_comptonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Pill.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398651",
+                        "legacy_id": "3810",
+                        "fgsid": "2358",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros lanceolata",
+                    "machine_name": "anacampseros_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Sweet.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Anacampseros lanceolata nebrownii",
+                            "machine_name": "anacampseros_lanceolata_nebrownii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "nebrownii",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "M.Gerbaulet.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "anacampseros_lanceolata",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601829",
+                                "legacy_id": "226117",
+                                "fgsid": "2359",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398652",
+                        "legacy_id": "8822",
+                        "fgsid": "2359",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros lubbersii*",
+                    "machine_name": "anacampseros_lubbersii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": "M.B. Bleck.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "anacampseros_subnuda_lubbersii",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1398653",
+                        "legacy_id": "9563",
+                        "fgsid": "2360",
+                        "legacy_from_data_cross_ref": [
+                            "Anacampseros subnuda lubbersii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros rhodesica",
+                    "machine_name": "anacampseros_rhodesica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "N.E. Br.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398654",
+                        "legacy_id": "13811",
+                        "fgsid": "2361",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros rufescens",
+                    "machine_name": "anacampseros_rufescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Sweet.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Anacampseros rufescens 'Sunrise'",
+                            "machine_name": "anacampseros_rufescens_sunrise",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunrise",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "anacampseros_rufescens",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1583788",
+                                "legacy_id": "214360",
+                                "fgsid": "2362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398655",
+                        "legacy_id": "14151",
+                        "fgsid": "2362",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros subnuda",
+                    "machine_name": "anacampseros_subnuda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": "Poelln.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Anacampseros subnuda lubbersii",
+                            "machine_name": "anacampseros_subnuda_lubbersii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lubbersii",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "M.Gerbaulet.",
+                            "description": {
+                                "value": "basionym: A. lubbersii",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "basionym: A. lubbersii",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "anacampseros_subnuda",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601828",
+                                "legacy_id": "226116",
+                                "fgsid": "2363",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398656",
+                        "legacy_id": "15775",
+                        "fgsid": "2363",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anacampseros karasmontana",
+                    "machine_name": "anacampseros_karasmontana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Dinter.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440504",
+                        "legacy_id": "8416",
+                        "fgsid": "44741",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros namaquensis",
+                    "machine_name": "anacampseros_namaquensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Pearson & Stephens.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440825",
+                        "legacy_id": "10987",
+                        "fgsid": "44787",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros affinis",
+                    "machine_name": "anacampseros_affinis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Pearson & Steph.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441973",
+                        "legacy_id": "294",
+                        "fgsid": "37043",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros filamentosa",
+                    "machine_name": "anacampseros_filamentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Sims.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Anacampseros filamentosa namibensis",
+                            "machine_name": "anacampseros_filamentosa_namibensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "namibensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "anacampseros_filamentosa",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1639359",
+                                "legacy_id": "330136",
+                                "fgsid": "42237",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442057",
+                        "legacy_id": "5924",
+                        "fgsid": "42237",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros retusa",
+                    "machine_name": "anacampseros_retusa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Poelln.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Anacampseros retusa rubra",
+                            "machine_name": "anacampseros_retusa_rubra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rubra",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "G.Will.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "anacampseros_retusa",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1629845",
+                                "legacy_id": "243651",
+                                "fgsid": "44108",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Anacampseros retusa parva",
+                            "machine_name": "anacampseros_retusa_parva",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "parva",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "G.Will.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "anacampseros_retusa",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1629846",
+                                "legacy_id": "243652",
+                                "fgsid": "44108",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Anacampseros retusa lanuginosa",
+                            "machine_name": "anacampseros_retusa_lanuginosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lanuginosa",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "G.Will.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "anacampseros_retusa",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1629847",
+                                "legacy_id": "243653",
+                                "fgsid": "44108",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443607",
+                        "legacy_id": "13764",
+                        "fgsid": "44108",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros telephiastrum",
+                    "machine_name": "anacampseros_telephiastrum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Anacampseros telephiastrum 'Variegata'",
+                            "machine_name": "anacampseros_telephiastrum_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "anacampseros_telephiastrum",
+                            "genus": "anacampseros",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539574",
+                                "legacy_id": "115210",
+                                "fgsid": "44109",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443608",
+                        "legacy_id": "20253",
+                        "fgsid": "44109",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros buderiana",
+                    "machine_name": "anacampseros_buderiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Poelin.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447309",
+                        "legacy_id": "39643",
+                        "fgsid": "77396",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros tomentosa",
+                    "machine_name": "anacampseros_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "A. Berger.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447577",
+                        "legacy_id": "16461",
+                        "fgsid": "77397",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros baeseckei",
+                    "machine_name": "anacampseros_baeseckei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Dinter.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449369",
+                        "legacy_id": "34963",
+                        "fgsid": "69738",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros marlothii",
+                    "machine_name": "anacampseros_marlothii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Poelln.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449593",
+                        "legacy_id": "10064",
+                        "fgsid": "94535",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros arachnoides",
+                    "machine_name": "anacampseros_arachnoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Sims.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449594",
+                        "legacy_id": "1003",
+                        "fgsid": "94536",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros albissima*",
+                    "machine_name": "anacampseros_albissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Marloth.",
+                    "description": "set up for x-ref",
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "avonia_albissima",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1460475",
+                        "legacy_id": "36183",
+                        "fgsid": "140670",
+                        "legacy_from_data_cross_ref": [
+                            "Avonia albissima"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros pisina",
+                    "machine_name": "anacampseros_pisina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G. Will.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461873",
+                        "legacy_id": "87484",
+                        "fgsid": "149983",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Anacampseros vanthielii",
+                    "machine_name": "anacampseros_vanthielii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G. Will.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2135411",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1507917420"
+                    }
+                },
+                {
+                    "name": "Anacampseros quinarioides",
+                    "machine_name": "anacampseros_quinarioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp nov",
+                    "naming_authorities": "Dreher & Rodgerson & Young.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2349181",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1531657416"
+                    }
+                },
+                {
+                    "name": "Anacampseros densifolia",
+                    "machine_name": "anacampseros_densifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Dinter ex Poelin.",
+                    "description": null,
+                    "genus": "anacampseros",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2559411",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1567882693"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390327",
+                "legacy_id": "297",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Avonia",
+            "machine_name": "avonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Rowl.",
+            "description": null,
+            "family": "anacampserotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Avonia [Cultivars]",
+                    "machine_name": "avonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392240",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Avonia dinteri",
+                    "machine_name": "avonia_dinteri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398813",
+                        "legacy_id": "4940",
+                        "fgsid": "3904",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Avonia maillei",
+                    "machine_name": "avonia_maillei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Williamson.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398814",
+                        "legacy_id": "9902",
+                        "fgsid": "3905",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Avonia papyracea",
+                    "machine_name": "avonia_papyracea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Avonia papyracea namaensis",
+                            "machine_name": "avonia_papyracea_namaensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "namaensis",
+                            "authorities": "Tropicos",
+                            "naming_authorities": "(Gerbaulet) G.D.Rowley",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "avonia_papyracea",
+                            "genus": "avonia",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1663623",
+                                "legacy_id": "396875",
+                                "fgsid": "3906",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398815",
+                        "legacy_id": "12006",
+                        "fgsid": "3906",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Avonia quinaria",
+                    "machine_name": "avonia_quinaria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Avonia quinaria alstonii",
+                            "machine_name": "avonia_quinaria_alstonii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "alstonii",
+                            "authorities": "IPNI (IK)",
+                            "naming_authorities": "G.D. Rowley.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "avonia_quinaria",
+                            "genus": "avonia",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464235",
+                                "legacy_id": "2003",
+                                "fgsid": "3907",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398816",
+                        "legacy_id": "13478",
+                        "fgsid": "3907",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Avonia recurvata",
+                    "machine_name": "avonia_recurvata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Avonia recurvata minuta",
+                            "machine_name": "avonia_recurvata_minuta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "minuta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "avonia_recurvata",
+                            "genus": "avonia",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556296",
+                                "legacy_id": "151642",
+                                "fgsid": "61635",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Avonia recurvata buderiana",
+                            "machine_name": "avonia_recurvata_buderiana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "buderiana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "avonia_recurvata",
+                            "genus": "avonia",
+                            "family": "anacampserotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605499",
+                                "legacy_id": "277656",
+                                "fgsid": "61635",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439937",
+                        "legacy_id": "13641",
+                        "fgsid": "61635",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia albissima",
+                    "machine_name": "avonia_albissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": "Kewensis 17 says is Anacampseros albissima",
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446351",
+                        "legacy_id": "36183",
+                        "fgsid": "90642",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia lanigera",
+                    "machine_name": "avonia_lanigera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447586",
+                        "legacy_id": "8843",
+                        "fgsid": "77475",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia ustulata",
+                    "machine_name": "avonia_ustulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448265",
+                        "legacy_id": "17046",
+                        "fgsid": "66921",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia herreana",
+                    "machine_name": "avonia_herreana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "G.D. Rowley.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455280",
+                        "legacy_id": "65504",
+                        "fgsid": "119300",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia harveyi",
+                    "machine_name": "avonia_harveyi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Cactus World 29\/4",
+                    "naming_authorities": "J. van Thiel & Lavr.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457348",
+                        "legacy_id": "7202",
+                        "fgsid": "141166",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia confusa",
+                    "machine_name": "avonia_confusa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "G. Will.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462905",
+                        "legacy_id": "3849",
+                        "fgsid": "156281",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia lavbleckiana",
+                    "machine_name": "avonia_lavbleckiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "G. Will.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462912",
+                        "legacy_id": "91065",
+                        "fgsid": "156280",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Avonia grisea",
+                    "machine_name": "avonia_grisea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp. nov.",
+                    "naming_authorities": "G. Will.",
+                    "description": null,
+                    "genus": "avonia",
+                    "family": "anacampserotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462913",
+                        "legacy_id": "6958",
+                        "fgsid": "156282",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392239",
+                "legacy_id": "585",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

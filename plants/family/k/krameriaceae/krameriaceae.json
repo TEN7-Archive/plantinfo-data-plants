@@ -1,0 +1,188 @@
+{
+    "name": "Krameriaceae",
+    "machine_name": "krameriaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381283",
+        "legacy_id": "232",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Krameria",
+            "machine_name": "krameria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "krameriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Krameria [Cultivars]",
+                    "machine_name": "krameria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "krameria",
+                    "family": "krameriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385444",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Krameria erecta",
+                    "machine_name": "krameria_erecta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "krameria",
+                    "family": "krameriaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "krameria_lanceolata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1419920",
+                        "legacy_id": "5499",
+                        "fgsid": "20007",
+                        "legacy_from_data_cross_ref": [
+                            "+K. lanceolata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Krameria lanceolata",
+                    "machine_name": "krameria_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "krameria",
+                    "family": "krameriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419921",
+                        "legacy_id": "8822",
+                        "fgsid": "20008",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Krameria grayi",
+                    "machine_name": "krameria_grayi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Rose & Painter.",
+                    "description": null,
+                    "genus": "krameria",
+                    "family": "krameriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445403",
+                        "legacy_id": "6922",
+                        "fgsid": "73375",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Krameria ramosissima",
+                    "machine_name": "krameria_ramosissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "S. Watson.",
+                    "description": null,
+                    "genus": "krameria",
+                    "family": "krameriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451717",
+                        "legacy_id": "13559",
+                        "fgsid": "130403",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Krameria bicolor",
+                    "machine_name": "krameria_bicolor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "S. Watson.",
+                    "description": null,
+                    "genus": "krameria",
+                    "family": "krameriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318671",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526317299"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385443",
+                "legacy_id": "3049",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

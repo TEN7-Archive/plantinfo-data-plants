@@ -1,0 +1,3028 @@
+{
+    "name": "Elaeagnaceae",
+    "machine_name": "elaeagnaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381230",
+        "legacy_id": "156",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Hippophae",
+            "machine_name": "hippophae",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "elaeagnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hippophae [Cultivars]",
+                    "machine_name": "hippophae_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hippophae",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382948",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hippophae rhamnoides",
+                    "machine_name": "hippophae_rhamnoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "hippophae",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Hippophae rhamnoides 'Sprite'",
+                            "machine_name": "hippophae_rhamnoides_sprite",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sprite",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1473356",
+                                "legacy_id": "13635",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides turkestanica",
+                            "machine_name": "hippophae_rhamnoides_turkestanica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "turkestanica",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1473357",
+                                "legacy_id": "13636",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Leikora'",
+                            "machine_name": "hippophae_rhamnoides_leikora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Leikora",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537992",
+                                "legacy_id": "113664",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Dorana'",
+                            "machine_name": "hippophae_rhamnoides_dorana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dorana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538597",
+                                "legacy_id": "113827",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Botanica'",
+                            "machine_name": "hippophae_rhamnoides_botanica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Botanica",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540968",
+                                "legacy_id": "114432",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Byantes'",
+                            "machine_name": "hippophae_rhamnoides_byantes",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Byantes",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540969",
+                                "legacy_id": "114433",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Frugana'",
+                            "machine_name": "hippophae_rhamnoides_frugana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frugana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540970",
+                                "legacy_id": "114434",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Hergo'",
+                            "machine_name": "hippophae_rhamnoides_hergo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hergo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540971",
+                                "legacy_id": "114435",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Russian Orange'",
+                            "machine_name": "hippophae_rhamnoides_russian_orange",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Russian Orange",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540972",
+                                "legacy_id": "114436",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Pollmix'",
+                            "machine_name": "hippophae_rhamnoides_pollmix",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pollmix",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1542754",
+                                "legacy_id": "121055",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Siberian Splendor \u2122",
+                            "machine_name": "hippophae_rhamnoides_siberian_splendor",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Siberian Splendor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561310",
+                                "legacy_id": "159743",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Sunny'",
+                            "machine_name": "hippophae_rhamnoides_sunny",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunny",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1564288",
+                                "legacy_id": "157718",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Freisendorf Orange'",
+                            "machine_name": "hippophae_rhamnoides_freisendorf_orange",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Freisendorf Orange",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568590",
+                                "legacy_id": "175504",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Titan'",
+                            "machine_name": "hippophae_rhamnoides_titan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Titan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585219",
+                                "legacy_id": "220162",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Hikul'",
+                            "machine_name": "hippophae_rhamnoides_hikul",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hikul",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1595650",
+                                "legacy_id": "363238",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Golden Sweet \u2122",
+                            "machine_name": "hippophae_rhamnoides_golden_sweet",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Golden Sweet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598576",
+                                "legacy_id": "226986",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Amber Dawn \u2122",
+                            "machine_name": "hippophae_rhamnoides_amber_dawn",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Amber Dawn",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598577",
+                                "legacy_id": "226987",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Askola \u2122",
+                            "machine_name": "hippophae_rhamnoides_askola",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Askola",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598579",
+                                "legacy_id": "226989",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Baikal \u2122",
+                            "machine_name": "hippophae_rhamnoides_baikal",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Baikal",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598581",
+                                "legacy_id": "226991",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Garden's Gift \u2122",
+                            "machine_name": "hippophae_rhamnoides_garden_s_gift",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Garden's Gift",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598582",
+                                "legacy_id": "226992",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Orange Delight \u2122",
+                            "machine_name": "hippophae_rhamnoides_orange_delight",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Orange Delight",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598584",
+                                "legacy_id": "226994",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Star of Altai \u2122",
+                            "machine_name": "hippophae_rhamnoides_star_of_altai",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Star of Altai",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598585",
+                                "legacy_id": "226995",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Radiant \u2122",
+                            "machine_name": "hippophae_rhamnoides_radiant",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Radiant",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615179",
+                                "legacy_id": "238702",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Baikal Ruby \u2122",
+                            "machine_name": "hippophae_rhamnoides_baikal_ruby",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Baikal Ruby",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615180",
+                                "legacy_id": "238711",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Golden Siberia \u2122",
+                            "machine_name": "hippophae_rhamnoides_golden_siberia",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Golden Siberia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615181",
+                                "legacy_id": "238712",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Klim's Prize'",
+                            "machine_name": "hippophae_rhamnoides_klim_s_prize",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Klim's Prize",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615182",
+                                "legacy_id": "238713",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Solnechnaya'",
+                            "machine_name": "hippophae_rhamnoides_solnechnaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Solnechnaya",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616257",
+                                "legacy_id": "234113",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Harvest Moon'",
+                            "machine_name": "hippophae_rhamnoides_harvest_moon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Harvest Moon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632926",
+                                "legacy_id": "312461",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Orange September'",
+                            "machine_name": "hippophae_rhamnoides_orange_september",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Orange September",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632927",
+                                "legacy_id": "312462",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Chuskaya'",
+                            "machine_name": "hippophae_rhamnoides_chuskaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chuskaya",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638280",
+                                "legacy_id": "336420",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Orange Energy \u00ae",
+                            "machine_name": "hippophae_rhamnoides_orange_energy",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Orange Energy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1668149",
+                                "legacy_id": "405987",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides Sirola \u2122",
+                            "machine_name": "hippophae_rhamnoides_sirola",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Sirola",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1668150",
+                                "legacy_id": "405988",
+                                "fgsid": "18362",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Citrus Blaze'",
+                            "machine_name": "hippophae_rhamnoides_citrus_blaze",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Citrus Blaze",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219516",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516999239"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Citrus Gold'",
+                            "machine_name": "hippophae_rhamnoides_citrus_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Citrus Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219521",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516999260"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Huron Sunset'",
+                            "machine_name": "hippophae_rhamnoides_huron_sunset",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Huron Sunset",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219526",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516999284"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Lord'",
+                            "machine_name": "hippophae_rhamnoides_lord",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lord",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2219531",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1516999301"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Silver Star'",
+                            "machine_name": "hippophae_rhamnoides_silver_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silver Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2568731",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1570807688"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Julia'",
+                            "machine_name": "hippophae_rhamnoides_julia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Julia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2615941",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585065482"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Romeo'",
+                            "machine_name": "hippophae_rhamnoides_romeo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Romeo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2615946",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585065523"
+                            }
+                        },
+                        {
+                            "name": "Hippophae rhamnoides 'Glergo'",
+                            "machine_name": "hippophae_rhamnoides_glergo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Glergo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_rhamnoides",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616406",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585156894"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419457",
+                        "legacy_id": "13793",
+                        "fgsid": "18362",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hippophae salicifolia",
+                    "machine_name": "hippophae_salicifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "hippophae",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Hippophae salicifolia 'Robert'",
+                            "machine_name": "hippophae_salicifolia_robert",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Robert",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "hippophae_salicifolia",
+                            "genus": "hippophae",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1628159",
+                                "legacy_id": "245155",
+                                "fgsid": "18363",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419458",
+                        "legacy_id": "14288",
+                        "fgsid": "18363",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hippophae tibetana",
+                    "machine_name": "hippophae_tibetana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hippophae",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "hippophae_rhamnoides",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1419459",
+                        "legacy_id": "16404",
+                        "fgsid": "18364",
+                        "legacy_from_data_cross_ref": [
+                            "+H. rhamnoides"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382947",
+                "legacy_id": "2748",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Shepherdia",
+            "machine_name": "shepherdia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Nutt.",
+            "description": null,
+            "family": "elaeagnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Shepherdia [Cultivars]",
+                    "machine_name": "shepherdia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "shepherdia",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388238",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Shepherdia argentea",
+                    "machine_name": "shepherdia_argentea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "shepherdia",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Shepherdia argentea 'Sakakawea'",
+                            "machine_name": "shepherdia_argentea_sakakawea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sakakawea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "shepherdia_argentea",
+                            "genus": "shepherdia",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1554328",
+                                "legacy_id": "129132",
+                                "fgsid": "32805",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429228",
+                        "legacy_id": "1095",
+                        "fgsid": "32805",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Shepherdia canadensis",
+                    "machine_name": "shepherdia_canadensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "shepherdia",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429229",
+                        "legacy_id": "2774",
+                        "fgsid": "32806",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Shepherdia rotundifolia",
+                    "machine_name": "shepherdia_rotundifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Parry.",
+                    "description": null,
+                    "genus": "shepherdia",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429230",
+                        "legacy_id": "14054",
+                        "fgsid": "32807",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388237",
+                "legacy_id": "5093",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Elaeagnus",
+            "machine_name": "elaeagnus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "elaeagnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Elaeagnus [Cultivars]",
+                    "machine_name": "elaeagnus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elaeagnus [Cultivars] 'Quicksilver'",
+                            "machine_name": "elaeagnus_cultivars_quicksilver",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Quicksilver",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_cultivars",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474837",
+                                "legacy_id": "8899",
+                                "fgsid": "12257",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus [Cultivars] Silverscape \u2122",
+                            "machine_name": "elaeagnus_cultivars_silverscape",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Silverscape",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_cultivars",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580132",
+                                "legacy_id": "211870",
+                                "fgsid": "12257",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus [Cultivars] Olive Martini \u2122",
+                            "machine_name": "elaeagnus_cultivars_olive_martini",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Olive Martini",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_cultivars",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1651528",
+                                "legacy_id": "384478",
+                                "fgsid": "12257",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus [Cultivars] 'Silverado'",
+                            "machine_name": "elaeagnus_cultivars_silverado",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silverado",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_cultivars",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2568726",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1570807485"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413154",
+                        "legacy_id": "2",
+                        "fgsid": "12257",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus angustifolia",
+                    "machine_name": "elaeagnus_angustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elaeagnus angustifolia orientalis",
+                            "machine_name": "elaeagnus_angustifolia_orientalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "orientalis",
+                            "authorities": "Hortus",
+                            "naming_authorities": "O. Kuntze.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "elaeagnus_angustifolia",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474838",
+                                "legacy_id": "8900",
+                                "fgsid": "12258",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus angustifolia 'Red King'",
+                            "machine_name": "elaeagnus_angustifolia_red_king",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red King",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_angustifolia",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507375",
+                                "legacy_id": "78606",
+                                "fgsid": "12258",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus angustifolia Velvet Touch \u2122",
+                            "machine_name": "elaeagnus_angustifolia_velvet_touch",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Velvet Touch",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_angustifolia",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538379",
+                                "legacy_id": "114905",
+                                "fgsid": "12258",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus angustifolia 'King's Red'",
+                            "machine_name": "elaeagnus_angustifolia_king_s_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "King's Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_angustifolia",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557597",
+                                "legacy_id": "154227",
+                                "fgsid": "12258",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413155",
+                        "legacy_id": "827",
+                        "fgsid": "12258",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus commutata",
+                    "machine_name": "elaeagnus_commutata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Bernh.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413156",
+                        "legacy_id": "3774",
+                        "fgsid": "12259",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus ebbingei",
+                    "machine_name": "elaeagnus_ebbingei",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Boom.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elaeagnus ebbingei 'Gilt Edge'",
+                            "machine_name": "elaeagnus_ebbingei_gilt_edge",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gilt Edge",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474839",
+                                "legacy_id": "8901",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus ebbingei 'Limelight'",
+                            "machine_name": "elaeagnus_ebbingei_limelight",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Limelight",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1531776",
+                                "legacy_id": "105723",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus ebbingei 'Lannou'",
+                            "machine_name": "elaeagnus_ebbingei_lannou",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lannou",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581457",
+                                "legacy_id": "216456",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus ebbingei 'Glen's Compact'",
+                            "machine_name": "elaeagnus_ebbingei_glen_s_compact",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Glen's Compact",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598403",
+                                "legacy_id": "229949",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus ebbingei Gold Splash\/Eleador \u00ae",
+                            "machine_name": "elaeagnus_ebbingei_gold_splash_eleador",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Gold Splash\/Eleador",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615728",
+                                "legacy_id": "236598",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus ebbingei Eleador \u00ae",
+                            "machine_name": "elaeagnus_ebbingei_eleador",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Eleador",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631391",
+                                "legacy_id": "244371",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus ebbingei 'Viveleg'",
+                            "machine_name": "elaeagnus_ebbingei_viveleg",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Viveleg",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_ebbingei",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636034",
+                                "legacy_id": "295987",
+                                "fgsid": "12260",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413157",
+                        "legacy_id": "5232",
+                        "fgsid": "12260",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus glabra",
+                    "machine_name": "elaeagnus_glabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413158",
+                        "legacy_id": "6617",
+                        "fgsid": "12261",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus macrophylla",
+                    "machine_name": "elaeagnus_macrophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413159",
+                        "legacy_id": "9799",
+                        "fgsid": "12262",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus multiflora",
+                    "machine_name": "elaeagnus_multiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elaeagnus multiflora 'Variegata'",
+                            "machine_name": "elaeagnus_multiflora_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_multiflora",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507376",
+                                "legacy_id": "78607",
+                                "fgsid": "12263",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus multiflora Sweet Scarlet \u2122",
+                            "machine_name": "elaeagnus_multiflora_sweet_scarlet",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Sweet Scarlet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_multiflora",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540985",
+                                "legacy_id": "114450",
+                                "fgsid": "12263",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus multiflora Red Gem \u2122",
+                            "machine_name": "elaeagnus_multiflora_red_gem",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Red Gem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_multiflora",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634082",
+                                "legacy_id": "308336",
+                                "fgsid": "12263",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus multiflora 'Carmine'",
+                            "machine_name": "elaeagnus_multiflora_carmine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Carmine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_multiflora",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2534876",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1560950960"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413160",
+                        "legacy_id": "10834",
+                        "fgsid": "12263",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus parvifolia",
+                    "machine_name": "elaeagnus_parvifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "elaeagnus_umbellata_parvifolia",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1413161",
+                        "legacy_id": "12083",
+                        "fgsid": "12264",
+                        "legacy_from_data_cross_ref": [
+                            "+E. umbellata parvifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus pungens",
+                    "machine_name": "elaeagnus_pungens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elaeagnus pungens 'Aurea'",
+                            "machine_name": "elaeagnus_pungens_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474840",
+                                "legacy_id": "8902",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Dicksonii'",
+                            "machine_name": "elaeagnus_pungens_dicksonii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dicksonii",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474841",
+                                "legacy_id": "8903",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Frederici'",
+                            "machine_name": "elaeagnus_pungens_frederici",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frederici",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474842",
+                                "legacy_id": "8904",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Maculata'",
+                            "machine_name": "elaeagnus_pungens_maculata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maculata",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474843",
+                                "legacy_id": "8905",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Fruitlandii'",
+                            "machine_name": "elaeagnus_pungens_fruitlandii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fruitlandii",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507377",
+                                "legacy_id": "78608",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Reflexa'",
+                            "machine_name": "elaeagnus_pungens_reflexa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Reflexa",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507378",
+                                "legacy_id": "78609",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Variegata'",
+                            "machine_name": "elaeagnus_pungens_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507379",
+                                "legacy_id": "78610",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Hosoba Fukurin'",
+                            "machine_name": "elaeagnus_pungens_hosoba_fukurin",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hosoba Fukurin",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548538",
+                                "legacy_id": "123625",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Fukurin'",
+                            "machine_name": "elaeagnus_pungens_fukurin",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fukurin",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1549964",
+                                "legacy_id": "122779",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Rotundifolia'",
+                            "machine_name": "elaeagnus_pungens_rotundifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rotundifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557917",
+                                "legacy_id": "154346",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Glen St Mary'",
+                            "machine_name": "elaeagnus_pungens_glen_st_mary",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Glen St Mary",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1560621",
+                                "legacy_id": "169747",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Clemson Variegated'",
+                            "machine_name": "elaeagnus_pungens_clemson_variegated",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Clemson Variegated",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567787",
+                                "legacy_id": "178126",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus pungens 'Webb's Little Leaf'",
+                            "machine_name": "elaeagnus_pungens_webb_s_little_leaf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Webb's Little Leaf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_pungens",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574703",
+                                "legacy_id": "193861",
+                                "fgsid": "12265",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413162",
+                        "legacy_id": "13316",
+                        "fgsid": "12265",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus triflora",
+                    "machine_name": "elaeagnus_triflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413163",
+                        "legacy_id": "16657",
+                        "fgsid": "12266",
+                        "legacy_from_data_cross_ref": [
+                            "+E. latifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus umbellata",
+                    "machine_name": "elaeagnus_umbellata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elaeagnus umbellata parvifolia",
+                            "machine_name": "elaeagnus_umbellata_parvifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "parvifolia",
+                            "authorities": "Hortus",
+                            "naming_authorities": "C.K. Schneid.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474844",
+                                "legacy_id": "8906",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Titan'",
+                            "machine_name": "elaeagnus_umbellata_titan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Titan",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1474845",
+                                "legacy_id": "8907",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Brilliant Rose'",
+                            "machine_name": "elaeagnus_umbellata_brilliant_rose",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brilliant Rose",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507380",
+                                "legacy_id": "78611",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Cardinal'",
+                            "machine_name": "elaeagnus_umbellata_cardinal",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cardinal",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507381",
+                                "legacy_id": "78612",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Charlie's Golden'",
+                            "machine_name": "elaeagnus_umbellata_charlie_s_golden",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Charlie's Golden",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507382",
+                                "legacy_id": "78613",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Delightful'",
+                            "machine_name": "elaeagnus_umbellata_delightful",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Delightful",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507383",
+                                "legacy_id": "78614",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Jewel'",
+                            "machine_name": "elaeagnus_umbellata_jewel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jewel",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507384",
+                                "legacy_id": "78615",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Sweetntart'",
+                            "machine_name": "elaeagnus_umbellata_sweetntart",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sweetntart",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507385",
+                                "legacy_id": "78616",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Ruby'",
+                            "machine_name": "elaeagnus_umbellata_ruby",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ruby",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540958",
+                                "legacy_id": "114421",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Autumn Titan'",
+                            "machine_name": "elaeagnus_umbellata_autumn_titan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Autumn Titan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1564011",
+                                "legacy_id": "157400",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Roslyn'",
+                            "machine_name": "elaeagnus_umbellata_roslyn",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roslyn",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1569770",
+                                "legacy_id": "173296",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata 'Jazzbo'",
+                            "machine_name": "elaeagnus_umbellata_jazzbo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jazzbo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581049",
+                                "legacy_id": "212556",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata Garnet \u2122",
+                            "machine_name": "elaeagnus_umbellata_garnet",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Garnet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598342",
+                                "legacy_id": "226917",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Elaeagnus umbellata Amber \u2122",
+                            "machine_name": "elaeagnus_umbellata_amber",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Amber",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "elaeagnus_umbellata",
+                            "genus": "elaeagnus",
+                            "family": "elaeagnaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634077",
+                                "legacy_id": "308296",
+                                "fgsid": "12267",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413164",
+                        "legacy_id": "16919",
+                        "fgsid": "12267",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elaeagnus mollis",
+                    "machine_name": "elaeagnus_mollis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Diels.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454453",
+                        "legacy_id": "10608",
+                        "fgsid": "105300",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Elaeagnus submacrophylla",
+                    "machine_name": "elaeagnus_submacrophylla",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Servett.",
+                    "description": null,
+                    "genus": "elaeagnus",
+                    "family": "elaeagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2260931",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519757320"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390583",
+                "legacy_id": "2041",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

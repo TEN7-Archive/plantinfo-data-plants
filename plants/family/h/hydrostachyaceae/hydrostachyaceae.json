@@ -1,0 +1,85 @@
+{
+    "name": "Hydrostachyaceae",
+    "machine_name": "hydrostachyaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Engl.",
+    "description": null,
+    "archival_data": {
+        "id": "2337836",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529753932"
+    },
+    "genus_items": [
+        {
+            "name": "Hydrostachys",
+            "machine_name": "hydrostachys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Thouars.",
+            "description": null,
+            "family": "hydrostachyaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hydrostachys [Cultivars]",
+                    "machine_name": "hydrostachys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hydrostachys",
+                    "family": "hydrostachyaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337846",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529753978"
+                    }
+                },
+                {
+                    "name": "Hydrostachys imbricata",
+                    "machine_name": "hydrostachys_imbricata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. Juss.",
+                    "description": null,
+                    "genus": "hydrostachys",
+                    "family": "hydrostachyaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337851",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529754014"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2337841",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529753978"
+            }
+        }
+    ]
+}

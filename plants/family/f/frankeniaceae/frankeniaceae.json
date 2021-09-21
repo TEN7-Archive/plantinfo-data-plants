@@ -1,0 +1,499 @@
+{
+    "name": "Frankeniaceae",
+    "machine_name": "frankeniaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381247",
+        "legacy_id": "180",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Anthobryum",
+            "machine_name": "anthobryum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Philippi.",
+            "description": null,
+            "family": "frankeniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anthobryum [Cultivars]",
+                    "machine_name": "anthobryum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anthobryum",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391148",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Anthobryum triandrum",
+                    "machine_name": "anthobryum_triandrum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anthobryum",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400229",
+                        "legacy_id": "16589",
+                        "fgsid": "2765",
+                        "legacy_from_data_cross_ref": [
+                            "+Frankenia triandra"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391147",
+                "legacy_id": "371",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Frankenia",
+            "machine_name": "frankenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "frankeniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Frankenia [Cultivars]",
+                    "machine_name": "frankenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393188",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Frankenia hirsuta",
+                    "machine_name": "frankenia_hirsuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413791",
+                        "legacy_id": "7517",
+                        "fgsid": "15494",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia laevis",
+                    "machine_name": "frankenia_laevis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I???",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413792",
+                        "legacy_id": "8767",
+                        "fgsid": "15495",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia pauciflora",
+                    "machine_name": "frankenia_pauciflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414074",
+                        "legacy_id": "12135",
+                        "fgsid": "15496",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia pulverulenia",
+                    "machine_name": "frankenia_pulverulenia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414075",
+                        "legacy_id": "13285",
+                        "fgsid": "15497",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia serpyllifolia",
+                    "machine_name": "frankenia_serpyllifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "frankenia_pauciflora",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1414076",
+                        "legacy_id": "14908",
+                        "fgsid": "15498",
+                        "legacy_from_data_cross_ref": [
+                            "+F. pauciflora"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia tetrapetala",
+                    "machine_name": "frankenia_tetrapetala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414077",
+                        "legacy_id": "16269",
+                        "fgsid": "15499",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia thymifolia",
+                    "machine_name": "frankenia_thymifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Desf.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414078",
+                        "legacy_id": "16384",
+                        "fgsid": "15500",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Frankenia johnstonii",
+                    "machine_name": "frankenia_johnstonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": "Correll.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440575",
+                        "legacy_id": "8311",
+                        "fgsid": "46153",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Frankenia grandifolia",
+                    "machine_name": "frankenia_grandifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Cham. & Schlecht.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440949",
+                        "legacy_id": "6884",
+                        "fgsid": "47376",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Frankenia serpyllifolia",
+                    "machine_name": "frankenia_serpyllifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443476",
+                        "legacy_id": "14908",
+                        "fgsid": "42604",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Frankenia jamesii",
+                    "machine_name": "frankenia_jamesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Torr. & A. Gray.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446767",
+                        "legacy_id": "8261",
+                        "fgsid": "97594",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Frankenia salina",
+                    "machine_name": "frankenia_salina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 7 says is Ocimum salinum",
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449486",
+                        "legacy_id": "14300",
+                        "fgsid": "88636",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Frankenia palmeri",
+                    "machine_name": "frankenia_palmeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "S.Watson.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450368",
+                        "legacy_id": "11931",
+                        "fgsid": "95778",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Frankenia muscosa",
+                    "machine_name": "frankenia_muscosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "J.M. Black.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332636",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528727108"
+                    }
+                },
+                {
+                    "name": "Frankenia chilensis",
+                    "machine_name": "frankenia_chilensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "frankenia",
+                    "family": "frankeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2442326",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1548504572"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393187",
+                "legacy_id": "2331",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

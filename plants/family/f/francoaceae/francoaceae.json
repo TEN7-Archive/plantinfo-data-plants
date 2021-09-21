@@ -1,0 +1,879 @@
+{
+    "name": "Francoaceae",
+    "machine_name": "francoaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "A. Juss.",
+    "description": null,
+    "archival_data": {
+        "id": "2189951",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1515089120"
+    },
+    "genus_items": [
+        {
+            "name": "Melianthus",
+            "machine_name": "melianthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "francoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Melianthus [Cultivars]",
+                    "machine_name": "melianthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "melianthus",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388956",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Melianthus comosus",
+                    "machine_name": "melianthus_comosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Vahl.",
+                    "description": null,
+                    "genus": "melianthus",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419319",
+                        "legacy_id": "3782",
+                        "fgsid": "22829",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Melianthus major",
+                    "machine_name": "melianthus_major",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "melianthus",
+                    "family": "francoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Melianthus major 'Antonow's Blue'",
+                            "machine_name": "melianthus_major_antonow_s_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Antonow's Blue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "melianthus_major",
+                            "genus": "melianthus",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1587832",
+                                "legacy_id": "217150",
+                                "fgsid": "22830",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Melianthus major 'Purple Haze'",
+                            "machine_name": "melianthus_major_purple_haze",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Purple Haze",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "melianthus_major",
+                            "genus": "melianthus",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602321",
+                                "legacy_id": "231858",
+                                "fgsid": "22830",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419320",
+                        "legacy_id": "9913",
+                        "fgsid": "22830",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Melianthus villosus",
+                    "machine_name": "melianthus_villosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Bolus.",
+                    "description": null,
+                    "genus": "melianthus",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419321",
+                        "legacy_id": "17359",
+                        "fgsid": "22831",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Melianthus pectinatus",
+                    "machine_name": "melianthus_pectinatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Harv.",
+                    "description": null,
+                    "genus": "melianthus",
+                    "family": "francoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Melianthus pectinatus gariepinus",
+                            "machine_name": "melianthus_pectinatus_gariepinus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "gariepinus",
+                            "authorities": "IK2",
+                            "naming_authorities": "S.A. Tansley.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "melianthus_pectinatus",
+                            "genus": "melianthus",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538655",
+                                "legacy_id": "114957",
+                                "fgsid": "44066",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443565",
+                        "legacy_id": "12179",
+                        "fgsid": "44066",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388955",
+                "legacy_id": "3511",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Francoa",
+            "machine_name": "francoa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Cav.",
+            "description": null,
+            "family": "francoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Francoa appendiculata",
+                    "machine_name": "francoa_appendiculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "francoa",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413788",
+                        "legacy_id": "963",
+                        "fgsid": "15491",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Francoa ramosa",
+                    "machine_name": "francoa_ramosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "francoa",
+                    "family": "francoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Francoa ramosa 'Alba'",
+                            "machine_name": "francoa_ramosa_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alba",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "francoa_ramosa",
+                            "genus": "francoa",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2184886",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1514478000"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413789",
+                        "legacy_id": "13557",
+                        "fgsid": "15492",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Francoa sonchifolia",
+                    "machine_name": "francoa_sonchifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "francoa",
+                    "family": "francoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Francoa sonchifolia 'Thompson & Morgan'",
+                            "machine_name": "francoa_sonchifolia_thompson_morgan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Thompson & Morgan",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "francoa_sonchifolia",
+                            "genus": "francoa",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506035",
+                                "legacy_id": "79405",
+                                "fgsid": "15493",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Francoa sonchifolia 'Pink Giant'",
+                            "machine_name": "francoa_sonchifolia_pink_giant",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Giant",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "francoa_sonchifolia",
+                            "genus": "francoa",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607833",
+                                "legacy_id": "385147",
+                                "fgsid": "15493",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Francoa sonchifolia 'Pink Bouquet'",
+                            "machine_name": "francoa_sonchifolia_pink_bouquet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Bouquet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "francoa_sonchifolia",
+                            "genus": "francoa",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1621947",
+                                "legacy_id": "353587",
+                                "fgsid": "15493",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Francoa sonchifolia 'Culm View Lilac'",
+                            "machine_name": "francoa_sonchifolia_culm_view_lilac",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Culm View Lilac",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "francoa_sonchifolia",
+                            "genus": "francoa",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1645654",
+                                "legacy_id": "256643",
+                                "fgsid": "15493",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413790",
+                        "legacy_id": "15248",
+                        "fgsid": "15493",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Francoa [Cultivars]",
+                    "machine_name": "francoa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "francoa",
+                    "family": "francoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Francoa [Cultivars] 'Rogerson's Form'",
+                            "machine_name": "francoa_cultivars_rogerson_s_form",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rogerson's Form",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "francoa_cultivars",
+                            "genus": "francoa",
+                            "family": "francoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585502",
+                                "legacy_id": "220943",
+                                "fgsid": "93115",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448527",
+                        "legacy_id": "2",
+                        "fgsid": "93115",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393183",
+                "legacy_id": "2329",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Greyia",
+            "machine_name": "greyia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Hook. & Harvey.",
+            "description": null,
+            "family": "francoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Greyia [Cultivars]",
+                    "machine_name": "greyia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "greyia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394230",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Greyia radlkoferi",
+                    "machine_name": "greyia_radlkoferi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Szyzyl.",
+                    "description": null,
+                    "genus": "greyia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414208",
+                        "legacy_id": "13526",
+                        "fgsid": "16988",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Greyia sutherlandii",
+                    "machine_name": "greyia_sutherlandii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook. & Harvey.",
+                    "description": null,
+                    "genus": "greyia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414209",
+                        "legacy_id": "15921",
+                        "fgsid": "16989",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Greyia spinosa",
+                    "machine_name": "greyia_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "greyia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433799",
+                        "legacy_id": "15394",
+                        "fgsid": "38775",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Greyia flanaganii",
+                    "machine_name": "greyia_flanaganii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Bolus.",
+                    "description": null,
+                    "genus": "greyia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440020",
+                        "legacy_id": "6022",
+                        "fgsid": "43193",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394229",
+                "legacy_id": "2520",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Viviania",
+            "machine_name": "viviania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Cav.",
+            "description": null,
+            "family": "francoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Viviania [Cultivars]",
+                    "machine_name": "viviania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "viviania",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2189961",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1515089176"
+                    }
+                },
+                {
+                    "name": "Viviania marifolia",
+                    "machine_name": "viviania_marifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "viviania",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2189966",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1515089222"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2189956",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1515089176"
+            }
+        },
+        {
+            "name": "Rhynchotheca",
+            "machine_name": "rhynchotheca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "francoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rhynchotheca [Cultivars]",
+                    "machine_name": "rhynchotheca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhynchotheca",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325971",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527179918"
+                    }
+                },
+                {
+                    "name": "Rhynchotheca spinosa",
+                    "machine_name": "rhynchotheca_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "rhynchotheca",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527179951"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2325966",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527179918"
+            }
+        },
+        {
+            "name": "Balbisia",
+            "machine_name": "balbisia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Cav.",
+            "description": null,
+            "family": "francoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Balbisia [Cultivars]",
+                    "machine_name": "balbisia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "balbisia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325986",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527180043"
+                    }
+                },
+                {
+                    "name": "Balbisia verticillata",
+                    "machine_name": "balbisia_verticillata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "balbisia",
+                    "family": "francoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2325991",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527180085"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2325981",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527180043"
+            }
+        }
+    ]
+}

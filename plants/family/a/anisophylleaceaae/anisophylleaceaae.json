@@ -1,0 +1,154 @@
+{
+    "name": "Anisophylleaceaae",
+    "machine_name": "anisophylleaceaae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Ridl.",
+    "description": null,
+    "archival_data": {
+        "id": "2321091",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526566463"
+    },
+    "genus_items": [
+        {
+            "name": "Combretocarpus",
+            "machine_name": "combretocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "anisophylleaceaae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Combretocarpus [Cultivars]",
+                    "machine_name": "combretocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "combretocarpus",
+                    "family": "anisophylleaceaae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321101",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526566502"
+                    }
+                },
+                {
+                    "name": "Combretocarpus rotundatus",
+                    "machine_name": "combretocarpus_rotundatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Danser.",
+                    "description": null,
+                    "genus": "combretocarpus",
+                    "family": "anisophylleaceaae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321106",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526566538"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2321096",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526566502"
+            }
+        },
+        {
+            "name": "Anisophyllea",
+            "machine_name": "anisophyllea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "R. Br. & Sabine.",
+            "description": null,
+            "family": "anisophylleaceaae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anisophyllea [Cultivars]",
+                    "machine_name": "anisophyllea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anisophyllea",
+                    "family": "anisophylleaceaae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321116",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526566678"
+                    }
+                },
+                {
+                    "name": "Anisophyllea disticha",
+                    "machine_name": "anisophyllea_disticha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "anisophyllea",
+                    "family": "anisophylleaceaae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321121",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526566724"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2321111",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526566678"
+            }
+        }
+    ]
+}

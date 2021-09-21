@@ -1,0 +1,690 @@
+{
+    "name": "Xyridaceae",
+    "machine_name": "xyridaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381446",
+        "legacy_id": "440",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Xyris",
+            "machine_name": "xyris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "xyridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Xyris [Cultivars]",
+                    "machine_name": "xyris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394572",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Xyris ambigua",
+                    "machine_name": "xyris_ambigua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Beyr. & Kunth.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438366",
+                        "legacy_id": "620",
+                        "fgsid": "36798",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris complanata",
+                    "machine_name": "xyris_complanata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438367",
+                        "legacy_id": "3790",
+                        "fgsid": "36799",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris gracilis",
+                    "machine_name": "xyris_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Xyris gracilis gracilis",
+                            "machine_name": "xyris_gracilis_gracilis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "gracilis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "xyris_gracilis",
+                            "genus": "xyris",
+                            "family": "xyridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1496102",
+                                "legacy_id": "34282",
+                                "fgsid": "36800",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Xyris gracilis laxa",
+                            "machine_name": "xyris_gracilis_laxa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "laxa",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "xyris_gracilis",
+                            "genus": "xyris",
+                            "family": "xyridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1496103",
+                                "legacy_id": "34283",
+                                "fgsid": "36800",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438644",
+                        "legacy_id": "6829",
+                        "fgsid": "36800",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris juncea",
+                    "machine_name": "xyris_juncea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II???",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438645",
+                        "legacy_id": "8354",
+                        "fgsid": "36801",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris operculata",
+                    "machine_name": "xyris_operculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438646",
+                        "legacy_id": "11646",
+                        "fgsid": "36802",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris pauciflora",
+                    "machine_name": "xyris_pauciflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438647",
+                        "legacy_id": "12135",
+                        "fgsid": "36803",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris ustulata",
+                    "machine_name": "xyris_ustulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Alb. Nilsson.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438648",
+                        "legacy_id": "17046",
+                        "fgsid": "36804",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris lanata",
+                    "machine_name": "xyris_lanata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440404",
+                        "legacy_id": "8809",
+                        "fgsid": "43308",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris muelleri",
+                    "machine_name": "xyris_muelleri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Malme.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440823",
+                        "legacy_id": "10803",
+                        "fgsid": "44785",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris montana",
+                    "machine_name": "xyris_montana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Ries.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451682",
+                        "legacy_id": "10692",
+                        "fgsid": "124002",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris torta",
+                    "machine_name": "xyris_torta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453786",
+                        "legacy_id": "16498",
+                        "fgsid": "115879",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris tortula",
+                    "machine_name": "xyris_tortula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Mart.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454801",
+                        "legacy_id": "58504",
+                        "fgsid": "105960",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris difformis",
+                    "machine_name": "xyris_difformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Chapm.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Xyris difformis difformis",
+                            "machine_name": "xyris_difformis_difformis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "difformis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "xyris_difformis",
+                            "genus": "xyris",
+                            "family": "xyridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623632",
+                                "legacy_id": "359597",
+                                "fgsid": "134522",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460232",
+                        "legacy_id": "4895",
+                        "fgsid": "134522",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xyris involucrata",
+                    "machine_name": "xyris_involucrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Nees.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313686",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525868277"
+                    }
+                },
+                {
+                    "name": "Xyris iridifolia",
+                    "machine_name": "xyris_iridifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Chapm.",
+                    "description": null,
+                    "genus": "xyris",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2415811",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1544023848"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394571",
+                "legacy_id": "5908",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Orectanthe",
+            "machine_name": "orectanthe",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Maguire.",
+            "description": null,
+            "family": "xyridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Orectanthe [Cultivars]",
+                    "machine_name": "orectanthe_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "orectanthe",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394720",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394719",
+                "legacy_id": "5984",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Aratitiyopea",
+            "machine_name": "aratitiyopea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "P.E. Berry.",
+            "description": null,
+            "family": "xyridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aratitiyopea [Cultivars]",
+                    "machine_name": "aratitiyopea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aratitiyopea",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396908",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Aratitiyopea lopezii",
+                    "machine_name": "aratitiyopea_lopezii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Steyerm. & P.E. Berry.",
+                    "description": null,
+                    "genus": "aratitiyopea",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453592",
+                        "legacy_id": "53884",
+                        "fgsid": "98303",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396907",
+                "legacy_id": "17462",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Abolboda",
+            "machine_name": "abolboda",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Bonpl.",
+            "description": null,
+            "family": "xyridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Abolboda [Cultivars]",
+                    "machine_name": "abolboda_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "abolboda",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313696",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525868405"
+                    }
+                },
+                {
+                    "name": "Abolboda pulchella",
+                    "machine_name": "abolboda_pulchella",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Bonpl.",
+                    "description": null,
+                    "genus": "abolboda",
+                    "family": "xyridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313701",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525868448"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2313691",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525868405"
+            }
+        }
+    ]
+}

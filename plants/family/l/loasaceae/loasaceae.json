@@ -1,0 +1,1971 @@
+{
+    "name": "Loasaceae",
+    "machine_name": "loasaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381297",
+        "legacy_id": "255",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Caiophora",
+            "machine_name": "caiophora",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "C. Presl.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Caiophora [Cultivars]",
+                    "machine_name": "caiophora_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381882",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Caiophora coronata",
+                    "machine_name": "caiophora_coronata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398898",
+                        "legacy_id": "4033",
+                        "fgsid": "5469",
+                        "legacy_from_data_cross_ref": [
+                            "+Blumenbachia coronata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Caiophora lateritia",
+                    "machine_name": "caiophora_lateritia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [
+                        {
+                            "name": "Caiophora lateritia 'Frosty'",
+                            "machine_name": "caiophora_lateritia_frosty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frosty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "caiophora_lateritia",
+                            "genus": "caiophora",
+                            "family": "loasaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532837",
+                                "legacy_id": "107353",
+                                "fgsid": "40172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434218",
+                        "legacy_id": "8926",
+                        "fgsid": "40172",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Caiophora acuminata",
+                    "machine_name": "caiophora_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [
+                        {
+                            "name": "Caiophora acuminata 'Orange Supreme'",
+                            "machine_name": "caiophora_acuminata_orange_supreme",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Orange Supreme",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "caiophora_acuminata",
+                            "genus": "caiophora",
+                            "family": "loasaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1498546",
+                                "legacy_id": "72831",
+                                "fgsid": "38407",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438054",
+                        "legacy_id": "151",
+                        "fgsid": "38407",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Caiophora prietea",
+                    "machine_name": "caiophora_prietea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 1 says is Blumenbachia prietea",
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439281",
+                        "legacy_id": "29763",
+                        "fgsid": "60537",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Caiophora prietia",
+                    "machine_name": "caiophora_prietia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 1 says is Blumenbachia prietea",
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444496",
+                        "legacy_id": "28803",
+                        "fgsid": "58655",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Caiophora horrida",
+                    "machine_name": "caiophora_horrida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Urban & Gilg ex Rusby.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450084",
+                        "legacy_id": "7662",
+                        "fgsid": "71459",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Caiophora rahmeri",
+                    "machine_name": "caiophora_rahmeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Phil.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450828",
+                        "legacy_id": "60804",
+                        "fgsid": "109939",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Caiophora rosulata",
+                    "machine_name": "caiophora_rosulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Urb. & Gilg.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462351",
+                        "legacy_id": "14035",
+                        "fgsid": "151625",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Caiophora chuquitensis",
+                    "machine_name": "caiophora_chuquitensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Urb. & Gilg.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180271",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785556"
+                    }
+                },
+                {
+                    "name": "Caiophora cirsiifolia",
+                    "machine_name": "caiophora_cirsiifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785661"
+                    }
+                },
+                {
+                    "name": "Caiophora cernua",
+                    "machine_name": "caiophora_cernua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Urb. & Gilg & Kurtz.",
+                    "description": null,
+                    "genus": "caiophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2317006",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526048693"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381881",
+                "legacy_id": "913",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cevallia",
+            "machine_name": "cevallia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lagasca.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cevallia [Cultivars]",
+                    "machine_name": "cevallia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cevallia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384282",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cevallia sinuata",
+                    "machine_name": "cevallia_sinuata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Lagasca.",
+                    "description": null,
+                    "genus": "cevallia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405554",
+                        "legacy_id": "15160",
+                        "fgsid": "7190",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384281",
+                "legacy_id": "1173",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Loasa",
+            "machine_name": "loasa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Adans.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Loasa [Cultivars]",
+                    "machine_name": "loasa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387200",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Loasa acanthifolia",
+                    "machine_name": "loasa_acanthifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Desr. & Lam.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418857",
+                        "legacy_id": "48",
+                        "fgsid": "21245",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Loasa nana",
+                    "machine_name": "loasa_nana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Phil. & Urban & G.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418858",
+                        "legacy_id": "10990",
+                        "fgsid": "21246",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Loasa triphylla",
+                    "machine_name": "loasa_triphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Juss.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437873",
+                        "legacy_id": "16722",
+                        "fgsid": "41120",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Loasa bergii",
+                    "machine_name": "loasa_bergii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hieron.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452828",
+                        "legacy_id": "1830",
+                        "fgsid": "125401",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Loasa tricolor",
+                    "machine_name": "loasa_tricolor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Ker Gawl.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458503",
+                        "legacy_id": "16635",
+                        "fgsid": "140604",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Loasa filicifolia",
+                    "machine_name": "loasa_filicifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Poepp.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463396",
+                        "legacy_id": "5928",
+                        "fgsid": "155459",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Loasa incurva",
+                    "machine_name": "loasa_incurva",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R.L. P\u00e9rez-Mor. & Crespo.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180141",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784068"
+                    }
+                },
+                {
+                    "name": "Loasa argentina",
+                    "machine_name": "loasa_argentina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Urb. & Gilg ex Speg.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180156",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784358"
+                    }
+                },
+                {
+                    "name": "Loasa lateritia",
+                    "machine_name": "loasa_lateritia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gillies ex Arn.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180161",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784486"
+                    }
+                },
+                {
+                    "name": "Loasa pulchella",
+                    "machine_name": "loasa_pulchella",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "P\u00e9rez Moreau & Crespo.",
+                    "description": null,
+                    "genus": "loasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180221",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784732"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387199",
+                "legacy_id": "3286",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Acrolasia",
+            "machine_name": "acrolasia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Presl.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Acrolasia [Cultivars]",
+                    "machine_name": "acrolasia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acrolasia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388564",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Acrolasia thompsonii",
+                    "machine_name": "acrolasia_thompsonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acrolasia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398587",
+                        "legacy_id": "16353",
+                        "fgsid": "925",
+                        "legacy_from_data_cross_ref": [
+                            "+Mentzelia thompsonii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388563",
+                "legacy_id": "79",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Mentzelia",
+            "machine_name": "mentzelia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mentzelia [Cultivars]",
+                    "machine_name": "mentzelia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389004",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Mentzelia decapetala",
+                    "machine_name": "mentzelia_decapetala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Urban & Gilg.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419712",
+                        "legacy_id": "4629",
+                        "fgsid": "22935",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia jonesii",
+                    "machine_name": "mentzelia_jonesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 16",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419713",
+                        "legacy_id": "8317",
+                        "fgsid": "22936",
+                        "legacy_from_data_cross_ref": [
+                            "+M. albicaulis jonesii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia lindleyi",
+                    "machine_name": "mentzelia_lindleyi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "Torr. & A. Gray.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419714",
+                        "legacy_id": "9315",
+                        "fgsid": "22937",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia laevicaulis",
+                    "machine_name": "mentzelia_laevicaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal no Hortus sp",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mentzelia laevicaulis parviflora",
+                            "machine_name": "mentzelia_laevicaulis_parviflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "parviflora",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mentzelia_laevicaulis",
+                            "genus": "mentzelia",
+                            "family": "loasaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631891",
+                                "legacy_id": "297256",
+                                "fgsid": "22938",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419715",
+                        "legacy_id": "20724",
+                        "fgsid": "22938",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia multiflora",
+                    "machine_name": "mentzelia_multiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419716",
+                        "legacy_id": "10834",
+                        "fgsid": "22939",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia nuda",
+                    "machine_name": "mentzelia_nuda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Torr. & A. Gray.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419717",
+                        "legacy_id": "11345",
+                        "fgsid": "22940",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia oligosperma",
+                    "machine_name": "mentzelia_oligosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Nutt. & Sims.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419718",
+                        "legacy_id": "11602",
+                        "fgsid": "22941",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia packardiae",
+                    "machine_name": "mentzelia_packardiae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "J.B. Glad.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419719",
+                        "legacy_id": "11878",
+                        "fgsid": "22942",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mentzelia involucrata",
+                    "machine_name": "mentzelia_involucrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "S. Wats.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442985",
+                        "legacy_id": "8141",
+                        "fgsid": "45331",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia leucophylla",
+                    "machine_name": "mentzelia_leucophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "endangered species?",
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448840",
+                        "legacy_id": "9194",
+                        "fgsid": "87757",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia conspicua",
+                    "machine_name": "mentzelia_conspicua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451023",
+                        "legacy_id": "3901",
+                        "fgsid": "129959",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia humilis",
+                    "machine_name": "mentzelia_humilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "J. Darl.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mentzelia humilis guadalupensis",
+                            "machine_name": "mentzelia_humilis_guadalupensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "guadalupensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mentzelia_humilis",
+                            "genus": "mentzelia",
+                            "family": "loasaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618608",
+                                "legacy_id": "350056",
+                                "fgsid": "129960",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451024",
+                        "legacy_id": "7753",
+                        "fgsid": "129960",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia springeri",
+                    "machine_name": "mentzelia_springeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Tidestr.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451025",
+                        "legacy_id": "73684",
+                        "fgsid": "129961",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia todiltoensis",
+                    "machine_name": "mentzelia_todiltoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "N.D. Atwood & S.L. Welsh.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451026",
+                        "legacy_id": "73685",
+                        "fgsid": "129962",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia albicaulis",
+                    "machine_name": "mentzelia_albicaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "Dougl. & Torr. & A. Gray.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452697",
+                        "legacy_id": "405",
+                        "fgsid": "113739",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia densa",
+                    "machine_name": "mentzelia_densa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Greene.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459137",
+                        "legacy_id": "4738",
+                        "fgsid": "134764",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mentzelia scabra",
+                    "machine_name": "mentzelia_scabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mentzelia scabra chilensis",
+                            "machine_name": "mentzelia_scabra_chilensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "chilensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "mentzelia_scabra",
+                            "genus": "mentzelia",
+                            "family": "loasaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2180151",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1513784190"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180146",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784152"
+                    }
+                },
+                {
+                    "name": "Mentzelia aurea",
+                    "machine_name": "mentzelia_aurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "mentzelia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337921",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529755045"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389003",
+                "legacy_id": "3536",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nuttallia",
+            "machine_name": "nuttallia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Rafin.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nuttallia [Cultivars]",
+                    "machine_name": "nuttallia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nuttallia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391716",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nuttallia multicaulis",
+                    "machine_name": "nuttallia_multicaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nuttallia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425107",
+                        "legacy_id": "10819",
+                        "fgsid": "24385",
+                        "legacy_from_data_cross_ref": [
+                            "+Touteria multicaulis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391715",
+                "legacy_id": "3880",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Eucnide",
+            "machine_name": "eucnide",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Zucc.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eucnide [Cultivars]",
+                    "machine_name": "eucnide_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eucnide",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392262",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Eucnide bartonioides",
+                    "machine_name": "eucnide_bartonioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Zucc.",
+                    "description": null,
+                    "genus": "eucnide",
+                    "family": "loasaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucnide bartonioides 'Golden Tassel'",
+                            "machine_name": "eucnide_bartonioides_golden_tassel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Tassel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucnide_bartonioides",
+                            "genus": "eucnide",
+                            "family": "loasaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561444",
+                                "legacy_id": "166966",
+                                "fgsid": "14302",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415186",
+                        "legacy_id": "1673",
+                        "fgsid": "14302",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eucnide urens",
+                    "machine_name": "eucnide_urens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eucnide",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415187",
+                        "legacy_id": "17018",
+                        "fgsid": "14303",
+                        "legacy_from_data_cross_ref": [
+                            "+Mentzelia urens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392261",
+                "legacy_id": "2206",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Petalonyx",
+            "machine_name": "petalonyx",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "A. Gray.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Petalonyx [Cultivars]",
+                    "machine_name": "petalonyx_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "petalonyx",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Petalonyx thurberi",
+                    "machine_name": "petalonyx_thurberi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "petalonyx",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452116",
+                        "legacy_id": "16376",
+                        "fgsid": "130879",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395195",
+                "legacy_id": "24224",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Scyphanthus",
+            "machine_name": "scyphanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Sweet.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Scyphanthus [Cultivars]",
+                    "machine_name": "scyphanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "scyphanthus",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395762",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Scyphanthus elegans",
+                    "machine_name": "scyphanthus_elegans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Sweet.",
+                    "description": null,
+                    "genus": "scyphanthus",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412928",
+                        "legacy_id": "5343",
+                        "fgsid": "138819",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395761",
+                "legacy_id": "26204",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cajophora",
+            "machine_name": "cajophora",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": null,
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [
+                {
+                    "machine_name": "caiophora",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Cajophora [Cultivars]",
+                    "machine_name": "cajophora_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cajophora",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396170",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396169",
+                "legacy_id": "12262",
+                "legacy_from_data_cross_ref": [
+                    "Caiophora"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nasa",
+            "machine_name": "nasa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Weigend.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nasa [Cultivars]",
+                    "machine_name": "nasa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180231",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784892"
+                    }
+                },
+                {
+                    "name": "Nasa grandiflora",
+                    "machine_name": "nasa_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Weigend.",
+                    "description": null,
+                    "genus": "nasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180236",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513784932"
+                    }
+                },
+                {
+                    "name": "Nasa raimondii",
+                    "machine_name": "nasa_raimondii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Weigend.",
+                    "description": null,
+                    "genus": "nasa",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180241",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785034"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2180226",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1513784892"
+            }
+        },
+        {
+            "name": "Blumenbachia",
+            "machine_name": "blumenbachia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Schrad.",
+            "description": null,
+            "family": "loasaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Blumenbachia [Cultivars]",
+                    "machine_name": "blumenbachia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "blumenbachia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180251",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785124"
+                    }
+                },
+                {
+                    "name": "Blumenbachia prietoi",
+                    "machine_name": "blumenbachia_prietoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gay.",
+                    "description": "spelled prietea??",
+                    "genus": "blumenbachia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180256",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785217"
+                    }
+                },
+                {
+                    "name": "Blumenbachia dissecta",
+                    "machine_name": "blumenbachia_dissecta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Weigend & Grau.",
+                    "description": null,
+                    "genus": "blumenbachia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180261",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785300"
+                    }
+                },
+                {
+                    "name": "Blumenbachia silvestris",
+                    "machine_name": "blumenbachia_silvestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Poepp.",
+                    "description": null,
+                    "genus": "blumenbachia",
+                    "family": "loasaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2180266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513785375"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2180246",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1513785124"
+            }
+        }
+    ]
+}

@@ -1,0 +1,3106 @@
+{
+    "name": "Sapotaceae",
+    "machine_name": "sapotaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381391",
+        "legacy_id": "373",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Bumelia",
+            "machine_name": "bumelia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bumelia [Cultivars]",
+                    "machine_name": "bumelia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381812",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Bumelia lanuginosa",
+                    "machine_name": "bumelia_lanuginosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398485",
+                        "legacy_id": "8857",
+                        "fgsid": "5347",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bumelia lycioides",
+                    "machine_name": "bumelia_lycioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398486",
+                        "legacy_id": "9662",
+                        "fgsid": "5348",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bumelia reclinata",
+                    "machine_name": "bumelia_reclinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Bumelia reclinata rufotomentosa",
+                            "machine_name": "bumelia_reclinata_rufotomentosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rufotomentosa",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Cronq.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "bumelia_reclinata",
+                            "genus": "bumelia",
+                            "family": "sapotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464897",
+                                "legacy_id": "3170",
+                                "fgsid": "5349",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398487",
+                        "legacy_id": "13626",
+                        "fgsid": "5349",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bumelia tenax",
+                    "machine_name": "bumelia_tenax",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398488",
+                        "legacy_id": "16139",
+                        "fgsid": "5350",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bumelia thornei",
+                    "machine_name": "bumelia_thornei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Cronquist.",
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435313",
+                        "legacy_id": "18269",
+                        "fgsid": "40444",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bumelia rufotomentosa",
+                    "machine_name": "bumelia_rufotomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444543",
+                        "legacy_id": "19840",
+                        "fgsid": "42873",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Bumelia celastrina",
+                    "machine_name": "bumelia_celastrina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "bumelia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451783",
+                        "legacy_id": "3144",
+                        "fgsid": "130539",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381811",
+                "legacy_id": "876",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Planchonella",
+            "machine_name": "planchonella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Planchonella [Cultivars]",
+                    "machine_name": "planchonella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383050",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Planchonella auahiensis",
+                    "machine_name": "planchonella_auahiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426020",
+                        "legacy_id": "71824",
+                        "fgsid": "27569",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Planchonella australis",
+                    "machine_name": "planchonella_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426021",
+                        "legacy_id": "1443",
+                        "fgsid": "27570",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Planchonella nitida",
+                    "machine_name": "planchonella_nitida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426022",
+                        "legacy_id": "11240",
+                        "fgsid": "27571",
+                        "legacy_from_data_cross_ref": [
+                            "+Sideroxylon nitida"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Planchonella novo-zelandica",
+                    "machine_name": "planchonella_novo_zelandica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426023",
+                        "legacy_id": "72019",
+                        "fgsid": "27572",
+                        "legacy_from_data_cross_ref": [
+                            "+Achras novo-zelanica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Planchonella obovata",
+                    "machine_name": "planchonella_obovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426024",
+                        "legacy_id": "11438",
+                        "fgsid": "27573",
+                        "legacy_from_data_cross_ref": [
+                            "+Sersalisia obovata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Planchonella pohlmanniana",
+                    "machine_name": "planchonella_pohlmanniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "planchonella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426025",
+                        "legacy_id": "72168",
+                        "fgsid": "27574",
+                        "legacy_from_data_cross_ref": [
+                            "+Sideroxylon pohlmannianum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383049",
+                "legacy_id": "4405",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pouteria",
+            "machine_name": "pouteria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pouteria [Cultivars]",
+                    "machine_name": "pouteria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pouteria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383928",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pouteria caimito",
+                    "machine_name": "pouteria_caimito",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pouteria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423495",
+                        "legacy_id": "71384",
+                        "fgsid": "28313",
+                        "legacy_from_data_cross_ref": [
+                            "+Lucuma caimito"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pouteria campechiana",
+                    "machine_name": "pouteria_campechiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Baehni.",
+                    "description": null,
+                    "genus": "pouteria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423496",
+                        "legacy_id": "2749",
+                        "fgsid": "28314",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pouteria sapota",
+                    "machine_name": "pouteria_sapota",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "H.E. Moore & Stea.",
+                    "description": null,
+                    "genus": "pouteria",
+                    "family": "sapotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Pouteria sapota 'Grandis'",
+                            "machine_name": "pouteria_sapota_grandis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grandis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pouteria_sapota",
+                            "genus": "pouteria",
+                            "family": "sapotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578330",
+                                "legacy_id": "200632",
+                                "fgsid": "28315",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423497",
+                        "legacy_id": "14407",
+                        "fgsid": "28315",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pouteria sericea",
+                    "machine_name": "pouteria_sericea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pouteria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423498",
+                        "legacy_id": "14876",
+                        "fgsid": "28316",
+                        "legacy_from_data_cross_ref": [
+                            "+Sideroxylon sericeum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pouteria adolfi-friedericii",
+                    "machine_name": "pouteria_adolfi_friedericii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. Meeuse.",
+                    "description": null,
+                    "genus": "pouteria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2373936",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1536570557"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383927",
+                "legacy_id": "4527",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Prieurella",
+            "machine_name": "prieurella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Prieurella [Cultivars]",
+                    "machine_name": "prieurella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "prieurella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383950",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383949",
+                "legacy_id": "4538",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Imbricaria",
+            "machine_name": "imbricaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Juss.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Imbricaria [Cultivars]",
+                    "machine_name": "imbricaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "imbricaria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Imbricaria ciliata",
+                    "machine_name": "imbricaria_ciliata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "imbricaria",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416463",
+                        "legacy_id": "3470",
+                        "fgsid": "19086",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384495",
+                "legacy_id": "2895",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Chrysophyllum",
+            "machine_name": "chrysophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Chrysophyllum [Cultivars]",
+                    "machine_name": "chrysophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chrysophyllum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385150",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Chrysophyllum cainito",
+                    "machine_name": "chrysophyllum_cainito",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "chrysophyllum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407069",
+                        "legacy_id": "2592",
+                        "fgsid": "7569",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chrysophyllum prunifera",
+                    "machine_name": "chrysophyllum_prunifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "chrysophyllum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407070",
+                        "legacy_id": "13099",
+                        "fgsid": "7570",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chrysophyllum whitei",
+                    "machine_name": "chrysophyllum_whitei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chrysophyllum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407071",
+                        "legacy_id": "17691",
+                        "fgsid": "7571",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chrysophyllum oliviforme",
+                    "machine_name": "chrysophyllum_oliviforme",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "chrysophyllum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444625",
+                        "legacy_id": "19868",
+                        "fgsid": "42957",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chrysophyllum viridifolium",
+                    "machine_name": "chrysophyllum_viridifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "J.M. Wood & Franks.",
+                    "description": null,
+                    "genus": "chrysophyllum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463387",
+                        "legacy_id": "91347",
+                        "fgsid": "156687",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385149",
+                "legacy_id": "1285",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sapota",
+            "machine_name": "sapota",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Plum. & Mill.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sapota [Cultivars]",
+                    "machine_name": "sapota_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sapota",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386612",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sapota achras",
+                    "machine_name": "sapota_achras",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sapota",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "manilkara_zapota",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1430692",
+                        "legacy_id": "87",
+                        "fgsid": "31689",
+                        "legacy_from_data_cross_ref": [
+                            "+Manilkara zapota"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386611",
+                "legacy_id": "4922",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Diploknema",
+            "machine_name": "diploknema",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Diploknema [Cultivars]",
+                    "machine_name": "diploknema_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diploknema",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386708",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386707",
+                "legacy_id": "8979",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sebertia",
+            "machine_name": "sebertia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "created for cross",
+            "naming_authorities": "Pierre & Engl.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sebertia [Cultivars]",
+                    "machine_name": "sebertia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sebertia",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387668",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387667",
+                "legacy_id": "9230",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Manilkara",
+            "machine_name": "manilkara",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Adans.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Manilkara [Cultivars]",
+                    "machine_name": "manilkara_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388158",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Manilkara achras",
+                    "machine_name": "manilkara_achras",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "sapota_achras",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1417443",
+                        "legacy_id": "87",
+                        "fgsid": "22392",
+                        "legacy_from_data_cross_ref": [
+                            "+Sapota achras"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Manilkara bidentata",
+                    "machine_name": "manilkara_bidentata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "A. Cheval.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417444",
+                        "legacy_id": "1901",
+                        "fgsid": "22393",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Manilkara kauki",
+                    "machine_name": "manilkara_kauki",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Dubard.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417445",
+                        "legacy_id": "8441",
+                        "fgsid": "22394",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Manilkara roxburghiana",
+                    "machine_name": "manilkara_roxburghiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Dubard.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417446",
+                        "legacy_id": "14069",
+                        "fgsid": "22395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Manilkara zapota",
+                    "machine_name": "manilkara_zapota",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Van Royen.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Manilkara zapota 'Silas Woods'",
+                            "machine_name": "manilkara_zapota_silas_woods",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silas Woods",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "manilkara_zapota",
+                            "genus": "manilkara",
+                            "family": "sapotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623172",
+                                "legacy_id": "376330",
+                                "fgsid": "22396",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Manilkara zapota 'Alano'",
+                            "machine_name": "manilkara_zapota_alano",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alano",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "manilkara_zapota",
+                            "genus": "manilkara",
+                            "family": "sapotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2327701",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1527712090"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417447",
+                        "legacy_id": "17925",
+                        "fgsid": "22396",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Manilkara hexandra",
+                    "machine_name": "manilkara_hexandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 5 says is Mimusops hexandra",
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439260",
+                        "legacy_id": "7443",
+                        "fgsid": "60480",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Manilkara bahamensis",
+                    "machine_name": "manilkara_bahamensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 11 says is Achras bahamensis",
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442538",
+                        "legacy_id": "20172",
+                        "fgsid": "43848",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Manilkara nicholsonii",
+                    "machine_name": "manilkara_nicholsonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": "van Wyk.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447800",
+                        "legacy_id": "20371",
+                        "fgsid": "91937",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Manilkara sapota",
+                    "machine_name": "manilkara_sapota",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Van Royen.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454487",
+                        "legacy_id": "14407",
+                        "fgsid": "105461",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Manilkara discolor",
+                    "machine_name": "manilkara_discolor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "J.H. Hemsl.",
+                    "description": null,
+                    "genus": "manilkara",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463043",
+                        "legacy_id": "4974",
+                        "fgsid": "156650",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388157",
+                "legacy_id": "3448",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sideroxylon",
+            "machine_name": "sideroxylon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sideroxylon [Cultivars]",
+                    "machine_name": "sideroxylon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388268",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sideroxylon inerme",
+                    "machine_name": "sideroxylon_inerme",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429581",
+                        "legacy_id": "8013",
+                        "fgsid": "32868",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Sideroxylon macrocarpum",
+                    "machine_name": "sideroxylon_macrocarpum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "comb. nov.",
+                    "naming_authorities": "J.R.Allison.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454159",
+                        "legacy_id": "9771",
+                        "fgsid": "117042",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon rufohirtum",
+                    "machine_name": "sideroxylon_rufohirtum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Herring & Judd.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454161",
+                        "legacy_id": "64347",
+                        "fgsid": "117044",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon occidentale",
+                    "machine_name": "sideroxylon_occidentale",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "T.D. Penn.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454884",
+                        "legacy_id": "11475",
+                        "fgsid": "118539",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon tepicense",
+                    "machine_name": "sideroxylon_tepicense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "T.D. Penn.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454885",
+                        "legacy_id": "65144",
+                        "fgsid": "118540",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon lanuginosum",
+                    "machine_name": "sideroxylon_lanuginosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Michx.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454901",
+                        "legacy_id": "8859",
+                        "fgsid": "118679",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon lycioides",
+                    "machine_name": "sideroxylon_lycioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454902",
+                        "legacy_id": "9662",
+                        "fgsid": "118680",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon celastrinum",
+                    "machine_name": "sideroxylon_celastrinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "T.D. Penn.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456848",
+                        "legacy_id": "78925",
+                        "fgsid": "137821",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon tenax",
+                    "machine_name": "sideroxylon_tenax",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456849",
+                        "legacy_id": "16139",
+                        "fgsid": "137822",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon salicifolium",
+                    "machine_name": "sideroxylon_salicifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457918",
+                        "legacy_id": "14289",
+                        "fgsid": "137823",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon foetidissimum",
+                    "machine_name": "sideroxylon_foetidissimum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458194",
+                        "legacy_id": "6125",
+                        "fgsid": "137842",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sideroxylon marginatum",
+                    "machine_name": "sideroxylon_marginatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cout.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2192276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1515171221"
+                    }
+                },
+                {
+                    "name": "Sideroxylon borbonicum",
+                    "machine_name": "sideroxylon_borbonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. DC.",
+                    "description": null,
+                    "genus": "sideroxylon",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338481",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529859489"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388267",
+                "legacy_id": "5108",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Aesandra",
+            "machine_name": "aesandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Pierre & L. Planch.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aesandra [Cultivars]",
+                    "machine_name": "aesandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aesandra",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389356",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Aesandra butyracea",
+                    "machine_name": "aesandra_butyracea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Baehni.",
+                    "description": null,
+                    "genus": "aesandra",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462739",
+                        "legacy_id": "2528",
+                        "fgsid": "152345",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389355",
+                "legacy_id": "144",
+                "legacy_from_data_cross_ref": [
+                    "Diploknema"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Mimusops",
+            "machine_name": "mimusops",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mimusops angel",
+                    "machine_name": "mimusops_angel",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Chiov.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420534",
+                        "legacy_id": "793",
+                        "fgsid": "23197",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mimusops angustifolia",
+                    "machine_name": "mimusops_angustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Boj.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420535",
+                        "legacy_id": "827",
+                        "fgsid": "23198",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mimusops balata",
+                    "machine_name": "mimusops_balata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Gaertn.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420536",
+                        "legacy_id": "1556",
+                        "fgsid": "23199",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mimusops caffra",
+                    "machine_name": "mimusops_caffra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "E.H. Mey. & A. DC.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420537",
+                        "legacy_id": "2584",
+                        "fgsid": "23200",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mimusops elengi",
+                    "machine_name": "mimusops_elengi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimusops elengi 'Street Elegance'",
+                            "machine_name": "mimusops_elengi_street_elegance",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Street Elegance",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimusops_elengi",
+                            "genus": "mimusops",
+                            "family": "sapotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581132",
+                                "legacy_id": "216300",
+                                "fgsid": "23201",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420538",
+                        "legacy_id": "5350",
+                        "fgsid": "23201",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mimusops zeyheri",
+                    "machine_name": "mimusops_zeyheri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Sond.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420539",
+                        "legacy_id": "17943",
+                        "fgsid": "23202",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mimusops [Cultivars]",
+                    "machine_name": "mimusops_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimusops [Cultivars] 'Street Snow'",
+                            "machine_name": "mimusops_cultivars_street_snow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Street Snow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimusops_cultivars",
+                            "genus": "mimusops",
+                            "family": "sapotaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1646092",
+                                "legacy_id": "260546",
+                                "fgsid": "104419",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454064",
+                        "legacy_id": "2",
+                        "fgsid": "104419",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mimusops sechellarum",
+                    "machine_name": "mimusops_sechellarum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "mimusops",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338486",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529859717"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389827",
+                "legacy_id": "3609",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Synsepalum",
+            "machine_name": "synsepalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Baillon.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Synsepalum [Cultivars]",
+                    "machine_name": "synsepalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "synsepalum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390152",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Synsepalum dulcificum",
+                    "machine_name": "synsepalum_dulcificum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Daniell.",
+                    "description": null,
+                    "genus": "synsepalum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428547",
+                        "legacy_id": "5164",
+                        "fgsid": "34139",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390151",
+                "legacy_id": "5387",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Amorphospermum",
+            "machine_name": "amorphospermum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [
+                {
+                    "machine_name": "chrysophyllum",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Amorphospermum [Cultivars]",
+                    "machine_name": "amorphospermum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "amorphospermum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390294",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390293",
+                "legacy_id": "280",
+                "legacy_from_data_cross_ref": [
+                    "Chrysophyllum"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Argania",
+            "machine_name": "argania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Roemer & Schlult.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Argania [Cultivars]",
+                    "machine_name": "argania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "argania",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391308",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Argania spinosa",
+                    "machine_name": "argania_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Skeels.",
+                    "description": null,
+                    "genus": "argania",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401469",
+                        "legacy_id": "15394",
+                        "fgsid": "3119",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391307",
+                "legacy_id": "453",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Niemeyera",
+            "machine_name": "niemeyera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Niemeyera [Cultivars]",
+                    "machine_name": "niemeyera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "niemeyera",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391632",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Niemeyera acuminata",
+                    "machine_name": "niemeyera_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 19 says is Sersalisia acuminata",
+                    "genus": "niemeyera",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444674",
+                        "legacy_id": "151",
+                        "fgsid": "44359",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Niemeyera prunifera",
+                    "machine_name": "niemeyera_prunifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "niemeyera",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360666",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533554316"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391631",
+                "legacy_id": "3838",
+                "legacy_from_data_cross_ref": [
+                    "Chrysophyllum"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Northea",
+            "machine_name": "northea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Northea [Cultivars]",
+                    "machine_name": "northea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "northea",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391678",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Northea seychellana",
+                    "machine_name": "northea_seychellana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "northea",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424710",
+                        "legacy_id": "14984",
+                        "fgsid": "24275",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391677",
+                "legacy_id": "3861",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Tieghemella",
+            "machine_name": "tieghemella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tieghemella [Cultivars]",
+                    "machine_name": "tieghemella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tieghemella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391802",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Tieghemella heckelei",
+                    "machine_name": "tieghemella_heckelei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Pierre & A. Chev.",
+                    "description": null,
+                    "genus": "tieghemella",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431193",
+                        "legacy_id": "7248",
+                        "fgsid": "34782",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391801",
+                "legacy_id": "5535",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Bequaertiodendron",
+            "machine_name": "bequaertiodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "De Wild.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bequaertiodendron [Cultivars]",
+                    "machine_name": "bequaertiodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bequaertiodendron",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393096",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Bequaertiodendron magalismontanum",
+                    "machine_name": "bequaertiodendron_magalismontanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bequaertiodendron",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401086",
+                        "legacy_id": "9869",
+                        "fgsid": "4413",
+                        "legacy_from_data_cross_ref": [
+                            "+Chrysophyllum magalismontanum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393095",
+                "legacy_id": "677",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Palaquium",
+            "machine_name": "palaquium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blanco.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Palaquium [Cultivars]",
+                    "machine_name": "palaquium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "palaquium",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Palaquium galactoxylum",
+                    "machine_name": "palaquium_galactoxylum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "palaquium",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424067",
+                        "legacy_id": "71025",
+                        "fgsid": "25592",
+                        "legacy_from_data_cross_ref": [
+                            "+Bassia galactoxyla"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Palaquium obovatum",
+                    "machine_name": "palaquium_obovatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "palaquium",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424068",
+                        "legacy_id": "11441",
+                        "fgsid": "25593",
+                        "legacy_from_data_cross_ref": [
+                            "+Isonandra obovata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Palaquium gutta",
+                    "machine_name": "palaquium_gutta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis II says is Dichopsis gutta",
+                    "genus": "palaquium",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444664",
+                        "legacy_id": "20343",
+                        "fgsid": "44349",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393495",
+                "legacy_id": "4092",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Gambeya",
+            "machine_name": "gambeya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gambeya [Cultivars]",
+                    "machine_name": "gambeya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gambeya",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394876",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gambeya lacourtiana",
+                    "machine_name": "gambeya_lacourtiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Aubr\u221a\u00a9v. & Pellegr.",
+                    "description": null,
+                    "genus": "gambeya",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456106",
+                        "legacy_id": "66604",
+                        "fgsid": "121779",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394875",
+                "legacy_id": "22104",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Englerophytum",
+            "machine_name": "englerophytum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "K. Krause.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Englerophytum [Cultivars]",
+                    "machine_name": "englerophytum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "englerophytum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395736",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Englerophytum magalismontanum",
+                    "machine_name": "englerophytum_magalismontanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "T.D. Penn.",
+                    "description": null,
+                    "genus": "englerophytum",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460957",
+                        "legacy_id": "9869",
+                        "fgsid": "137780",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395735",
+                "legacy_id": "25964",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Madhuca",
+            "machine_name": "madhuca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Ham. & Gmel.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Madhuca [Cultivars]",
+                    "machine_name": "madhuca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "madhuca",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397086",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Madhuca indica",
+                    "machine_name": "madhuca_indica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "madhuca",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451465",
+                        "legacy_id": "8004",
+                        "fgsid": "101884",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397085",
+                "legacy_id": "18483",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Gluema",
+            "machine_name": "gluema",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "Aubr\u221a\u00a9v. & Pellegr.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gluema [Cultivars]",
+                    "machine_name": "gluema_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gluema",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397204",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gluema korupensis",
+                    "machine_name": "gluema_korupensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp. nov.",
+                    "naming_authorities": "Burgt.",
+                    "description": null,
+                    "genus": "gluema",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454096",
+                        "legacy_id": "20473",
+                        "fgsid": "104679",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397203",
+                "legacy_id": "19284",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pycnandra",
+            "machine_name": "pycnandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Benth.",
+            "description": null,
+            "family": "sapotaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pycnandra [Cultivars]",
+                    "machine_name": "pycnandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pycnandra",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2501391",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1554635243"
+                    }
+                },
+                {
+                    "name": "Pycnandra acuminata",
+                    "machine_name": "pycnandra_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pycnandra",
+                    "family": "sapotaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2501396",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1554635279"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2501386",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1554635243"
+            }
+        }
+    ]
+}

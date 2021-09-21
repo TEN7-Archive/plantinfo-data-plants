@@ -1,0 +1,85 @@
+{
+    "name": "Tetrachondraceae",
+    "machine_name": "tetrachondraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Skottsb. & Wettst.",
+    "description": null,
+    "archival_data": {
+        "id": "2340346",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530367323"
+    },
+    "genus_items": [
+        {
+            "name": "Polypremum",
+            "machine_name": "polypremum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "tetrachondraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Polypremum [Cultivars]",
+                    "machine_name": "polypremum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polypremum",
+                    "family": "tetrachondraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340356",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530367359"
+                    }
+                },
+                {
+                    "name": "Polypremum procumbens",
+                    "machine_name": "polypremum_procumbens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polypremum",
+                    "family": "tetrachondraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340361",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530367400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2340351",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530367359"
+            }
+        }
+    ]
+}

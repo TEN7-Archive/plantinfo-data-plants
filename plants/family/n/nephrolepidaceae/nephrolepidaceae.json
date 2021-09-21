@@ -1,0 +1,1583 @@
+{
+    "name": "Nephrolepidaceae",
+    "machine_name": "nephrolepidaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Pic. Serm.",
+    "description": null,
+    "archival_data": {
+        "id": "2360996",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1533745956"
+    },
+    "genus_items": [
+        {
+            "name": "Nephrolepis",
+            "machine_name": "nephrolepis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Schott.",
+            "description": null,
+            "family": "nephrolepidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nephrolepis auriculata",
+                    "machine_name": "nephrolepis_auriculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438478",
+                        "legacy_id": "1416",
+                        "fgsid": "39868",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis exaltata",
+                    "machine_name": "nephrolepis_exaltata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Schott.",
+                    "description": null,
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nephrolepis exaltata 'Elzevir'",
+                            "machine_name": "nephrolepis_exaltata_elzevir",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Elzevir",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532537",
+                                "legacy_id": "107272",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Blue Bell'",
+                            "machine_name": "nephrolepis_exaltata_blue_bell",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blue Bell",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559635",
+                                "legacy_id": "151004",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Maasii'",
+                            "machine_name": "nephrolepis_exaltata_maasii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maasii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559636",
+                                "legacy_id": "151005",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Timmii'",
+                            "machine_name": "nephrolepis_exaltata_timmii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Timmii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559637",
+                                "legacy_id": "151006",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Hillii'",
+                            "machine_name": "nephrolepis_exaltata_hillii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hillii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559638",
+                                "legacy_id": "151007",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Duffii'",
+                            "machine_name": "nephrolepis_exaltata_duffii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Duffii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559639",
+                                "legacy_id": "151008",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Roosevelt'",
+                            "machine_name": "nephrolepis_exaltata_roosevelt",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roosevelt",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559640",
+                                "legacy_id": "151009",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Timm's Petticoat'",
+                            "machine_name": "nephrolepis_exaltata_timm_s_petticoat",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Timm's Petticoat",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559641",
+                                "legacy_id": "151010",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Bostoniensis'",
+                            "machine_name": "nephrolepis_exaltata_bostoniensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bostoniensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1564585",
+                                "legacy_id": "158125",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Florida Ruffles'",
+                            "machine_name": "nephrolepis_exaltata_florida_ruffles",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Florida Ruffles",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567449",
+                                "legacy_id": "177816",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Fluffy Ruffles'",
+                            "machine_name": "nephrolepis_exaltata_fluffy_ruffles",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fluffy Ruffles",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567450",
+                                "legacy_id": "177817",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Tri-tiki'",
+                            "machine_name": "nephrolepis_exaltata_tri_tiki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tri-tiki",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577809",
+                                "legacy_id": "202084",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Whitmanii'",
+                            "machine_name": "nephrolepis_exaltata_whitmanii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Whitmanii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580111",
+                                "legacy_id": "211822",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata variegatus",
+                            "machine_name": "nephrolepis_exaltata_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "variegatus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585042",
+                                "legacy_id": "219792",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Babe'",
+                            "machine_name": "nephrolepis_exaltata_babe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Babe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1593041",
+                                "legacy_id": "367187",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Emerald Vase'",
+                            "machine_name": "nephrolepis_exaltata_emerald_vase",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Emerald Vase",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1593042",
+                                "legacy_id": "367188",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Pom Pom'",
+                            "machine_name": "nephrolepis_exaltata_pom_pom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pom Pom",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596298",
+                                "legacy_id": "373076",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Princess'",
+                            "machine_name": "nephrolepis_exaltata_princess",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Princess",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607189",
+                                "legacy_id": "276506",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Verona Lace'",
+                            "machine_name": "nephrolepis_exaltata_verona_lace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Verona Lace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615316",
+                                "legacy_id": "233442",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'All Gold'",
+                            "machine_name": "nephrolepis_exaltata_all_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "All Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616450",
+                                "legacy_id": "241800",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Golden Claw'",
+                            "machine_name": "nephrolepis_exaltata_golden_claw",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Claw",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616451",
+                                "legacy_id": "241801",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Aurea'",
+                            "machine_name": "nephrolepis_exaltata_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619921",
+                                "legacy_id": "343376",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata Rita's Gold \u2122",
+                            "machine_name": "nephrolepis_exaltata_rita_s_gold",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Rita's Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1627709",
+                                "legacy_id": "249454",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'American Fantasy'",
+                            "machine_name": "nephrolepis_exaltata_american_fantasy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "American Fantasy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632841",
+                                "legacy_id": "306016",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Boston Compacta'",
+                            "machine_name": "nephrolepis_exaltata_boston_compacta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Boston Compacta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1651086",
+                                "legacy_id": "383188",
+                                "fgsid": "42986",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Boston True'",
+                            "machine_name": "nephrolepis_exaltata_boston_true",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Boston True",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616921",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585324066"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Cotton Candy'",
+                            "machine_name": "nephrolepis_exaltata_cotton_candy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cotton Candy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616926",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585324119"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Montana'",
+                            "machine_name": "nephrolepis_exaltata_montana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Montana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616931",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585324187"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Nevada'",
+                            "machine_name": "nephrolepis_exaltata_nevada",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nevada",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616936",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585324244"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis exaltata 'Tiger Fern'",
+                            "machine_name": "nephrolepis_exaltata_tiger_fern",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tiger Fern",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_exaltata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616941",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585324314"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439307",
+                        "legacy_id": "5686",
+                        "fgsid": "42986",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis obliterata",
+                    "machine_name": "nephrolepis_obliterata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nephrolepis obliterata 'Kimberly Queen'",
+                            "machine_name": "nephrolepis_obliterata_kimberly_queen",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kimberly Queen",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_obliterata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1606099",
+                                "legacy_id": "277992",
+                                "fgsid": "61337",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439915",
+                        "legacy_id": "30263",
+                        "fgsid": "61337",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis biserrata",
+                    "machine_name": "nephrolepis_biserrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Schott.",
+                    "description": null,
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nephrolepis biserrata 'Furcans'",
+                            "machine_name": "nephrolepis_biserrata_furcans",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Furcans",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_biserrata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577806",
+                                "legacy_id": "202081",
+                                "fgsid": "61355",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis biserrata 'Macho'",
+                            "machine_name": "nephrolepis_biserrata_macho",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Macho",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_biserrata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584122",
+                                "legacy_id": "214700",
+                                "fgsid": "61355",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis biserrata 'Gilded Lace'",
+                            "machine_name": "nephrolepis_biserrata_gilded_lace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gilded Lace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_biserrata",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616449",
+                                "legacy_id": "241799",
+                                "fgsid": "61355",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439916",
+                        "legacy_id": "1983",
+                        "fgsid": "61355",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis [Cultivars]",
+                    "machine_name": "nephrolepis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Delilah'",
+                            "machine_name": "nephrolepis_cultivars_delilah",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Delilah",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548102",
+                                "legacy_id": "126247",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Orlando'",
+                            "machine_name": "nephrolepis_cultivars_orlando",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Orlando",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548103",
+                                "legacy_id": "126248",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Petticoat'",
+                            "machine_name": "nephrolepis_cultivars_petticoat",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Petticoat",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548104",
+                                "legacy_id": "126249",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Compacta'",
+                            "machine_name": "nephrolepis_cultivars_compacta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Compacta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548105",
+                                "legacy_id": "126250",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Brentwood'",
+                            "machine_name": "nephrolepis_cultivars_brentwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brentwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548106",
+                                "legacy_id": "126251",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Dallas'",
+                            "machine_name": "nephrolepis_cultivars_dallas",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dallas",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548107",
+                                "legacy_id": "126252",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Dwarf Petticoat'",
+                            "machine_name": "nephrolepis_cultivars_dwarf_petticoat",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dwarf Petticoat",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548108",
+                                "legacy_id": "126253",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Fishtail'",
+                            "machine_name": "nephrolepis_cultivars_fishtail",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fishtail",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548109",
+                                "legacy_id": "126254",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Floral Fantasy'",
+                            "machine_name": "nephrolepis_cultivars_floral_fantasy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Floral Fantasy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577807",
+                                "legacy_id": "202082",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Kinky'",
+                            "machine_name": "nephrolepis_cultivars_kinky",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kinky",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577808",
+                                "legacy_id": "202083",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Long John'",
+                            "machine_name": "nephrolepis_cultivars_long_john",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Long John",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1613829",
+                                "legacy_id": "243051",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'Emerald Queen'",
+                            "machine_name": "nephrolepis_cultivars_emerald_queen",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Emerald Queen",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1651382",
+                                "legacy_id": "382021",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Nephrolepis [Cultivars] 'King Tassel'",
+                            "machine_name": "nephrolepis_cultivars_king_tassel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "King Tassel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cultivars",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1652273",
+                                "legacy_id": "384356",
+                                "fgsid": "47015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440922",
+                        "legacy_id": "2",
+                        "fgsid": "47015",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis falcata*",
+                    "machine_name": "nephrolepis_falcata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross",
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "tectaria_falcata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1451500",
+                        "legacy_id": "5771",
+                        "fgsid": "101919",
+                        "legacy_from_data_cross_ref": [
+                            "Tectaria falcata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis cordifolia",
+                    "machine_name": "nephrolepis_cordifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nephrolepis cordifolia 'Lemmon Buttons'",
+                            "machine_name": "nephrolepis_cordifolia_lemmon_buttons",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lemmon Buttons",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nephrolepis_cordifolia",
+                            "genus": "nephrolepis",
+                            "family": "nephrolepidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1606070",
+                                "legacy_id": "277917",
+                                "fgsid": "107661",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455617",
+                        "legacy_id": "3974",
+                        "fgsid": "107661",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nephrolepis pendula",
+                    "machine_name": "nephrolepis_pendula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "J. Sm.",
+                    "description": null,
+                    "genus": "nephrolepis",
+                    "family": "nephrolepidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458153",
+                        "legacy_id": "12245",
+                        "fgsid": "141640",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383299",
+                "legacy_id": "6209",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "name": "Sabiaceae",
+    "machine_name": "sabiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381385",
+        "legacy_id": "366",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Sabia",
+            "machine_name": "sabia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Colebr.",
+            "description": null,
+            "family": "sabiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sabia [Cultivars]",
+                    "machine_name": "sabia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sabia",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386530",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sabia japonica",
+                    "machine_name": "sabia_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "sabia",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429098",
+                        "legacy_id": "8265",
+                        "fgsid": "31239",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Sabia yunnanensis",
+                    "machine_name": "sabia_yunnanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "sabia",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2317651",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526132573"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386529",
+                "legacy_id": "4878",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Meliosma",
+            "machine_name": "meliosma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "sabiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Meliosma [Cultivars]",
+                    "machine_name": "meliosma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388970",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Meliosma cuneifolia",
+                    "machine_name": "meliosma_cuneifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "meliosma_dilleniifolia_cuneifolia",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1419348",
+                        "legacy_id": "4311",
+                        "fgsid": "22859",
+                        "legacy_from_data_cross_ref": [
+                            "+M. dilleniifolia cuneifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Meliosma dilleniifolia",
+                    "machine_name": "meliosma_dilleniifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Walp.",
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Meliosma dilleniifolia cuneifolia",
+                            "machine_name": "meliosma_dilleniifolia_cuneifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cuneifolia",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": "Beus.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "meliosma_dilleniifolia",
+                            "genus": "meliosma",
+                            "family": "sabiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1481570",
+                                "legacy_id": "19396",
+                                "fgsid": "22860",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Meliosma dilleniifolia tenuis",
+                            "machine_name": "meliosma_dilleniifolia_tenuis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "tenuis",
+                            "authorities": "Royal Hort.",
+                            "naming_authorities": "Beus.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "meliosma_dilleniifolia",
+                            "genus": "meliosma",
+                            "family": "sabiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545953",
+                                "legacy_id": "125346",
+                                "fgsid": "22860",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419349",
+                        "legacy_id": "4923",
+                        "fgsid": "22860",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Meliosma veitchiorum",
+                    "machine_name": "meliosma_veitchiorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419350",
+                        "legacy_id": "17177",
+                        "fgsid": "22861",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Meliosma oldhamii",
+                    "machine_name": "meliosma_oldhamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "meliosma_pinnata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1434901",
+                        "legacy_id": "11566",
+                        "fgsid": "39034",
+                        "legacy_from_data_cross_ref": [
+                            "M. pinnata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Meliosma myriantha",
+                    "machine_name": "meliosma_myriantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sieb. & Zucc.",
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440793",
+                        "legacy_id": "10934",
+                        "fgsid": "44755",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Meliosma pinnata",
+                    "machine_name": "meliosma_pinnata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Walp.",
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443127",
+                        "legacy_id": "12592",
+                        "fgsid": "42511",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Meliosma arnottiana",
+                    "machine_name": "meliosma_arnottiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Walp.",
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2317656",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526132676"
+                    }
+                },
+                {
+                    "name": "Meliosma simplicifolia",
+                    "machine_name": "meliosma_simplicifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Walp.",
+                    "description": null,
+                    "genus": "meliosma",
+                    "family": "sabiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Meliosma simplicifolia rigida",
+                            "machine_name": "meliosma_simplicifolia_rigida",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rigida",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "meliosma_simplicifolia",
+                            "genus": "meliosma",
+                            "family": "sabiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2379496",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1537793865"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379491",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537793827"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388969",
+                "legacy_id": "3519",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

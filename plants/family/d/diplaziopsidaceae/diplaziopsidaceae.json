@@ -1,0 +1,85 @@
+{
+    "name": "Diplaziopsidaceae",
+    "machine_name": "diplaziopsidaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "X.C. Zhang & Christenh.",
+    "description": null,
+    "archival_data": {
+        "id": "2308196",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524765163"
+    },
+    "genus_items": [
+        {
+            "name": "Homalosorus",
+            "machine_name": "homalosorus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Small & Pic. Serm.",
+            "description": null,
+            "family": "diplaziopsidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Homalosorus [Cultivars]",
+                    "machine_name": "homalosorus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "homalosorus",
+                    "family": "diplaziopsidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308206",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524765232"
+                    }
+                },
+                {
+                    "name": "Homalosorus pycnocarpus",
+                    "machine_name": "homalosorus_pycnocarpus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pic. Serm.",
+                    "description": null,
+                    "genus": "homalosorus",
+                    "family": "diplaziopsidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308211",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524765285"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2308201",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524765232"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Aphloiaceae",
+    "machine_name": "aphloiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2326761",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527343825"
+    },
+    "genus_items": [
+        {
+            "name": "Aphloia",
+            "machine_name": "aphloia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Benn.",
+            "description": null,
+            "family": "aphloiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aphloia [Cultivars]",
+                    "machine_name": "aphloia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aphloia",
+                    "family": "aphloiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326771",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343864"
+                    }
+                },
+                {
+                    "name": "Aphloia theiformis",
+                    "machine_name": "aphloia_theiformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benn.",
+                    "description": null,
+                    "genus": "aphloia",
+                    "family": "aphloiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326776",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343912"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326766",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527343864"
+            }
+        }
+    ]
+}

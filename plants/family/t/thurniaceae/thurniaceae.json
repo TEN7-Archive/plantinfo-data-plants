@@ -1,0 +1,154 @@
+{
+    "name": "Thurniaceae",
+    "machine_name": "thurniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Engl.",
+    "description": null,
+    "archival_data": {
+        "id": "2313791",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525869247"
+    },
+    "genus_items": [
+        {
+            "name": "Prionium",
+            "machine_name": "prionium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "E. Mey.",
+            "description": null,
+            "family": "thurniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Prionium [Cultivars]",
+                    "machine_name": "prionium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "prionium",
+                    "family": "thurniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396828",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Prionium serratum",
+                    "machine_name": "prionium_serratum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Drege & E. Mey.",
+                    "description": null,
+                    "genus": "prionium",
+                    "family": "thurniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445352",
+                        "legacy_id": "14920",
+                        "fgsid": "96388",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396827",
+                "legacy_id": "16843",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Thurnia",
+            "machine_name": "thurnia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "thurniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Thurnia [Cultivars]",
+                    "machine_name": "thurnia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thurnia",
+                    "family": "thurniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313801",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525869286"
+                    }
+                },
+                {
+                    "name": "Thurnia sphaerocephala",
+                    "machine_name": "thurnia_sphaerocephala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "thurnia",
+                    "family": "thurniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313806",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525869316"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2313796",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525869286"
+            }
+        }
+    ]
+}

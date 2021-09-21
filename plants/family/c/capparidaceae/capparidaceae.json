@@ -1,0 +1,1732 @@
+{
+    "name": "Capparidaceae",
+    "machine_name": "capparidaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381177",
+        "legacy_id": "80",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cadaba",
+            "machine_name": "cadaba",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forssk.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cadaba [Cultivars]",
+                    "machine_name": "cadaba_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cadaba",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381872",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cadaba farinosa",
+                    "machine_name": "cadaba_farinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Forssk.",
+                    "description": null,
+                    "genus": "cadaba",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398867",
+                        "legacy_id": "5805",
+                        "fgsid": "5438",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cadaba glandulosa",
+                    "machine_name": "cadaba_glandulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Forssk.",
+                    "description": null,
+                    "genus": "cadaba",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398868",
+                        "legacy_id": "6644",
+                        "fgsid": "5439",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cadaba termitaria",
+                    "machine_name": "cadaba_termitaria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "N.E. Br.",
+                    "description": null,
+                    "genus": "cadaba",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398869",
+                        "legacy_id": "16219",
+                        "fgsid": "5440",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381871",
+                "legacy_id": "908",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Capparis",
+            "machine_name": "capparis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": null,
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Capparis [Cultivars]",
+                    "machine_name": "capparis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382710",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Capparis spinosa",
+                    "machine_name": "capparis_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Capparis spinosa inermis",
+                            "machine_name": "capparis_spinosa_inermis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "inermis",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Turra.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "capparis_spinosa",
+                            "genus": "capparis",
+                            "family": "capparidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469706",
+                                "legacy_id": "3788",
+                                "fgsid": "6103",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Capparis spinosa rupestris",
+                            "machine_name": "capparis_spinosa_rupestris",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rupestris",
+                            "authorities": null,
+                            "naming_authorities": "Nyman.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "capparis_spinosa",
+                            "genus": "capparis",
+                            "family": "capparidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567397",
+                                "legacy_id": "174858",
+                                "fgsid": "6103",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Capparis spinosa nummularia",
+                            "machine_name": "capparis_spinosa_nummularia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "nummularia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "capparis_spinosa",
+                            "genus": "capparis",
+                            "family": "capparidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2344571",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1531067944"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407356",
+                        "legacy_id": "15394",
+                        "fgsid": "6103",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis atamisquea",
+                    "machine_name": "capparis_atamisquea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kuntze.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453399",
+                        "legacy_id": "63304",
+                        "fgsid": "114848",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Capparis orientalis",
+                    "machine_name": "capparis_orientalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Veill.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457937",
+                        "legacy_id": "11720",
+                        "fgsid": "144283",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Capparis bonifaziana",
+                    "machine_name": "capparis_bonifaziana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cornejo & Iltis.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "capparidastrum_bonifaziana",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1463050",
+                        "legacy_id": "91331",
+                        "fgsid": "156657",
+                        "legacy_from_data_cross_ref": [
+                            "Capparidastrum bonifaziana"
+                        ],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Capparis sicula",
+                    "machine_name": "capparis_sicula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Vieill.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2395676",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1540035764"
+                    }
+                },
+                {
+                    "name": "Capparis acuminata",
+                    "machine_name": "capparis_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2495851",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1553085078"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382709",
+                "legacy_id": "1016",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Capparis",
+            "machine_name": "capparis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Capparis aphylla",
+                    "machine_name": "capparis_aphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Roth.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407340",
+                        "legacy_id": "938",
+                        "fgsid": "6087",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis bodinieri",
+                    "machine_name": "capparis_bodinieri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Leveille.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407341",
+                        "legacy_id": "2068",
+                        "fgsid": "6088",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis cynophallophora",
+                    "machine_name": "capparis_cynophallophora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407342",
+                        "legacy_id": "4471",
+                        "fgsid": "6089",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis decidua",
+                    "machine_name": "capparis_decidua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407343",
+                        "legacy_id": "4635",
+                        "fgsid": "6090",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis flavicans",
+                    "machine_name": "capparis_flavicans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407344",
+                        "legacy_id": "6030",
+                        "fgsid": "6091",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis floribunda",
+                    "machine_name": "capparis_floribunda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Wight.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407345",
+                        "legacy_id": "6083",
+                        "fgsid": "6092",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis forsteniana",
+                    "machine_name": "capparis_forsteniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407346",
+                        "legacy_id": "6185",
+                        "fgsid": "6093",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis hereroensis",
+                    "machine_name": "capparis_hereroensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Schinz.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407347",
+                        "legacy_id": "7379",
+                        "fgsid": "6094",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis lasiantha",
+                    "machine_name": "capparis_lasiantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br. & DC.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407348",
+                        "legacy_id": "8892",
+                        "fgsid": "6095",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis maroniensis",
+                    "machine_name": "capparis_maroniensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "Benoist.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407349",
+                        "legacy_id": "10075",
+                        "fgsid": "6096",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis micracantha",
+                    "machine_name": "capparis_micracantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407350",
+                        "legacy_id": "10406",
+                        "fgsid": "6097",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis mitchellii",
+                    "machine_name": "capparis_mitchellii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407351",
+                        "legacy_id": "10568",
+                        "fgsid": "6098",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis nummularia",
+                    "machine_name": "capparis_nummularia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Capparis nummularia spinosa",
+                            "machine_name": "capparis_nummularia_spinosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "spinosa",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "capparis_nummularia",
+                            "genus": "capparis",
+                            "family": "capparidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469704",
+                                "legacy_id": "3786",
+                                "fgsid": "6099",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407352",
+                        "legacy_id": "11360",
+                        "fgsid": "6099",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis sabiifolia",
+                    "machine_name": "capparis_sabiifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f. & Thoms.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407353",
+                        "legacy_id": "14239",
+                        "fgsid": "6100",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis sandwichiana",
+                    "machine_name": "capparis_sandwichiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Capparis sandwichiana zoharyi",
+                            "machine_name": "capparis_sandwichiana_zoharyi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "zoharyi",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "capparis_sandwichiana",
+                            "genus": "capparis",
+                            "family": "capparidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469705",
+                                "legacy_id": "3787",
+                                "fgsid": "6101",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "capparis_spinosa",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1407354",
+                        "legacy_id": "14377",
+                        "fgsid": "6101",
+                        "legacy_from_data_cross_ref": [
+                            "+C. spinosa"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis sepiaria",
+                    "machine_name": "capparis_sepiaria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407355",
+                        "legacy_id": "14858",
+                        "fgsid": "6102",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis umbonata",
+                    "machine_name": "capparis_umbonata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407357",
+                        "legacy_id": "16931",
+                        "fgsid": "6104",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Capparis zeylanica",
+                    "machine_name": "capparis_zeylanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "capparis",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407358",
+                        "legacy_id": "17946",
+                        "fgsid": "6105",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382711",
+                "legacy_id": "1017",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Crataeva",
+            "machine_name": "crataeva",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Crataeva [Cultivars]",
+                    "machine_name": "crataeva_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "crataeva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386952",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Crataeva magna",
+                    "machine_name": "crataeva_magna",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "crataeva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407556",
+                        "legacy_id": "9878",
+                        "fgsid": "9256",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386951",
+                "legacy_id": "1545",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Crateva",
+            "machine_name": "crateva",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Crateva [Cultivars]",
+                    "machine_name": "crateva_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "crateva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386958",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Crateva adansonii",
+                    "machine_name": "crateva_adansonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "crateva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "crateva_religiosa",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1407559",
+                        "legacy_id": "187",
+                        "fgsid": "9259",
+                        "legacy_from_data_cross_ref": [
+                            "+C. religiosa"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Crateva capparoides",
+                    "machine_name": "crateva_capparoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "crateva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407560",
+                        "legacy_id": "71409",
+                        "fgsid": "9260",
+                        "legacy_from_data_cross_ref": [
+                            "+C. fragrans"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Crateva erythrocarpa",
+                    "machine_name": "crateva_erythrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4  not ae",
+                    "naming_authorities": "Gagnep.",
+                    "description": null,
+                    "genus": "crateva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407561",
+                        "legacy_id": "5593",
+                        "fgsid": "9261",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Crateva nurvala",
+                    "machine_name": "crateva_nurvala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "crateva",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "crateva_religiosa",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1407562",
+                        "legacy_id": "11369",
+                        "fgsid": "9262",
+                        "legacy_from_data_cross_ref": [
+                            "+C. religiosa"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Crateva religiosa",
+                    "machine_name": "crateva_religiosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Forster.f.",
+                    "description": null,
+                    "genus": "crateva",
+                    "family": "capparidaceae",
+                    "variety_items": [
+                        {
+                            "name": "Crateva religiosa formosensis",
+                            "machine_name": "crateva_religiosa_formosensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "formosensis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "crateva_religiosa",
+                            "genus": "crateva",
+                            "family": "capparidaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471631",
+                                "legacy_id": "5628",
+                                "fgsid": "9263",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407563",
+                        "legacy_id": "13704",
+                        "fgsid": "9263",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386957",
+                "legacy_id": "1548",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Maerua",
+            "machine_name": "maerua",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forssk.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Maerua [Cultivars]",
+                    "machine_name": "maerua_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "maerua",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388076",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Maerua cafra",
+                    "machine_name": "maerua_cafra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "maerua",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421154",
+                        "legacy_id": "20375",
+                        "fgsid": "21838",
+                        "legacy_from_data_cross_ref": [
+                            "+Niebuhria triphylla"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Maerua crassifolia",
+                    "machine_name": "maerua_crassifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Forssk.",
+                    "description": null,
+                    "genus": "maerua",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421155",
+                        "legacy_id": "4132",
+                        "fgsid": "21839",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Maerua siamensis",
+                    "machine_name": "maerua_siamensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "maerua",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421156",
+                        "legacy_id": "15028",
+                        "fgsid": "21840",
+                        "legacy_from_data_cross_ref": [
+                            "+Niebuhria siamensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Maerua kaessneri",
+                    "machine_name": "maerua_kaessneri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gilg & Gilg-Ben.",
+                    "description": null,
+                    "genus": "maerua",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460488",
+                        "legacy_id": "81111",
+                        "fgsid": "140735",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388075",
+                "legacy_id": "3406",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Steriphoma",
+            "machine_name": "steriphoma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Sprengel.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Steriphoma [Cultivars]",
+                    "machine_name": "steriphoma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "steriphoma",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Steriphoma cleomoides",
+                    "machine_name": "steriphoma_cleomoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Spreng.",
+                    "description": null,
+                    "genus": "steriphoma",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433043",
+                        "legacy_id": "3606",
+                        "fgsid": "33780",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Steriphoma paradoxum",
+                    "machine_name": "steriphoma_paradoxum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "steriphoma",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "steriphoma_cleomoides",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1433044",
+                        "legacy_id": "12019",
+                        "fgsid": "33781",
+                        "legacy_from_data_cross_ref": [
+                            "+S. cleomoides"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389275",
+                "legacy_id": "5285",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dipterygium",
+            "machine_name": "dipterygium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Decne.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dipterygium [Cultivars]",
+                    "machine_name": "dipterygium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dipterygium",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389602",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dipterygium glaucum",
+                    "machine_name": "dipterygium_glaucum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I???",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "dipterygium",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409266",
+                        "legacy_id": "6672",
+                        "fgsid": "11258",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389601",
+                "legacy_id": "1886",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Boscia",
+            "machine_name": "boscia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lam.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Boscia [Cultivars]",
+                    "machine_name": "boscia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "boscia",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393952",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Boscia albitrunca",
+                    "machine_name": "boscia_albitrunca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "boscia",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402343",
+                        "legacy_id": "51463",
+                        "fgsid": "4791",
+                        "legacy_from_data_cross_ref": [
+                            "+Capparis albitrunca"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393951",
+                "legacy_id": "767",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cladostemon",
+            "machine_name": "cladostemon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (IK)",
+            "naming_authorities": "A. Br. & Vatke.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cladostemon [Cultivars]",
+                    "machine_name": "cladostemon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cladostemon",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396084",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cladostemon kirkii",
+                    "machine_name": "cladostemon_kirkii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Pax & Gilg.",
+                    "description": null,
+                    "genus": "cladostemon",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447904",
+                        "legacy_id": "8533",
+                        "fgsid": "66357",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396083",
+                "legacy_id": "11542",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Euadenia",
+            "machine_name": "euadenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Oliv.",
+            "description": null,
+            "family": "capparidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Euadenia [Cultivars]",
+                    "machine_name": "euadenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "euadenia",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528562436"
+                    }
+                },
+                {
+                    "name": "Euadenia eminens",
+                    "machine_name": "euadenia_eminens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "euadenia",
+                    "family": "capparidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331981",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528562501"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331971",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528562436"
+            }
+        }
+    ]
+}

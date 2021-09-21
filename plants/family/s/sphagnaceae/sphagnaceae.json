@@ -1,0 +1,85 @@
+{
+    "name": "Sphagnaceae",
+    "machine_name": "sphagnaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "L.",
+    "description": null,
+    "archival_data": {
+        "id": "2522041",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1559397356"
+    },
+    "genus_items": [
+        {
+            "name": "Sphagnum",
+            "machine_name": "sphagnum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "sphagnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sphagnum [Cultivars]",
+                    "machine_name": "sphagnum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sphagnum",
+                    "family": "sphagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2522051",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1559397384"
+                    }
+                },
+                {
+                    "name": "Sphagnum magellanicum",
+                    "machine_name": "sphagnum_magellanicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brid.",
+                    "description": null,
+                    "genus": "sphagnum",
+                    "family": "sphagnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2522056",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1559397432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2522046",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1559397384"
+            }
+        }
+    ]
+}

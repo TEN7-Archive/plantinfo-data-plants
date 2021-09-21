@@ -1,0 +1,133 @@
+{
+    "name": "Hydnoraceae",
+    "machine_name": "hydnoraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381272",
+        "legacy_id": "216",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Hydnora",
+            "machine_name": "hydnora",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Thunb.",
+            "description": null,
+            "family": "hydnoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hydnora [Cultivars]",
+                    "machine_name": "hydnora_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hydnora",
+                    "family": "hydnoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383746",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hydnora africana",
+                    "machine_name": "hydnora_africana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "hydnora",
+                    "family": "hydnoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420961",
+                        "legacy_id": "302",
+                        "fgsid": "18732",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hydnora triceps",
+                    "machine_name": "hydnora_triceps",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Drege & E. Mey.",
+                    "description": null,
+                    "genus": "hydnora",
+                    "family": "hydnoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420962",
+                        "legacy_id": "16608",
+                        "fgsid": "18733",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hydnora abyssinica",
+                    "machine_name": "hydnora_abyssinica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "A. Br.",
+                    "description": null,
+                    "genus": "hydnora",
+                    "family": "hydnoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447805",
+                        "legacy_id": "40",
+                        "fgsid": "91956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383745",
+                "legacy_id": "2828",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

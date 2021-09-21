@@ -1,0 +1,154 @@
+{
+    "name": "Lacistemataceae",
+    "machine_name": "lacistemataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Mart.",
+    "description": null,
+    "archival_data": {
+        "id": "2323526",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527002883"
+    },
+    "genus_items": [
+        {
+            "name": "Lozania",
+            "machine_name": "lozania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Mutis.",
+            "description": null,
+            "family": "lacistemataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lozania [Cultivars]",
+                    "machine_name": "lozania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lozania",
+                    "family": "lacistemataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323536",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527002924"
+                    }
+                },
+                {
+                    "name": "Lozania nunkui",
+                    "machine_name": "lozania_nunkui",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "D.A. Neill & Asanza.",
+                    "description": null,
+                    "genus": "lozania",
+                    "family": "lacistemataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323541",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527002973"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323531",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527002924"
+            }
+        },
+        {
+            "name": "Lacistema",
+            "machine_name": "lacistema",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "lacistemataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lacistema [Cultivars]",
+                    "machine_name": "lacistema_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lacistema",
+                    "family": "lacistemataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323551",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527003061"
+                    }
+                },
+                {
+                    "name": "Lacistema aggregatum",
+                    "machine_name": "lacistema_aggregatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Rusby.",
+                    "description": null,
+                    "genus": "lacistema",
+                    "family": "lacistemataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323556",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527003127"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323546",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527003061"
+            }
+        }
+    ]
+}

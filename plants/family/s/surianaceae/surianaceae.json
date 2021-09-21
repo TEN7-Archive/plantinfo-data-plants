@@ -1,0 +1,223 @@
+{
+    "name": "Surianaceae",
+    "machine_name": "surianaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381414",
+        "legacy_id": "403",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Stylobasium",
+            "machine_name": "stylobasium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Desf.",
+            "description": null,
+            "family": "surianaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Stylobasium [Cultivars]",
+                    "machine_name": "stylobasium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "stylobasium",
+                    "family": "surianaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390046",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Stylobasium spathulatum",
+                    "machine_name": "stylobasium_spathulatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Desf.",
+                    "description": null,
+                    "genus": "stylobasium",
+                    "family": "surianaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427795",
+                        "legacy_id": "15302",
+                        "fgsid": "33953",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390045",
+                "legacy_id": "5331",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Suriana",
+            "machine_name": "suriana",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "surianaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Suriana [Cultivars]",
+                    "machine_name": "suriana_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "suriana",
+                    "family": "surianaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390080",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Suriana maritima",
+                    "machine_name": "suriana_maritima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "suriana",
+                    "family": "surianaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428129",
+                        "legacy_id": "10052",
+                        "fgsid": "34007",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390079",
+                "legacy_id": "5349",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Guilfoylia",
+            "machine_name": "guilfoylia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "surianaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Guilfoylia [Cultivars]",
+                    "machine_name": "guilfoylia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "guilfoylia",
+                    "family": "surianaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318931",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526397389"
+                    }
+                },
+                {
+                    "name": "Guilfoylia monostylis",
+                    "machine_name": "guilfoylia_monostylis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "guilfoylia",
+                    "family": "surianaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318936",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526397429"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2318926",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526397389"
+            }
+        }
+    ]
+}

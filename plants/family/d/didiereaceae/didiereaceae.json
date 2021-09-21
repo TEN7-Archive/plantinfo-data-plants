@@ -1,0 +1,992 @@
+{
+    "name": "Didiereaceae",
+    "machine_name": "didiereaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381221",
+        "legacy_id": "145",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Ceraria",
+            "machine_name": "ceraria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Pearson & Stephen.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ceraria [Cultivars]",
+                    "machine_name": "ceraria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ceraria",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383604",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Ceraria namaquensis",
+                    "machine_name": "ceraria_namaquensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Pearson & Stephen.",
+                    "description": null,
+                    "genus": "ceraria",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404814",
+                        "legacy_id": "10987",
+                        "fgsid": "7029",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Ceraria pygmaea",
+                    "machine_name": "ceraria_pygmaea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Pill.",
+                    "description": null,
+                    "genus": "ceraria",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404815",
+                        "legacy_id": "13389",
+                        "fgsid": "7030",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Ceraria fruticulosa",
+                    "machine_name": "ceraria_fruticulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Pearson & Steph.",
+                    "description": null,
+                    "genus": "ceraria",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440505",
+                        "legacy_id": "6297",
+                        "fgsid": "44742",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383603",
+                "legacy_id": "1147",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Portulacaria",
+            "machine_name": "portulacaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Jacq.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Portulacaria [Cultivars]",
+                    "machine_name": "portulacaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "portulacaria",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383912",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Portulacaria afra",
+                    "machine_name": "portulacaria_afra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "portulacaria",
+                    "family": "didiereaceae",
+                    "variety_items": [
+                        {
+                            "name": "Portulacaria afra 'Variegata'",
+                            "machine_name": "portulacaria_afra_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539860",
+                                "legacy_id": "115277",
+                                "fgsid": "28196",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra 'Aureum'",
+                            "machine_name": "portulacaria_afra_aureum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aureum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1563476",
+                                "legacy_id": "164481",
+                                "fgsid": "28196",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra macrophylla",
+                            "machine_name": "portulacaria_afra_macrophylla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "macrophylla",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575347",
+                                "legacy_id": "201255",
+                                "fgsid": "28196",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra 'Roulant'",
+                            "machine_name": "portulacaria_afra_roulant",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roulant",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584424",
+                                "legacy_id": "214850",
+                                "fgsid": "28196",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra foliis-variegatis",
+                            "machine_name": "portulacaria_afra_foliis_variegatis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "foliis-variegatis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600009",
+                                "legacy_id": "233017",
+                                "fgsid": "28196",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra afra",
+                            "machine_name": "portulacaria_afra_afra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "afra",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631829",
+                                "legacy_id": "296739",
+                                "fgsid": "28196",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra 'Skyscraper'",
+                            "machine_name": "portulacaria_afra_skyscraper",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Skyscraper",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2346316",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1531325053"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra 'Cork Bark'",
+                            "machine_name": "portulacaria_afra_cork_bark",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cork Bark",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2346321",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1531325133"
+                            }
+                        },
+                        {
+                            "name": "Portulacaria afra 'Red Stem'",
+                            "machine_name": "portulacaria_afra_red_stem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Stem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "portulacaria_afra",
+                            "genus": "portulacaria",
+                            "family": "didiereaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2618021",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585764833"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423096",
+                        "legacy_id": "301",
+                        "fgsid": "28196",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383911",
+                "legacy_id": "4519",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Decarya",
+            "machine_name": "decarya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IK2;Fl.P.of Afr. 53",
+            "naming_authorities": "Choux.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Decarya [Cultivars]",
+                    "machine_name": "decarya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "decarya",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387636",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Decarya madagascariensis",
+                    "machine_name": "decarya_madagascariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Choux.",
+                    "description": "Flowering Plants of Africa, vol 53, p 27 gives explanation of Decarya vs. Decaryia.",
+                    "genus": "decarya",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443584",
+                        "legacy_id": "9850",
+                        "fgsid": "44085",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387635",
+                "legacy_id": "9214",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Didierea",
+            "machine_name": "didierea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Baillon.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Didierea [Cultivars]",
+                    "machine_name": "didierea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "didierea",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388816",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Didierea madagascariensis",
+                    "machine_name": "didierea_madagascariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Baillon.",
+                    "description": null,
+                    "genus": "didierea",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408453",
+                        "legacy_id": "9850",
+                        "fgsid": "11014",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Didierea trollii",
+                    "machine_name": "didierea_trollii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": "Capuron & Rauh.",
+                    "description": null,
+                    "genus": "didierea",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408454",
+                        "legacy_id": "16766",
+                        "fgsid": "11015",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388815",
+                "legacy_id": "1827",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Alluaudia",
+            "machine_name": "alluaudia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Drake.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Alluaudia [Cultivars]",
+                    "machine_name": "alluaudia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389516",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Alluaudia ascendens",
+                    "machine_name": "alluaudia_ascendens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Drake.",
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402479",
+                        "legacy_id": "1226",
+                        "fgsid": "1876",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alluaudia comosa",
+                    "machine_name": "alluaudia_comosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Drake.",
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402480",
+                        "legacy_id": "3778",
+                        "fgsid": "1877",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alluaudia dumosa",
+                    "machine_name": "alluaudia_dumosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Drake.",
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402481",
+                        "legacy_id": "5173",
+                        "fgsid": "1878",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alluaudia humbertii",
+                    "machine_name": "alluaudia_humbertii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": "Choux.",
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402482",
+                        "legacy_id": "7740",
+                        "fgsid": "1879",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alluaudia procera",
+                    "machine_name": "alluaudia_procera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Drake.",
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435697",
+                        "legacy_id": "13046",
+                        "fgsid": "40556",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alluaudia montagnacii",
+                    "machine_name": "alluaudia_montagnacii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Rauh.",
+                    "description": null,
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440501",
+                        "legacy_id": "20475",
+                        "fgsid": "44738",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Alluaudia adscendens",
+                    "machine_name": "alluaudia_adscendens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "alluaudia",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456514",
+                        "legacy_id": "229",
+                        "fgsid": "128959",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389515",
+                "legacy_id": "227",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Alluaudiopsis",
+            "machine_name": "alluaudiopsis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Humbert & Choix.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Alluaudiopsis [Cultivars]",
+                    "machine_name": "alluaudiopsis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alluaudiopsis",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389518",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Alluaudiopsis fiherenensis",
+                    "machine_name": "alluaudiopsis_fiherenensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": "Humbert & Choix.",
+                    "description": null,
+                    "genus": "alluaudiopsis",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402483",
+                        "legacy_id": "5920",
+                        "fgsid": "1880",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alluaudiopsis marnieriana",
+                    "machine_name": "alluaudiopsis_marnieriana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alluaudiopsis",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402484",
+                        "legacy_id": "42604",
+                        "fgsid": "1881",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389517",
+                "legacy_id": "228",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Didiera",
+            "machine_name": "didiera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Post & Kuntze.",
+            "description": null,
+            "family": "didiereaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Didiera [Cultivars]",
+                    "machine_name": "didiera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "didiera",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2220191",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1517089189"
+                    }
+                },
+                {
+                    "name": "Didiera madagascariensis",
+                    "machine_name": "didiera_madagascariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "didiera",
+                    "family": "didiereaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2220196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1517089224"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2220186",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1517089189"
+            }
+        }
+    ]
+}

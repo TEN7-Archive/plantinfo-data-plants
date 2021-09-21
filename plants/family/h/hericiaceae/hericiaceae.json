@@ -1,0 +1,85 @@
+{
+    "name": "Hericiaceae",
+    "machine_name": "hericiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Donk.",
+    "description": null,
+    "archival_data": {
+        "id": "2572606",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1571582636"
+    },
+    "genus_items": [
+        {
+            "name": "Hericium",
+            "machine_name": "hericium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Pers.",
+            "description": null,
+            "family": "hericiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hericium [Cultivars]",
+                    "machine_name": "hericium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hericium",
+                    "family": "hericiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2572616",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1571582672"
+                    }
+                },
+                {
+                    "name": "Hericium erinaceus",
+                    "machine_name": "hericium_erinaceus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "hericium",
+                    "family": "hericiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2572621",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1571582715"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2572611",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1571582672"
+            }
+        }
+    ]
+}

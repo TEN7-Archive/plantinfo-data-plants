@@ -1,0 +1,292 @@
+{
+    "name": "Humiriaceae",
+    "machine_name": "humiriaceae",
+    "type": "family",
+    "authorities": "Mabberley",
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381488",
+        "legacy_id": "499",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Endopleura",
+            "machine_name": "endopleura",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Cuatrec.",
+            "description": null,
+            "family": "humiriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Endopleura [Cultivars]",
+                    "machine_name": "endopleura_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "endopleura",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385952",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Endopleura uchi",
+                    "machine_name": "endopleura_uchi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Cuatrec.",
+                    "description": null,
+                    "genus": "endopleura",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444359",
+                        "legacy_id": "20842",
+                        "fgsid": "45638",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385951",
+                "legacy_id": "9340",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Vantanea",
+            "machine_name": "vantanea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "humiriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Vantanea [Cultivars]",
+                    "machine_name": "vantanea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "vantanea",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323241",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526990153"
+                    }
+                },
+                {
+                    "name": "Vantanea obovata",
+                    "machine_name": "vantanea_obovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "vantanea",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323246",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526990201"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323236",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526990153"
+            }
+        },
+        {
+            "name": "Sacoglottis",
+            "machine_name": "sacoglottis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Mart.",
+            "description": null,
+            "family": "humiriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sacoglottis [Cultivars]",
+                    "machine_name": "sacoglottis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sacoglottis",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323256",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526990307"
+                    }
+                },
+                {
+                    "name": "Sacoglottis gabonensis",
+                    "machine_name": "sacoglottis_gabonensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Urb.",
+                    "description": null,
+                    "genus": "sacoglottis",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323261",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526990370"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323251",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526990307"
+            }
+        },
+        {
+            "name": "Humiria",
+            "machine_name": "humiria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "humiriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Humiria [Cultivars]",
+                    "machine_name": "humiria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "humiria",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323271",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526990458"
+                    }
+                },
+                {
+                    "name": "Humiria balsamifera",
+                    "machine_name": "humiria_balsamifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "humiria",
+                    "family": "humiriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526990498"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323266",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526990458"
+            }
+        }
+    ]
+}

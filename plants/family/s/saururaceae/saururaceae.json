@@ -1,0 +1,514 @@
+{
+    "name": "Saururaceae",
+    "machine_name": "saururaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381394",
+        "legacy_id": "376",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Houttuynia",
+            "machine_name": "houttuynia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Thunb.",
+            "description": null,
+            "family": "saururaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Houttuynia [Cultivars]",
+                    "machine_name": "houttuynia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "houttuynia",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383692",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Houttuynia cordata",
+                    "machine_name": "houttuynia_cordata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "houttuynia",
+                    "family": "saururaceae",
+                    "variety_items": [
+                        {
+                            "name": "Houttuynia cordata 'Chameleon'",
+                            "machine_name": "houttuynia_cordata_chameleon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chameleon",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "houttuynia_cordata",
+                            "genus": "houttuynia",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480601",
+                                "legacy_id": "14167",
+                                "fgsid": "18539",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Houttuynia cordata 'Flame'",
+                            "machine_name": "houttuynia_cordata_flame",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Flame",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "houttuynia_cordata",
+                            "genus": "houttuynia",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480602",
+                                "legacy_id": "14168",
+                                "fgsid": "18539",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Houttuynia cordata 'Plena'",
+                            "machine_name": "houttuynia_cordata_plena",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Plena",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "houttuynia_cordata",
+                            "genus": "houttuynia",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480603",
+                                "legacy_id": "14169",
+                                "fgsid": "18539",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Houttuynia cordata 'Variegata'",
+                            "machine_name": "houttuynia_cordata_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "Royal.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "houttuynia_cordata",
+                            "genus": "houttuynia",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480604",
+                                "legacy_id": "14170",
+                                "fgsid": "18539",
+                                "legacy_from_data_cross_ref": [
+                                    "H.c. 'Chameleon"
+                                ],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Houttuynia cordata 'Flore Pleno'",
+                            "machine_name": "houttuynia_cordata_flore_pleno",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Flore Pleno",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "houttuynia_cordata",
+                            "genus": "houttuynia",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1510303",
+                                "legacy_id": "84973",
+                                "fgsid": "18539",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Houttuynia cordata 'Mahogany'",
+                            "machine_name": "houttuynia_cordata_mahogany",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mahogany",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "houttuynia_cordata",
+                            "genus": "houttuynia",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575328",
+                                "legacy_id": "201236",
+                                "fgsid": "18539",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420198",
+                        "legacy_id": "3968",
+                        "fgsid": "18539",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383691",
+                "legacy_id": "2801",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Saururus",
+            "machine_name": "saururus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "saururaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Saururus [Cultivars]",
+                    "machine_name": "saururus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "saururus",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387330",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Saururus cernuus",
+                    "machine_name": "saururus_cernuus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "saururus",
+                    "family": "saururaceae",
+                    "variety_items": [
+                        {
+                            "name": "Saururus cernuus ruminoides",
+                            "machine_name": "saururus_cernuus_ruminoides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "ruminoides",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "saururus_cernuus",
+                            "genus": "saururus",
+                            "family": "saururaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1558751",
+                                "legacy_id": "152806",
+                                "fgsid": "31814",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431387",
+                        "legacy_id": "3217",
+                        "fgsid": "31814",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Saururus chinensis",
+                    "machine_name": "saururus_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "hort. & Loud.",
+                    "description": null,
+                    "genus": "saururus",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431388",
+                        "legacy_id": "3351",
+                        "fgsid": "31815",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387329",
+                "legacy_id": "4955",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Anemopsis",
+            "machine_name": "anemopsis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook & Arn.",
+            "description": null,
+            "family": "saururaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anemopsis [Cultivars]",
+                    "machine_name": "anemopsis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anemopsis",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390404",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Anemopsis californica",
+                    "machine_name": "anemopsis_californica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley Hortus",
+                    "naming_authorities": "Hook & Arn.",
+                    "description": null,
+                    "genus": "anemopsis",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399470",
+                        "legacy_id": "2647",
+                        "fgsid": "2587",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390403",
+                "legacy_id": "335",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Gymnotheca",
+            "machine_name": "gymnotheca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Decne.",
+            "description": null,
+            "family": "saururaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gymnotheca [Cultivars]",
+                    "machine_name": "gymnotheca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gymnotheca",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309301",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524838532"
+                    }
+                },
+                {
+                    "name": "Gymnotheca chinensis",
+                    "machine_name": "gymnotheca_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "gymnotheca",
+                    "family": "saururaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309306",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524838571"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2309296",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524838532"
+            }
+        }
+    ]
+}

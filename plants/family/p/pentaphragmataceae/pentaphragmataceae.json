@@ -1,0 +1,85 @@
+{
+    "name": "Pentaphragmataceae",
+    "machine_name": "pentaphragmataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "J. Agardh.",
+    "description": null,
+    "archival_data": {
+        "id": "2358631",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532861474"
+    },
+    "genus_items": [
+        {
+            "name": "Pentaphragma",
+            "machine_name": "pentaphragma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Wall. & G. Don.",
+            "description": null,
+            "family": "pentaphragmataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pentaphragma [Cultivars]",
+                    "machine_name": "pentaphragma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pentaphragma",
+                    "family": "pentaphragmataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358641",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532861509"
+                    }
+                },
+                {
+                    "name": "Pentaphragma ellipticum",
+                    "machine_name": "pentaphragma_ellipticum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pentaphragma",
+                    "family": "pentaphragmataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358646",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532861537"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2358636",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532861509"
+            }
+        }
+    ]
+}

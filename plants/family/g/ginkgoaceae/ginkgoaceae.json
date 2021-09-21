@@ -1,0 +1,3375 @@
+{
+    "name": "Ginkgoaceae",
+    "machine_name": "ginkgoaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381253",
+        "legacy_id": "189",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Ginkgo",
+            "machine_name": "ginkgo",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "ginkgoaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ginkgo biloba",
+                    "machine_name": "ginkgo_biloba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "ginkgo",
+                    "family": "ginkgoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ginkgo biloba 'Laciniata'",
+                            "machine_name": "ginkgo_biloba_laciniata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Laciniata",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471945",
+                                "legacy_id": "10631",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Variegata'",
+                            "machine_name": "ginkgo_biloba_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471946",
+                                "legacy_id": "10633",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Aurea'",
+                            "machine_name": "ginkgo_biloba_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476479",
+                                "legacy_id": "10628",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Autumn Gold'",
+                            "machine_name": "ginkgo_biloba_autumn_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Autumn Gold",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476480",
+                                "legacy_id": "10629",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Fastigiata'",
+                            "machine_name": "ginkgo_biloba_fastigiata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fastigiata",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476481",
+                                "legacy_id": "10630",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Chi Chi'",
+                            "machine_name": "ginkgo_biloba_chi_chi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chi Chi",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507205",
+                                "legacy_id": "79738",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Compacta'",
+                            "machine_name": "ginkgo_biloba_compacta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Compacta",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507206",
+                                "legacy_id": "79739",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Fairmount'",
+                            "machine_name": "ginkgo_biloba_fairmount",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fairmount",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507207",
+                                "legacy_id": "79740",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Fused Fruit'",
+                            "machine_name": "ginkgo_biloba_fused_fruit",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fused Fruit",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507208",
+                                "legacy_id": "79741",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Golden Girl'",
+                            "machine_name": "ginkgo_biloba_golden_girl",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Girl",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507209",
+                                "legacy_id": "79742",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Kew'",
+                            "machine_name": "ginkgo_biloba_kew",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kew",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507210",
+                                "legacy_id": "79743",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Lakeview'",
+                            "machine_name": "ginkgo_biloba_lakeview",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lakeview",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507211",
+                                "legacy_id": "79744",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Liberty Splendor'",
+                            "machine_name": "ginkgo_biloba_liberty_splendor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Liberty Splendor",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507212",
+                                "legacy_id": "79745",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Magyar'",
+                            "machine_name": "ginkgo_biloba_magyar",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magyar",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507213",
+                                "legacy_id": "79746",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Mayfield'",
+                            "machine_name": "ginkgo_biloba_mayfield",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mayfield",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507214",
+                                "legacy_id": "79747",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Maytown'",
+                            "machine_name": "ginkgo_biloba_maytown",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maytown",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507215",
+                                "legacy_id": "79748",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Mother Load'",
+                            "machine_name": "ginkgo_biloba_mother_load",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mother Load",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507427",
+                                "legacy_id": "79749",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Nana Horizontalis'",
+                            "machine_name": "ginkgo_biloba_nana_horizontalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana Horizontalis",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507428",
+                                "legacy_id": "79750",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Ohazuki'",
+                            "machine_name": "ginkgo_biloba_ohazuki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ohazuki",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507429",
+                                "legacy_id": "79751",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Old Gold'",
+                            "machine_name": "ginkgo_biloba_old_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Old Gold",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507430",
+                                "legacy_id": "79752",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Pendula'",
+                            "machine_name": "ginkgo_biloba_pendula",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendula",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507431",
+                                "legacy_id": "79753",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'San Jose'",
+                            "machine_name": "ginkgo_biloba_san_jose",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "San Jose",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507432",
+                                "legacy_id": "79754",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Saratoga'",
+                            "machine_name": "ginkgo_biloba_saratoga",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Saratoga",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507433",
+                                "legacy_id": "79755",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Shangri-la'",
+                            "machine_name": "ginkgo_biloba_shangri_la",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shangri-la",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507434",
+                                "legacy_id": "79756",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Tubifolia'",
+                            "machine_name": "ginkgo_biloba_tubifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tubifolia",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507435",
+                                "legacy_id": "79757",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Tubiformis'",
+                            "machine_name": "ginkgo_biloba_tubiformis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tubiformis",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507436",
+                                "legacy_id": "79758",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Witches' Broom'",
+                            "machine_name": "ginkgo_biloba_witches_broom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Witches' Broom",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507437",
+                                "legacy_id": "79759",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Jade Butterflies'",
+                            "machine_name": "ginkgo_biloba_jade_butterflies",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jade Butterflies",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532754",
+                                "legacy_id": "111090",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Thelma'",
+                            "machine_name": "ginkgo_biloba_thelma",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Thelma",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538337",
+                                "legacy_id": "113783",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Salem Lady'",
+                            "machine_name": "ginkgo_biloba_salem_lady",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Salem Lady",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538829",
+                                "legacy_id": "112672",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Windover Gold'",
+                            "machine_name": "ginkgo_biloba_windover_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Windover Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1542173",
+                                "legacy_id": "120823",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Gresham'",
+                            "machine_name": "ginkgo_biloba_gresham",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gresham",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544438",
+                                "legacy_id": "120107",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'PNI 2720'",
+                            "machine_name": "ginkgo_biloba_pni_2720",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "PNI 2720",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1551316",
+                                "legacy_id": "130962",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Joe's Dwarf'",
+                            "machine_name": "ginkgo_biloba_joe_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Joe's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1551838",
+                                "legacy_id": "147362",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Eastern Star \u2122",
+                            "machine_name": "ginkgo_biloba_eastern_star",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Eastern Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556164",
+                                "legacy_id": "155889",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Long March \u2122",
+                            "machine_name": "ginkgo_biloba_long_march",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Long March",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556165",
+                                "legacy_id": "155890",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Golden Globe \u2122",
+                            "machine_name": "ginkgo_biloba_golden_globe",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Golden Globe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556734",
+                                "legacy_id": "156017",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Chase Manhattan'",
+                            "machine_name": "ginkgo_biloba_chase_manhattan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chase Manhattan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557610",
+                                "legacy_id": "154241",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Tremonia'",
+                            "machine_name": "ginkgo_biloba_tremonia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tremonia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557611",
+                                "legacy_id": "154242",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Todd's WB'",
+                            "machine_name": "ginkgo_biloba_todd_s_wb",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Todd's WB",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1558601",
+                                "legacy_id": "148449",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Spring Grove'",
+                            "machine_name": "ginkgo_biloba_spring_grove",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spring Grove",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1566670",
+                                "legacy_id": "181047",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Canopy'",
+                            "machine_name": "ginkgo_biloba_canopy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Canopy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1566883",
+                                "legacy_id": "177333",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Tschi-tschi'",
+                            "machine_name": "ginkgo_biloba_tschi_tschi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tschi-tschi",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1566884",
+                                "legacy_id": "177334",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Salem Dandy'",
+                            "machine_name": "ginkgo_biloba_salem_dandy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Salem Dandy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567110",
+                                "legacy_id": "174771",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Columnaris'",
+                            "machine_name": "ginkgo_biloba_columnaris",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Columnaris",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571517",
+                                "legacy_id": "188176",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Sun Stream'",
+                            "machine_name": "ginkgo_biloba_sun_stream",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sun Stream",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571518",
+                                "legacy_id": "188177",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Umbrella'",
+                            "machine_name": "ginkgo_biloba_umbrella",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Umbrella",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574107",
+                                "legacy_id": "195421",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Halka'",
+                            "machine_name": "ginkgo_biloba_halka",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Halka",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574682",
+                                "legacy_id": "193840",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Mariken'",
+                            "machine_name": "ginkgo_biloba_mariken",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mariken",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575624",
+                                "legacy_id": "199734",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Sentry'",
+                            "machine_name": "ginkgo_biloba_sentry",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sentry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577309",
+                                "legacy_id": "198496",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Emperor \u2122",
+                            "machine_name": "ginkgo_biloba_emperor",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Emperor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579818",
+                                "legacy_id": "211693",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Yakima'",
+                            "machine_name": "ginkgo_biloba_yakima",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yakima",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582484",
+                                "legacy_id": "210551",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Elmwood Fastigiata'",
+                            "machine_name": "ginkgo_biloba_elmwood_fastigiata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Elmwood Fastigiata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585685",
+                                "legacy_id": "220824",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Prehistoric Gold'",
+                            "machine_name": "ginkgo_biloba_prehistoric_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prehistoric Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585686",
+                                "legacy_id": "220825",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Brooms with Tubes'",
+                            "machine_name": "ginkgo_biloba_brooms_with_tubes",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brooms with Tubes",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586689",
+                                "legacy_id": "222154",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'WB'",
+                            "machine_name": "ginkgo_biloba_wb",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "WB",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597689",
+                                "legacy_id": "384526",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Jagged Jade'",
+                            "machine_name": "ginkgo_biloba_jagged_jade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jagged Jade",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597811",
+                                "legacy_id": "388147",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Akebono\/Sunrise'",
+                            "machine_name": "ginkgo_biloba_akebono_sunrise",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Akebono\/Sunrise",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1599980",
+                                "legacy_id": "232935",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'McFarland'",
+                            "machine_name": "ginkgo_biloba_mcfarland",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "McFarland",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602239",
+                                "legacy_id": "229447",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Elmwood'",
+                            "machine_name": "ginkgo_biloba_elmwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Elmwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602724",
+                                "legacy_id": "284616",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Bergman Dwarf'",
+                            "machine_name": "ginkgo_biloba_bergman_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bergman Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602743",
+                                "legacy_id": "284756",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Princeton Sentry \u00ae",
+                            "machine_name": "ginkgo_biloba_princeton_sentry",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Princeton Sentry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr has as registered",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr has as registered",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602744",
+                                "legacy_id": "284776",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba epiphylla",
+                            "machine_name": "ginkgo_biloba_epiphylla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "epiphylla",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602918",
+                                "legacy_id": "280417",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Majestic Butterfly'",
+                            "machine_name": "ginkgo_biloba_majestic_butterfly",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Majestic Butterfly",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603437",
+                                "legacy_id": "278651",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Chris's Dwarf'",
+                            "machine_name": "ginkgo_biloba_chris_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chris's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603585",
+                                "legacy_id": "285918",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Ding-a-ling'",
+                            "machine_name": "ginkgo_biloba_ding_a_ling",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ding-a-ling",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1604656",
+                                "legacy_id": "279162",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Elmwood WB'",
+                            "machine_name": "ginkgo_biloba_elmwood_wb",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Elmwood WB",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1604657",
+                                "legacy_id": "279163",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Summer Rainbow'",
+                            "machine_name": "ginkgo_biloba_summer_rainbow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Summer Rainbow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607377",
+                                "legacy_id": "284360",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Goldspire \u2122",
+                            "machine_name": "ginkgo_biloba_goldspire",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Goldspire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "How Dirr spells",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "How Dirr spells",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1610335",
+                                "legacy_id": "385169",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Horizontalis'",
+                            "machine_name": "ginkgo_biloba_horizontalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Horizontalis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1610964",
+                                "legacy_id": "368538",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Barabits Nana'",
+                            "machine_name": "ginkgo_biloba_barabits_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Barabits Nana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1612268",
+                                "legacy_id": "242117",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Troll'",
+                            "machine_name": "ginkgo_biloba_troll",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Troll",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1612269",
+                                "legacy_id": "242118",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Green Pagoda'",
+                            "machine_name": "ginkgo_biloba_green_pagoda",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Green Pagoda",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1613792",
+                                "legacy_id": "240776",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Hayanari'",
+                            "machine_name": "ginkgo_biloba_hayanari",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hayanari",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614688",
+                                "legacy_id": "241100",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Geisha \u2122",
+                            "machine_name": "ginkgo_biloba_geisha",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Geisha",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614936",
+                                "legacy_id": "238691",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Tit'",
+                            "machine_name": "ginkgo_biloba_tit",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tit",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1617356",
+                                "legacy_id": "348896",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Pixie'",
+                            "machine_name": "ginkgo_biloba_pixie",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pixie",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619410",
+                                "legacy_id": "346721",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Stupka's Broom'",
+                            "machine_name": "ginkgo_biloba_stupka_s_broom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Stupka's Broom",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619657",
+                                "legacy_id": "343236",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Blagon'",
+                            "machine_name": "ginkgo_biloba_blagon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blagon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619658",
+                                "legacy_id": "343237",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Slovakian Princess'",
+                            "machine_name": "ginkgo_biloba_slovakian_princess",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Slovakian Princess",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623534",
+                                "legacy_id": "381440",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Layin Low'",
+                            "machine_name": "ginkgo_biloba_layin_low",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Layin Low",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623535",
+                                "legacy_id": "381441",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Jehosephat'",
+                            "machine_name": "ginkgo_biloba_jehosephat",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jehosephat",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623536",
+                                "legacy_id": "381442",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Caesar'",
+                            "machine_name": "ginkgo_biloba_caesar",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Caesar",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Male cultivar with pyramidal form",
+                                "summary": null,
+                                "format": null,
+                                "safe_value": "Male cultivar with pyramidal form",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631721",
+                                "legacy_id": "311566",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Ross Moore'",
+                            "machine_name": "ginkgo_biloba_ross_moore",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ross Moore",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632150",
+                                "legacy_id": "297597",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Munchkin'",
+                            "machine_name": "ginkgo_biloba_munchkin",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Munchkin",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632890",
+                                "legacy_id": "306396",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Bellfountain'",
+                            "machine_name": "ginkgo_biloba_bellfountain",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bellfountain",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1635106",
+                                "legacy_id": "294736",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Gnome'",
+                            "machine_name": "ginkgo_biloba_gnome",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gnome",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636030",
+                                "legacy_id": "295982",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Golden Colonnade \u2122",
+                            "machine_name": "ginkgo_biloba_golden_colonnade",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Golden Colonnade",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1642922",
+                                "legacy_id": "261556",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'The President'",
+                            "machine_name": "ginkgo_biloba_the_president",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "The President",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1643711",
+                                "legacy_id": "259637",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'California Sunset'",
+                            "machine_name": "ginkgo_biloba_california_sunset",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "California Sunset",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1646567",
+                                "legacy_id": "373648",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Todd's Dwarf'",
+                            "machine_name": "ginkgo_biloba_todd_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Todd's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648445",
+                                "legacy_id": "385979",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Beijing Gold'",
+                            "machine_name": "ginkgo_biloba_beijing_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Beijing Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648721",
+                                "legacy_id": "372600",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Weeping Wonder'",
+                            "machine_name": "ginkgo_biloba_weeping_wonder",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Weeping Wonder",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648752",
+                                "legacy_id": "382513",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Menhir'",
+                            "machine_name": "ginkgo_biloba_menhir",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Menhir",
+                            "authorities": "mm",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1650833",
+                                "legacy_id": "382844",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Pete's Dwarf'",
+                            "machine_name": "ginkgo_biloba_pete_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pete's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1651268",
+                                "legacy_id": "382917",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Bon's Dwarf'",
+                            "machine_name": "ginkgo_biloba_bon_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bon's Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1651269",
+                                "legacy_id": "382918",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Presidential Gold \u2122",
+                            "machine_name": "ginkgo_biloba_presidential_gold",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Presidential Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1657256",
+                                "legacy_id": "270716",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Robbie's Twist'",
+                            "machine_name": "ginkgo_biloba_robbie_s_twist",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Robbie's Twist",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660050",
+                                "legacy_id": "265257",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Samurai \u2122",
+                            "machine_name": "ginkgo_biloba_samurai",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Samurai",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1666555",
+                                "legacy_id": "402872",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Snow Cloud'",
+                            "machine_name": "ginkgo_biloba_snow_cloud",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Snow Cloud",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1669144",
+                                "legacy_id": "407247",
+                                "fgsid": "16425",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Passionata'",
+                            "machine_name": "ginkgo_biloba_passionata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Passionata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2169411",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "kallen",
+                                "created": "1511986455"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Grindstone'",
+                            "machine_name": "ginkgo_biloba_grindstone",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grindstone",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2333216",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1528821869"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba Sky Tower \u2122",
+                            "machine_name": "ginkgo_biloba_sky_tower",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Sky Tower",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2359796",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1533063720"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Jagged Jester'",
+                            "machine_name": "ginkgo_biloba_jagged_jester",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jagged Jester",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2414986",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1543831383"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Peve Maribo'",
+                            "machine_name": "ginkgo_biloba_peve_maribo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Peve Maribo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2414991",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1543831463"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Buddy'",
+                            "machine_name": "ginkgo_biloba_buddy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Buddy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2458956",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549996083"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Globosa'",
+                            "machine_name": "ginkgo_biloba_globosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Globosa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2458961",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549996172"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Everton Broom'",
+                            "machine_name": "ginkgo_biloba_everton_broom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Everton Broom",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2458971",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549996230"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Louis'",
+                            "machine_name": "ginkgo_biloba_louis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Louis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2458986",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549996302"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Pragensis'",
+                            "machine_name": "ginkgo_biloba_pragensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pragensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2459006",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549996472"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Santa Cruz'",
+                            "machine_name": "ginkgo_biloba_santa_cruz",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Santa Cruz",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2459026",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549996586"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Knollwood'",
+                            "machine_name": "ginkgo_biloba_knollwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Knollwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2583501",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1575403982"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Clica'",
+                            "machine_name": "ginkgo_biloba_clica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Clica",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2585366",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1576595061"
+                            }
+                        },
+                        {
+                            "name": "Ginkgo biloba 'Folkert's Select'",
+                            "machine_name": "ginkgo_biloba_folkert_s_select",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Folkert's Select",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_biloba",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616381",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585153512"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1411935",
+                        "legacy_id": "1950",
+                        "fgsid": "16425",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ginkgo salisburensis",
+                    "machine_name": "ginkgo_salisburensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ginkgo",
+                    "family": "ginkgoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443467",
+                        "legacy_id": "72446",
+                        "fgsid": "42595",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ginkgo blanda",
+                    "machine_name": "ginkgo_blanda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ginkgo",
+                    "family": "ginkgoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443486",
+                        "legacy_id": "2025",
+                        "fgsid": "42616",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ginkgo blandfordii",
+                    "machine_name": "ginkgo_blandfordii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ginkgo",
+                    "family": "ginkgoaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443487",
+                        "legacy_id": "18552",
+                        "fgsid": "42617",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ginkgo [Cultivars]",
+                    "machine_name": "ginkgo_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ginkgo",
+                    "family": "ginkgoaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ginkgo [Cultivars] 'Tomlinson'",
+                            "machine_name": "ginkgo_cultivars_tomlinson",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tomlinson",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ginkgo_cultivars",
+                            "genus": "ginkgo",
+                            "family": "ginkgoaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1654423",
+                                "legacy_id": "379736",
+                                "fgsid": "109439",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450778",
+                        "legacy_id": "2",
+                        "fgsid": "109439",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394063",
+                "legacy_id": "2435",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

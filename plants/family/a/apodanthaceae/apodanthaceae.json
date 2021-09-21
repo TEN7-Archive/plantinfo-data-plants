@@ -1,0 +1,133 @@
+{
+    "name": "Apodanthaceae",
+    "machine_name": "apodanthaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Tiegh. & Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2320741",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526501700"
+    },
+    "genus_items": [
+        {
+            "name": "Pilostyles",
+            "machine_name": "pilostyles",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Guill.",
+            "description": null,
+            "family": "apodanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pilostyles [Cultivars]",
+                    "machine_name": "pilostyles_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pilostyles",
+                    "family": "apodanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382356",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Pilostyles hamiltonii",
+                    "machine_name": "pilostyles_hamiltonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "C.A. Gardn.",
+                    "description": null,
+                    "genus": "pilostyles",
+                    "family": "apodanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424875",
+                        "legacy_id": "7145",
+                        "fgsid": "27263",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Pilostyles coccoidea",
+                    "machine_name": "pilostyles_coccoidea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "K.R. Thiele.",
+                    "description": null,
+                    "genus": "pilostyles",
+                    "family": "apodanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2320731",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526501520"
+                    }
+                },
+                {
+                    "name": "Pilostyles aethiopica",
+                    "machine_name": "pilostyles_aethiopica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Welw.",
+                    "description": null,
+                    "genus": "pilostyles",
+                    "family": "apodanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2320736",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526501580"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382355",
+                "legacy_id": "4372",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

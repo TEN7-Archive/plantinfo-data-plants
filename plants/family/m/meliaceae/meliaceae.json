@@ -1,0 +1,2542 @@
+{
+    "name": "Meliaceae",
+    "machine_name": "meliaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381312",
+        "legacy_id": "272",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Carapa",
+            "machine_name": "carapa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Carapa [Cultivars]",
+                    "machine_name": "carapa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carapa",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382726",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Carapa procera",
+                    "machine_name": "carapa_procera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "carapa",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407398",
+                        "legacy_id": "13046",
+                        "fgsid": "6148",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carapa guianensis",
+                    "machine_name": "carapa_guianensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "carapa",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449127",
+                        "legacy_id": "7000",
+                        "fgsid": "87875",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382725",
+                "legacy_id": "1024",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cedrela",
+            "machine_name": "cedrela",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "P. Browne.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cedrela [Cultivars]",
+                    "machine_name": "cedrela_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cedrela",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383520",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cedrela odorata",
+                    "machine_name": "cedrela_odorata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cedrela",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404014",
+                        "legacy_id": "11522",
+                        "fgsid": "6800",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cedrela sinensis",
+                    "machine_name": "cedrela_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Juss.",
+                    "description": null,
+                    "genus": "cedrela",
+                    "family": "meliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cedrela sinensis 'Flamingo'",
+                            "machine_name": "cedrela_sinensis_flamingo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Flamingo",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cedrela_sinensis",
+                            "genus": "cedrela",
+                            "family": "meliaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "toona_sinensis_flamingo",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1471561",
+                                "legacy_id": "4356",
+                                "fgsid": "6801",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "toona_sinensis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1404015",
+                        "legacy_id": "15144",
+                        "fgsid": "6801",
+                        "legacy_from_data_cross_ref": [
+                            "Toona sinensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cedrela sureni",
+                    "machine_name": "cedrela_sureni",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "cedrela",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "toona_sureni",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1442925",
+                        "legacy_id": "20697",
+                        "fgsid": "45271",
+                        "legacy_from_data_cross_ref": [
+                            "Toona sureni"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cedrela fissilis",
+                    "machine_name": "cedrela_fissilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Vell.",
+                    "description": null,
+                    "genus": "cedrela",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457942",
+                        "legacy_id": "84624",
+                        "fgsid": "145860",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383519",
+                "legacy_id": "1105",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Quivisia",
+            "machine_name": "quivisia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Comm. & Juss.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Quivisia [Cultivars]",
+                    "machine_name": "quivisia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "quivisia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384876",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Quivisia oppositifolia",
+                    "machine_name": "quivisia_oppositifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "quivisia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422075",
+                        "legacy_id": "11665",
+                        "fgsid": "29423",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384875",
+                "legacy_id": "4691",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Khaya",
+            "machine_name": "khaya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "A. Juss.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Khaya [Cultivars]",
+                    "machine_name": "khaya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "khaya",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385374",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Khaya nyasica",
+                    "machine_name": "khaya_nyasica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Stapf & E.G. Bak.",
+                    "description": null,
+                    "genus": "khaya",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419541",
+                        "legacy_id": "11383",
+                        "fgsid": "19910",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Khaya senegalensis",
+                    "machine_name": "khaya_senegalensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A. Juss.",
+                    "description": null,
+                    "genus": "khaya",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419542",
+                        "legacy_id": "14845",
+                        "fgsid": "19911",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Khaya anthotheca",
+                    "machine_name": "khaya_anthotheca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "C. DC.",
+                    "description": null,
+                    "genus": "khaya",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459780",
+                        "legacy_id": "85490",
+                        "fgsid": "147214",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385373",
+                "legacy_id": "3013",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lansium",
+            "machine_name": "lansium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Corr. Serr.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lansium [Cultivars]",
+                    "machine_name": "lansium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lansium",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lansium domesticum",
+                    "machine_name": "lansium_domesticum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Corr. Serr.",
+                    "description": null,
+                    "genus": "lansium",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420718",
+                        "legacy_id": "5069",
+                        "fgsid": "20236",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385545",
+                "legacy_id": "3101",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Melia",
+            "machine_name": "melia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Melia [Cultivars]",
+                    "machine_name": "melia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "melia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388954",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Melia azedarach",
+                    "machine_name": "melia_azedarach",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "melia",
+                    "family": "meliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Melia azedarach 'Jade Snowflake'",
+                            "machine_name": "melia_azedarach_jade_snowflake",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jade Snowflake",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "melia_azedarach",
+                            "genus": "melia",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661948",
+                                "legacy_id": "392033",
+                                "fgsid": "22826",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "azadirachta_indica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1419316",
+                        "legacy_id": "1487",
+                        "fgsid": "22826",
+                        "legacy_from_data_cross_ref": [
+                            "Azadirachta indica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Melia excelsa",
+                    "machine_name": "melia_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Jack.",
+                    "description": null,
+                    "genus": "melia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419317",
+                        "legacy_id": "5699",
+                        "fgsid": "22827",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Melia indica",
+                    "machine_name": "melia_indica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "melia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "azadirachta_indica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1419318",
+                        "legacy_id": "8004",
+                        "fgsid": "22828",
+                        "legacy_from_data_cross_ref": [
+                            "Azadirachta indica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Melia toosendan",
+                    "machine_name": "melia_toosendan",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Sieb. & Zucc.",
+                    "description": null,
+                    "genus": "melia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442051",
+                        "legacy_id": "18942",
+                        "fgsid": "42230",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Melia dubia",
+                    "machine_name": "melia_dubia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "melia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442627",
+                        "legacy_id": "5148",
+                        "fgsid": "45241",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388953",
+                "legacy_id": "3510",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Aglaia",
+            "machine_name": "aglaia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aglaia [Cultivars]",
+                    "machine_name": "aglaia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aglaia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389408",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Aglaia elaeagnoidea",
+                    "machine_name": "aglaia_elaeagnoidea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "aglaia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400963",
+                        "legacy_id": "5324",
+                        "fgsid": "1532",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Aglaia odorata",
+                    "machine_name": "aglaia_odorata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Lour.",
+                    "description": null,
+                    "genus": "aglaia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400964",
+                        "legacy_id": "11522",
+                        "fgsid": "1533",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389407",
+                "legacy_id": "170",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Swietenia",
+            "machine_name": "swietenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Jacq.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Swietenia [Cultivars]",
+                    "machine_name": "swietenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "swietenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390092",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Swietenia macrophylla",
+                    "machine_name": "swietenia_macrophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "King.",
+                    "description": null,
+                    "genus": "swietenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428164",
+                        "legacy_id": "9799",
+                        "fgsid": "34042",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Swietenia mahagoni",
+                    "machine_name": "swietenia_mahagoni",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "swietenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428165",
+                        "legacy_id": "9895",
+                        "fgsid": "34043",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390091",
+                "legacy_id": "5355",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Synoum",
+            "machine_name": "synoum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "A. Juss.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Synoum [Cultivars]",
+                    "machine_name": "synoum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "synoum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390150",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Synoum glandulosum",
+                    "machine_name": "synoum_glandulosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "A. Juss.",
+                    "description": null,
+                    "genus": "synoum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428546",
+                        "legacy_id": "6646",
+                        "fgsid": "34138",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390149",
+                "legacy_id": "5386",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dysoxylum",
+            "machine_name": "dysoxylum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dysoxylum [Cultivars]",
+                    "machine_name": "dysoxylum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dysoxylum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dysoxylum cauliflorum",
+                    "machine_name": "dysoxylum_cauliflorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hiern.",
+                    "description": null,
+                    "genus": "dysoxylum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405459",
+                        "legacy_id": "3114",
+                        "fgsid": "11953",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dysoxylum hainanense",
+                    "machine_name": "dysoxylum_hainanense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Merrill.",
+                    "description": null,
+                    "genus": "dysoxylum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405460",
+                        "legacy_id": "7097",
+                        "fgsid": "11954",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dysoxylum oppositifolium",
+                    "machine_name": "dysoxylum_oppositifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "dysoxylum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405461",
+                        "legacy_id": "11667",
+                        "fgsid": "11955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dysoxylum pachyphyllum",
+                    "machine_name": "dysoxylum_pachyphyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "Hemsley.",
+                    "description": null,
+                    "genus": "dysoxylum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405462",
+                        "legacy_id": "11853",
+                        "fgsid": "11956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dysoxylum spectabile",
+                    "machine_name": "dysoxylum_spectabile",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "dysoxylum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405463",
+                        "legacy_id": "15320",
+                        "fgsid": "11957",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390495",
+                "legacy_id": "1996",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ekebergia",
+            "machine_name": "ekebergia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Sparrman.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ekebergia [Cultivars]",
+                    "machine_name": "ekebergia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ekebergia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390580",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ekebergia capensis",
+                    "machine_name": "ekebergia_capensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Sparrman.",
+                    "description": null,
+                    "genus": "ekebergia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413152",
+                        "legacy_id": "2846",
+                        "fgsid": "12255",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390579",
+                "legacy_id": "2039",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Entandrophragma",
+            "machine_name": "entandrophragma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "C. DC.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Entandrophragma [Cultivars]",
+                    "machine_name": "entandrophragma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "entandrophragma",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391378",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Entandrophragma cylindricum",
+                    "machine_name": "entandrophragma_cylindricum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Sprague.",
+                    "description": null,
+                    "genus": "entandrophragma",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413973",
+                        "legacy_id": "4445",
+                        "fgsid": "12502",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Entandrophragma caudatum",
+                    "machine_name": "entandrophragma_caudatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 4 says is Pseudocedrela caudata",
+                    "genus": "entandrophragma",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439416",
+                        "legacy_id": "3106",
+                        "fgsid": "44442",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391377",
+                "legacy_id": "2099",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nymania",
+            "machine_name": "nymania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lindb.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nymania [Cultivars]",
+                    "machine_name": "nymania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nymania",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391730",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nymania capensis",
+                    "machine_name": "nymania_capensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Lindb.",
+                    "description": null,
+                    "genus": "nymania",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425117",
+                        "legacy_id": "2846",
+                        "fgsid": "24395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391729",
+                "legacy_id": "3887",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Toona",
+            "machine_name": "toona",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "M. Roemer.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Toona [Cultivars]",
+                    "machine_name": "toona_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "toona",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391842",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Toona australis",
+                    "machine_name": "toona_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Harms.",
+                    "description": null,
+                    "genus": "toona",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432321",
+                        "legacy_id": "1443",
+                        "fgsid": "35058",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Toona ciliata",
+                    "machine_name": "toona_ciliata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "toona",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432322",
+                        "legacy_id": "3470",
+                        "fgsid": "35059",
+                        "legacy_from_data_cross_ref": [
+                            "+Cedrella toona"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Toona serrata",
+                    "machine_name": "toona_serrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "toona",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432323",
+                        "legacy_id": "14914",
+                        "fgsid": "35060",
+                        "legacy_from_data_cross_ref": [
+                            "+Cedrela toona"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Toona sinensis",
+                    "machine_name": "toona_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "M. Roem.",
+                    "description": null,
+                    "genus": "toona",
+                    "family": "meliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Toona sinensis 'Flamingo'",
+                            "machine_name": "toona_sinensis_flamingo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Flamingo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "toona_sinensis",
+                            "genus": "toona",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537249",
+                                "legacy_id": "115832",
+                                "fgsid": "41468",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433557",
+                        "legacy_id": "15144",
+                        "fgsid": "41468",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Toona sureni",
+                    "machine_name": "toona_sureni",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "toona",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442924",
+                        "legacy_id": "20697",
+                        "fgsid": "45270",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391841",
+                "legacy_id": "5555",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Trichilia",
+            "machine_name": "trichilia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "P. Browne.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Trichilia [Cultivars]",
+                    "machine_name": "trichilia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trichilia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391930",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Trichilia emetica",
+                    "machine_name": "trichilia_emetica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Vahl.",
+                    "description": null,
+                    "genus": "trichilia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432729",
+                        "legacy_id": "5416",
+                        "fgsid": "35183",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Trichilia dregeana",
+                    "machine_name": "trichilia_dregeana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sond.",
+                    "description": null,
+                    "genus": "trichilia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2220396",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1517155714"
+                    }
+                },
+                {
+                    "name": "Trichilia havanensis",
+                    "machine_name": "trichilia_havanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "trichilia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327961",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527772087"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391929",
+                "legacy_id": "5599",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Azadirachta",
+            "machine_name": "azadirachta",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "A. Juss.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Azadirachta [Cultivars]",
+                    "machine_name": "azadirachta_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "azadirachta",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392246",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Azadirachta excelsa",
+                    "machine_name": "azadirachta_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Jacobs.",
+                    "description": null,
+                    "genus": "azadirachta",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398820",
+                        "legacy_id": "5699",
+                        "fgsid": "3911",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Azadirachta indica",
+                    "machine_name": "azadirachta_indica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "A. Juss.",
+                    "description": null,
+                    "genus": "azadirachta",
+                    "family": "meliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Azadirachta indica 'Floribunda'",
+                            "machine_name": "azadirachta_indica_floribunda",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Floribunda",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "azadirachta_indica",
+                            "genus": "azadirachta",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1481567",
+                                "legacy_id": "19393",
+                                "fgsid": "3912",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Azadirachta indica 'Umbraculiformis'",
+                            "machine_name": "azadirachta_indica_umbraculiformis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Umbraculiformis",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "azadirachta_indica",
+                            "genus": "azadirachta",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1481568",
+                                "legacy_id": "19394",
+                                "fgsid": "3912",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Azadirachta indica australasica",
+                            "machine_name": "azadirachta_indica_australasica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "australasica",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "azadirachta_indica",
+                            "genus": "azadirachta",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1520941",
+                                "legacy_id": "92435",
+                                "fgsid": "3912",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Azadirachta indica 'Jade Snowflake'",
+                            "machine_name": "azadirachta_indica_jade_snowflake",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jade Snowflake",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "azadirachta_indica",
+                            "genus": "azadirachta",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1627968",
+                                "legacy_id": "249483",
+                                "fgsid": "3912",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398821",
+                        "legacy_id": "8004",
+                        "fgsid": "3912",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392245",
+                "legacy_id": "588",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Turraea",
+            "machine_name": "turraea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Turraea [Cultivars]",
+                    "machine_name": "turraea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "turraea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392790",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Turraea floribunda",
+                    "machine_name": "turraea_floribunda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Hochst.",
+                    "description": null,
+                    "genus": "turraea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427914",
+                        "legacy_id": "6083",
+                        "fgsid": "35612",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Turraea obtusifolia",
+                    "machine_name": "turraea_obtusifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hochst.",
+                    "description": null,
+                    "genus": "turraea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427915",
+                        "legacy_id": "11463",
+                        "fgsid": "35613",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Turraea virens",
+                    "machine_name": "turraea_virens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "turraea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427916",
+                        "legacy_id": "17395",
+                        "fgsid": "35614",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392789",
+                "legacy_id": "5692",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Owenia",
+            "machine_name": "owenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Owenia [Cultivars]",
+                    "machine_name": "owenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "owenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393412",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Owenia reticulata",
+                    "machine_name": "owenia_reticulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "owenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423280",
+                        "legacy_id": "13746",
+                        "fgsid": "25362",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Owenia vernicosa",
+                    "machine_name": "owenia_vernicosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "owenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423281",
+                        "legacy_id": "17250",
+                        "fgsid": "25363",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Owenia acidula",
+                    "machine_name": "owenia_acidula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "owenia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443498",
+                        "legacy_id": "97",
+                        "fgsid": "42632",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393411",
+                "legacy_id": "4049",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Guarea",
+            "machine_name": "guarea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Allam. & L.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Guarea [Cultivars]",
+                    "machine_name": "guarea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "guarea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394258",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Guarea concinna",
+                    "machine_name": "guarea_concinna",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "Sandwith.",
+                    "description": null,
+                    "genus": "guarea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414230",
+                        "legacy_id": "3822",
+                        "fgsid": "17010",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Guarea glabra",
+                    "machine_name": "guarea_glabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Vahl.",
+                    "description": null,
+                    "genus": "guarea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414231",
+                        "legacy_id": "6617",
+                        "fgsid": "17011",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Guarea grandifolia",
+                    "machine_name": "guarea_grandifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "guarea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414232",
+                        "legacy_id": "6884",
+                        "fgsid": "17012",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Guarea kunthiana",
+                    "machine_name": "guarea_kunthiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "A. Juss.",
+                    "description": null,
+                    "genus": "guarea",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414233",
+                        "legacy_id": "8676",
+                        "fgsid": "17013",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394257",
+                "legacy_id": "2534",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Xylocarpus",
+            "machine_name": "xylocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Koenig.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Xylocarpus [Cultivars]",
+                    "machine_name": "xylocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xylocarpus",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394558",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Xylocarpus granatum",
+                    "machine_name": "xylocarpus_granatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Koenig.",
+                    "description": null,
+                    "genus": "xylocarpus",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438358",
+                        "legacy_id": "6868",
+                        "fgsid": "36790",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394557",
+                "legacy_id": "5901",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Chukrasia",
+            "machine_name": "chukrasia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "A. Juss.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Chukrasia [Cultivars]",
+                    "machine_name": "chukrasia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chukrasia",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397120",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Chukrasia tabularis",
+                    "machine_name": "chukrasia_tabularis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "A. Juss.",
+                    "description": null,
+                    "genus": "chukrasia",
+                    "family": "meliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Chukrasia tabularis 'Sleeping Beauty'",
+                            "machine_name": "chukrasia_tabularis_sleeping_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sleeping Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chukrasia_tabularis",
+                            "genus": "chukrasia",
+                            "family": "meliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1627174",
+                                "legacy_id": "251751",
+                                "fgsid": "102795",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452626",
+                        "legacy_id": "15980",
+                        "fgsid": "102795",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397119",
+                "legacy_id": "18742",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sandoricum",
+            "machine_name": "sandoricum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Rumph. & Cav.",
+            "description": null,
+            "family": "meliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sandoricum [Cultivars]",
+                    "machine_name": "sandoricum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sandoricum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397244",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sandoricum koetjape",
+                    "machine_name": "sandoricum_koetjape",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "sandoricum",
+                    "family": "meliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454488",
+                        "legacy_id": "58284",
+                        "fgsid": "105479",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397243",
+                "legacy_id": "19464",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

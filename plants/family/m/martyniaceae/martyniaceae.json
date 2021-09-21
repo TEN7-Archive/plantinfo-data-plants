@@ -1,0 +1,694 @@
+{
+    "name": "Martyniaceae",
+    "machine_name": "martyniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Horan.",
+    "description": null,
+    "archival_data": {
+        "id": "2349401",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531674120"
+    },
+    "genus_items": [
+        {
+            "name": "Ibicella",
+            "machine_name": "ibicella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Van Eselt.",
+            "description": null,
+            "family": "martyniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ibicella [Cultivars]",
+                    "machine_name": "ibicella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ibicella",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383852",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Ibicella lutea",
+                    "machine_name": "ibicella_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Eselt.",
+                    "description": null,
+                    "genus": "ibicella",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416102",
+                        "legacy_id": "9629",
+                        "fgsid": "19004",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383851",
+                "legacy_id": "2881",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Proboscidea",
+            "machine_name": "proboscidea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Schmidel.",
+            "description": null,
+            "family": "martyniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Proboscidea sabulosa",
+                    "machine_name": "proboscidea_sabulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Correll.",
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401084",
+                        "legacy_id": "14244",
+                        "fgsid": "134789",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Proboscidea fragrans",
+                    "machine_name": "proboscidea_fragrans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424624",
+                        "legacy_id": "6219",
+                        "fgsid": "28598",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Proboscidea louisianica",
+                    "machine_name": "proboscidea_louisianica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Thell.",
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Proboscidea louisianica louisianica",
+                            "machine_name": "proboscidea_louisianica_louisianica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "louisianica",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "proboscidea_louisianica",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632496",
+                                "legacy_id": "298176",
+                                "fgsid": "28599",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea louisianica fragrans",
+                            "machine_name": "proboscidea_louisianica_fragrans",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "fragrans",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "proboscidea_louisianica",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2349406",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1531674360"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424625",
+                        "legacy_id": "9546",
+                        "fgsid": "28599",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Proboscidea parviflora",
+                    "machine_name": "proboscidea_parviflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Wooton & Standley.",
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Proboscidea parviflora parviflora",
+                            "machine_name": "proboscidea_parviflora_parviflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "parviflora",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1488396",
+                                "legacy_id": "24835",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea parviflora 'Chihuahua'",
+                            "machine_name": "proboscidea_parviflora_chihuahua",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chihuahua",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519756",
+                                "legacy_id": "96809",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea parviflora 'Domesticated Multiclaw'",
+                            "machine_name": "proboscidea_parviflora_domesticated_multiclaw",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Domesticated Multiclaw",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519757",
+                                "legacy_id": "96810",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea parviflora 'Eagle Creek'",
+                            "machine_name": "proboscidea_parviflora_eagle_creek",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Eagle Creek",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519758",
+                                "legacy_id": "96811",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea parviflora 'Paiute'",
+                            "machine_name": "proboscidea_parviflora_paiute",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Paiute",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519759",
+                                "legacy_id": "96812",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea parviflora 'Pima Bajo'",
+                            "machine_name": "proboscidea_parviflora_pima_bajo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pima Bajo",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519760",
+                                "legacy_id": "96813",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea parviflora 'Tohono O'Odham Domestic.'",
+                            "machine_name": "proboscidea_parviflora_tohono_o_odham_domestic",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tohono O'Odham Domestic.",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_parviflora",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519761",
+                                "legacy_id": "96814",
+                                "fgsid": "28600",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424626",
+                        "legacy_id": "12078",
+                        "fgsid": "28600",
+                        "legacy_from_data_cross_ref": [
+                            "+Martynia parviflora"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Proboscidea jussieui*",
+                    "machine_name": "proboscidea_jussieui",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "proboscidea_louisianica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435964",
+                        "legacy_id": "8378",
+                        "fgsid": "39256",
+                        "legacy_from_data_cross_ref": [
+                            "P. louisianica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Proboscidea althaeifolia",
+                    "machine_name": "proboscidea_althaeifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445404",
+                        "legacy_id": "37143",
+                        "fgsid": "73395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Proboscidea [Cultivars]",
+                    "machine_name": "proboscidea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "proboscidea",
+                    "family": "martyniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Proboscidea [Cultivars] 'Po'onomp'",
+                            "machine_name": "proboscidea_cultivars_po_onomp",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Po'onomp",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_cultivars",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567493",
+                                "legacy_id": "178050",
+                                "fgsid": "73675",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Proboscidea [Cultivars] 'Morelos'",
+                            "machine_name": "proboscidea_cultivars_morelos",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Morelos",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "proboscidea_cultivars",
+                            "genus": "proboscidea",
+                            "family": "martyniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567494",
+                                "legacy_id": "178051",
+                                "fgsid": "73675",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445451",
+                        "legacy_id": "2",
+                        "fgsid": "73675",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383965",
+                "legacy_id": "4547",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Martynia",
+            "machine_name": "martynia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "martyniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Martynia [Cultivars]",
+                    "machine_name": "martynia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "martynia",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388870",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Martynia annua",
+                    "machine_name": "martynia_annua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "martynia",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417477",
+                        "legacy_id": "854",
+                        "fgsid": "22426",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Martynia proboscidea*",
+                    "machine_name": "martynia_proboscidea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "martynia",
+                    "family": "martyniaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "proboscidea_louisianica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1434887",
+                        "legacy_id": "18935",
+                        "fgsid": "39020",
+                        "legacy_from_data_cross_ref": [
+                            "Proboscidea louisianica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388869",
+                "legacy_id": "3467",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

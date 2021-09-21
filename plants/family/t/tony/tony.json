@@ -1,0 +1,269 @@
+{
+    "name": "Tony",
+    "machine_name": "tony",
+    "type": "family",
+    "authorities": "tony",
+    "naming_authorities": "tony",
+    "description": null,
+    "archival_data": {
+        "id": "1381467",
+        "legacy_id": "478",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Tony2",
+            "machine_name": "tony2",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "delete me",
+            "naming_authorities": "delete me",
+            "description": null,
+            "family": "tony",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tony2 [Cultivars]",
+                    "machine_name": "tony2_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tony2",
+                    "family": "tony",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385814",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Tony2 tjw",
+                    "machine_name": "tony2_tjw",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "test data",
+                    "genus": "tony2",
+                    "family": "tony",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442610",
+                        "legacy_id": "20684",
+                        "fgsid": "45224",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Tony2 tjw2",
+                    "machine_name": "tony2_tjw2",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tony2",
+                    "family": "tony",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442611",
+                        "legacy_id": "20685",
+                        "fgsid": "45225",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Tony2 tony",
+                    "machine_name": "tony2_tony",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "tony",
+                    "naming_authorities": "tony",
+                    "description": null,
+                    "genus": "tony2",
+                    "family": "tony",
+                    "variety_items": [
+                        {
+                            "name": "Tony2 tony tony",
+                            "machine_name": "tony2_tony_tony",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "tony",
+                            "authorities": "tony",
+                            "naming_authorities": "tony",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "tony2_tony",
+                            "genus": "tony2",
+                            "family": "tony",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539557",
+                                "legacy_id": "115192",
+                                "fgsid": "44081",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443580",
+                        "legacy_id": "20016",
+                        "fgsid": "44081",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385813",
+                "legacy_id": "9271",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Tjw",
+            "machine_name": "tjw",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "tony",
+            "naming_authorities": "tony",
+            "description": null,
+            "family": "tony",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tjw [Cultivars]",
+                    "machine_name": "tjw_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tjw",
+                    "family": "tony",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387622",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Tjw tony",
+                    "machine_name": "tjw_tony",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "tony",
+                    "naming_authorities": "tony",
+                    "description": "this is test data",
+                    "genus": "tjw",
+                    "family": "tony",
+                    "variety_items": [
+                        {
+                            "name": "Tjw tony tony",
+                            "machine_name": "tjw_tony_tony",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "tony",
+                            "authorities": "tony",
+                            "naming_authorities": "tony",
+                            "description": {
+                                "value": "test data",
+                                "summary": null,
+                                "format": null,
+                                "safe_value": "test data",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "tjw_tony",
+                            "genus": "tjw",
+                            "family": "tony",
+                            "cross_references": [
+                                {
+                                    "machine_name": "tony2_tony_tony",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1538351",
+                                "legacy_id": "114869",
+                                "fgsid": "44036",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443260",
+                        "legacy_id": "20016",
+                        "fgsid": "44036",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387621",
+                "legacy_id": "9207",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

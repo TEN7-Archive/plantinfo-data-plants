@@ -1,0 +1,741 @@
+{
+    "name": "Olacaceae",
+    "machine_name": "olacaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381337",
+        "legacy_id": "303",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Strombosia",
+            "machine_name": "strombosia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Strombosia [Cultivars]",
+                    "machine_name": "strombosia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "strombosia",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390028",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Strombosia glaucescens",
+                    "machine_name": "strombosia_glaucescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "strombosia",
+                    "family": "olacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Strombosia glaucescens lucida",
+                            "machine_name": "strombosia_glaucescens_lucida",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lucida",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "strombosia_glaucescens",
+                            "genus": "strombosia",
+                            "family": "olacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1495093",
+                                "legacy_id": "32692",
+                                "fgsid": "33919",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427761",
+                        "legacy_id": "6656",
+                        "fgsid": "33919",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strombosia zeylanica",
+                    "machine_name": "strombosia_zeylanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "strombosia",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427762",
+                        "legacy_id": "17946",
+                        "fgsid": "33920",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strombosia ceylanica",
+                    "machine_name": "strombosia_ceylanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gardner.",
+                    "description": null,
+                    "genus": "strombosia",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332306",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638472"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390027",
+                "legacy_id": "5322",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Olax",
+            "machine_name": "olax",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Olax [Cultivars]",
+                    "machine_name": "olax_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "olax",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392484",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Olax scandens",
+                    "machine_name": "olax_scandens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Roxb.",
+                    "description": null,
+                    "genus": "olax",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426205",
+                        "legacy_id": "14500",
+                        "fgsid": "24641",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Olax stricta",
+                    "machine_name": "olax_stricta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "olax",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426206",
+                        "legacy_id": "15647",
+                        "fgsid": "24642",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Olax obcordata",
+                    "machine_name": "olax_obcordata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "olax",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461217",
+                        "legacy_id": "11403",
+                        "fgsid": "139381",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Olax benthamiana",
+                    "machine_name": "olax_benthamiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropcios",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "olax",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332401",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528640014"
+                    }
+                },
+                {
+                    "name": "Olax latifolia",
+                    "machine_name": "olax_latifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "olax",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528640070"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392483",
+                "legacy_id": "3925",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Psychopetalum",
+            "machine_name": "psychopetalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "HerbalGram 99",
+            "naming_authorities": null,
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Psychopetalum [Cultivars]",
+                    "machine_name": "psychopetalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "psychopetalum",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395696",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Psychopetalum olacoides",
+                    "machine_name": "psychopetalum_olacoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "psychopetalum",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460295",
+                        "legacy_id": "84126",
+                        "fgsid": "144943",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395695",
+                "legacy_id": "28066",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Erythropalum",
+            "machine_name": "erythropalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Erythropalum [Cultivars]",
+                    "machine_name": "erythropalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "erythropalum",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332281",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638161"
+                    }
+                },
+                {
+                    "name": "Erythropalum scandens",
+                    "machine_name": "erythropalum_scandens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "erythropalum",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332286",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638197"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332276",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528638161"
+            }
+        },
+        {
+            "name": "Octoknema",
+            "machine_name": "octoknema",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Octoknema [Cultivars]",
+                    "machine_name": "octoknema_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "octoknema",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332296",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638281"
+                    }
+                },
+                {
+                    "name": "Octoknema affinis",
+                    "machine_name": "octoknema_affinis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pierre & Tieghem.",
+                    "description": null,
+                    "genus": "octoknema",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332301",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638322"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332291",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528638281"
+            }
+        },
+        {
+            "name": "Aptandra",
+            "machine_name": "aptandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Miers.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aptandra [Cultivars]",
+                    "machine_name": "aptandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aptandra",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332316",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638547"
+                    }
+                },
+                {
+                    "name": "Aptandra zenkeri",
+                    "machine_name": "aptandra_zenkeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "aptandra",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332321",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638577"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332311",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528638547"
+            }
+        },
+        {
+            "name": "Ochanostachys",
+            "machine_name": "ochanostachys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Mast.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ochanostachys [Cultivars]",
+                    "machine_name": "ochanostachys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochanostachys",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332331",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638671"
+                    }
+                },
+                {
+                    "name": "Ochanostachys amentacea",
+                    "machine_name": "ochanostachys_amentacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "ochanostachys",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332336",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528638706"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332326",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528638671"
+            }
+        },
+        {
+            "name": "Harmandia",
+            "machine_name": "harmandia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "olacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Harmandia [Cultivars]",
+                    "machine_name": "harmandia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "harmandia",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332386",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528639549"
+                    }
+                },
+                {
+                    "name": "Harmandia mekongensis",
+                    "machine_name": "harmandia_mekongensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "harmandia",
+                    "family": "olacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332391",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528639593"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332381",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528639549"
+            }
+        }
+    ]
+}

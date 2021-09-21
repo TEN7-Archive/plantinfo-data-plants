@@ -1,0 +1,318 @@
+{
+    "name": "Petiveriaceae",
+    "machine_name": "petiveriaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "C. Agardh.",
+    "description": null,
+    "archival_data": {
+        "id": "2337161",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529428854"
+    },
+    "genus_items": [
+        {
+            "name": "Rivina",
+            "machine_name": "rivina",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "petiveriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rivina [Cultivars]",
+                    "machine_name": "rivina_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rivina",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385776",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Rivina humilis",
+                    "machine_name": "rivina_humilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley correcte",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "rivina",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433184",
+                        "legacy_id": "7753",
+                        "fgsid": "30745",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385775",
+                "legacy_id": "4821",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Trichostigma",
+            "machine_name": "trichostigma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "A. Rich.",
+            "description": null,
+            "family": "petiveriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Trichostigma [Cultivars]",
+                    "machine_name": "trichostigma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trichostigma",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391962",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Trichostigma octandrum",
+                    "machine_name": "trichostigma_octandrum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trichostigma",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433065",
+                        "legacy_id": "11504",
+                        "fgsid": "35241",
+                        "legacy_from_data_cross_ref": [
+                            "+Villamilla octandra"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Trichostigma peruvianum",
+                    "machine_name": "trichostigma_peruvianum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H. Walter.",
+                    "description": null,
+                    "genus": "trichostigma",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456556",
+                        "legacy_id": "12379",
+                        "fgsid": "129200",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391961",
+                "legacy_id": "5615",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Hilleria",
+            "machine_name": "hilleria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Vell.",
+            "description": null,
+            "family": "petiveriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hilleria [Cultivars]",
+                    "machine_name": "hilleria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hilleria",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337171",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529429146"
+                    }
+                },
+                {
+                    "name": "Hilleria latifolia",
+                    "machine_name": "hilleria_latifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "H. Walter.",
+                    "description": null,
+                    "genus": "hilleria",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337176",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529429183"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2337166",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529429146"
+            }
+        },
+        {
+            "name": "Petiveria",
+            "machine_name": "petiveria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "petiveriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Petiveria [Cultivars]",
+                    "machine_name": "petiveria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "petiveria",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337186",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529429277"
+                    }
+                },
+                {
+                    "name": "Petiveria alliacea",
+                    "machine_name": "petiveria_alliacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "petiveria",
+                    "family": "petiveriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337191",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529429308"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2337181",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529429277"
+            }
+        }
+    ]
+}

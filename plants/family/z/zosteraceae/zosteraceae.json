@@ -1,0 +1,178 @@
+{
+    "name": "Zosteraceae",
+    "machine_name": "zosteraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381450",
+        "legacy_id": "444",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Phyllospadix",
+            "machine_name": "phyllospadix",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook.",
+            "description": null,
+            "family": "zosteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phyllospadix [Cultivars]",
+                    "machine_name": "phyllospadix_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phyllospadix",
+                    "family": "zosteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382292",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Phyllospadix scouleri",
+                    "machine_name": "phyllospadix_scouleri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "phyllospadix",
+                    "family": "zosteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424132",
+                        "legacy_id": "14715",
+                        "fgsid": "27084",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382291",
+                "legacy_id": "4340",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Zostera",
+            "machine_name": "zostera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "zosteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Zostera [Cultivars]",
+                    "machine_name": "zostera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "zostera",
+                    "family": "zosteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394640",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Zostera capricorni",
+                    "machine_name": "zostera_capricorni",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": "Aschers.",
+                    "description": null,
+                    "genus": "zostera",
+                    "family": "zosteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439084",
+                        "legacy_id": "2880",
+                        "fgsid": "36972",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Zostera marina",
+                    "machine_name": "zostera_marina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "zostera",
+                    "family": "zosteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439085",
+                        "legacy_id": "10043",
+                        "fgsid": "36973",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394639",
+                "legacy_id": "5942",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

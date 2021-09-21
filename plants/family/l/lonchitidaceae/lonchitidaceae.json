@@ -1,0 +1,85 @@
+{
+    "name": "Lonchitidaceae",
+    "machine_name": "lonchitidaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Doweld.",
+    "description": null,
+    "archival_data": {
+        "id": "2442881",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1548770533"
+    },
+    "genus_items": [
+        {
+            "name": "Lonchitis",
+            "machine_name": "lonchitis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "lonchitidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lonchitis [Cultivars]",
+                    "machine_name": "lonchitis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lonchitis",
+                    "family": "lonchitidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383236",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Lonchitis hirsuta",
+                    "machine_name": "lonchitis_hirsuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "lonchitis",
+                    "family": "lonchitidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438614",
+                        "legacy_id": "7517",
+                        "fgsid": "41321",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383235",
+                "legacy_id": "6177",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

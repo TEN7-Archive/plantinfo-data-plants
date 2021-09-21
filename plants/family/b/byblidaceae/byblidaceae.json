@@ -1,0 +1,157 @@
+{
+    "name": "Byblidaceae",
+    "machine_name": "byblidaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381168",
+        "legacy_id": "64",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Byblis",
+            "machine_name": "byblis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Salisb.",
+            "description": null,
+            "family": "byblidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Byblis [Cultivars]",
+                    "machine_name": "byblis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "byblis",
+                    "family": "byblidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381858",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Byblis gigantea",
+                    "machine_name": "byblis_gigantea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I correct",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "byblis",
+                    "family": "byblidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398851",
+                        "legacy_id": "6574",
+                        "fgsid": "5422",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Byblis liniflora",
+                    "machine_name": "byblis_liniflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Salisb.",
+                    "description": null,
+                    "genus": "byblis",
+                    "family": "byblidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398852",
+                        "legacy_id": "9343",
+                        "fgsid": "5423",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Byblis filifolia",
+                    "machine_name": "byblis_filifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Planch.",
+                    "description": null,
+                    "genus": "byblis",
+                    "family": "byblidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2349376",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1531673683"
+                    }
+                },
+                {
+                    "name": "Byblis rorida",
+                    "machine_name": "byblis_rorida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Lowrie & Conran.",
+                    "description": null,
+                    "genus": "byblis",
+                    "family": "byblidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2533486",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1560860670"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381857",
+                "legacy_id": "901",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

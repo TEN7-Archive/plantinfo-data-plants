@@ -1,0 +1,85 @@
+{
+    "name": "Lanariaceae",
+    "machine_name": "lanariaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "R. Dahlgren.",
+    "description": null,
+    "archival_data": {
+        "id": "2312131",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525209906"
+    },
+    "genus_items": [
+        {
+            "name": "Lanaria",
+            "machine_name": "lanaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aiton.",
+            "description": null,
+            "family": "lanariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lanaria [Cultivars]",
+                    "machine_name": "lanaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lanaria",
+                    "family": "lanariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2312141",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525209944"
+                    }
+                },
+                {
+                    "name": "Lanaria lanata",
+                    "machine_name": "lanaria_lanata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Druce.",
+                    "description": null,
+                    "genus": "lanaria",
+                    "family": "lanariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2312146",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525209988"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2312136",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525209944"
+            }
+        }
+    ]
+}

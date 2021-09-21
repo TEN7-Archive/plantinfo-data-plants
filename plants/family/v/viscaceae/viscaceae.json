@@ -1,0 +1,420 @@
+{
+    "name": "Viscaceae",
+    "machine_name": "viscaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381439",
+        "legacy_id": "433",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Korthalsella",
+            "machine_name": "korthalsella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Tiegham.",
+            "description": null,
+            "family": "viscaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Korthalsella [Cultivars]",
+                    "machine_name": "korthalsella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "korthalsella",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385438",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Korthalsella complanata",
+                    "machine_name": "korthalsella_complanata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "korthalsella",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419911",
+                        "legacy_id": "3790",
+                        "fgsid": "19998",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Korthalsella emersa",
+                    "machine_name": "korthalsella_emersa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": "B.A. Barlow.",
+                    "description": null,
+                    "genus": "korthalsella",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419912",
+                        "legacy_id": "5413",
+                        "fgsid": "19999",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Korthalsella lindsayi",
+                    "machine_name": "korthalsella_lindsayi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "korthalsella",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419913",
+                        "legacy_id": "9319",
+                        "fgsid": "20000",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Korthalsella rubra",
+                    "machine_name": "korthalsella_rubra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "korthalsella",
+                    "family": "viscaceae",
+                    "variety_items": [
+                        {
+                            "name": "Korthalsella rubra rubra",
+                            "machine_name": "korthalsella_rubra_rubra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rubra",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "korthalsella_rubra",
+                            "genus": "korthalsella",
+                            "family": "viscaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480445",
+                                "legacy_id": "16612",
+                                "fgsid": "20001",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419914",
+                        "legacy_id": "14103",
+                        "fgsid": "20001",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Korthalsella salicornioides",
+                    "machine_name": "korthalsella_salicornioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Van Tiegh.",
+                    "description": null,
+                    "genus": "korthalsella",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419915",
+                        "legacy_id": "14296",
+                        "fgsid": "20002",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385437",
+                "legacy_id": "3046",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Arceuthobium",
+            "machine_name": "arceuthobium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "M. Bieb.",
+            "description": null,
+            "family": "viscaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Arceuthobium [Cultivars]",
+                    "machine_name": "arceuthobium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "arceuthobium",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Arceuthobium camplylopodum",
+                    "machine_name": "arceuthobium_camplylopodum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "arceuthobium",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401059",
+                        "legacy_id": "2759",
+                        "fgsid": "3006",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Arceuthobium douglasii",
+                    "machine_name": "arceuthobium_douglasii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "Engelm.",
+                    "description": null,
+                    "genus": "arceuthobium",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451956",
+                        "legacy_id": "5097",
+                        "fgsid": "111820",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Arceuthobium pusillum",
+                    "machine_name": "arceuthobium_pusillum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Peck.",
+                    "description": null,
+                    "genus": "arceuthobium",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453852",
+                        "legacy_id": "13364",
+                        "fgsid": "116639",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391265",
+                "legacy_id": "432",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Notothixos",
+            "machine_name": "notothixos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Oliver.",
+            "description": null,
+            "family": "viscaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Notothixos [Cultivars]",
+                    "machine_name": "notothixos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "notothixos",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391704",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Notothixos cornifolius",
+                    "machine_name": "notothixos_cornifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "notothixos",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425082",
+                        "legacy_id": "4011",
+                        "fgsid": "24360",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Notothixos subaureus",
+                    "machine_name": "notothixos_subaureus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "notothixos",
+                    "family": "viscaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425083",
+                        "legacy_id": "15726",
+                        "fgsid": "24361",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391703",
+                "legacy_id": "3874",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

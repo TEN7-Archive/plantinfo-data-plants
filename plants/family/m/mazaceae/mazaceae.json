@@ -1,0 +1,416 @@
+{
+    "name": "Mazaceae",
+    "machine_name": "mazaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Reveal.",
+    "description": null,
+    "archival_data": {
+        "id": "2349431",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531743063"
+    },
+    "genus_items": [
+        {
+            "name": "Mazus",
+            "machine_name": "mazus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "mazaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mazus [Cultivars]",
+                    "machine_name": "mazus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388898",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Mazus dentatus",
+                    "machine_name": "mazus_dentatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418571",
+                        "legacy_id": "4758",
+                        "fgsid": "22656",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus goodenifolius",
+                    "machine_name": "mazus_goodenifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418572",
+                        "legacy_id": "71099",
+                        "fgsid": "22657",
+                        "legacy_from_data_cross_ref": [
+                            "+Gratiola goodenifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus miquelii",
+                    "machine_name": "mazus_miquelii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Makino.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mazus miquelii 'Albus'",
+                            "machine_name": "mazus_miquelii_albus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albus",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mazus_miquelii",
+                            "genus": "mazus",
+                            "family": "mazaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1485953",
+                                "legacy_id": "19371",
+                                "fgsid": "22658",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Mazus miquelii albiflorus",
+                            "machine_name": "mazus_miquelii_albiflorus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "albiflorus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mazus_miquelii",
+                            "genus": "mazus",
+                            "family": "mazaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1520919",
+                                "legacy_id": "92413",
+                                "fgsid": "22658",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418573",
+                        "legacy_id": "10545",
+                        "fgsid": "22658",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus pumilio",
+                    "machine_name": "mazus_pumilio",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418574",
+                        "legacy_id": "13300",
+                        "fgsid": "22659",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus pumilus",
+                    "machine_name": "mazus_pumilus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418575",
+                        "legacy_id": "13304",
+                        "fgsid": "22660",
+                        "legacy_from_data_cross_ref": [
+                            "+Lobelia pumila"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus radicans",
+                    "machine_name": "mazus_radicans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Cheesem.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418576",
+                        "legacy_id": "13520",
+                        "fgsid": "22661",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus reptans",
+                    "machine_name": "mazus_reptans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "N.E. Br.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mazus reptans 'Albus'",
+                            "machine_name": "mazus_reptans_albus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mazus_reptans",
+                            "genus": "mazus",
+                            "family": "mazaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1520920",
+                                "legacy_id": "92414",
+                                "fgsid": "22662",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418577",
+                        "legacy_id": "13729",
+                        "fgsid": "22662",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus surculosus",
+                    "machine_name": "mazus_surculosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418578",
+                        "legacy_id": "15910",
+                        "fgsid": "22663",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus japonicus",
+                    "machine_name": "mazus_japonicus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mazus japonicus albiflorus",
+                            "machine_name": "mazus_japonicus_albiflorus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "albiflorus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mazus_japonicus",
+                            "genus": "mazus",
+                            "family": "mazaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1520918",
+                                "legacy_id": "92412",
+                                "fgsid": "39030",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434897",
+                        "legacy_id": "8269",
+                        "fgsid": "39030",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mazus stacydifolius",
+                    "machine_name": "mazus_stacydifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "mazus",
+                    "family": "mazaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353491",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532441396"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388897",
+                "legacy_id": "3482",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1049 @@
+{
+    "name": "Simaroubaceae",
+    "machine_name": "simaroubaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381399",
+        "legacy_id": "384",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Brucea",
+            "machine_name": "brucea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "J.F. Mill.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Brucea [Cultivars]",
+                    "machine_name": "brucea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brucea",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381752",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Brucea antidysenterica",
+                    "machine_name": "brucea_antidysenterica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brucea",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397692",
+                        "legacy_id": "20344",
+                        "fgsid": "5130",
+                        "legacy_from_data_cross_ref": [
+                            "+B. ferruginea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Brucea javanica",
+                    "machine_name": "brucea_javanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "brucea",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397693",
+                        "legacy_id": "8280",
+                        "fgsid": "5131",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381751",
+                "legacy_id": "845",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Picrasma",
+            "machine_name": "picrasma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Picrasma [Cultivars]",
+                    "machine_name": "picrasma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "picrasma",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382334",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Picrasma quassioides",
+                    "machine_name": "picrasma_quassioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "picrasma",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424551",
+                        "legacy_id": "13465",
+                        "fgsid": "27220",
+                        "legacy_from_data_cross_ref": [
+                            "+P. ailanthoides"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Picrasma ailanthoides",
+                    "machine_name": "picrasma_ailanthoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Planch.",
+                    "description": null,
+                    "genus": "picrasma",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435039",
+                        "legacy_id": "345",
+                        "fgsid": "41864",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382333",
+                "legacy_id": "4361",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Holacantha",
+            "machine_name": "holacantha",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "A. Gray.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Holacantha [Cultivars]",
+                    "machine_name": "holacantha_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "holacantha",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382972",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Holacantha stewartii",
+                    "machine_name": "holacantha_stewartii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "C.H. Mull.",
+                    "description": null,
+                    "genus": "holacantha",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451713",
+                        "legacy_id": "20646",
+                        "fgsid": "130399",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382971",
+                "legacy_id": "2760",
+                "legacy_from_data_cross_ref": [
+                    "Castela"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Quassia",
+            "machine_name": "quassia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Quassia [Cultivars]",
+                    "machine_name": "quassia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "quassia",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384858",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Quassia amara",
+                    "machine_name": "quassia_amara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "quassia",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427260",
+                        "legacy_id": "604",
+                        "fgsid": "29282",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384857",
+                "legacy_id": "4682",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Leitneria",
+            "machine_name": "leitneria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri change",
+            "naming_authorities": "Chapman.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Leitneria [Cultivars]",
+                    "machine_name": "leitneria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "leitneria",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386288",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Leitneria floridana",
+                    "machine_name": "leitneria_floridana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Chapman.",
+                    "description": null,
+                    "genus": "leitneria",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415799",
+                        "legacy_id": "6090",
+                        "fgsid": "20447",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386287",
+                "legacy_id": "3153",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Ailanthus",
+            "machine_name": "ailanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Desf.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ailanthus [Cultivars]",
+                    "machine_name": "ailanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ailanthus",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389434",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ailanthus altissima",
+                    "machine_name": "ailanthus_altissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus.",
+                    "naming_authorities": "Swingle.",
+                    "description": null,
+                    "genus": "ailanthus",
+                    "family": "simaroubaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ailanthus altissima sutchuenensis",
+                            "machine_name": "ailanthus_altissima_sutchuenensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "sutchuenensis",
+                            "authorities": "Hortus.",
+                            "naming_authorities": "Rehd. & E.H. Wils.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "ailanthus_altissima",
+                            "genus": "ailanthus",
+                            "family": "simaroubaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1466677",
+                                "legacy_id": "885",
+                                "fgsid": "1586",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ailanthus altissima erythrocarpa",
+                            "machine_name": "ailanthus_altissima_erythrocarpa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "erythrocarpa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "ailanthus_altissima",
+                            "genus": "ailanthus",
+                            "family": "simaroubaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1641226",
+                                "legacy_id": "334756",
+                                "fgsid": "1586",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Ailanthus altissima tanakae",
+                            "machine_name": "ailanthus_altissima_tanakae",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "tanakae",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "ailanthus_altissima",
+                            "genus": "ailanthus",
+                            "family": "simaroubaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2376536",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1537362073"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401317",
+                        "legacy_id": "579",
+                        "fgsid": "1586",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ailanthus excelsa",
+                    "machine_name": "ailanthus_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus.",
+                    "naming_authorities": "Roxb.",
+                    "description": null,
+                    "genus": "ailanthus",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401318",
+                        "legacy_id": "5699",
+                        "fgsid": "1587",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ailanthus fordii",
+                    "machine_name": "ailanthus_fordii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": "Nooteboom.",
+                    "description": null,
+                    "genus": "ailanthus",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401319",
+                        "legacy_id": "6157",
+                        "fgsid": "1588",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ailanthus vilmoriniana",
+                    "machine_name": "ailanthus_vilmoriniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus. corrected",
+                    "naming_authorities": "Dode.",
+                    "description": null,
+                    "genus": "ailanthus",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401320",
+                        "legacy_id": "17361",
+                        "fgsid": "1589",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ailanthus glandulosa",
+                    "machine_name": "ailanthus_glandulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ailanthus",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "ailanthus_altissima",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1437306",
+                        "legacy_id": "6644",
+                        "fgsid": "38197",
+                        "legacy_from_data_cross_ref": [
+                            "A. altissima"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389433",
+                "legacy_id": "184",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Eurycoma",
+            "machine_name": "eurycoma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Jack.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eurycoma [Cultivars]",
+                    "machine_name": "eurycoma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eurycoma",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395264",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Eurycoma longifolia",
+                    "machine_name": "eurycoma_longifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Jack.",
+                    "description": null,
+                    "genus": "eurycoma",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459842",
+                        "legacy_id": "9474",
+                        "fgsid": "134179",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395263",
+                "legacy_id": "24764",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Castela",
+            "machine_name": "castela",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Turpin.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Castela [Cultivars]",
+                    "machine_name": "castela_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "castela",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396226",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Castela erecta",
+                    "machine_name": "castela_erecta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Turpin.",
+                    "description": null,
+                    "genus": "castela",
+                    "family": "simaroubaceae",
+                    "variety_items": [
+                        {
+                            "name": "Castela erecta texana",
+                            "machine_name": "castela_erecta_texana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "texana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "castela_erecta",
+                            "genus": "castela",
+                            "family": "simaroubaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619528",
+                                "legacy_id": "351016",
+                                "fgsid": "130363",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451405",
+                        "legacy_id": "5499",
+                        "fgsid": "130363",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Castela emoryi",
+                    "machine_name": "castela_emoryi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Moran & Felger.",
+                    "description": null,
+                    "genus": "castela",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452093",
+                        "legacy_id": "5421",
+                        "fgsid": "130719",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396225",
+                "legacy_id": "12682",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Simarouba",
+            "machine_name": "simarouba",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Simarouba [Cultivars]",
+                    "machine_name": "simarouba_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "simarouba",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397158",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Simarouba tulae",
+                    "machine_name": "simarouba_tulae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Urb.",
+                    "description": null,
+                    "genus": "simarouba",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453309",
+                        "legacy_id": "55475",
+                        "fgsid": "103755",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Simarouba amara",
+                    "machine_name": "simarouba_amara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "simarouba",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453567",
+                        "legacy_id": "604",
+                        "fgsid": "126119",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Simarouba glauca",
+                    "machine_name": "simarouba_glauca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "simarouba",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2278741",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1521981685"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397157",
+                "legacy_id": "19062",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Soulamea",
+            "machine_name": "soulamea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Lam.",
+            "description": null,
+            "family": "simaroubaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Soulamea [Cultivars]",
+                    "machine_name": "soulamea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "soulamea",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327911",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527771557"
+                    }
+                },
+                {
+                    "name": "Soulamea terminalioides",
+                    "machine_name": "soulamea_terminalioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "soulamea",
+                    "family": "simaroubaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327916",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527771601"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2327906",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527771557"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1384 @@
+{
+    "name": "Escalloniaceae",
+    "machine_name": "escalloniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "R. Br. & Dumort.",
+    "description": null,
+    "archival_data": {
+        "id": "2358476",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532803782"
+    },
+    "genus_items": [
+        {
+            "name": "Anopterus",
+            "machine_name": "anopterus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "escalloniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anopterus [Cultivars]",
+                    "machine_name": "anopterus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anopterus",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391136",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Anopterus glandulosus",
+                    "machine_name": "anopterus_glandulosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "anopterus",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399894",
+                        "legacy_id": "6647",
+                        "fgsid": "2720",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Anopterus macleayanus",
+                    "machine_name": "anopterus_macleayanus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "anopterus",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399895",
+                        "legacy_id": "9731",
+                        "fgsid": "2721",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391135",
+                "legacy_id": "365",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Escallonia",
+            "machine_name": "escallonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Mutis & L.f.",
+            "description": null,
+            "family": "escalloniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Escallonia [Cultivars]",
+                    "machine_name": "escallonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Escallonia [Cultivars] 'Apple Blossom'",
+                            "machine_name": "escallonia_cultivars_apple_blossom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Apple Blossom",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476065",
+                                "legacy_id": "9230",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Crimson Spire'",
+                            "machine_name": "escallonia_cultivars_crimson_spire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crimson Spire",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476066",
+                                "legacy_id": "9231",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Donard Beauty'",
+                            "machine_name": "escallonia_cultivars_donard_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Donard Beauty",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476067",
+                                "legacy_id": "9232",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Donard Radiance'",
+                            "machine_name": "escallonia_cultivars_donard_radiance",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Donard Radiance",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476068",
+                                "legacy_id": "9233",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Donard Seedling'",
+                            "machine_name": "escallonia_cultivars_donard_seedling",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Donard Seedling",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476069",
+                                "legacy_id": "9234",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'E.F. Ball'",
+                            "machine_name": "escallonia_cultivars_e_f_ball",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "E.F. Ball",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476070",
+                                "legacy_id": "9235",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Iveyi'",
+                            "machine_name": "escallonia_cultivars_iveyi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Iveyi",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476071",
+                                "legacy_id": "9236",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Langleyensis'",
+                            "machine_name": "escallonia_cultivars_langleyensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Langleyensis",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476072",
+                                "legacy_id": "9237",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Peach Blossom'",
+                            "machine_name": "escallonia_cultivars_peach_blossom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Peach Blossom",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476073",
+                                "legacy_id": "9238",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Pride of Donard'",
+                            "machine_name": "escallonia_cultivars_pride_of_donard",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pride of Donard",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476074",
+                                "legacy_id": "9239",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Slieve Donard'",
+                            "machine_name": "escallonia_cultivars_slieve_donard",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Slieve Donard",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476075",
+                                "legacy_id": "9240",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'William Watson'",
+                            "machine_name": "escallonia_cultivars_william_watson",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "William Watson",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476076",
+                                "legacy_id": "9241",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Pink Princess'",
+                            "machine_name": "escallonia_cultivars_pink_princess",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Princess",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1508528",
+                                "legacy_id": "78925",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Red Elf'",
+                            "machine_name": "escallonia_cultivars_red_elf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Elf",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1508529",
+                                "legacy_id": "78926",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Terri'",
+                            "machine_name": "escallonia_cultivars_terri",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Terri",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1508530",
+                                "legacy_id": "78927",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Newry'",
+                            "machine_name": "escallonia_cultivars_newry",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Newry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1535623",
+                                "legacy_id": "109360",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Donard Scarlet'",
+                            "machine_name": "escallonia_cultivars_donard_scarlet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Donard Scarlet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546991",
+                                "legacy_id": "122037",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Red Dream'",
+                            "machine_name": "escallonia_cultivars_red_dream",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Dream",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548539",
+                                "legacy_id": "123626",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Compacta'",
+                            "machine_name": "escallonia_cultivars_compacta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Compacta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1577095",
+                                "legacy_id": "200257",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Pink Elle'",
+                            "machine_name": "escallonia_cultivars_pink_elle",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Elle",
+                            "authorities": "mm",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1593094",
+                                "legacy_id": "380088",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Golden Carpet'",
+                            "machine_name": "escallonia_cultivars_golden_carpet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Carpet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1594616",
+                                "legacy_id": "388810",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Red Carpet'",
+                            "machine_name": "escallonia_cultivars_red_carpet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Carpet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631821",
+                                "legacy_id": "296696",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] 'Gwendolyn Anley'",
+                            "machine_name": "escallonia_cultivars_gwendolyn_anley",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gwendolyn Anley",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632993",
+                                "legacy_id": "291476",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Escallonia [Cultivars] Glowing Embers \u2122",
+                            "machine_name": "escallonia_cultivars_glowing_embers",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Glowing Embers",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "escallonia_cultivars",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2492666",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552654504"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412906",
+                        "legacy_id": "2",
+                        "fgsid": "13741",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia bifida",
+                    "machine_name": "escallonia_bifida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Link & Otto.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412907",
+                        "legacy_id": "1912",
+                        "fgsid": "13742",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia exoniensis",
+                    "machine_name": "escallonia_exoniensis",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Hortus",
+                    "naming_authorities": "hort. Veitch.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Escallonia exoniensis 'Frades'",
+                            "machine_name": "escallonia_exoniensis_frades",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Frades",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_exoniensis",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1508531",
+                                "legacy_id": "78928",
+                                "fgsid": "13743",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Escallonia exoniensis 'Newport Dwarf'",
+                            "machine_name": "escallonia_exoniensis_newport_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Newport Dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_exoniensis",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556674",
+                                "legacy_id": "153769",
+                                "fgsid": "13743",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412908",
+                        "legacy_id": "5723",
+                        "fgsid": "13743",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia laevis",
+                    "machine_name": "escallonia_laevis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Sleumer.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Escallonia laevis 'Gold Brian'",
+                            "machine_name": "escallonia_laevis_gold_brian",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Brian",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_laevis",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544434",
+                                "legacy_id": "120103",
+                                "fgsid": "13741",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412909",
+                        "legacy_id": "8767",
+                        "fgsid": "13744",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia leucantha",
+                    "machine_name": "escallonia_leucantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Remy.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412910",
+                        "legacy_id": "9159",
+                        "fgsid": "13745",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia macrantha*",
+                    "machine_name": "escallonia_macrantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "escallonia_rubra_macrantha",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1412911",
+                        "legacy_id": "9751",
+                        "fgsid": "13746",
+                        "legacy_from_data_cross_ref": [
+                            "+E. rubra macrantha"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia resinosa",
+                    "machine_name": "escallonia_resinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412912",
+                        "legacy_id": "13736",
+                        "fgsid": "13747",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia rosea",
+                    "machine_name": "escallonia_rosea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Griseb.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412913",
+                        "legacy_id": "13990",
+                        "fgsid": "13748",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia rubra",
+                    "machine_name": "escallonia_rubra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Escallonia rubra macrantha",
+                            "machine_name": "escallonia_rubra_macrantha",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "macrantha",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Reiche.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "escallonia_rubra",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476077",
+                                "legacy_id": "9242",
+                                "fgsid": "13749",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia rubra 'Woodside'",
+                            "machine_name": "escallonia_rubra_woodside",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Woodside",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "escallonia_rubra",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1476078",
+                                "legacy_id": "9243",
+                                "fgsid": "13749",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Escallonia rubra cordobensis",
+                            "machine_name": "escallonia_rubra_cordobensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cordobensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "escallonia_rubra",
+                            "genus": "escallonia",
+                            "family": "escalloniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638743",
+                                "legacy_id": "329738",
+                                "fgsid": "13749",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412914",
+                        "legacy_id": "14103",
+                        "fgsid": "13749",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia tucumanensis",
+                    "machine_name": "escallonia_tucumanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hosseus.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412915",
+                        "legacy_id": "16826",
+                        "fgsid": "13750",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia virgata",
+                    "machine_name": "escallonia_virgata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412916",
+                        "legacy_id": "17398",
+                        "fgsid": "13751",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Escallonia revoluta",
+                    "machine_name": "escallonia_revoluta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441567",
+                        "legacy_id": "13777",
+                        "fgsid": "44992",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Escallonia alpina",
+                    "machine_name": "escallonia_alpina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis 21\/1",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448183",
+                        "legacy_id": "542",
+                        "fgsid": "92703",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Escallonia pulverulenta",
+                    "machine_name": "escallonia_pulverulenta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "escallonia",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448538",
+                        "legacy_id": "13286",
+                        "fgsid": "93175",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391547",
+                "legacy_id": "2188",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Eremosyne",
+            "machine_name": "eremosyne",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Endl.",
+            "description": null,
+            "family": "escalloniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eremosyne [Cultivars]",
+                    "machine_name": "eremosyne_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eremosyne",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359386",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532955613"
+                    }
+                },
+                {
+                    "name": "Eremosyne pectinata",
+                    "machine_name": "eremosyne_pectinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Endl.",
+                    "description": null,
+                    "genus": "eremosyne",
+                    "family": "escalloniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359391",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532955648"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2359381",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532955613"
+            }
+        }
+    ]
+}

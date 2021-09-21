@@ -1,0 +1,211 @@
+{
+    "name": "Morinaceae",
+    "machine_name": "morinaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381320",
+        "legacy_id": "283",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cryptothladia",
+            "machine_name": "cryptothladia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "M. Cannon.",
+            "description": null,
+            "family": "morinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cryptothladia [Cultivars]",
+                    "machine_name": "cryptothladia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cryptothladia",
+                    "family": "morinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387058",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cryptothladia polyphylla",
+                    "machine_name": "cryptothladia_polyphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cryptothladia",
+                    "family": "morinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408731",
+                        "legacy_id": "12857",
+                        "fgsid": "9551",
+                        "legacy_from_data_cross_ref": [
+                            "+Morina polyphylla"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387057",
+                "legacy_id": "1598",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Acanthocalyx",
+            "machine_name": "acanthocalyx",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "M. Cannon.",
+            "description": null,
+            "family": "morinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Acanthocalyx [Cultivars]",
+                    "machine_name": "acanthocalyx_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acanthocalyx",
+                    "family": "morinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388466",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Acanthocalyx delavayi",
+                    "machine_name": "acanthocalyx_delavayi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acanthocalyx",
+                    "family": "morinaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "morina_delavayi",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1402444",
+                        "legacy_id": "4688",
+                        "fgsid": "484",
+                        "legacy_from_data_cross_ref": [
+                            "+Morina delavayi"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Acanthocalyx nepalensis",
+                    "machine_name": "acanthocalyx_nepalensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": "M. Cannon.",
+                    "description": null,
+                    "genus": "acanthocalyx",
+                    "family": "morinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402445",
+                        "legacy_id": "11129",
+                        "fgsid": "485",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Acanthocalyx alba",
+                    "machine_name": "acanthocalyx_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "M.J. Cannon.",
+                    "description": null,
+                    "genus": "acanthocalyx",
+                    "family": "morinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460300",
+                        "legacy_id": "384",
+                        "fgsid": "144976",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388465",
+                "legacy_id": "24",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

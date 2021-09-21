@@ -1,0 +1,85 @@
+{
+    "name": "Myodocarpaceae",
+    "machine_name": "myodocarpaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Doweld.",
+    "description": null,
+    "archival_data": {
+        "id": "2360436",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1533385111"
+    },
+    "genus_items": [
+        {
+            "name": "Myodocarpus",
+            "machine_name": "myodocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Brongn. & Gris.",
+            "description": null,
+            "family": "myodocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Myodocarpus [Cultivars]",
+                    "machine_name": "myodocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myodocarpus",
+                    "family": "myodocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360446",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533385149"
+                    }
+                },
+                {
+                    "name": "Myodocarpus fraxinifolius",
+                    "machine_name": "myodocarpus_fraxinifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "myodocarpus",
+                    "family": "myodocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2360451",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533385185"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2360441",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1533385149"
+            }
+        }
+    ]
+}

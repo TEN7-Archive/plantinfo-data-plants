@@ -1,0 +1,992 @@
+{
+    "name": "Myristicaceae",
+    "machine_name": "myristicaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381325",
+        "legacy_id": "289",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Horsfieldia",
+            "machine_name": "horsfieldia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Willd.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Horsfieldia [Cultivars]",
+                    "machine_name": "horsfieldia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "horsfieldia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383680",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Horsfieldia glabra",
+                    "machine_name": "horsfieldia_glabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "horsfieldia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419863",
+                        "legacy_id": "6617",
+                        "fgsid": "18484",
+                        "legacy_from_data_cross_ref": [
+                            "+Myristica glabra"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Horsfieldia irya",
+                    "machine_name": "horsfieldia_irya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "horsfieldia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419864",
+                        "legacy_id": "70858",
+                        "fgsid": "18485",
+                        "legacy_from_data_cross_ref": [
+                            "+Myristica  irya"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Horsfieldia tetratepala",
+                    "machine_name": "horsfieldia_tetratepala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": "C.Y. Wu & W. Wang.",
+                    "description": null,
+                    "genus": "horsfieldia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419865",
+                        "legacy_id": "16284",
+                        "fgsid": "18486",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383679",
+                "legacy_id": "2795",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Knema",
+            "machine_name": "knema",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Knema [Cultivars]",
+                    "machine_name": "knema_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "knema",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385396",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385395",
+                "legacy_id": "3025",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Myristica",
+            "machine_name": "myristica",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gronov.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Myristica [Cultivars]",
+                    "machine_name": "myristica_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myristica",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390712",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Myristica cagayamensis",
+                    "machine_name": "myristica_cagayamensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Merrill.",
+                    "description": null,
+                    "genus": "myristica",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416382",
+                        "legacy_id": "2589",
+                        "fgsid": "23692",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myristica fragrans",
+                    "machine_name": "myristica_fragrans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Houtt.",
+                    "description": null,
+                    "genus": "myristica",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416383",
+                        "legacy_id": "6219",
+                        "fgsid": "23693",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myristica insipida",
+                    "machine_name": "myristica_insipida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "myristica",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416384",
+                        "legacy_id": "8074",
+                        "fgsid": "23694",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myristica acuminata",
+                    "machine_name": "myristica_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myristica",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "brochoneura_acuminata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1450317",
+                        "legacy_id": "151",
+                        "fgsid": "95428",
+                        "legacy_from_data_cross_ref": [
+                            "Brochoneura acuminata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Myristica madagascariensis",
+                    "machine_name": "myristica_madagascariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myristica",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "brochoneura_madagascariensis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1450318",
+                        "legacy_id": "9850",
+                        "fgsid": "95429",
+                        "legacy_from_data_cross_ref": [
+                            "Brochoneura madagascariensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390711",
+                "legacy_id": "3714",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Virola",
+            "machine_name": "virola",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Virola [Cultivars]",
+                    "machine_name": "virola_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "virola",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393688",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Virola melinonii",
+                    "machine_name": "virola_melinonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "virola",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436921",
+                        "legacy_id": "10301",
+                        "fgsid": "36401",
+                        "legacy_from_data_cross_ref": [
+                            "+Myristica melinonii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Virola surinamensis",
+                    "machine_name": "virola_surinamensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Warb.",
+                    "description": null,
+                    "genus": "virola",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436922",
+                        "legacy_id": "15911",
+                        "fgsid": "36402",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Virola theiodora",
+                    "machine_name": "virola_theiodora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "virola",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436923",
+                        "legacy_id": "72765",
+                        "fgsid": "36403",
+                        "legacy_from_data_cross_ref": [
+                            "+Myristica theiodora"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Virola nobilis",
+                    "machine_name": "virola_nobilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "A.C.Sm.",
+                    "description": null,
+                    "genus": "virola",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449275",
+                        "legacy_id": "11262",
+                        "fgsid": "94255",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393687",
+                "legacy_id": "5802",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Staudtia",
+            "machine_name": "staudtia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Warb.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Staudtia [Cultivars]",
+                    "machine_name": "staudtia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "staudtia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395064",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Staudtia kamerunensis",
+                    "machine_name": "staudtia_kamerunensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Warb.",
+                    "description": null,
+                    "genus": "staudtia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455797",
+                        "legacy_id": "56144",
+                        "fgsid": "128100",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395063",
+                "legacy_id": "23464",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Horsfielda",
+            "machine_name": "horsfielda",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Pers.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Horsfielda [Cultivars]",
+                    "machine_name": "horsfielda_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "horsfielda",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395200",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395199",
+                "legacy_id": "24244",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Brochoneura",
+            "machine_name": "brochoneura",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "Warb.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Brochoneura [Cultivars]",
+                    "machine_name": "brochoneura_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brochoneura",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396798",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Brochoneura acuminata",
+                    "machine_name": "brochoneura_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Warb.",
+                    "description": null,
+                    "genus": "brochoneura",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450315",
+                        "legacy_id": "151",
+                        "fgsid": "95426",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Brochoneura madagascariensis",
+                    "machine_name": "brochoneura_madagascariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Warb.",
+                    "description": null,
+                    "genus": "brochoneura",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450316",
+                        "legacy_id": "9850",
+                        "fgsid": "95427",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396797",
+                "legacy_id": "16726",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Mauloutchia",
+            "machine_name": "mauloutchia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "Warb.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mauloutchia [Cultivars]",
+                    "machine_name": "mauloutchia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mauloutchia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396800",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Mauloutchia chapelieri",
+                    "machine_name": "mauloutchia_chapelieri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Warb.",
+                    "description": null,
+                    "genus": "mauloutchia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450319",
+                        "legacy_id": "51846",
+                        "fgsid": "95430",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mauloutchia rarabe",
+                    "machine_name": "mauloutchia_rarabe",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Capuron.",
+                    "description": null,
+                    "genus": "mauloutchia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450320",
+                        "legacy_id": "51847",
+                        "fgsid": "95431",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mauloutchia heckelii",
+                    "machine_name": "mauloutchia_heckelii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Capuron.",
+                    "description": null,
+                    "genus": "mauloutchia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450321",
+                        "legacy_id": "51848",
+                        "fgsid": "95432",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Mauloutchia humblotii",
+                    "machine_name": "mauloutchia_humblotii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Capuron.",
+                    "description": null,
+                    "genus": "mauloutchia",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450322",
+                        "legacy_id": "7741",
+                        "fgsid": "95433",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396799",
+                "legacy_id": "16727",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Haematodendron",
+            "machine_name": "haematodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "Capuron.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Haematodendron [Cultivars]",
+                    "machine_name": "haematodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "haematodendron",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396802",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Haematodendron glabrum",
+                    "machine_name": "haematodendron_glabrum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Capuron.",
+                    "description": null,
+                    "genus": "haematodendron",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450323",
+                        "legacy_id": "6627",
+                        "fgsid": "95434",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396801",
+                "legacy_id": "16728",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Compsoneura",
+            "machine_name": "compsoneura",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Warb.",
+            "description": null,
+            "family": "myristicaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Compsoneura [Cultivars]",
+                    "machine_name": "compsoneura_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "compsoneura",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309376",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524839734"
+                    }
+                },
+                {
+                    "name": "Compsoneura excelsa",
+                    "machine_name": "compsoneura_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A.C. Sm.",
+                    "description": null,
+                    "genus": "compsoneura",
+                    "family": "myristicaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309381",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524839781"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2309371",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524839734"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Cytinaceae",
+    "machine_name": "cytinaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "A. Rich.",
+    "description": null,
+    "archival_data": {
+        "id": "2330611",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528056329"
+    },
+    "genus_items": [
+        {
+            "name": "Bdallophytum",
+            "machine_name": "bdallophytum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Eichler.",
+            "description": null,
+            "family": "cytinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bdallophytum [Cultivars]",
+                    "machine_name": "bdallophytum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bdallophytum",
+                    "family": "cytinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2330621",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528056360"
+                    }
+                },
+                {
+                    "name": "Bdallophytum americanum",
+                    "machine_name": "bdallophytum_americanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Eichler & Solms.",
+                    "description": null,
+                    "genus": "bdallophytum",
+                    "family": "cytinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2330626",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528056579"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2330616",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528056360"
+            }
+        }
+    ]
+}

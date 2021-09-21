@@ -1,0 +1,2124 @@
+{
+    "name": "Garryaceae",
+    "machine_name": "garryaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381249",
+        "legacy_id": "182",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Aucuba",
+            "machine_name": "aucuba",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Thunb.",
+            "description": null,
+            "family": "garryaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aucuba [Cultivars]",
+                    "machine_name": "aucuba_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392210",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Aucuba chinensis",
+                    "machine_name": "aucuba_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Aucuba chinensis omeiensis",
+                            "machine_name": "aucuba_chinensis_omeiensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "omeiensis",
+                            "authorities": "OK?",
+                            "naming_authorities": "Fang & Soong.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "aucuba_chinensis",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464226",
+                                "legacy_id": "1994",
+                                "fgsid": "3872",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398781",
+                        "legacy_id": "3351",
+                        "fgsid": "3872",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Aucuba japonica",
+                    "machine_name": "aucuba_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Aucuba japonica borealis",
+                            "machine_name": "aucuba_japonica_borealis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "borealis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464227",
+                                "legacy_id": "1995",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Crotonifolia'",
+                            "machine_name": "aucuba_japonica_crotonifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crotonifolia",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464228",
+                                "legacy_id": "1996",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica longifolia",
+                            "machine_name": "aucuba_japonica_longifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "longifolia",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464229",
+                                "legacy_id": "1997",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Variegata'",
+                            "machine_name": "aucuba_japonica_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464231",
+                                "legacy_id": "1999",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Gold Dust'",
+                            "machine_name": "aucuba_japonica_gold_dust",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Dust",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499571",
+                                "legacy_id": "71871",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Gold Spot'",
+                            "machine_name": "aucuba_japonica_gold_spot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Spot",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499572",
+                                "legacy_id": "71872",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Golden King'",
+                            "machine_name": "aucuba_japonica_golden_king",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden King",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499573",
+                                "legacy_id": "71873",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Goldieana'",
+                            "machine_name": "aucuba_japonica_goldieana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goldieana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499574",
+                                "legacy_id": "71874",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Limbata'",
+                            "machine_name": "aucuba_japonica_limbata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Limbata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499575",
+                                "legacy_id": "71875",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Mr Goldstrike'",
+                            "machine_name": "aucuba_japonica_mr_goldstrike",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mr Goldstrike",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499576",
+                                "legacy_id": "71876",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Nana'",
+                            "machine_name": "aucuba_japonica_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499577",
+                                "legacy_id": "71877",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Nana Cuspidata'",
+                            "machine_name": "aucuba_japonica_nana_cuspidata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana Cuspidata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499578",
+                                "legacy_id": "71878",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Nana Variegata'",
+                            "machine_name": "aucuba_japonica_nana_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499579",
+                                "legacy_id": "71879",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Picturata'",
+                            "machine_name": "aucuba_japonica_picturata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Picturata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499580",
+                                "legacy_id": "71880",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Salicifolia'",
+                            "machine_name": "aucuba_japonica_salicifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Salicifolia",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499581",
+                                "legacy_id": "71881",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Serratifolia'",
+                            "machine_name": "aucuba_japonica_serratifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Serratifolia",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499582",
+                                "legacy_id": "71882",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Spiker'",
+                            "machine_name": "aucuba_japonica_spiker",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spiker",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499583",
+                                "legacy_id": "71883",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Sulphurea'",
+                            "machine_name": "aucuba_japonica_sulphurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sulphurea",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499584",
+                                "legacy_id": "71884",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Fructo-albo'",
+                            "machine_name": "aucuba_japonica_fructo_albo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fructo-albo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532753",
+                                "legacy_id": "111089",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Emily Rose'",
+                            "machine_name": "aucuba_japonica_emily_rose",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Emily Rose",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1554906",
+                                "legacy_id": "129464",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Nana Rotundifolia'",
+                            "machine_name": "aucuba_japonica_nana_rotundifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana Rotundifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568351",
+                                "legacy_id": "175481",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Marginata'",
+                            "machine_name": "aucuba_japonica_marginata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Marginata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568352",
+                                "legacy_id": "175482",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Sulphurea Marginata'",
+                            "machine_name": "aucuba_japonica_sulphurea_marginata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sulphurea Marginata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568353",
+                                "legacy_id": "175483",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Hillieri'",
+                            "machine_name": "aucuba_japonica_hillieri",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hillieri",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568354",
+                                "legacy_id": "175484",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Dentata'",
+                            "machine_name": "aucuba_japonica_dentata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dentata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568355",
+                                "legacy_id": "175485",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Crotonoides'",
+                            "machine_name": "aucuba_japonica_crotonoides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crotonoides",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568356",
+                                "legacy_id": "175486",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Nana Vera'",
+                            "machine_name": "aucuba_japonica_nana_vera",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana Vera",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568357",
+                                "legacy_id": "175487",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Wisley Nana'",
+                            "machine_name": "aucuba_japonica_wisley_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wisley Nana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581157",
+                                "legacy_id": "216336",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Golden Wonder'",
+                            "machine_name": "aucuba_japonica_golden_wonder",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Wonder",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584621",
+                                "legacy_id": "219424",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Night and Day'",
+                            "machine_name": "aucuba_japonica_night_and_day",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Night and Day",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1592783",
+                                "legacy_id": "317951",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Golden Spangles'",
+                            "machine_name": "aucuba_japonica_golden_spangles",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Spangles",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605606",
+                                "legacy_id": "282580",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Pepperpot'",
+                            "machine_name": "aucuba_japonica_pepperpot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pepperpot",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605607",
+                                "legacy_id": "282581",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Lanceolata'",
+                            "machine_name": "aucuba_japonica_lanceolata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lanceolata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615536",
+                                "legacy_id": "239012",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Meigetsu'",
+                            "machine_name": "aucuba_japonica_meigetsu",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Meigetsu",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1621935",
+                                "legacy_id": "353556",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Pink Champagne'",
+                            "machine_name": "aucuba_japonica_pink_champagne",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Champagne",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1625894",
+                                "legacy_id": "369696",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Sea of Japan'",
+                            "machine_name": "aucuba_japonica_sea_of_japan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sea of Japan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1637417",
+                                "legacy_id": "335716",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Marmorata'",
+                            "machine_name": "aucuba_japonica_marmorata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Marmorata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640886",
+                                "legacy_id": "330916",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Hosoba Hoshifu'",
+                            "machine_name": "aucuba_japonica_hosoba_hoshifu",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hosoba Hoshifu",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640887",
+                                "legacy_id": "330917",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Koba'",
+                            "machine_name": "aucuba_japonica_koba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Koba",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661072",
+                                "legacy_id": "391971",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Wisley Grizzly'",
+                            "machine_name": "aucuba_japonica_wisley_grizzly",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wisley Grizzly",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662767",
+                                "legacy_id": "392024",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Subaru'",
+                            "machine_name": "aucuba_japonica_subaru",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Subaru",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1665182",
+                                "legacy_id": "399990",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Tatsumaki'",
+                            "machine_name": "aucuba_japonica_tatsumaki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tatsumaki",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1665183",
+                                "legacy_id": "399991",
+                                "fgsid": "3873",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Natsu-no-Kumo'",
+                            "machine_name": "aucuba_japonica_natsu_no_kumo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Natsu-no-Kumo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272096",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521040260"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Shugetsu\/New Year'",
+                            "machine_name": "aucuba_japonica_shugetsu_new_year",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shugetsu\/New Year",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272101",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521040320"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Suruga Benten'",
+                            "machine_name": "aucuba_japonica_suruga_benten",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Suruga Benten",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272106",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521040440"
+                            }
+                        },
+                        {
+                            "name": "Aucuba japonica 'Rozannie\/Rozanne'",
+                            "machine_name": "aucuba_japonica_rozannie_rozanne",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rozannie\/Rozanne",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "RHS says former",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "RHS says former",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aucuba_japonica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2390842",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1539112642"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398782",
+                        "legacy_id": "8265",
+                        "fgsid": "3873",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Aucuba himalaica",
+                    "machine_name": "aucuba_himalaica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Aucuba himalaica dolichophylla",
+                            "machine_name": "aucuba_himalaica_dolichophylla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "dolichophylla",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "aucuba_himalaica",
+                            "genus": "aucuba",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601453",
+                                "legacy_id": "223952",
+                                "fgsid": "40981",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437478",
+                        "legacy_id": "7487",
+                        "fgsid": "40981",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Aucuba yunnanensis",
+                    "machine_name": "aucuba_yunnanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "C.Y. Wu.",
+                    "description": null,
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450624",
+                        "legacy_id": "17903",
+                        "fgsid": "129641",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Aucuba omeiensis",
+                    "machine_name": "aucuba_omeiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456730",
+                        "legacy_id": "11630",
+                        "fgsid": "146873",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Aucuba confertiflora",
+                    "machine_name": "aucuba_confertiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "W.P. Fang & Z.P. Song.",
+                    "description": null,
+                    "genus": "aucuba",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2168401",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1511958960"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392209",
+                "legacy_id": "569",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Garrya",
+            "machine_name": "garrya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Douglas & Lindl.",
+            "description": null,
+            "family": "garryaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Garrya [Cultivars]",
+                    "machine_name": "garrya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Garrya [Cultivars] 'Pat Ballard'",
+                            "machine_name": "garrya_cultivars_pat_ballard",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pat Ballard",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "garrya_cultivars",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1475820",
+                                "legacy_id": "10409",
+                                "fgsid": "15900",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409968",
+                        "legacy_id": "2",
+                        "fgsid": "15900",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya buxifolia",
+                    "machine_name": "garrya_buxifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409969",
+                        "legacy_id": "2533",
+                        "fgsid": "15901",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya congdonii",
+                    "machine_name": "garrya_congdonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Eastw.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409970",
+                        "legacy_id": "3853",
+                        "fgsid": "15902",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya elliptica",
+                    "machine_name": "garrya_elliptica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Dougl.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Garrya elliptica 'James Roof'",
+                            "machine_name": "garrya_elliptica_james_roof",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "James Roof",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "garrya_elliptica",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1475821",
+                                "legacy_id": "10410",
+                                "fgsid": "15903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Garrya elliptica 'Evie'",
+                            "machine_name": "garrya_elliptica_evie",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Evie",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "garrya_elliptica",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506898",
+                                "legacy_id": "79645",
+                                "fgsid": "15903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409971",
+                        "legacy_id": "5373",
+                        "fgsid": "15903",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya flavescens",
+                    "machine_name": "garrya_flavescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "S. Wats.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Garrya flavescens pallida",
+                            "machine_name": "garrya_flavescens_pallida",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pallida",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": "Eastw.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "garrya_flavescens",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506899",
+                                "legacy_id": "79646",
+                                "fgsid": "15904",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409972",
+                        "legacy_id": "6028",
+                        "fgsid": "15904",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya fremontii",
+                    "machine_name": "garrya_fremontii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409973",
+                        "legacy_id": "6258",
+                        "fgsid": "15905",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya issaquahensis",
+                    "machine_name": "garrya_issaquahensis",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Nel.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Garrya issaquahensis 'Carl English'",
+                            "machine_name": "garrya_issaquahensis_carl_english",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Carl English",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "garrya_issaquahensis",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545561",
+                                "legacy_id": "119184",
+                                "fgsid": "15906",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Garrya issaquahensis 'Glasnevin Wine'",
+                            "machine_name": "garrya_issaquahensis_glasnevin_wine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Glasnevin Wine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "garrya_issaquahensis",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1566243",
+                                "legacy_id": "176862",
+                                "fgsid": "15906",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409974",
+                        "legacy_id": "8208",
+                        "fgsid": "15906",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Garrya lindheimeri",
+                    "machine_name": "garrya_lindheimeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "garrya_ovata_lindheimeri",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1442455",
+                        "legacy_id": "9311",
+                        "fgsid": "42369",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Garrya wrightii",
+                    "machine_name": "garrya_wrightii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451707",
+                        "legacy_id": "17796",
+                        "fgsid": "130393",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Garrya veatchii",
+                    "machine_name": "garrya_veatchii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kellogg.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460314",
+                        "legacy_id": "84186",
+                        "fgsid": "145013",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Garrya xissaquahensis",
+                    "machine_name": "garrya_xissaquahensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Garrya xissaquahensis 'Pat Ballard'",
+                            "machine_name": "garrya_xissaquahensis_pat_ballard",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pat Ballard",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "garrya_xissaquahensis",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2252151",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1519136507"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2252146",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519136460"
+                    }
+                },
+                {
+                    "name": "Garrya californica",
+                    "machine_name": "garrya_californica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530019531"
+                    }
+                },
+                {
+                    "name": "Garrya ovata",
+                    "machine_name": "garrya_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "garrya",
+                    "family": "garryaceae",
+                    "variety_items": [
+                        {
+                            "name": "Garrya ovata lindheimeri",
+                            "machine_name": "garrya_ovata_lindheimeri",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lindheimeri",
+                            "authorities": "Tropicos",
+                            "naming_authorities": "Dahling.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "garrya_ovata",
+                            "genus": "garrya",
+                            "family": "garryaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2434536",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1547818920"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2434531",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1547818920"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393277",
+                "legacy_id": "2377",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

@@ -1,0 +1,900 @@
+{
+    "name": "Araucariaceae",
+    "machine_name": "araucariaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381140",
+        "legacy_id": "28",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Wollemia",
+            "machine_name": "wollemia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Garden 122-3 p148",
+            "naming_authorities": null,
+            "description": null,
+            "family": "araucariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Wollemia [Cultivars]",
+                    "machine_name": "wollemia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "wollemia",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385036",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Wollemia nobilis",
+                    "machine_name": "wollemia_nobilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "new species\/genera of tree found in Australia. Garden 122\/3 p 148",
+                    "genus": "wollemia",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444189",
+                        "legacy_id": "11262",
+                        "fgsid": "42791",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385035",
+                "legacy_id": "9123",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Agathis",
+            "machine_name": "agathis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Salisb.",
+            "description": null,
+            "family": "araucariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Agathis [Cultivars]",
+                    "machine_name": "agathis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389398",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Agathis australis",
+                    "machine_name": "agathis_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Steud.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400915",
+                        "legacy_id": "1443",
+                        "fgsid": "1484",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Agathis dammara",
+                    "machine_name": "agathis_dammara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Rich.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400916",
+                        "legacy_id": "4524",
+                        "fgsid": "1485",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Agathis macrophylla",
+                    "machine_name": "agathis_macrophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400917",
+                        "legacy_id": "9799",
+                        "fgsid": "1486",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Agathis robusta",
+                    "machine_name": "agathis_robusta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "F.M. Bailey.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400918",
+                        "legacy_id": "13939",
+                        "fgsid": "1487",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Agathis vitiensis*",
+                    "machine_name": "agathis_vitiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "agathis_macrophylla",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1400919",
+                        "legacy_id": "17474",
+                        "fgsid": "1488",
+                        "legacy_from_data_cross_ref": [
+                            "+A. macrophylla"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Agathis lanceolata",
+                    "machine_name": "agathis_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Lindl. & Warb.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447110",
+                        "legacy_id": "8822",
+                        "fgsid": "90996",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Agathis silbae",
+                    "machine_name": "agathis_silbae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "de Laub.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458347",
+                        "legacy_id": "81124",
+                        "fgsid": "140759",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Agathis flavescens",
+                    "machine_name": "agathis_flavescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Ridl.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459548",
+                        "legacy_id": "6028",
+                        "fgsid": "139067",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Agathis ovata",
+                    "machine_name": "agathis_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Warb.",
+                    "description": null,
+                    "genus": "agathis",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2456106",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549900554"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389397",
+                "legacy_id": "165",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Araucaria",
+            "machine_name": "araucaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Juss.",
+            "description": null,
+            "family": "araucariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Araucaria [Cultivars]",
+                    "machine_name": "araucaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391260",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Araucaria angustifolia",
+                    "machine_name": "araucaria_angustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "O. Kuntze.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401038",
+                        "legacy_id": "827",
+                        "fgsid": "2985",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria araucana",
+                    "machine_name": "araucaria_araucana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "C. Koch.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401039",
+                        "legacy_id": "1016",
+                        "fgsid": "2986",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria bidwillii",
+                    "machine_name": "araucaria_bidwillii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401040",
+                        "legacy_id": "1903",
+                        "fgsid": "2987",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria columnaris",
+                    "machine_name": "araucaria_columnaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401041",
+                        "legacy_id": "3751",
+                        "fgsid": "2988",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria cunninghamii",
+                    "machine_name": "araucaria_cunninghamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401042",
+                        "legacy_id": "4323",
+                        "fgsid": "2989",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria excelsa*",
+                    "machine_name": "araucaria_excelsa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "araucaria_columnaris",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1401043",
+                        "legacy_id": "5699",
+                        "fgsid": "2990",
+                        "legacy_from_data_cross_ref": [
+                            "+A. columnaris^?"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Araucaria heterophylla",
+                    "machine_name": "araucaria_heterophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Franco.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [
+                        {
+                            "name": "Araucaria heterophylla Majestic Beauty \u2122",
+                            "machine_name": "araucaria_heterophylla_majestic_beauty",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Majestic Beauty",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "araucaria_heterophylla",
+                            "genus": "araucaria",
+                            "family": "araucariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1497872",
+                                "legacy_id": "71444",
+                                "fgsid": "2991",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401044",
+                        "legacy_id": "7427",
+                        "fgsid": "2991",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria hunsteinii",
+                    "machine_name": "araucaria_hunsteinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "K. Schum.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401045",
+                        "legacy_id": "7764",
+                        "fgsid": "2992",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Araucaria imbricata*",
+                    "machine_name": "araucaria_imbricata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "araucaria_araucana",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1401046",
+                        "legacy_id": "7925",
+                        "fgsid": "2993",
+                        "legacy_from_data_cross_ref": [
+                            "+A. araucana"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Araucaria balansae",
+                    "machine_name": "araucaria_balansae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal HOrt.",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445181",
+                        "legacy_id": "1555",
+                        "fgsid": "83757",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria scopulorum",
+                    "machine_name": "araucaria_scopulorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": "Laubenfels.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447109",
+                        "legacy_id": "14693",
+                        "fgsid": "90995",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria humboldtensis",
+                    "machine_name": "araucaria_humboldtensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "Buchholz.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447111",
+                        "legacy_id": "49183",
+                        "fgsid": "90997",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria rulei",
+                    "machine_name": "araucaria_rulei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell. & Lindl.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [
+                        {
+                            "name": "Araucaria rulei elegans",
+                            "machine_name": "araucaria_rulei_elegans",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "elegans",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "araucaria_rulei",
+                            "genus": "araucaria",
+                            "family": "araucariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2456116",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549900840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450510",
+                        "legacy_id": "43510",
+                        "fgsid": "83384",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria montana",
+                    "machine_name": "araucaria_montana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452949",
+                        "legacy_id": "10692",
+                        "fgsid": "103215",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria biramulata",
+                    "machine_name": "araucaria_biramulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Buchholz.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452950",
+                        "legacy_id": "57023",
+                        "fgsid": "103216",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria muelleri",
+                    "machine_name": "araucaria_muelleri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Brong. & Gris.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461634",
+                        "legacy_id": "10803",
+                        "fgsid": "146722",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Araucaria schmidii",
+                    "machine_name": "araucaria_schmidii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "de Laub.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2456111",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549900809"
+                    }
+                },
+                {
+                    "name": "Araucaria laubenfelsii",
+                    "machine_name": "araucaria_laubenfelsii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Troicos",
+                    "naming_authorities": "Corbasson.",
+                    "description": null,
+                    "genus": "araucaria",
+                    "family": "araucariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2457231",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549915110"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391259",
+                "legacy_id": "428",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

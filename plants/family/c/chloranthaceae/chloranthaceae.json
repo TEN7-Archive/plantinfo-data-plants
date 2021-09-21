@@ -1,0 +1,594 @@
+{
+    "name": "Chloranthaceae",
+    "machine_name": "chloranthaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381190",
+        "legacy_id": "98",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Sarcandra",
+            "machine_name": "sarcandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Gaertn.",
+            "description": null,
+            "family": "chloranthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sarcandra [Cultivars]",
+                    "machine_name": "sarcandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sarcandra",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383416",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sarcandra glabra",
+                    "machine_name": "sarcandra_glabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sarcandra",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438501",
+                        "legacy_id": "6617",
+                        "fgsid": "39892",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sarcandra chloranthoides",
+                    "machine_name": "sarcandra_chloranthoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Gardn.",
+                    "description": null,
+                    "genus": "sarcandra",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446488",
+                        "legacy_id": "38303",
+                        "fgsid": "75255",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383415",
+                "legacy_id": "6267",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Chloranthus",
+            "machine_name": "chloranthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "chloranthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Chloranthus [Cultivars]",
+                    "machine_name": "chloranthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384438",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Chloranthus fortunei",
+                    "machine_name": "chloranthus_fortunei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Solms.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406364",
+                        "legacy_id": "6193",
+                        "fgsid": "7438",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chloranthus inconspicuus",
+                    "machine_name": "chloranthus_inconspicuus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406365",
+                        "legacy_id": "7988",
+                        "fgsid": "7439",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chloranthus oldhamii",
+                    "machine_name": "chloranthus_oldhamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Solms.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440142",
+                        "legacy_id": "11566",
+                        "fgsid": "44647",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chloranthus serratus",
+                    "machine_name": "chloranthus_serratus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Roem. & Schult.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445801",
+                        "legacy_id": "14921",
+                        "fgsid": "74176",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chloranthus japonicus",
+                    "machine_name": "chloranthus_japonicus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "Siebold.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Chloranthus japonicus 'Aojiku'",
+                            "machine_name": "chloranthus_japonicus_aojiku",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aojiku",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chloranthus_japonicus",
+                            "genus": "chloranthus",
+                            "family": "chloranthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600831",
+                                "legacy_id": "231057",
+                                "fgsid": "96619",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446045",
+                        "legacy_id": "8269",
+                        "fgsid": "96619",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chloranthus sessilifolius",
+                    "machine_name": "chloranthus_sessilifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "K.F. Wu.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Chloranthus sessilifolius 'Get Shorty'",
+                            "machine_name": "chloranthus_sessilifolius_get_shorty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Get Shorty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chloranthus_sessilifolius",
+                            "genus": "chloranthus",
+                            "family": "chloranthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1664687",
+                                "legacy_id": "400436",
+                                "fgsid": "151221",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Chloranthus sessilifolius 'Domino'",
+                            "machine_name": "chloranthus_sessilifolius_domino",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Domino",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chloranthus_sessilifolius",
+                            "genus": "chloranthus",
+                            "family": "chloranthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2336581",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1529407810"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461793",
+                        "legacy_id": "14941",
+                        "fgsid": "151221",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chloranthus henryi",
+                    "machine_name": "chloranthus_henryi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462598",
+                        "legacy_id": "7351",
+                        "fgsid": "151239",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chloranthus holostegius",
+                    "machine_name": "chloranthus_holostegius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "S.J. Pei & R.H. Shan.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310316",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524931868"
+                    }
+                },
+                {
+                    "name": "Chloranthus brachystachys",
+                    "machine_name": "chloranthus_brachystachys",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "chloranthus",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2374881",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1536755657"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384437",
+                "legacy_id": "1252",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ascarina",
+            "machine_name": "ascarina",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "J.R. Forst. & G. Forst.",
+            "description": null,
+            "family": "chloranthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ascarina [Cultivars]",
+                    "machine_name": "ascarina_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ascarina",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310306",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524931702"
+                    }
+                },
+                {
+                    "name": "Ascarina rubricaulis",
+                    "machine_name": "ascarina_rubricaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Solms.",
+                    "description": null,
+                    "genus": "ascarina",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310311",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524931747"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2310301",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524931702"
+            }
+        },
+        {
+            "name": "Hedyosmum",
+            "machine_name": "hedyosmum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "chloranthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hedyosmum [Cultivars]",
+                    "machine_name": "hedyosmum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hedyosmum",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310326",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524931987"
+                    }
+                },
+                {
+                    "name": "Hedyosmum mexicanum",
+                    "machine_name": "hedyosmum_mexicanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Cordem.",
+                    "description": null,
+                    "genus": "hedyosmum",
+                    "family": "chloranthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310331",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524932041"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2310321",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524931987"
+            }
+        }
+    ]
+}

@@ -1,0 +1,574 @@
+{
+    "name": "Gelsemiaceae",
+    "machine_name": "gelsemiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Struwe & V.A. Albert.",
+    "description": null,
+    "archival_data": {
+        "id": "2339456",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530038825"
+    },
+    "genus_items": [
+        {
+            "name": "Gelsemium",
+            "machine_name": "gelsemium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Juss.",
+            "description": null,
+            "family": "gelsemiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gelsemium elegans",
+                    "machine_name": "gelsemium_elegans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "gelsemium",
+                    "family": "gelsemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410412",
+                        "legacy_id": "5343",
+                        "fgsid": "16053",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Gelsemium rankinii",
+                    "machine_name": "gelsemium_rankinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "gelsemium",
+                    "family": "gelsemiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Gelsemium rankinii 'Winter Purple'",
+                            "machine_name": "gelsemium_rankinii_winter_purple",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Winter Purple",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_rankinii",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506917",
+                                "legacy_id": "79664",
+                                "fgsid": "16054",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410413",
+                        "legacy_id": "13579",
+                        "fgsid": "16054",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Gelsemium sempervirens",
+                    "machine_name": "gelsemium_sempervirens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Ait.",
+                    "description": null,
+                    "genus": "gelsemium",
+                    "family": "gelsemiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Gelsemium sempervirens 'Margarita'",
+                            "machine_name": "gelsemium_sempervirens_margarita",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Margarita",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506918",
+                                "legacy_id": "79665",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens 'Pale Yellow'",
+                            "machine_name": "gelsemium_sempervirens_pale_yellow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pale Yellow",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506919",
+                                "legacy_id": "79666",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens 'Plena'",
+                            "machine_name": "gelsemium_sempervirens_plena",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Plena",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506920",
+                                "legacy_id": "79667",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens 'Pride of Augusta'",
+                            "machine_name": "gelsemium_sempervirens_pride_of_augusta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pride of Augusta",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1506921",
+                                "legacy_id": "79668",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens 'Conrop'",
+                            "machine_name": "gelsemium_sempervirens_conrop",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Conrop",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548627",
+                                "legacy_id": "124798",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens Lemon Drop \u2122",
+                            "machine_name": "gelsemium_sempervirens_lemon_drop",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Lemon Drop",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548629",
+                                "legacy_id": "124800",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens 'Rankinii'",
+                            "machine_name": "gelsemium_sempervirens_rankinii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rankinii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548937",
+                                "legacy_id": "124894",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Gelsemium sempervirens 'Wrens'",
+                            "machine_name": "gelsemium_sempervirens_wrens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wrens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gelsemium_sempervirens",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638604",
+                                "legacy_id": "336943",
+                                "fgsid": "16055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410414",
+                        "legacy_id": "14833",
+                        "fgsid": "16055",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Gelsemium [Cultivars]",
+                    "machine_name": "gelsemium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gelsemium",
+                    "family": "gelsemiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Gelsemium [Cultivars] Butterscotch \u2122",
+                            "machine_name": "gelsemium_cultivars_butterscotch",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Butterscotch",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "gelsemium_cultivars",
+                            "genus": "gelsemium",
+                            "family": "gelsemiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582218",
+                                "legacy_id": "210416",
+                                "fgsid": "88615",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449484",
+                        "legacy_id": "2",
+                        "fgsid": "88615",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393331",
+                "legacy_id": "2404",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Pteleocarpa",
+            "machine_name": "pteleocarpa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Oliv.",
+            "description": null,
+            "family": "gelsemiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pteleocarpa [Cultivars]",
+                    "machine_name": "pteleocarpa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pteleocarpa",
+                    "family": "gelsemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339626",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096746"
+                    }
+                },
+                {
+                    "name": "Pteleocarpa lamponga",
+                    "machine_name": "pteleocarpa_lamponga",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pteleocarpa",
+                    "family": "gelsemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339631",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096789"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339621",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530096746"
+            }
+        },
+        {
+            "name": "Mostuea",
+            "machine_name": "mostuea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Didr.",
+            "description": null,
+            "family": "gelsemiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mostuea [Cultivars]",
+                    "machine_name": "mostuea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mostuea",
+                    "family": "gelsemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339641",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096876"
+                    }
+                },
+                {
+                    "name": "Mostuea batesii",
+                    "machine_name": "mostuea_batesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "mostuea",
+                    "family": "gelsemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339646",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096905"
+                    }
+                },
+                {
+                    "name": "Mostuea brunonis",
+                    "machine_name": "mostuea_brunonis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Didr.",
+                    "description": null,
+                    "genus": "mostuea",
+                    "family": "gelsemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339651",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096938"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339636",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530096876"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1150 @@
+{
+    "name": "Sciadopityaceae",
+    "machine_name": "sciadopityaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Luerss.",
+    "description": null,
+    "archival_data": {
+        "id": "2310476",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525008340"
+    },
+    "genus_items": [
+        {
+            "name": "Sciadopitys",
+            "machine_name": "sciadopitys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Siebold & Zucc.",
+            "description": null,
+            "family": "sciadopityaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sciadopitys [Cultivars]",
+                    "machine_name": "sciadopitys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sciadopitys",
+                    "family": "sciadopityaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387450",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Sciadopitys verticillata",
+                    "machine_name": "sciadopitys_verticillata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Siebold & Zucc.",
+                    "description": null,
+                    "genus": "sciadopitys",
+                    "family": "sciadopityaceae",
+                    "variety_items": [
+                        {
+                            "name": "Sciadopitys verticillata 'Wintergreen'",
+                            "machine_name": "sciadopitys_verticillata_wintergreen",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wintergreen",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1529851",
+                                "legacy_id": "101742",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Joe Kozey'",
+                            "machine_name": "sciadopitys_verticillata_joe_kozey",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Joe Kozey",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532751",
+                                "legacy_id": "111087",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Ossorio's Gold'",
+                            "machine_name": "sciadopitys_verticillata_ossorio_s_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ossorio's Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538792",
+                                "legacy_id": "112631",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Jim Cross'",
+                            "machine_name": "sciadopitys_verticillata_jim_cross",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jim Cross",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540180",
+                                "legacy_id": "115392",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Variegata'",
+                            "machine_name": "sciadopitys_verticillata_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571523",
+                                "legacy_id": "188182",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Starburst'",
+                            "machine_name": "sciadopitys_verticillata_starburst",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Starburst",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1572785",
+                                "legacy_id": "191760",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Picola'",
+                            "machine_name": "sciadopitys_verticillata_picola",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Picola",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576194",
+                                "legacy_id": "199883",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Richie's Cushion'",
+                            "machine_name": "sciadopitys_verticillata_richie_s_cushion",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Richie's Cushion",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581466",
+                                "legacy_id": "216477",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Golden Wonder'",
+                            "machine_name": "sciadopitys_verticillata_golden_wonder",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Wonder",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590406",
+                                "legacy_id": "319976",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Sternschnuppe'",
+                            "machine_name": "sciadopitys_verticillata_sternschnuppe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sternschnuppe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590407",
+                                "legacy_id": "319977",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Grune Kugel'",
+                            "machine_name": "sciadopitys_verticillata_grune_kugel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grune Kugel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590408",
+                                "legacy_id": "319978",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Pyramidalis'",
+                            "machine_name": "sciadopitys_verticillata_pyramidalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pyramidalis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590409",
+                                "legacy_id": "319979",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Mecki'",
+                            "machine_name": "sciadopitys_verticillata_mecki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mecki",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596300",
+                                "legacy_id": "373078",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Shooting Star'",
+                            "machine_name": "sciadopitys_verticillata_shooting_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shooting Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603613",
+                                "legacy_id": "286097",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Cynthia Waxman'",
+                            "machine_name": "sciadopitys_verticillata_cynthia_waxman",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cynthia Waxman",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605010",
+                                "legacy_id": "282079",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Tumbleweed'",
+                            "machine_name": "sciadopitys_verticillata_tumbleweed",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tumbleweed",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605011",
+                                "legacy_id": "282080",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Mitsch Select'",
+                            "machine_name": "sciadopitys_verticillata_mitsch_select",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mitsch Select",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1605925",
+                                "legacy_id": "283296",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Monolith'",
+                            "machine_name": "sciadopitys_verticillata_monolith",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Monolith",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626466",
+                                "legacy_id": "372629",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Pygmy'",
+                            "machine_name": "sciadopitys_verticillata_pygmy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pygmy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640874",
+                                "legacy_id": "330896",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Pearleglanz'",
+                            "machine_name": "sciadopitys_verticillata_pearleglanz",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Perlenglanz",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640875",
+                                "legacy_id": "330897",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Yellow Dream'",
+                            "machine_name": "sciadopitys_verticillata_yellow_dream",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yellow Dream",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640876",
+                                "legacy_id": "330898",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Mr Happy'",
+                            "machine_name": "sciadopitys_verticillata_mr_happy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mr Happy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1669345",
+                                "legacy_id": "409096",
+                                "fgsid": "32249",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Gold Rush'",
+                            "machine_name": "sciadopitys_verticillata_gold_rush",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Rush",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2333261",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1528822320"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Green Star'",
+                            "machine_name": "sciadopitys_verticillata_green_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Green Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2333266",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1528822372"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Aurea'",
+                            "machine_name": "sciadopitys_verticillata_aurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477536",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117498"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Fascination'",
+                            "machine_name": "sciadopitys_verticillata_fascination",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fascination",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477546",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117609"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Feuerwerk'",
+                            "machine_name": "sciadopitys_verticillata_feuerwerk",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Feuerwerk",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477551",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117664"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Gold Star'",
+                            "machine_name": "sciadopitys_verticillata_gold_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477556",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117703"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Filip's Tiny Treasure'",
+                            "machine_name": "sciadopitys_verticillata_filip_s_tiny_treasure",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Filip's Tiny Treasure",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477561",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117787"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Goldammer'",
+                            "machine_name": "sciadopitys_verticillata_goldammer",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goldammer",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477566",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117822"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Jeddeloh Compact'",
+                            "machine_name": "sciadopitys_verticillata_jeddeloh_compact",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jeddeloh Compact",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477571",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551117992"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Little Filip'",
+                            "machine_name": "sciadopitys_verticillata_little_filip",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Little Filip",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477581",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118092"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Megaschirm'",
+                            "machine_name": "sciadopitys_verticillata_megaschirm",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Megaschirm",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477591",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118118"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Marilyn Monroe'",
+                            "machine_name": "sciadopitys_verticillata_marilyn_monroe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Marilyn Monroe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477596",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118141"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Mireille'",
+                            "machine_name": "sciadopitys_verticillata_mireille",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mireille",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477641",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118331"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Papagel'",
+                            "machine_name": "sciadopitys_verticillata_papagel",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Papagel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477646",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118358"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Star Wars'",
+                            "machine_name": "sciadopitys_verticillata_star_wars",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Star Wars",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477651",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118494"
+                            }
+                        },
+                        {
+                            "name": "Sciadopitys verticillata 'Turned Needle'",
+                            "machine_name": "sciadopitys_verticillata_turned_needle",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Turned Needle",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "sciadopitys_verticillata",
+                            "genus": "sciadopitys",
+                            "family": "sciadopityaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2477656",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551118608"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432952",
+                        "legacy_id": "17279",
+                        "fgsid": "32249",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387449",
+                "legacy_id": "5016",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

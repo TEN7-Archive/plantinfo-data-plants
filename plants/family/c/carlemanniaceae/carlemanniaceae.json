@@ -1,0 +1,154 @@
+{
+    "name": "Carlemanniaceae",
+    "machine_name": "carlemanniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Airy Shaw.",
+    "description": null,
+    "archival_data": {
+        "id": "2340246",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530366203"
+    },
+    "genus_items": [
+        {
+            "name": "Carlemannia",
+            "machine_name": "carlemannia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Benth.",
+            "description": null,
+            "family": "carlemanniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Carlemannia [Cultivars]",
+                    "machine_name": "carlemannia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carlemannia",
+                    "family": "carlemanniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340256",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530366236"
+                    }
+                },
+                {
+                    "name": "Carlemannia tetragona",
+                    "machine_name": "carlemannia_tetragona",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "carlemannia",
+                    "family": "carlemanniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340261",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530366271"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2340251",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530366236"
+            }
+        },
+        {
+            "name": "Silvianthus",
+            "machine_name": "silvianthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "carlemanniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Silvianthus [Cultivars]",
+                    "machine_name": "silvianthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "silvianthus",
+                    "family": "carlemanniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340271",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530366371"
+                    }
+                },
+                {
+                    "name": "Silvianthus tonkinensis",
+                    "machine_name": "silvianthus_tonkinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ridsdale.",
+                    "description": null,
+                    "genus": "silvianthus",
+                    "family": "carlemanniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530366403"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2340266",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530366371"
+            }
+        }
+    ]
+}

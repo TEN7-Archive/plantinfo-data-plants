@@ -1,0 +1,85 @@
+{
+    "name": "Rhabdodendraceae",
+    "machine_name": "rhabdodendraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Prance.",
+    "description": null,
+    "archival_data": {
+        "id": "2332886",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528735820"
+    },
+    "genus_items": [
+        {
+            "name": "Rhabdodendron",
+            "machine_name": "rhabdodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Gilg & Pilg.",
+            "description": null,
+            "family": "rhabdodendraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rhabdodendron [Cultivars]",
+                    "machine_name": "rhabdodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhabdodendron",
+                    "family": "rhabdodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332896",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528735851"
+                    }
+                },
+                {
+                    "name": "Rhabdodendron amazonicum",
+                    "machine_name": "rhabdodendron_amazonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Huber.",
+                    "description": null,
+                    "genus": "rhabdodendron",
+                    "family": "rhabdodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332901",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528735889"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332891",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528735851"
+            }
+        }
+    ]
+}

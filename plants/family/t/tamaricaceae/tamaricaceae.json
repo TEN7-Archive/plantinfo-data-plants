@@ -1,0 +1,927 @@
+{
+    "name": "Tamaricaceae",
+    "machine_name": "tamaricaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381417",
+        "legacy_id": "406",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Reaumuria",
+            "machine_name": "reaumuria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "tamaricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Reaumuria [Cultivars]",
+                    "machine_name": "reaumuria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "reaumuria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384930",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Reaumuria vermiculata",
+                    "machine_name": "reaumuria_vermiculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reaumuria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422879",
+                        "legacy_id": "17240",
+                        "fgsid": "29668",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reaumuria kuznetzovii",
+                    "machine_name": "reaumuria_kuznetzovii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sosn. & Manden.",
+                    "description": null,
+                    "genus": "reaumuria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332641",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528727258"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384929",
+                "legacy_id": "4718",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Tamarix",
+            "machine_name": "tamarix",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "tamaricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tamarix [Cultivars]",
+                    "machine_name": "tamarix_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390206",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Tamarix africana",
+                    "machine_name": "tamarix_africana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Poir.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429260",
+                        "legacy_id": "302",
+                        "fgsid": "34280",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix aphylla",
+                    "machine_name": "tamarix_aphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Karst.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429261",
+                        "legacy_id": "938",
+                        "fgsid": "34281",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix aucherana",
+                    "machine_name": "tamarix_aucherana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429262",
+                        "legacy_id": "1363",
+                        "fgsid": "34282",
+                        "legacy_from_data_cross_ref": [
+                            "+Trichaurus aucheranus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix canariensis",
+                    "machine_name": "tamarix_canariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429263",
+                        "legacy_id": "2781",
+                        "fgsid": "34283",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix chinensis",
+                    "machine_name": "tamarix_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lour.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429264",
+                        "legacy_id": "3351",
+                        "fgsid": "34284",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix gallica",
+                    "machine_name": "tamarix_gallica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429265",
+                        "legacy_id": "6402",
+                        "fgsid": "34285",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix hampeana",
+                    "machine_name": "tamarix_hampeana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Boiss. & Heldr.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429266",
+                        "legacy_id": "7148",
+                        "fgsid": "34286",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix juniperina",
+                    "machine_name": "tamarix_juniperina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "tamarix_chinensis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1429267",
+                        "legacy_id": "8369",
+                        "fgsid": "34287",
+                        "legacy_from_data_cross_ref": [
+                            "+T. chinensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix nilotica",
+                    "machine_name": "tamarix_nilotica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "tamarix_gallica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1429268",
+                        "legacy_id": "11227",
+                        "fgsid": "34288",
+                        "legacy_from_data_cross_ref": [
+                            "+T. gallica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix parviflora",
+                    "machine_name": "tamarix_parviflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429269",
+                        "legacy_id": "12078",
+                        "fgsid": "34289",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix pentandra",
+                    "machine_name": "tamarix_pentandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Pall.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429270",
+                        "legacy_id": "12290",
+                        "fgsid": "34290",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix ramosissima",
+                    "machine_name": "tamarix_ramosissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Ledeb.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Tamarix ramosissima 'Summer Glow'",
+                            "machine_name": "tamarix_ramosissima_summer_glow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Summer Glow",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tamarix_ramosissima",
+                            "genus": "tamarix",
+                            "family": "tamaricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1529664",
+                                "legacy_id": "102849",
+                                "fgsid": "34291",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Tamarix ramosissima 'Pink Cascade'",
+                            "machine_name": "tamarix_ramosissima_pink_cascade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Cascade",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tamarix_ramosissima",
+                            "genus": "tamarix",
+                            "family": "tamaricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533028",
+                                "legacy_id": "111140",
+                                "fgsid": "34291",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Tamarix ramosissima 'Rosea'",
+                            "machine_name": "tamarix_ramosissima_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tamarix_ramosissima",
+                            "genus": "tamarix",
+                            "family": "tamaricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1542751",
+                                "legacy_id": "121051",
+                                "fgsid": "34291",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Tamarix ramosissima 'Rubra'",
+                            "machine_name": "tamarix_ramosissima_rubra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rubra",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tamarix_ramosissima",
+                            "genus": "tamarix",
+                            "family": "tamaricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575723",
+                                "legacy_id": "203700",
+                                "fgsid": "34291",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Tamarix ramosissima 'Cheyenne Red'",
+                            "machine_name": "tamarix_ramosissima_cheyenne_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cheyenne Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tamarix_ramosissima",
+                            "genus": "tamarix",
+                            "family": "tamaricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633586",
+                                "legacy_id": "292056",
+                                "fgsid": "34291",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429271",
+                        "legacy_id": "13559",
+                        "fgsid": "34291",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix smyrnensis",
+                    "machine_name": "tamarix_smyrnensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Bunge.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429272",
+                        "legacy_id": "15205",
+                        "fgsid": "34292",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix tetragyna",
+                    "machine_name": "tamarix_tetragyna",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Ehrenb.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429273",
+                        "legacy_id": "16260",
+                        "fgsid": "34293",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix amurense",
+                    "machine_name": "tamarix_amurense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "tamarix_chinensis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1437444",
+                        "legacy_id": "706",
+                        "fgsid": "39626",
+                        "legacy_from_data_cross_ref": [
+                            "T. chinensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tamarix tetrandra",
+                    "machine_name": "tamarix_tetrandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Pall.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442252",
+                        "legacy_id": "16267",
+                        "fgsid": "45139",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Tamarix usneoides",
+                    "machine_name": "tamarix_usneoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "E. Mey. & Bunge.",
+                    "description": null,
+                    "genus": "tamarix",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460643",
+                        "legacy_id": "17043",
+                        "fgsid": "145542",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390205",
+                "legacy_id": "5414",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Myricaria",
+            "machine_name": "myricaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Desv.",
+            "description": null,
+            "family": "tamaricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Myricaria [Cultivars]",
+                    "machine_name": "myricaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myricaria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390706",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Myricaria elegans",
+                    "machine_name": "myricaria_elegans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Royle.",
+                    "description": null,
+                    "genus": "myricaria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416365",
+                        "legacy_id": "5343",
+                        "fgsid": "23675",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myricaria germanica",
+                    "machine_name": "myricaria_germanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II",
+                    "naming_authorities": "Desv.",
+                    "description": null,
+                    "genus": "myricaria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416366",
+                        "legacy_id": "6531",
+                        "fgsid": "23676",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myricaria rosea",
+                    "machine_name": "myricaria_rosea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "W.W. Smith.",
+                    "description": null,
+                    "genus": "myricaria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416367",
+                        "legacy_id": "13990",
+                        "fgsid": "23677",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myricaria squamosa",
+                    "machine_name": "myricaria_squamosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myricaria",
+                    "family": "tamaricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "myricaria_germanica",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1416368",
+                        "legacy_id": "15451",
+                        "fgsid": "23678",
+                        "legacy_from_data_cross_ref": [
+                            "+M. germanica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Myricaria cauliflora",
+                    "machine_name": "myricaria_cauliflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "O. Berg.",
+                    "description": null,
+                    "genus": "myricaria",
+                    "family": "tamaricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Myricaria cauliflora 'Paulista'",
+                            "machine_name": "myricaria_cauliflora_paulista",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Paulista",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "myricaria_cauliflora",
+                            "genus": "myricaria",
+                            "family": "tamaricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1654182",
+                                "legacy_id": "386250",
+                                "fgsid": "41783",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434686",
+                        "legacy_id": "3112",
+                        "fgsid": "41783",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390705",
+                "legacy_id": "3711",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "name": "Aardvarcaceae",
+    "machine_name": "aardvarcaceae",
+    "type": "family",
+    "authorities": "kaw",
+    "naming_authorities": "nope",
+    "description": null,
+    "archival_data": {
+        "id": "1381452",
+        "legacy_id": "452",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Abardvarkia",
+            "machine_name": "abardvarkia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": null,
+            "description": null,
+            "family": "aardvarcaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Abardvarkia [Cultivars]",
+                    "machine_name": "abardvarkia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "abardvarkia",
+                    "family": "aardvarcaceae",
+                    "variety_items": [
+                        {
+                            "name": "Abardvarkia [Cultivars] 'Nonsensustwo'",
+                            "machine_name": "abardvarkia_cultivars_nonsensustwo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nonsensustwo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "abardvarkia_cultivars",
+                            "genus": "abardvarkia",
+                            "family": "aardvarcaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1529352",
+                                "legacy_id": "106283",
+                                "fgsid": "42810",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444207",
+                        "legacy_id": "2",
+                        "fgsid": "42810",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385039",
+                "legacy_id": "9126",
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

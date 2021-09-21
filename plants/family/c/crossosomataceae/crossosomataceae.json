@@ -1,0 +1,166 @@
+{
+    "name": "Crossosomataceae",
+    "machine_name": "crossosomataceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381506",
+        "legacy_id": "840",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Glossopetalon",
+            "machine_name": "glossopetalon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "A. Gray.",
+            "description": null,
+            "family": "crossosomataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Glossopetalon [Cultivars]",
+                    "machine_name": "glossopetalon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "glossopetalon",
+                    "family": "crossosomataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395154",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Glossopetalon planitierum",
+                    "machine_name": "glossopetalon_planitierum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H. St. John.",
+                    "description": null,
+                    "genus": "glossopetalon",
+                    "family": "crossosomataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451708",
+                        "legacy_id": "73904",
+                        "fgsid": "130394",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Glossopetalon spinescens",
+                    "machine_name": "glossopetalon_spinescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "glossopetalon",
+                    "family": "crossosomataceae",
+                    "variety_items": [
+                        {
+                            "name": "Glossopetalon spinescens spinescens",
+                            "machine_name": "glossopetalon_spinescens_spinescens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "spinescens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "glossopetalon_spinescens",
+                            "genus": "glossopetalon",
+                            "family": "crossosomataceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619802",
+                                "legacy_id": "351176",
+                                "fgsid": "130395",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Glossopetalon spinescens aridum",
+                            "machine_name": "glossopetalon_spinescens_aridum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "aridum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "glossopetalon_spinescens",
+                            "genus": "glossopetalon",
+                            "family": "crossosomataceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2327241",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1527422936"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451709",
+                        "legacy_id": "15386",
+                        "fgsid": "130395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395153",
+                "legacy_id": "23904",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

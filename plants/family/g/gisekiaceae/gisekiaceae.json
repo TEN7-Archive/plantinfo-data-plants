@@ -1,0 +1,85 @@
+{
+    "name": "Gisekiaceae",
+    "machine_name": "gisekiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Nakai.",
+    "description": null,
+    "archival_data": {
+        "id": "2336336",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529329847"
+    },
+    "genus_items": [
+        {
+            "name": "Gisekia",
+            "machine_name": "gisekia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "gisekiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gisekia [Cultivars]",
+                    "machine_name": "gisekia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gisekia",
+                    "family": "gisekiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336346",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529329881"
+                    }
+                },
+                {
+                    "name": "Gisekia pharnaceoides",
+                    "machine_name": "gisekia_pharnaceoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "gisekia",
+                    "family": "gisekiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336351",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529329921"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2336341",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529329881"
+            }
+        }
+    ]
+}

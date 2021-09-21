@@ -1,0 +1,178 @@
+{
+    "name": "Anemiaceae",
+    "machine_name": "anemiaceae",
+    "type": "family",
+    "authorities": "Mabberley, 3d",
+    "naming_authorities": "Link.",
+    "description": null,
+    "archival_data": {
+        "id": "2246011",
+        "legacy_id": null,
+        "author": "kallen",
+        "created": "1518897129"
+    },
+    "genus_items": [
+        {
+            "name": "Mohria",
+            "machine_name": "mohria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "anemiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mohria [Cultivars]",
+                    "machine_name": "mohria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mohria",
+                    "family": "anemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387678",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Mohria caffrorum",
+                    "machine_name": "mohria_caffrorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Desv.",
+                    "description": null,
+                    "genus": "mohria",
+                    "family": "anemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444683",
+                        "legacy_id": "2586",
+                        "fgsid": "44369",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387677",
+                "legacy_id": "9235",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Anemia",
+            "machine_name": "anemia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "anemiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anemia [Cultivars]",
+                    "machine_name": "anemia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anemia",
+                    "family": "anemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2246021",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1518897166"
+                    }
+                },
+                {
+                    "name": "Anemia tomentosa",
+                    "machine_name": "anemia_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "anemia",
+                    "family": "anemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2246026",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1518897206"
+                    }
+                },
+                {
+                    "name": "Anemia vestita",
+                    "machine_name": "anemia_vestita",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "anemia",
+                    "family": "anemiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306771",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524686380"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2246016",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "kallen",
+                "created": "1518897166"
+            }
+        }
+    ]
+}

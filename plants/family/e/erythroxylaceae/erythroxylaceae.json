@@ -1,0 +1,133 @@
+{
+    "name": "Erythroxylaceae",
+    "machine_name": "erythroxylaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381238",
+        "legacy_id": "168",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Erythroxylum",
+            "machine_name": "erythroxylum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "P. Browne.",
+            "description": null,
+            "family": "erythroxylaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Erythroxylum [Cultivars]",
+                    "machine_name": "erythroxylum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "erythroxylum",
+                    "family": "erythroxylaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Erythroxylum coca",
+                    "machine_name": "erythroxylum_coca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "erythroxylum",
+                    "family": "erythroxylaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412905",
+                        "legacy_id": "3645",
+                        "fgsid": "13740",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Erythroxylum mexicanum",
+                    "machine_name": "erythroxylum_mexicanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "erythroxylum",
+                    "family": "erythroxylaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453402",
+                        "legacy_id": "10380",
+                        "fgsid": "114851",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Erythroxylum sechellarum",
+                    "machine_name": "erythroxylum_sechellarum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "O.E. Schulz.",
+                    "description": null,
+                    "genus": "erythroxylum",
+                    "family": "erythroxylaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322511",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526833155"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391545",
+                "legacy_id": "2187",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

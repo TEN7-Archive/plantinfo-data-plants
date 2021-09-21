@@ -1,0 +1,912 @@
+{
+    "name": "Ochnaceae",
+    "machine_name": "ochnaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381336",
+        "legacy_id": "302",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Medusagyne",
+            "machine_name": "medusagyne",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Baker.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Medusagyne [Cultivars]",
+                    "machine_name": "medusagyne_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "medusagyne",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388920",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Medusagyne oppositifolia",
+                    "machine_name": "medusagyne_oppositifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "medusagyne",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418944",
+                        "legacy_id": "11665",
+                        "fgsid": "22737",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388919",
+                "legacy_id": "3493",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Ochna",
+            "machine_name": "ochna",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ochna [Cultivars]",
+                    "machine_name": "ochna_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391748",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ochna confusa",
+                    "machine_name": "ochna_confusa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Burtt Davy & Gree.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425451",
+                        "legacy_id": "3849",
+                        "fgsid": "24451",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna inermis",
+                    "machine_name": "ochna_inermis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425452",
+                        "legacy_id": "8014",
+                        "fgsid": "24452",
+                        "legacy_from_data_cross_ref": [
+                            "+Euonymus inermis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna integerrima",
+                    "machine_name": "ochna_integerrima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425453",
+                        "legacy_id": "8088",
+                        "fgsid": "24453",
+                        "legacy_from_data_cross_ref": [
+                            "+Elaeaocarpus integerrimus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna kirkii",
+                    "machine_name": "ochna_kirkii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Oliv.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425454",
+                        "legacy_id": "8533",
+                        "fgsid": "24454",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna natalitia",
+                    "machine_name": "ochna_natalitia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425455",
+                        "legacy_id": "71992",
+                        "fgsid": "24455",
+                        "legacy_from_data_cross_ref": [
+                            "+O. atropurpurea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna pulchra",
+                    "machine_name": "ochna_pulchra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425456",
+                        "legacy_id": "13266",
+                        "fgsid": "24456",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna serrulata",
+                    "machine_name": "ochna_serrulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Walp.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425457",
+                        "legacy_id": "14924",
+                        "fgsid": "24457",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ochna thomasiana",
+                    "machine_name": "ochna_thomasiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Engl. & Gilg.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456877",
+                        "legacy_id": "16347",
+                        "fgsid": "143143",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ochna pygmaea",
+                    "machine_name": "ochna_pygmaea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hiern.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462919",
+                        "legacy_id": "13389",
+                        "fgsid": "154319",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ochna dolicharthros",
+                    "machine_name": "ochna_dolicharthros",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2181896",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1514034907"
+                    }
+                },
+                {
+                    "name": "Ochna mauritiana",
+                    "machine_name": "ochna_mauritiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "ochna",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322596",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526902366"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391747",
+                "legacy_id": "3896",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ouratea",
+            "machine_name": "ouratea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ouratea [Cultivars]",
+                    "machine_name": "ouratea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ouratea",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ouratea dependens",
+                    "machine_name": "ouratea_dependens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ouratea",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423266",
+                        "legacy_id": "4775",
+                        "fgsid": "25348",
+                        "legacy_from_data_cross_ref": [
+                            "+Gomphia dependens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393405",
+                "legacy_id": "4046",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Brackenridgea",
+            "machine_name": "brackenridgea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "A. Gray.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Brackenridgea [Cultivars]",
+                    "machine_name": "brackenridgea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brackenridgea",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394028",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Brackenridgea nitida",
+                    "machine_name": "brackenridgea_nitida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "brackenridgea",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403094",
+                        "legacy_id": "11240",
+                        "fgsid": "4965",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394027",
+                "legacy_id": "806",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Quiina",
+            "machine_name": "quiina",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Quiina [Cultivars]",
+                    "machine_name": "quiina_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "quiina",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394786",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Quiina glaziovii",
+                    "machine_name": "quiina_glaziovii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "quiina",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454138",
+                        "legacy_id": "6679",
+                        "fgsid": "116779",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Quiina blackii",
+                    "machine_name": "quiina_blackii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pires.",
+                    "description": null,
+                    "genus": "quiina",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322571",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526901480"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394785",
+                "legacy_id": "21264",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Sauvagesia",
+            "machine_name": "sauvagesia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sauvagesia [Cultivars]",
+                    "machine_name": "sauvagesia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sauvagesia",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397156",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sauvagesia semicylindrifolia",
+                    "machine_name": "sauvagesia_semicylindrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Sastre.",
+                    "description": null,
+                    "genus": "sauvagesia",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453305",
+                        "legacy_id": "57343",
+                        "fgsid": "103715",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sauvagesia ribeiroi",
+                    "machine_name": "sauvagesia_ribeiroi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp. nov.",
+                    "naming_authorities": "Harley & Giuletti.",
+                    "description": null,
+                    "genus": "sauvagesia",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453306",
+                        "legacy_id": "57345",
+                        "fgsid": "103716",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sauvagesia oliveirae",
+                    "machine_name": "sauvagesia_oliveirae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Harley & Giuletti.",
+                    "description": null,
+                    "genus": "sauvagesia",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453307",
+                        "legacy_id": "57344",
+                        "fgsid": "103717",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Sauvagesia erecta",
+                    "machine_name": "sauvagesia_erecta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "sauvagesia",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322576",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526902045"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397155",
+                "legacy_id": "19042",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lophira",
+            "machine_name": "lophira",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Banks & C.F. Gaertn.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lophira [Cultivars]",
+                    "machine_name": "lophira_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lophira",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322586",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526902238"
+                    }
+                },
+                {
+                    "name": "Lophira alata",
+                    "machine_name": "lophira_alata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Banks & G. Don.",
+                    "description": null,
+                    "genus": "lophira",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322591",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526902286"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322581",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526902238"
+            }
+        },
+        {
+            "name": "Campylospermum",
+            "machine_name": "campylospermum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Tiegh.",
+            "description": null,
+            "family": "ochnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Campylospermum [Cultivars]",
+                    "machine_name": "campylospermum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "campylospermum",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322606",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526902450"
+                    }
+                },
+                {
+                    "name": "Campylospermum flavum",
+                    "machine_name": "campylospermum_flavum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Farron.",
+                    "description": null,
+                    "genus": "campylospermum",
+                    "family": "ochnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322611",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526902481"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322601",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526902450"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Culcitaceae",
+    "machine_name": "culcitaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "C. Presl.",
+    "description": null,
+    "archival_data": {
+        "id": "2307671",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524753425"
+    },
+    "genus_items": [
+        {
+            "name": "Culcita",
+            "machine_name": "culcita",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "C. Presl.",
+            "description": null,
+            "family": "culcitaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Culcita [Cultivars]",
+                    "machine_name": "culcita_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "culcita",
+                    "family": "culcitaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307681",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524753472"
+                    }
+                },
+                {
+                    "name": "Culcita macrocarpa",
+                    "machine_name": "culcita_macrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "culcita",
+                    "family": "culcitaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307686",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524753512"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2307676",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524753472"
+            }
+        }
+    ]
+}

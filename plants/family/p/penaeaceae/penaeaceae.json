@@ -1,0 +1,361 @@
+{
+    "name": "Penaeaceae",
+    "machine_name": "penaeaceae",
+    "type": "family",
+    "authorities": "Mabberley",
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381455",
+        "legacy_id": "466",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Brachysiphon",
+            "machine_name": "brachysiphon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "A. Juss.",
+            "description": null,
+            "family": "penaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Brachysiphon [Cultivars]",
+                    "machine_name": "brachysiphon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brachysiphon",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394678",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Brachysiphon rupestris",
+                    "machine_name": "brachysiphon_rupestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Sond.",
+                    "description": null,
+                    "genus": "brachysiphon",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455658",
+                        "legacy_id": "14185",
+                        "fgsid": "120061",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394677",
+                "legacy_id": "5961",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Penaea",
+            "machine_name": "penaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "penaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Penaea [Cultivars]",
+                    "machine_name": "penaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "penaea",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326706",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343250"
+                    }
+                },
+                {
+                    "name": "Penaea cneorum",
+                    "machine_name": "penaea_cneorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Meerb.",
+                    "description": null,
+                    "genus": "penaea",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326711",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343292"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326701",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527343250"
+            }
+        },
+        {
+            "name": "Rhynchocalyx",
+            "machine_name": "rhynchocalyx",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Oliv.",
+            "description": null,
+            "family": "penaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rhynchocalyx [Cultivars]",
+                    "machine_name": "rhynchocalyx_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhynchocalyx",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326721",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343379"
+                    }
+                },
+                {
+                    "name": "Rhynchocalyx lawsonioides",
+                    "machine_name": "rhynchocalyx_lawsonioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Oliv.",
+                    "description": null,
+                    "genus": "rhynchocalyx",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326726",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343424"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326716",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527343379"
+            }
+        },
+        {
+            "name": "Saltera",
+            "machine_name": "saltera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Bullock.",
+            "description": null,
+            "family": "penaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Saltera [Cultivars]",
+                    "machine_name": "saltera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "saltera",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326736",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343500"
+                    }
+                },
+                {
+                    "name": "Saltera sarcocolla",
+                    "machine_name": "saltera_sarcocolla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Bullock.",
+                    "description": null,
+                    "genus": "saltera",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326741",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343538"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326731",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527343500"
+            }
+        },
+        {
+            "name": "Sonderothamnus",
+            "machine_name": "sonderothamnus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "R. Dahlgren.",
+            "description": null,
+            "family": "penaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sonderothamnus [Cultivars]",
+                    "machine_name": "sonderothamnus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sonderothamnus",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326751",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343691"
+                    }
+                },
+                {
+                    "name": "Sonderothamnus speciosus",
+                    "machine_name": "sonderothamnus_speciosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R. Dahlgren.",
+                    "description": null,
+                    "genus": "sonderothamnus",
+                    "family": "penaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326756",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527343733"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326746",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527343691"
+            }
+        }
+    ]
+}

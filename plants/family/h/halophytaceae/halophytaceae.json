@@ -1,0 +1,92 @@
+{
+    "name": "Halophytaceae",
+    "machine_name": "halophytaceae",
+    "type": "family",
+    "authorities": "Missouri.",
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381511",
+        "legacy_id": "1100",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Halophytum",
+            "machine_name": "halophytum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Speg.",
+            "description": null,
+            "family": "halophytaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Halophytum [Cultivars]",
+                    "machine_name": "halophytum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "halophytum",
+                    "family": "halophytaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397452",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Halophytum ameghinoi",
+                    "machine_name": "halophytum_ameghinoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "crosses",
+                    "genus": "halophytum",
+                    "family": "halophytaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "tetragonia_ameghinoi",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1462567",
+                        "legacy_id": "55026",
+                        "fgsid": "147644",
+                        "legacy_from_data_cross_ref": [
+                            "Tetragonia ameghinoi"
+                        ],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397451",
+                "legacy_id": "28905",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

@@ -1,0 +1,271 @@
+{
+    "name": "Paracryphiaceae",
+    "machine_name": "paracryphiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Airy Shaw.",
+    "description": null,
+    "archival_data": {
+        "id": "2358481",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532805736"
+    },
+    "genus_items": [
+        {
+            "name": "Quintinia",
+            "machine_name": "quintinia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "A. DC.",
+            "description": null,
+            "family": "paracryphiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Quintinia [Cultivars]",
+                    "machine_name": "quintinia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "quintinia",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384870",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Quintinia sieberi",
+                    "machine_name": "quintinia_sieberi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "A. DC.",
+                    "description": null,
+                    "genus": "quintinia",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422069",
+                        "legacy_id": "15052",
+                        "fgsid": "29417",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Quintinia verdonii",
+                    "machine_name": "quintinia_verdonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "quintinia",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422070",
+                        "legacy_id": "17233",
+                        "fgsid": "29418",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Quintinia parviflora",
+                    "machine_name": "quintinia_parviflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Schltr.",
+                    "description": null,
+                    "genus": "quintinia",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359626",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029706"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384869",
+                "legacy_id": "4688",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Paracryphia",
+            "machine_name": "paracryphia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baker.f.",
+            "description": null,
+            "family": "paracryphiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Paracryphia [Cultivars]",
+                    "machine_name": "paracryphia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "paracryphia",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359601",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029430"
+                    }
+                },
+                {
+                    "name": "Paracryphia alticola",
+                    "machine_name": "paracryphia_alticola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Steenis.",
+                    "description": null,
+                    "genus": "paracryphia",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359606",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029486"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2359596",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1533029430"
+            }
+        },
+        {
+            "name": "Sphenostemon",
+            "machine_name": "sphenostemon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "paracryphiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sphenostemon [Cultivars]",
+                    "machine_name": "sphenostemon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sphenostemon",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359616",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029577"
+                    }
+                },
+                {
+                    "name": "Sphenostemon pachycladus",
+                    "machine_name": "sphenostemon_pachycladus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "sphenostemon",
+                    "family": "paracryphiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359621",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029613"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2359611",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1533029577"
+            }
+        }
+    ]
+}

@@ -1,0 +1,410 @@
+{
+    "name": "Dasypogonaceae",
+    "machine_name": "dasypogonaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Dumort.",
+    "description": null,
+    "archival_data": {
+        "id": "2312936",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525526988"
+    },
+    "genus_items": [
+        {
+            "name": "Calectasia",
+            "machine_name": "calectasia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "dasypogonaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Calectasia [Cultivars]",
+                    "machine_name": "calectasia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calectasia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calectasia [Cultivars] 'Corrow'",
+                            "machine_name": "calectasia_cultivars_corrow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Corrow",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calectasia_cultivars",
+                            "genus": "calectasia",
+                            "family": "dasypogonaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465059",
+                                "legacy_id": "3252",
+                                "fgsid": "5633",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399258",
+                        "legacy_id": "2",
+                        "fgsid": "5633",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calectasia arnoldii",
+                    "machine_name": "calectasia_arnoldii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calectasia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399259",
+                        "legacy_id": "1186",
+                        "fgsid": "5634",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calectasia cyanea",
+                    "machine_name": "calectasia_cyanea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "calectasia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399260",
+                        "legacy_id": "4402",
+                        "fgsid": "5635",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calectasia grandiflora",
+                    "machine_name": "calectasia_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calectasia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "calectasia_cyanea",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1399261",
+                        "legacy_id": "6879",
+                        "fgsid": "5636",
+                        "legacy_from_data_cross_ref": [
+                            "+C. cyanea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calectasia intermedia",
+                    "machine_name": "calectasia_intermedia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos change",
+                    "naming_authorities": "Sond.",
+                    "description": null,
+                    "genus": "calectasia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "calectasia_cyanea",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1399262",
+                        "legacy_id": "8100",
+                        "fgsid": "5637",
+                        "legacy_from_data_cross_ref": [
+                            "+C. cyanea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calectasia narragara",
+                    "machine_name": "calectasia_narragara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R.L. Barrett & K.W. Dixon.",
+                    "description": null,
+                    "genus": "calectasia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2275941",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1521746760"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381913",
+                "legacy_id": "929",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Kingia",
+            "machine_name": "kingia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "dasypogonaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Kingia [Cultivars]",
+                    "machine_name": "kingia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "kingia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385382",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Kingia australis",
+                    "machine_name": "kingia_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "kingia",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419550",
+                        "legacy_id": "1443",
+                        "fgsid": "19919",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385381",
+                "legacy_id": "3018",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Dasypogon",
+            "machine_name": "dasypogon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "dasypogonaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dasypogon [Cultivars]",
+                    "machine_name": "dasypogon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dasypogon",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387954",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Dasypogon bromeliifolius",
+                    "machine_name": "dasypogon_bromeliifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "dasypogon",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405408",
+                        "legacy_id": "2346",
+                        "fgsid": "10269",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Dasypogon hookeri",
+                    "machine_name": "dasypogon_hookeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Drumm.",
+                    "description": null,
+                    "genus": "dasypogon",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405409",
+                        "legacy_id": "7635",
+                        "fgsid": "10270",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Dasypogon obliquifolius",
+                    "machine_name": "dasypogon_obliquifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Lehm. & Nees.",
+                    "description": null,
+                    "genus": "dasypogon",
+                    "family": "dasypogonaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2312931",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525526820"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387953",
+                "legacy_id": "1729",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

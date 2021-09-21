@@ -1,0 +1,2931 @@
+{
+    "name": "Polygalaceae",
+    "machine_name": "polygalaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381365",
+        "legacy_id": "341",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Polygala",
+            "machine_name": "polygala",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Polygala alpestris",
+                    "machine_name": "polygala_alpestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Rchb.f.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421976",
+                        "legacy_id": "536",
+                        "fgsid": "27929",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala alpina",
+                    "machine_name": "polygala_alpina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "polygala_amara",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1421977",
+                        "legacy_id": "542",
+                        "fgsid": "27930",
+                        "legacy_from_data_cross_ref": [
+                            "+P. amara"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala amara",
+                    "machine_name": "polygala_amara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421978",
+                        "legacy_id": "604",
+                        "fgsid": "27931",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala amarella",
+                    "machine_name": "polygala_amarella",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II?",
+                    "naming_authorities": "Crantz.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421979",
+                        "legacy_id": "607",
+                        "fgsid": "27932",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala amatymbica",
+                    "machine_name": "polygala_amatymbica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Eckl. & Zeyh.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421980",
+                        "legacy_id": "612",
+                        "fgsid": "27933",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala arillata",
+                    "machine_name": "polygala_arillata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Buch.-Ham. & Don.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421981",
+                        "legacy_id": "1139",
+                        "fgsid": "27934",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala baldwinii",
+                    "machine_name": "polygala_baldwinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421982",
+                        "legacy_id": "1567",
+                        "fgsid": "27935",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala calcarea",
+                    "machine_name": "polygala_calcarea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "F.W. Schultz.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala calcarea 'Bulley's Variety'",
+                            "machine_name": "polygala_calcarea_bulley_s_variety",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bulley's Variety",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_calcarea",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486630",
+                                "legacy_id": "24399",
+                                "fgsid": "27936",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Polygala calcarea 'Lillet'",
+                            "machine_name": "polygala_calcarea_lillet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lillet",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_calcarea",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486631",
+                                "legacy_id": "24400",
+                                "fgsid": "27936",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421983",
+                        "legacy_id": "2618",
+                        "fgsid": "27936",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala californica",
+                    "machine_name": "polygala_californica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Nutt. & Torr. & G.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421984",
+                        "legacy_id": "2647",
+                        "fgsid": "27937",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala chamaebuxus",
+                    "machine_name": "polygala_chamaebuxus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala chamaebuxus grandiflora",
+                            "machine_name": "polygala_chamaebuxus_grandiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "grandiflora",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": "Gaudin.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_chamaebuxus",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486861",
+                                "legacy_id": "24401",
+                                "fgsid": "27938",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Polygala chamaebuxus 'Loibl'",
+                            "machine_name": "polygala_chamaebuxus_loibl",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Loibl",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_chamaebuxus",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486862",
+                                "legacy_id": "24402",
+                                "fgsid": "27938",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Polygala chamaebuxus 'Rhodoptera'",
+                            "machine_name": "polygala_chamaebuxus_rhodoptera",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rhodoptera",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_chamaebuxus",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519185",
+                                "legacy_id": "96588",
+                                "fgsid": "27938",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Polygala chamaebuxus 'Fairy Lights'",
+                            "machine_name": "polygala_chamaebuxus_fairy_lights",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fairy Lights",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_chamaebuxus",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1535807",
+                                "legacy_id": "108125",
+                                "fgsid": "27938",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Polygala chamaebuxus 'Kamniski'",
+                            "machine_name": "polygala_chamaebuxus_kamniski",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kamniski",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_chamaebuxus",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1550964",
+                                "legacy_id": "146903",
+                                "fgsid": "27938",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421985",
+                        "legacy_id": "3242",
+                        "fgsid": "27938",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala comosa",
+                    "machine_name": "polygala_comosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "polygala_vulgaris",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1421986",
+                        "legacy_id": "3778",
+                        "fgsid": "27939",
+                        "legacy_from_data_cross_ref": [
+                            "+P. vulgaris"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala cruciata",
+                    "machine_name": "polygala_cruciata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421987",
+                        "legacy_id": "4241",
+                        "fgsid": "27940",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala fruticosa",
+                    "machine_name": "polygala_fruticosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Berg.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala fruticosa 'Southern Shores'",
+                            "machine_name": "polygala_fruticosa_southern_shores",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Southern Shores",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_fruticosa",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597718",
+                                "legacy_id": "384983",
+                                "fgsid": "27941",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Polygala fruticosa Petite Butterflies \u2122",
+                            "machine_name": "polygala_fruticosa_petite_butterflies",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Petite Butterflies",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "polygala_fruticosa",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614012",
+                                "legacy_id": "238027",
+                                "fgsid": "27941",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421988",
+                        "legacy_id": "6292",
+                        "fgsid": "27941",
+                        "legacy_from_data_cross_ref": [
+                            "+P. oppositifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala gracilenta",
+                    "machine_name": "polygala_gracilenta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Burtt Davy.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421989",
+                        "legacy_id": "6819",
+                        "fgsid": "27942",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala hottentotta",
+                    "machine_name": "polygala_hottentotta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Presl.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421990",
+                        "legacy_id": "7697",
+                        "fgsid": "27943",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala javana",
+                    "machine_name": "polygala_javana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421991",
+                        "legacy_id": "8279",
+                        "fgsid": "27944",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala karensium",
+                    "machine_name": "polygala_karensium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Kurz.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421992",
+                        "legacy_id": "8420",
+                        "fgsid": "27945",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala major",
+                    "machine_name": "polygala_major",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421993",
+                        "legacy_id": "9913",
+                        "fgsid": "27946",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala monspeliaca",
+                    "machine_name": "polygala_monspeliaca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421994",
+                        "legacy_id": "10685",
+                        "fgsid": "27947",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala myrtifolia",
+                    "machine_name": "polygala_myrtifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala myrtifolia grandiflora",
+                            "machine_name": "polygala_myrtifolia_grandiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "grandiflora",
+                            "authorities": "Royal Hortus",
+                            "naming_authorities": "Hook.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_myrtifolia",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486863",
+                                "legacy_id": "24403",
+                                "fgsid": "27948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Polygala myrtifolia 'Mariposa'",
+                            "machine_name": "polygala_myrtifolia_mariposa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mariposa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_myrtifolia",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1594116",
+                                "legacy_id": "366528",
+                                "fgsid": "27948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Polygala myrtifolia 'Chapman Field'",
+                            "machine_name": "polygala_myrtifolia_chapman_field",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chapman Field",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_myrtifolia",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615442",
+                                "legacy_id": "236431",
+                                "fgsid": "27948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421995",
+                        "legacy_id": "10951",
+                        "fgsid": "27948",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala nicaeensis",
+                    "machine_name": "polygala_nicaeensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Risso & Koch.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala nicaeensis corsicus",
+                            "machine_name": "polygala_nicaeensis_corsicus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "corsicus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "polygala_nicaeensis",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571642",
+                                "legacy_id": "194456",
+                                "fgsid": "27949",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421996",
+                        "legacy_id": "11180",
+                        "fgsid": "27949",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala paniculata",
+                    "machine_name": "polygala_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421997",
+                        "legacy_id": "11974",
+                        "fgsid": "27950",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala paucifolia",
+                    "machine_name": "polygala_paucifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala paucifolia alba",
+                            "machine_name": "polygala_paucifolia_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "alba",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_paucifolia",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2522111",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1559398105"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421998",
+                        "legacy_id": "12141",
+                        "fgsid": "27951",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala polygama",
+                    "machine_name": "polygala_polygama",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Walt.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala polygama obtusata",
+                            "machine_name": "polygala_polygama_obtusata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "obtusata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_polygama",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622362",
+                                "legacy_id": "358537",
+                                "fgsid": "27952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421999",
+                        "legacy_id": "12841",
+                        "fgsid": "27952",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala rupestris",
+                    "machine_name": "polygala_rupestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Pourr.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422000",
+                        "legacy_id": "14185",
+                        "fgsid": "27953",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala sanguinea",
+                    "machine_name": "polygala_sanguinea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422001",
+                        "legacy_id": "14384",
+                        "fgsid": "27954",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala senega",
+                    "machine_name": "polygala_senega",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala senega latifolia",
+                            "machine_name": "polygala_senega_latifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "latifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_senega",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622363",
+                                "legacy_id": "358538",
+                                "fgsid": "27955",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Polygala senega senega",
+                            "machine_name": "polygala_senega_senega",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "senega",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_senega",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622364",
+                                "legacy_id": "358539",
+                                "fgsid": "27955",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422002",
+                        "legacy_id": "14842",
+                        "fgsid": "27955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala serpyllifolia",
+                    "machine_name": "polygala_serpyllifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II???",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422003",
+                        "legacy_id": "14908",
+                        "fgsid": "27956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala sibirica",
+                    "machine_name": "polygala_sibirica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422004",
+                        "legacy_id": "15031",
+                        "fgsid": "27957",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala subspinosa",
+                    "machine_name": "polygala_subspinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "S. Wats.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422005",
+                        "legacy_id": "15800",
+                        "fgsid": "27958",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala tinctoria",
+                    "machine_name": "polygala_tinctoria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "polygala_javana",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1422006",
+                        "legacy_id": "16431",
+                        "fgsid": "27959",
+                        "legacy_from_data_cross_ref": [
+                            "+P. javana"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala uncinata",
+                    "machine_name": "polygala_uncinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II???",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422007",
+                        "legacy_id": "16953",
+                        "fgsid": "27960",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala vayredae",
+                    "machine_name": "polygala_vayredae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Costa.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422008",
+                        "legacy_id": "17168",
+                        "fgsid": "27961",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala venulosa",
+                    "machine_name": "polygala_venulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Sibth. & Sm.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422009",
+                        "legacy_id": "17219",
+                        "fgsid": "27962",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala violacea",
+                    "machine_name": "polygala_violacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Vahl.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422010",
+                        "legacy_id": "17379",
+                        "fgsid": "27963",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala virgata",
+                    "machine_name": "polygala_virgata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala virgata decora",
+                            "machine_name": "polygala_virgata_decora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "decora",
+                            "authorities": "Cv.",
+                            "naming_authorities": "Harv.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_virgata",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486864",
+                                "legacy_id": "24404",
+                                "fgsid": "27964",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422011",
+                        "legacy_id": "17398",
+                        "fgsid": "27964",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala vulgaris",
+                    "machine_name": "polygala_vulgaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422012",
+                        "legacy_id": "17517",
+                        "fgsid": "27965",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala dalmaisiana",
+                    "machine_name": "polygala_dalmaisiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "hort.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala dalmaisiana 'Dazzler'",
+                            "machine_name": "polygala_dalmaisiana_dazzler",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dazzler",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_dalmaisiana",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532030",
+                                "legacy_id": "108388",
+                                "fgsid": "41043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437540",
+                        "legacy_id": "19196",
+                        "fgsid": "41043",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Polygala amoenissima",
+                    "machine_name": "polygala_amoenissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": "Tamamsch.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445562",
+                        "legacy_id": "48203",
+                        "fgsid": "89784",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala hybrida",
+                    "machine_name": "polygala_hybrida",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Bruegg.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445563",
+                        "legacy_id": "7787",
+                        "fgsid": "89783",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala verticillata",
+                    "machine_name": "polygala_verticillata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala verticillata ambigua",
+                            "machine_name": "polygala_verticillata_ambigua",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "ambigua",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_verticillata",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622365",
+                                "legacy_id": "358540",
+                                "fgsid": "123062",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Polygala verticillata isocycla",
+                            "machine_name": "polygala_verticillata_isocycla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "isocycla",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_verticillata",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622366",
+                                "legacy_id": "358541",
+                                "fgsid": "123062",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Polygala verticillata sphenostachya",
+                            "machine_name": "polygala_verticillata_sphenostachya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "sphenostachya",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_verticillata",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622367",
+                                "legacy_id": "358542",
+                                "fgsid": "123062",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Polygala verticillata verticillata",
+                            "machine_name": "polygala_verticillata_verticillata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "verticillata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_verticillata",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622368",
+                                "legacy_id": "358543",
+                                "fgsid": "123062",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450907",
+                        "legacy_id": "17279",
+                        "fgsid": "123062",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala incarnata",
+                    "machine_name": "polygala_incarnata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451227",
+                        "legacy_id": "7973",
+                        "fgsid": "110667",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala rimulicola",
+                    "machine_name": "polygala_rimulicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Steyerm.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala rimulicola mescalerorum",
+                            "machine_name": "polygala_rimulicola_mescalerorum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "mescalerorum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_rimulicola",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618846",
+                                "legacy_id": "350116",
+                                "fgsid": "129997",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Polygala rimulicola rimulicola",
+                            "machine_name": "polygala_rimulicola_rimulicola",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rimulicola",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "polygala_rimulicola",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618847",
+                                "legacy_id": "350117",
+                                "fgsid": "129997",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451335",
+                        "legacy_id": "73729",
+                        "fgsid": "129997",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala arenaria",
+                    "machine_name": "polygala_arenaria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Oliv.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454426",
+                        "legacy_id": "1074",
+                        "fgsid": "104979",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala rehmannii",
+                    "machine_name": "polygala_rehmannii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Chodat.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454651",
+                        "legacy_id": "13682",
+                        "fgsid": "127060",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala tenuifolia",
+                    "machine_name": "polygala_tenuifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Willd.",
+                    "description": "created for x-ref to P. rehmannii",
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "polygala_rehmannii",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1454652",
+                        "legacy_id": "16168",
+                        "fgsid": "127061",
+                        "legacy_from_data_cross_ref": [
+                            "Polygala rehmannii"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala alba",
+                    "machine_name": "polygala_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454970",
+                        "legacy_id": "384",
+                        "fgsid": "119123",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala [Cultivars]",
+                    "machine_name": "polygala_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Polygala [Cultivars] 'Bibi Pink'",
+                            "machine_name": "polygala_cultivars_bibi_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bibi Pink",
+                            "authorities": "mm",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_cultivars",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1617299",
+                                "legacy_id": "345476",
+                                "fgsid": "128559",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Polygala [Cultivars] 'Africana'",
+                            "machine_name": "polygala_cultivars_africana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Africana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_cultivars",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1663916",
+                                "legacy_id": "397849",
+                                "fgsid": "128559",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Polygala [Cultivars] 'Purple Passion'",
+                            "machine_name": "polygala_cultivars_purple_passion",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Purple Passion",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "polygala_cultivars",
+                            "genus": "polygala",
+                            "family": "polygalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2169221",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1511973600"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456171",
+                        "legacy_id": "2",
+                        "fgsid": "128559",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala dshawachischwilii",
+                    "machine_name": "polygala_dshawachischwilii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Charkev.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456495",
+                        "legacy_id": "72704",
+                        "fgsid": "128779",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala baetica",
+                    "machine_name": "polygala_baetica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Willk.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456615",
+                        "legacy_id": "1521",
+                        "fgsid": "139179",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala cowellii",
+                    "machine_name": "polygala_cowellii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "S.F. Blake.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459510",
+                        "legacy_id": "4114",
+                        "fgsid": "134830",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala lewtonii",
+                    "machine_name": "polygala_lewtonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460571",
+                        "legacy_id": "76547",
+                        "fgsid": "134698",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Polygala mariana",
+                    "machine_name": "polygala_mariana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mill.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2200966",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1515765379"
+                    }
+                },
+                {
+                    "name": "Polygala ehlersii",
+                    "machine_name": "polygala_ehlersii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318941",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526397687"
+                    }
+                },
+                {
+                    "name": "Polygala anatolica",
+                    "machine_name": "polygala_anatolica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Boiss. & Heldr.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2395466",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1540013851"
+                    }
+                },
+                {
+                    "name": "Polygala lutea",
+                    "machine_name": "polygala_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2507201",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1556285016"
+                    }
+                },
+                {
+                    "name": "Polygala meridionalis",
+                    "machine_name": "polygala_meridionalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Levyns.",
+                    "description": null,
+                    "genus": "polygala",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2588781",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1577005516"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383199",
+                "legacy_id": "4483",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Comesperma",
+            "machine_name": "comesperma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Comesperma [Cultivars]",
+                    "machine_name": "comesperma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386078",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Comesperma calymega",
+                    "machine_name": "comesperma_calymega",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404109",
+                        "legacy_id": "2716",
+                        "fgsid": "8359",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Comesperma confertum",
+                    "machine_name": "comesperma_confertum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404110",
+                        "legacy_id": "3844",
+                        "fgsid": "8360",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Comesperma ericinum",
+                    "machine_name": "comesperma_ericinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404111",
+                        "legacy_id": "5522",
+                        "fgsid": "8361",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Comesperma sphaerocarpum",
+                    "machine_name": "comesperma_sphaerocarpum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Steetz.",
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404112",
+                        "legacy_id": "15346",
+                        "fgsid": "8362",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Comesperma volubile",
+                    "machine_name": "comesperma_volubile",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404113",
+                        "legacy_id": "17505",
+                        "fgsid": "8363",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Comesperma scoparium",
+                    "machine_name": "comesperma_scoparium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "J.L. Drumm.",
+                    "description": null,
+                    "genus": "comesperma",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460387",
+                        "legacy_id": "14688",
+                        "fgsid": "143168",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386077",
+                "legacy_id": "1432",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Salomonia",
+            "machine_name": "salomonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Salomonia [Cultivars]",
+                    "machine_name": "salomonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "salomonia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386558",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Salomonia ciliata",
+                    "machine_name": "salomonia_ciliata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "salomonia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429889",
+                        "legacy_id": "3470",
+                        "fgsid": "31451",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386557",
+                "legacy_id": "4895",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Securidaca",
+            "machine_name": "securidaca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Securidaca [Cultivars]",
+                    "machine_name": "securidaca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "securidaca",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387512",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Securidaca longepedunculata",
+                    "machine_name": "securidaca_longepedunculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Fresen.",
+                    "description": null,
+                    "genus": "securidaca",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427709",
+                        "legacy_id": "9445",
+                        "fgsid": "32429",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387511",
+                "legacy_id": "5048",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Moutabea",
+            "machine_name": "moutabea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Moutabea [Cultivars]",
+                    "machine_name": "moutabea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "moutabea",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389966",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Moutabea guianensis",
+                    "machine_name": "moutabea_guianensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Aublet.",
+                    "description": null,
+                    "genus": "moutabea",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415624",
+                        "legacy_id": "7000",
+                        "fgsid": "23504",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389965",
+                "legacy_id": "3678",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Muraltia",
+            "machine_name": "muraltia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "DC.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Muraltia [Cultivars]",
+                    "machine_name": "muraltia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "muraltia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389986",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Muraltia heisteria",
+                    "machine_name": "muraltia_heisteria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "muraltia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415657",
+                        "legacy_id": "7275",
+                        "fgsid": "23538",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Muraltia pappeana",
+                    "machine_name": "muraltia_pappeana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Harv.",
+                    "description": null,
+                    "genus": "muraltia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415658",
+                        "legacy_id": "12001",
+                        "fgsid": "23539",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Muraltia ferox",
+                    "machine_name": "muraltia_ferox",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Levyns.",
+                    "description": null,
+                    "genus": "muraltia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460827",
+                        "legacy_id": "5870",
+                        "fgsid": "141580",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Muraltia spinosa",
+                    "machine_name": "muraltia_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "muraltia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461813",
+                        "legacy_id": "15394",
+                        "fgsid": "150560",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389985",
+                "legacy_id": "3688",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nylandtia",
+            "machine_name": "nylandtia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Dumort.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nylandtia [Cultivars]",
+                    "machine_name": "nylandtia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nylandtia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391728",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nylandtia spinosa",
+                    "machine_name": "nylandtia_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nylandtia",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425116",
+                        "legacy_id": "15394",
+                        "fgsid": "24394",
+                        "legacy_from_data_cross_ref": [
+                            "+Polygala spinosa"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391727",
+                "legacy_id": "3886",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Monnina",
+            "machine_name": "monnina",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "polygalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Monnina [Cultivars]",
+                    "machine_name": "monnina_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "monnina",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2177826",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513615527"
+                    }
+                },
+                {
+                    "name": "Monnina revoluta",
+                    "machine_name": "monnina_revoluta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "monnina",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2177831",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513615580"
+                    }
+                },
+                {
+                    "name": "Monnina crassifolia",
+                    "machine_name": "monnina_crassifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "monnina",
+                    "family": "polygalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318946",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526397875"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2177821",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1513615527"
+            }
+        }
+    ]
+}

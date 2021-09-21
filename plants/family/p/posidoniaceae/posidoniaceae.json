@@ -1,0 +1,109 @@
+{
+    "name": "Posidoniaceae",
+    "machine_name": "posidoniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Vines.",
+    "description": null,
+    "archival_data": {
+        "id": "2310591",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525016785"
+    },
+    "genus_items": [
+        {
+            "name": "Posidonia",
+            "machine_name": "posidonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "K.D. Koenig.",
+            "description": null,
+            "family": "posidoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Posidonia [Cultivars]",
+                    "machine_name": "posidonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "posidonia",
+                    "family": "posidoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310601",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525016827"
+                    }
+                },
+                {
+                    "name": "Posidonia coriacea",
+                    "machine_name": "posidonia_coriacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cambridge & J.Kuo.",
+                    "description": null,
+                    "genus": "posidonia",
+                    "family": "posidoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310606",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525016913"
+                    }
+                },
+                {
+                    "name": "Posidonia australis",
+                    "machine_name": "posidonia_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "posidonia",
+                    "family": "posidoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310611",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525016960"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2310596",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525016827"
+            }
+        }
+    ]
+}

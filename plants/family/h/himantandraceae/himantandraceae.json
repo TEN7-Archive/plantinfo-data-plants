@@ -1,0 +1,109 @@
+{
+    "name": "Himantandraceae",
+    "machine_name": "himantandraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381269",
+        "legacy_id": "213",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Galbulimima",
+            "machine_name": "galbulimima",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Bailey.",
+            "description": null,
+            "family": "himantandraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Galbulimima [Cultivars]",
+                    "machine_name": "galbulimima_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "galbulimima",
+                    "family": "himantandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393244",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Galbulimima baccata",
+                    "machine_name": "galbulimima_baccata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Bailey.",
+                    "description": null,
+                    "genus": "galbulimima",
+                    "family": "himantandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415223",
+                        "legacy_id": "1501",
+                        "fgsid": "15789",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Galbulimima belgraveana",
+                    "machine_name": "galbulimima_belgraveana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Sprague.",
+                    "description": null,
+                    "genus": "galbulimima",
+                    "family": "himantandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415224",
+                        "legacy_id": "1781",
+                        "fgsid": "15790",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393243",
+                "legacy_id": "2360",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

@@ -1,0 +1,611 @@
+{
+    "name": "Fumariaceae",
+    "machine_name": "fumariaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381248",
+        "legacy_id": "181",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Ceratocapnos",
+            "machine_name": "ceratocapnos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Durieu.",
+            "description": null,
+            "family": "fumariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ceratocapnos [Cultivars]",
+                    "machine_name": "ceratocapnos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ceratocapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383610",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ceratocapnos claviculata",
+                    "machine_name": "ceratocapnos_claviculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ceratocapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404840",
+                        "legacy_id": "3589",
+                        "fgsid": "7055",
+                        "legacy_from_data_cross_ref": [
+                            "+Fumaria claviculata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383609",
+                "legacy_id": "1150",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dactylicapnos",
+            "machine_name": "dactylicapnos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri change",
+            "naming_authorities": "Wall.",
+            "description": null,
+            "family": "fumariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dactylicapnos [Cultivars]",
+                    "machine_name": "dactylicapnos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dactylicapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387896",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dactylicapnos scandens",
+                    "machine_name": "dactylicapnos_scandens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Crutis BM 25\/3",
+                    "naming_authorities": "Hutch.",
+                    "description": null,
+                    "genus": "dactylicapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [
+                        {
+                            "name": "Dactylicapnos scandens 'Athens Yellow'",
+                            "machine_name": "dactylicapnos_scandens_athens_yellow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Athens Yellow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "dactylicapnos_scandens",
+                            "genus": "dactylicapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2155321",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1510932187"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454598",
+                        "legacy_id": "14500",
+                        "fgsid": "126839",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dactylicapnos macrocapnos",
+                    "machine_name": "dactylicapnos_macrocapnos",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis BM 25\/3",
+                    "naming_authorities": "Hutch.",
+                    "description": null,
+                    "genus": "dactylicapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454599",
+                        "legacy_id": "9767",
+                        "fgsid": "126840",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dactylicapnos ventii",
+                    "machine_name": "dactylicapnos_ventii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis BM 25\/3",
+                    "naming_authorities": "Liden.",
+                    "description": null,
+                    "genus": "dactylicapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454600",
+                        "legacy_id": "68644",
+                        "fgsid": "126841",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dactylicapnos torulosa",
+                    "machine_name": "dactylicapnos_torulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis BM 25\/3",
+                    "naming_authorities": "Hutch.",
+                    "description": null,
+                    "genus": "dactylicapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454601",
+                        "legacy_id": "16508",
+                        "fgsid": "126842",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dactylicapnos lichiangensis",
+                    "machine_name": "dactylicapnos_lichiangensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hand.-Mazz.",
+                    "description": null,
+                    "genus": "dactylicapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462471",
+                        "legacy_id": "9237",
+                        "fgsid": "151162",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387895",
+                "legacy_id": "1698",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pseudofumaria",
+            "machine_name": "pseudofumaria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Medikus.",
+            "description": null,
+            "family": "fumariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pseudofumaria [Cultivars]",
+                    "machine_name": "pseudofumaria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pseudofumaria",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395938",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pseudofumaria lutea",
+                    "machine_name": "pseudofumaria_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Borkh.",
+                    "description": null,
+                    "genus": "pseudofumaria",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444515",
+                        "legacy_id": "9629",
+                        "fgsid": "58881",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pseudofumaria alba",
+                    "machine_name": "pseudofumaria_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Liden.",
+                    "description": null,
+                    "genus": "pseudofumaria",
+                    "family": "fumariaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459337",
+                        "legacy_id": "384",
+                        "fgsid": "142099",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395937",
+                "legacy_id": "10542",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lamprocapnos",
+            "machine_name": "lamprocapnos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (IK)",
+            "naming_authorities": "Endl.",
+            "description": null,
+            "family": "fumariaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lamprocapnos spectabilis",
+                    "machine_name": "lamprocapnos_spectabilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "T. Fukuhara.",
+                    "description": "Plant Systematics & Evolution. 206(1-4). 1997. 411-420: new combination validated.",
+                    "genus": "lamprocapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [
+                        {
+                            "name": "Lamprocapnos spectabilis 'Alba'",
+                            "machine_name": "lamprocapnos_spectabilis_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alba",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lamprocapnos_spectabilis",
+                            "genus": "lamprocapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468212",
+                                "legacy_id": "8473",
+                                "fgsid": "71895",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Lamprocapnos spectabilis 'Gold Heart'",
+                            "machine_name": "lamprocapnos_spectabilis_gold_heart",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Heart",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lamprocapnos_spectabilis",
+                            "genus": "lamprocapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1542618",
+                                "legacy_id": "118427",
+                                "fgsid": "71895",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Lamprocapnos spectabilis 'Rosea'",
+                            "machine_name": "lamprocapnos_spectabilis_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lamprocapnos_spectabilis",
+                            "genus": "lamprocapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1613634",
+                                "legacy_id": "237732",
+                                "fgsid": "71895",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Lamprocapnos spectabilis 'Valentine'",
+                            "machine_name": "lamprocapnos_spectabilis_valentine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Valentine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lamprocapnos_spectabilis",
+                            "genus": "lamprocapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1654568",
+                                "legacy_id": "369308",
+                                "fgsid": "71895",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Lamprocapnos spectabilis 'Yellow Leaf'",
+                            "machine_name": "lamprocapnos_spectabilis_yellow_leaf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yellow Leaf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "lamprocapnos_spectabilis",
+                            "genus": "lamprocapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2299756",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1523649600"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450428",
+                        "legacy_id": "15322",
+                        "fgsid": "71895",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Lamprocapnos [Cultivars]",
+                    "machine_name": "lamprocapnos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lamprocapnos",
+                    "family": "fumariaceae",
+                    "variety_items": [
+                        {
+                            "name": "Lamprocapnos [Cultivars] White Gold \u00ae",
+                            "machine_name": "lamprocapnos_cultivars_white_gold",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "White Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "lamprocapnos_cultivars",
+                            "genus": "lamprocapnos",
+                            "family": "fumariaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1664337",
+                                "legacy_id": "396568",
+                                "fgsid": "149479",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462276",
+                        "legacy_id": "2",
+                        "fgsid": "149479",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396181",
+                "legacy_id": "12362",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

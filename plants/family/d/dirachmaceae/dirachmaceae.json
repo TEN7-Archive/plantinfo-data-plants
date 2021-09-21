@@ -1,0 +1,85 @@
+{
+    "name": "Dirachmaceae",
+    "machine_name": "dirachmaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Hutch.",
+    "description": null,
+    "archival_data": {
+        "id": "2319091",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526399286"
+    },
+    "genus_items": [
+        {
+            "name": "Dirachma",
+            "machine_name": "dirachma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Schweinf. & Balf.f.",
+            "description": null,
+            "family": "dirachmaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dirachma [Cultivars]",
+                    "machine_name": "dirachma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dirachma",
+                    "family": "dirachmaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396582",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Dirachma socotrana",
+                    "machine_name": "dirachma_socotrana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Schweinf. & Balf.f.",
+                    "description": null,
+                    "genus": "dirachma",
+                    "family": "dirachmaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449163",
+                        "legacy_id": "15213",
+                        "fgsid": "88115",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396581",
+                "legacy_id": "15182",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

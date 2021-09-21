@@ -1,0 +1,114 @@
+{
+    "name": "Scheuchzeriaceae",
+    "machine_name": "scheuchzeriaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381396",
+        "legacy_id": "378",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Scheuchzeria",
+            "machine_name": "scheuchzeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "scheuchzeriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Scheuchzeria [Cultivars]",
+                    "machine_name": "scheuchzeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "scheuchzeria",
+                    "family": "scheuchzeriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387370",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Scheuchzeria palustris",
+                    "machine_name": "scheuchzeria_palustris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "scheuchzeria",
+                    "family": "scheuchzeriaceae",
+                    "variety_items": [
+                        {
+                            "name": "Scheuchzeria palustris americana",
+                            "machine_name": "scheuchzeria_palustris_americana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "americana",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "scheuchzeria_palustris",
+                            "genus": "scheuchzeria",
+                            "family": "scheuchzeriaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1492152",
+                                "legacy_id": "31920",
+                                "fgsid": "32141",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432566",
+                        "legacy_id": "11948",
+                        "fgsid": "32141",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387369",
+                "legacy_id": "4975",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

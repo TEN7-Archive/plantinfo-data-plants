@@ -1,0 +1,864 @@
+{
+    "name": "Winteraceae",
+    "machine_name": "winteraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381442",
+        "legacy_id": "436",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Pseudowintera",
+            "machine_name": "pseudowintera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Dandy.",
+            "description": null,
+            "family": "winteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pseudowintera [Cultivars]",
+                    "machine_name": "pseudowintera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pseudowintera",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384058",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pseudowintera axillaris",
+                    "machine_name": "pseudowintera_axillaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Dandy.",
+                    "description": null,
+                    "genus": "pseudowintera",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425743",
+                        "legacy_id": "1475",
+                        "fgsid": "28876",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pseudowintera traversii",
+                    "machine_name": "pseudowintera_traversii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pseudowintera",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425744",
+                        "legacy_id": "16572",
+                        "fgsid": "28877",
+                        "legacy_from_data_cross_ref": [
+                            "+Hymenanthera traversii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pseudowintera colorata",
+                    "machine_name": "pseudowintera_colorata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Dandy.",
+                    "description": null,
+                    "genus": "pseudowintera",
+                    "family": "winteraceae",
+                    "variety_items": [
+                        {
+                            "name": "Pseudowintera colorata 'Marjorie Congreve'",
+                            "machine_name": "pseudowintera_colorata_marjorie_congreve",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Marjorie Congreve",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pseudowintera_colorata",
+                            "genus": "pseudowintera",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661011",
+                                "legacy_id": "393517",
+                                "fgsid": "131239",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453242",
+                        "legacy_id": "3733",
+                        "fgsid": "131239",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384057",
+                "legacy_id": "4595",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Drimys",
+            "machine_name": "drimys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forster & Forster.",
+            "description": null,
+            "family": "winteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Drimys lanceolata",
+                    "machine_name": "drimys_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Baillon.",
+                    "description": null,
+                    "genus": "drimys",
+                    "family": "winteraceae",
+                    "variety_items": [
+                        {
+                            "name": "Drimys lanceolata 'Suzette'",
+                            "machine_name": "drimys_lanceolata_suzette",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Suzette",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "drimys_lanceolata",
+                            "genus": "drimys",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633984",
+                                "legacy_id": "300956",
+                                "fgsid": "11692",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404711",
+                        "legacy_id": "8822",
+                        "fgsid": "11692",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Drimys stipitata",
+                    "machine_name": "drimys_stipitata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "drimys",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404712",
+                        "legacy_id": "15574",
+                        "fgsid": "11693",
+                        "legacy_from_data_cross_ref": [
+                            "+D. aromatica pedunculata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Drimys winteri",
+                    "machine_name": "drimys_winteri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "R. & G. Forster.",
+                    "description": null,
+                    "genus": "drimys",
+                    "family": "winteraceae",
+                    "variety_items": [
+                        {
+                            "name": "Drimys winteri chilensis",
+                            "machine_name": "drimys_winteri_chilensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "chilensis",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": "Gray.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "drimys_winteri",
+                            "genus": "drimys",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507134",
+                                "legacy_id": "78575",
+                                "fgsid": "11694",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Drimys winteri 'Pewter Pillar'",
+                            "machine_name": "drimys_winteri_pewter_pillar",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pewter Pillar",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "drimys_winteri",
+                            "genus": "drimys",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622808",
+                                "legacy_id": "375101",
+                                "fgsid": "11694",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Drimys winteri andina",
+                            "machine_name": "drimys_winteri_andina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "andina",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "drimys_winteri",
+                            "genus": "drimys",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623052",
+                                "legacy_id": "375540",
+                                "fgsid": "11694",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404713",
+                        "legacy_id": "17756",
+                        "fgsid": "11694",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Drimys [Cultivars]",
+                    "machine_name": "drimys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "drimys",
+                    "family": "winteraceae",
+                    "variety_items": [
+                        {
+                            "name": "Drimys [Cultivars] 'Windcliff Red Stem'",
+                            "machine_name": "drimys_cultivars_windcliff_red_stem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Windcliff Red Stem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "drimys_cultivars",
+                            "genus": "drimys",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1653073",
+                                "legacy_id": "366409",
+                                "fgsid": "137512",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457713",
+                        "legacy_id": "2",
+                        "fgsid": "137512",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Drimys granadensis",
+                    "machine_name": "drimys_granadensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.f.",
+                    "description": null,
+                    "genus": "drimys",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309291",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524838414"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389735",
+                "legacy_id": "1954",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Tasmannia",
+            "machine_name": "tasmannia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "R. Br. & DC.",
+            "description": null,
+            "family": "winteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tasmannia [Cultivars]",
+                    "machine_name": "tasmannia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390904",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Tasmannia glaucifolia",
+                    "machine_name": "tasmannia_glaucifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 19",
+                    "naming_authorities": "J.B. Williams.",
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429323",
+                        "legacy_id": "6660",
+                        "fgsid": "34343",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tasmannia insipida",
+                    "machine_name": "tasmannia_insipida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429324",
+                        "legacy_id": "8074",
+                        "fgsid": "34344",
+                        "legacy_from_data_cross_ref": [
+                            "+Drimys insipida"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tasmannia lanceolata",
+                    "machine_name": "tasmannia_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "A.C. Smith.",
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429325",
+                        "legacy_id": "8822",
+                        "fgsid": "34345",
+                        "legacy_from_data_cross_ref": [
+                            "+Winterania lanceolata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tasmannia purpurascens",
+                    "machine_name": "tasmannia_purpurascens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429326",
+                        "legacy_id": "13333",
+                        "fgsid": "34346",
+                        "legacy_from_data_cross_ref": [
+                            "+Drimys purpurascens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tasmannia stipitata",
+                    "machine_name": "tasmannia_stipitata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429327",
+                        "legacy_id": "15574",
+                        "fgsid": "34347",
+                        "legacy_from_data_cross_ref": [
+                            "+Drimys stipitata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tasmannia xerophila",
+                    "machine_name": "tasmannia_xerophila",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "M.Gray.",
+                    "description": null,
+                    "genus": "tasmannia",
+                    "family": "winteraceae",
+                    "variety_items": [
+                        {
+                            "name": "Tasmannia xerophila xerophila",
+                            "machine_name": "tasmannia_xerophila_xerophila",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "xerophila",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "tasmannia_xerophila",
+                            "genus": "tasmannia",
+                            "family": "winteraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634879",
+                                "legacy_id": "302357",
+                                "fgsid": "117580",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454224",
+                        "legacy_id": "17834",
+                        "fgsid": "117580",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390903",
+                "legacy_id": "5426",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Zygogynum",
+            "machine_name": "zygogynum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Baillon.",
+            "description": null,
+            "family": "winteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Zygogynum [Cultivars]",
+                    "machine_name": "zygogynum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "zygogynum",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394650",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Zygogynum howeanum",
+                    "machine_name": "zygogynum_howeanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "zygogynum",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439088",
+                        "legacy_id": "70991",
+                        "fgsid": "36976",
+                        "legacy_from_data_cross_ref": [
+                            "+Drimys howeana"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Zygogynum pomiferum",
+                    "machine_name": "zygogynum_pomiferum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "zygogynum",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309286",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524838313"
+                    }
+                },
+                {
+                    "name": "Zygogynum pancheri",
+                    "machine_name": "zygogynum_pancheri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Vink.",
+                    "description": null,
+                    "genus": "zygogynum",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2560201",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1569016296"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394649",
+                "legacy_id": "5947",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Takhtajania",
+            "machine_name": "takhtajania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (IK)",
+            "naming_authorities": "M. Baranova & J.-F. Leroy",
+            "description": null,
+            "family": "winteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Takhtajania [Cultivars]",
+                    "machine_name": "takhtajania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "takhtajania",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396018",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Takhtajania perrieri",
+                    "machine_name": "takhtajania_perrieri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "M. Baranova & J.-F.Leroy",
+                    "description": null,
+                    "genus": "takhtajania",
+                    "family": "winteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440279",
+                        "legacy_id": "20256",
+                        "fgsid": "62235",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396017",
+                "legacy_id": "10942",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

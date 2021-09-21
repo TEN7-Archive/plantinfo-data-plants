@@ -1,0 +1,154 @@
+{
+    "name": "Circaeasteraceae",
+    "machine_name": "circaeasteraceae",
+    "type": "family",
+    "authorities": "Missouri.",
+    "naming_authorities": "Hutch.",
+    "description": null,
+    "archival_data": {
+        "id": "1381508",
+        "legacy_id": "1040",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Circaeaster",
+            "machine_name": "circaeaster",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Maxim.",
+            "description": null,
+            "family": "circaeasteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Circaeaster [Cultivars]",
+                    "machine_name": "circaeaster_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "circaeaster",
+                    "family": "circaeasteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395368",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Circaeaster agrestis",
+                    "machine_name": "circaeaster_agrestis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "circaeaster",
+                    "family": "circaeasteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461598",
+                        "legacy_id": "333",
+                        "fgsid": "142961",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395367",
+                "legacy_id": "27404",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Kingdonia",
+            "machine_name": "kingdonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Balf. f. & W.W. Sm.",
+            "description": null,
+            "family": "circaeasteraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Kingdonia [Cultivars]",
+                    "machine_name": "kingdonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "kingdonia",
+                    "family": "circaeasteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395370",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Kingdonia uniflora",
+                    "machine_name": "kingdonia_uniflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Balf. f. & W.W. Sm.",
+                    "description": null,
+                    "genus": "kingdonia",
+                    "family": "circaeasteraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461599",
+                        "legacy_id": "16986",
+                        "fgsid": "142962",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395369",
+                "legacy_id": "27405",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

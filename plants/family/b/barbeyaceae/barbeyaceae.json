@@ -1,0 +1,85 @@
+{
+    "name": "Barbeyaceae",
+    "machine_name": "barbeyaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Rendle.",
+    "description": null,
+    "archival_data": {
+        "id": "2319071",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526399050"
+    },
+    "genus_items": [
+        {
+            "name": "Barbeya",
+            "machine_name": "barbeya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Schweinf.",
+            "description": null,
+            "family": "barbeyaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Barbeya [Cultivars]",
+                    "machine_name": "barbeya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barbeya",
+                    "family": "barbeyaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2319081",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526399091"
+                    }
+                },
+                {
+                    "name": "Barbeya oleoides",
+                    "machine_name": "barbeya_oleoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Schweinf.",
+                    "description": null,
+                    "genus": "barbeya",
+                    "family": "barbeyaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2319086",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526399132"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2319076",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526399091"
+            }
+        }
+    ]
+}

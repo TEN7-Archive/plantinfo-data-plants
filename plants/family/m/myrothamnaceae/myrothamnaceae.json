@@ -1,0 +1,85 @@
+{
+    "name": "Myrothamnaceae",
+    "machine_name": "myrothamnaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Welw.",
+    "description": null,
+    "archival_data": {
+        "id": "2318021",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526149566"
+    },
+    "genus_items": [
+        {
+            "name": "Myrothamnus",
+            "machine_name": "myrothamnus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Welw.",
+            "description": null,
+            "family": "myrothamnaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Myrothamnus [Cultivars]",
+                    "machine_name": "myrothamnus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "myrothamnus",
+                    "family": "myrothamnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396128",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Myrothamnus flabellifolia",
+                    "machine_name": "myrothamnus_flabellifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Welw.",
+                    "description": null,
+                    "genus": "myrothamnus",
+                    "family": "myrothamnaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449370",
+                        "legacy_id": "6003",
+                        "fgsid": "69755",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396127",
+                "legacy_id": "11922",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

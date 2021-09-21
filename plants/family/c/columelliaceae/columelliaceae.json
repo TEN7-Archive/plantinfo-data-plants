@@ -1,0 +1,207 @@
+{
+    "name": "Columelliaceae",
+    "machine_name": "columelliaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "D. Don.",
+    "description": null,
+    "archival_data": {
+        "id": "2339451",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530038494"
+    },
+    "genus_items": [
+        {
+            "name": "Desfontainia",
+            "machine_name": "desfontainia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Ruiz & Pavon.",
+            "description": null,
+            "family": "columelliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Desfontainia [Cultivars]",
+                    "machine_name": "desfontainia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "desfontainia",
+                    "family": "columelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388724",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Desfontainia spinosa",
+                    "machine_name": "desfontainia_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Ruiz & Pavon.",
+                    "description": null,
+                    "genus": "desfontainia",
+                    "family": "columelliaceae",
+                    "variety_items": [
+                        {
+                            "name": "Desfontainia spinosa 'Harold Comber'",
+                            "machine_name": "desfontainia_spinosa_harold_comber",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Harold Comber",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "desfontainia_spinosa",
+                            "genus": "desfontainia",
+                            "family": "columelliaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623116",
+                                "legacy_id": "375539",
+                                "fgsid": "10792",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407636",
+                        "legacy_id": "15394",
+                        "fgsid": "10792",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Desfontainia steyermarkii",
+                    "machine_name": "desfontainia_steyermarkii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Moldenke.",
+                    "description": null,
+                    "genus": "desfontainia",
+                    "family": "columelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533028920"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388723",
+                "legacy_id": "1781",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Columellia",
+            "machine_name": "columellia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "columelliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Columellia [Cultivars]",
+                    "machine_name": "columellia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "columellia",
+                    "family": "columelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359556",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029086"
+                    }
+                },
+                {
+                    "name": "Columellia oblonga",
+                    "machine_name": "columellia_oblonga",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "columellia",
+                    "family": "columelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2359561",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1533029151"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2359551",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1533029086"
+            }
+        }
+    ]
+}

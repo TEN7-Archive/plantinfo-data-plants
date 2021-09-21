@@ -1,0 +1,85 @@
+{
+    "name": "Stegnospermataceae",
+    "machine_name": "stegnospermataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Nakai.",
+    "description": null,
+    "archival_data": {
+        "id": "2336221",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529325675"
+    },
+    "genus_items": [
+        {
+            "name": "Stegnosperma",
+            "machine_name": "stegnosperma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Benth.",
+            "description": null,
+            "family": "stegnospermataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Stegnosperma [Cultivars]",
+                    "machine_name": "stegnosperma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "stegnosperma",
+                    "family": "stegnospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336231",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529325725"
+                    }
+                },
+                {
+                    "name": "Stegnosperma cubense",
+                    "machine_name": "stegnosperma_cubense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. Rich.",
+                    "description": null,
+                    "genus": "stegnosperma",
+                    "family": "stegnospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336236",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529325765"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2336226",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529325725"
+            }
+        }
+    ]
+}

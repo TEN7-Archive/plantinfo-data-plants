@@ -1,0 +1,1376 @@
+{
+    "name": "Pentaphylacaceae",
+    "machine_name": "pentaphylacaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Engl.",
+    "description": null,
+    "archival_data": {
+        "id": "2338411",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529846927"
+    },
+    "genus_items": [
+        {
+            "name": "Cleyera",
+            "machine_name": "cleyera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Thunb.",
+            "description": null,
+            "family": "pentaphylacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cleyera japonica*",
+                    "machine_name": "cleyera_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "cleyera",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cleyera japonica* 'Tricolour'",
+                            "machine_name": "cleyera_japonica_tricolour",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tricolour",
+                            "authorities": "mm",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleyera_japonica",
+                            "genus": "cleyera",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623040",
+                                "legacy_id": "375296",
+                                "fgsid": "8052",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Cleyera japonica* wallichiana",
+                            "machine_name": "cleyera_japonica_wallichiana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "wallichiana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cleyera_japonica",
+                            "genus": "cleyera",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2323961",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1527025260"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "ternstroemia_gymnanthera",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1408992",
+                        "legacy_id": "8265",
+                        "fgsid": "8052",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cleyera fortunei*",
+                    "machine_name": "cleyera_fortunei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleyera",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438434",
+                        "legacy_id": "6193",
+                        "fgsid": "38512",
+                        "legacy_from_data_cross_ref": [
+                            "C. japonica 'Fortunei'"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cleyera [Cultivars]",
+                    "machine_name": "cleyera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cleyera",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cleyera [Cultivars] Jade Tiara* \u00ae",
+                            "machine_name": "cleyera_cultivars_jade_tiara",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Jade Tiara*",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "created for cross reference",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "created for cross reference",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "cleyera_cultivars",
+                            "genus": "cleyera",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "ternstroemia_gymnanthera_jade_tiara",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1539174",
+                                "legacy_id": "113955",
+                                "fgsid": "42739",
+                                "legacy_from_data_cross_ref": [
+                                    "Ternstroemia gymnanthera Jade Tiara"
+                                ],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Cleyera [Cultivars] 'Bronze Beauty'",
+                            "machine_name": "cleyera_cultivars_bronze_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bronze Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleyera_cultivars",
+                            "genus": "cleyera",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588989",
+                                "legacy_id": "322416",
+                                "fgsid": "42739",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Cleyera [Cultivars] 'Bigfoot'",
+                            "machine_name": "cleyera_cultivars_bigfoot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bigfoot",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cleyera_cultivars",
+                            "genus": "cleyera",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1639410",
+                                "legacy_id": "333040",
+                                "fgsid": "42739",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Cleyera [Cultivars] Leann \u2122",
+                            "machine_name": "cleyera_cultivars_leann",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Leann",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "cleyera_cultivars",
+                            "genus": "cleyera",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2129536",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1498150560"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443871",
+                        "legacy_id": "2",
+                        "fgsid": "42739",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cleyera integrifolia",
+                    "machine_name": "cleyera_integrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Choisy.",
+                    "description": null,
+                    "genus": "cleyera",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338451",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529848980"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385273",
+                "legacy_id": "1347",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Ternstroemia",
+            "machine_name": "ternstroemia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Mutis & L.f.",
+            "description": null,
+            "family": "pentaphylacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ternstroemia [Cultivars]",
+                    "machine_name": "ternstroemia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ternstroemia",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390960",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Ternstroemia gymnanthera",
+                    "machine_name": "ternstroemia_gymnanthera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Sprague.",
+                    "description": null,
+                    "genus": "ternstroemia",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ternstroemia gymnanthera 'Tricolor'",
+                            "machine_name": "ternstroemia_gymnanthera_tricolor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tricolor",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr recognizes this as only 1 of 2 cultivars that belong here; the others are under Ternstroemia",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr recognizes this as only 1 of 2 cultivars that belong here; the others are under Ternstroemia",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470384",
+                                "legacy_id": "5234",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Grimes'",
+                            "machine_name": "ternstroemia_gymnanthera_grimes",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grimes",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491303",
+                                "legacy_id": "32975",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Ryokojo'",
+                            "machine_name": "ternstroemia_gymnanthera_ryokojo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ryokojo",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491304",
+                                "legacy_id": "32976",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824640"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Fortunei'",
+                            "machine_name": "ternstroemia_gymnanthera_fortunei",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fortunei",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500917",
+                                "legacy_id": "74595",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera Jade Tiara \u00ae",
+                            "machine_name": "ternstroemia_gymnanthera_jade_tiara",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Jade Tiara",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Confused and often placed in Cleyera",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Confused and often placed in Cleyera",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1527635",
+                                "legacy_id": "105950",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Burgundy'",
+                            "machine_name": "ternstroemia_gymnanthera_burgundy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Burgundy",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1530222",
+                                "legacy_id": "102984",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Dwarf #1'",
+                            "machine_name": "ternstroemia_gymnanthera_dwarf_1",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dwarf #1",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1530223",
+                                "legacy_id": "102985",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Golden Leaf'",
+                            "machine_name": "ternstroemia_gymnanthera_golden_leaf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Leaf",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1530224",
+                                "legacy_id": "102986",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Variegata'",
+                            "machine_name": "ternstroemia_gymnanthera_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1530225",
+                                "legacy_id": "102987",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera Copper Crown \u2122",
+                            "machine_name": "ternstroemia_gymnanthera_copper_crown",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Copper Crown",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539175",
+                                "legacy_id": "113956",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera Sovereign \u00ae",
+                            "machine_name": "ternstroemia_gymnanthera_sovereign",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Sovereign",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539176",
+                                "legacy_id": "113957",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera Regal \u2122",
+                            "machine_name": "ternstroemia_gymnanthera_regal",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Regal",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544160",
+                                "legacy_id": "120047",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Burnished Gold'",
+                            "machine_name": "ternstroemia_gymnanthera_burnished_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Burnished Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556489",
+                                "legacy_id": "156002",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'LeAnne'",
+                            "machine_name": "ternstroemia_gymnanthera_leanne",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "LeAnne",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556878",
+                                "legacy_id": "149723",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Phyllis Ann'",
+                            "machine_name": "ternstroemia_gymnanthera_phyllis_ann",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Phyllis Ann",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1559359",
+                                "legacy_id": "152970",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera Bronze Beauty \u2122",
+                            "machine_name": "ternstroemia_gymnanthera_bronze_beauty",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Bronze Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571449",
+                                "legacy_id": "196356",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera Bigfoot \u2122",
+                            "machine_name": "ternstroemia_gymnanthera_bigfoot",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Bigfoot",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574119",
+                                "legacy_id": "195433",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera LeAnn \u2122",
+                            "machine_name": "ternstroemia_gymnanthera_leann",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "LeAnn",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "ternstroemia_gymnanthera_leanne",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1576143",
+                                "legacy_id": "198096",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Ruby Deluxe'",
+                            "machine_name": "ternstroemia_gymnanthera_ruby_deluxe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ruby Deluxe",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584133",
+                                "legacy_id": "214711",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Musashi Sunset'",
+                            "machine_name": "ternstroemia_gymnanthera_musashi_sunset",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Musashi Sunset",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1592733",
+                                "legacy_id": "317877",
+                                "fgsid": "34431",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Ternstroemia gymnanthera 'Juliet'",
+                            "machine_name": "ternstroemia_gymnanthera_juliet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Juliet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ternstroemia_gymnanthera",
+                            "genus": "ternstroemia",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2369036",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1535467346"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429701",
+                        "legacy_id": "7041",
+                        "fgsid": "34431",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Ternstroemia japonica*",
+                    "machine_name": "ternstroemia_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ternstroemia",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "ternstroemia_gymnanthera",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1437449",
+                        "legacy_id": "8265",
+                        "fgsid": "39631",
+                        "legacy_from_data_cross_ref": [
+                            "japonica"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Ternstroemia tepezapote",
+                    "machine_name": "ternstroemia_tepezapote",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Schltdl. & Cham.",
+                    "description": null,
+                    "genus": "ternstroemia",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338426",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529847660"
+                    }
+                },
+                {
+                    "name": "Ternstroemia impressa",
+                    "machine_name": "ternstroemia_impressa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Lundell.",
+                    "description": null,
+                    "genus": "ternstroemia",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338431",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529848760"
+                    }
+                },
+                {
+                    "name": "Ternstroemia nitida",
+                    "machine_name": "ternstroemia_nitida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "ternstroemia",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2380636",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537964544"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390959",
+                "legacy_id": "5454",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Eurya",
+            "machine_name": "eurya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Thunb.",
+            "description": null,
+            "family": "pentaphylacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eurya [Cultivars]",
+                    "machine_name": "eurya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eurya",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392306",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Eurya acuminata",
+                    "machine_name": "eurya_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "eurya",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412202",
+                        "legacy_id": "151",
+                        "fgsid": "15052",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eurya cerasifolia",
+                    "machine_name": "eurya_cerasifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eurya",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412203",
+                        "legacy_id": "3190",
+                        "fgsid": "15053",
+                        "legacy_from_data_cross_ref": [
+                            "+Diospyros cerasifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eurya emarginata",
+                    "machine_name": "eurya_emarginata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Mak.",
+                    "description": null,
+                    "genus": "eurya",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412204",
+                        "legacy_id": "5402",
+                        "fgsid": "15054",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eurya japonica",
+                    "machine_name": "eurya_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "eurya",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eurya japonica 'Moutiers'",
+                            "machine_name": "eurya_japonica_moutiers",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Moutiers",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eurya_japonica",
+                            "genus": "eurya",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662771",
+                                "legacy_id": "392028",
+                                "fgsid": "42350",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Eurya japonica 'Sea Brocade'",
+                            "machine_name": "eurya_japonica_sea_brocade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sea Brocade",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eurya_japonica",
+                            "genus": "eurya",
+                            "family": "pentaphylacaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662772",
+                                "legacy_id": "392029",
+                                "fgsid": "42350",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442436",
+                        "legacy_id": "8265",
+                        "fgsid": "42350",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392305",
+                "legacy_id": "2228",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Adinandra",
+            "machine_name": "adinandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Jack.",
+            "description": null,
+            "family": "pentaphylacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Adinandra [Cultivars]",
+                    "machine_name": "adinandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "adinandra",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338441",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529848876"
+                    }
+                },
+                {
+                    "name": "Adinandra dumosa",
+                    "machine_name": "adinandra_dumosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Jack.",
+                    "description": null,
+                    "genus": "adinandra",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338446",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529848915"
+                    }
+                },
+                {
+                    "name": "Adinandra milletii",
+                    "machine_name": "adinandra_milletii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benth. & Hook.f. & Hance.",
+                    "description": null,
+                    "genus": "adinandra",
+                    "family": "pentaphylacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2376526",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537360970"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2338436",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529848876"
+            }
+        }
+    ]
+}

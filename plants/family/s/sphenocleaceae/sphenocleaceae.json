@@ -1,0 +1,85 @@
+{
+    "name": "Sphenocleaceae",
+    "machine_name": "sphenocleaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "T. Baskerv.",
+    "description": null,
+    "archival_data": {
+        "id": "2340196",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530365325"
+    },
+    "genus_items": [
+        {
+            "name": "Sphenoclea",
+            "machine_name": "sphenoclea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Gaertn.",
+            "description": null,
+            "family": "sphenocleaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sphenoclea [Cultivars]",
+                    "machine_name": "sphenoclea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sphenoclea",
+                    "family": "sphenocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340206",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530365357"
+                    }
+                },
+                {
+                    "name": "Sphenoclea zeylanica",
+                    "machine_name": "sphenoclea_zeylanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gaertn.",
+                    "description": null,
+                    "genus": "sphenoclea",
+                    "family": "sphenocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340211",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530365391"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2340201",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530365357"
+            }
+        }
+    ]
+}

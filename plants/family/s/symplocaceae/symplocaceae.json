@@ -1,0 +1,738 @@
+{
+    "name": "Symplocaceae",
+    "machine_name": "symplocaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381415",
+        "legacy_id": "404",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Symplocos",
+            "machine_name": "symplocos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Jacq.",
+            "description": null,
+            "family": "symplocaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Symplocos [Cultivars]",
+                    "machine_name": "symplocos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390120",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Symplocos anomala",
+                    "machine_name": "symplocos_anomala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [
+                        {
+                            "name": "Symplocos anomala kiraishiensis",
+                            "machine_name": "symplocos_anomala_kiraishiensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "kiraishiensis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "symplocos_anomala",
+                            "genus": "symplocos",
+                            "family": "symplocaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1495115",
+                                "legacy_id": "32714",
+                                "fgsid": "34088",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Symplocos anomala morrisonicola",
+                            "machine_name": "symplocos_anomala_morrisonicola",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "morrisonicola",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "symplocos_anomala",
+                            "genus": "symplocos",
+                            "family": "symplocaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1495338",
+                                "legacy_id": "32715",
+                                "fgsid": "34088",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428496",
+                        "legacy_id": "866",
+                        "fgsid": "34088",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos chinensis",
+                    "machine_name": "symplocos_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [
+                        {
+                            "name": "Symplocos chinensis pilosa",
+                            "machine_name": "symplocos_chinensis_pilosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pilosa",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "symplocos_chinensis",
+                            "genus": "symplocos",
+                            "family": "symplocaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1495339",
+                                "legacy_id": "32716",
+                                "fgsid": "34089",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428497",
+                        "legacy_id": "3351",
+                        "fgsid": "34089",
+                        "legacy_from_data_cross_ref": [
+                            "+Myrtus chinesis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos cochinchinensis",
+                    "machine_name": "symplocos_cochinchinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [
+                        {
+                            "name": "Symplocos cochinchinensis laurina",
+                            "machine_name": "symplocos_cochinchinensis_laurina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "laurina",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "symplocos_cochinchinensis",
+                            "genus": "symplocos",
+                            "family": "symplocaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1495340",
+                                "legacy_id": "32717",
+                                "fgsid": "34090",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Symplocos cochinchinensis philippinensis",
+                            "machine_name": "symplocos_cochinchinensis_philippinensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "philippinensis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "symplocos_cochinchinensis",
+                            "genus": "symplocos",
+                            "family": "symplocaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1495341",
+                                "legacy_id": "32718",
+                                "fgsid": "34090",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428498",
+                        "legacy_id": "3660",
+                        "fgsid": "34090",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos coreana",
+                    "machine_name": "symplocos_coreana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Ohwi.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428499",
+                        "legacy_id": "3982",
+                        "fgsid": "34091",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos dryophila",
+                    "machine_name": "symplocos_dryophila",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "C.B. Clarke.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428500",
+                        "legacy_id": "5144",
+                        "fgsid": "34092",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos furcata",
+                    "machine_name": "symplocos_furcata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Brand.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428501",
+                        "legacy_id": "6345",
+                        "fgsid": "34093",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos glauca",
+                    "machine_name": "symplocos_glauca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428502",
+                        "legacy_id": "6654",
+                        "fgsid": "34094",
+                        "legacy_from_data_cross_ref": [
+                            "+Laurus glauca"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos glomerata",
+                    "machine_name": "symplocos_glomerata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "King & Gamble.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428503",
+                        "legacy_id": "6708",
+                        "fgsid": "34095",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos inconspicua",
+                    "machine_name": "symplocos_inconspicua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "Brand.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428504",
+                        "legacy_id": "7986",
+                        "fgsid": "34096",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos lancifolia",
+                    "machine_name": "symplocos_lancifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Siebold & Zucc.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428505",
+                        "legacy_id": "8827",
+                        "fgsid": "34097",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos lucida",
+                    "machine_name": "symplocos_lucida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Siebold & Zucc.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428506",
+                        "legacy_id": "9574",
+                        "fgsid": "34098",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos modesta",
+                    "machine_name": "symplocos_modesta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Brand.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428507",
+                        "legacy_id": "10592",
+                        "fgsid": "34099",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos nokoensis",
+                    "machine_name": "symplocos_nokoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428508",
+                        "legacy_id": "11280",
+                        "fgsid": "34100",
+                        "legacy_from_data_cross_ref": [
+                            "+Ilex nokoensis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos paniculata",
+                    "machine_name": "symplocos_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428509",
+                        "legacy_id": "11974",
+                        "fgsid": "34101",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos pyrifolia",
+                    "machine_name": "symplocos_pyrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428510",
+                        "legacy_id": "13414",
+                        "fgsid": "34102",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos ramosissima",
+                    "machine_name": "symplocos_ramosissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428511",
+                        "legacy_id": "13559",
+                        "fgsid": "34103",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos spicata",
+                    "machine_name": "symplocos_spicata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Roxb.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428512",
+                        "legacy_id": "15365",
+                        "fgsid": "34104",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos sumuntia",
+                    "machine_name": "symplocos_sumuntia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Buch.-Ham. & Don.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428513",
+                        "legacy_id": "15881",
+                        "fgsid": "34105",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos tanakae",
+                    "machine_name": "symplocos_tanakae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Matsum.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428514",
+                        "legacy_id": "16034",
+                        "fgsid": "34106",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos theifolia",
+                    "machine_name": "symplocos_theifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428515",
+                        "legacy_id": "16321",
+                        "fgsid": "34107",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos tinctoria",
+                    "machine_name": "symplocos_tinctoria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L'Her.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428516",
+                        "legacy_id": "16431",
+                        "fgsid": "34108",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Symplocos kawakamii",
+                    "machine_name": "symplocos_kawakamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hayata.",
+                    "description": null,
+                    "genus": "symplocos",
+                    "family": "symplocaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2487196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551967787"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390119",
+                "legacy_id": "5371",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

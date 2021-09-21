@@ -1,0 +1,789 @@
+{
+    "name": "Pontederiaceae",
+    "machine_name": "pontederiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381367",
+        "legacy_id": "343",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Heteranthera",
+            "machine_name": "heteranthera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Ruiz & Pavon.",
+            "description": null,
+            "family": "pontederiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Heteranthera [Cultivars]",
+                    "machine_name": "heteranthera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "heteranthera",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382878",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Heteranthera limosa",
+                    "machine_name": "heteranthera_limosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "heteranthera",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418673",
+                        "legacy_id": "9291",
+                        "fgsid": "18150",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Heteranthera reniformis",
+                    "machine_name": "heteranthera_reniformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Ruiz & Pavon.",
+                    "description": null,
+                    "genus": "heteranthera",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418674",
+                        "legacy_id": "13717",
+                        "fgsid": "18151",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Heteranthera dubia",
+                    "machine_name": "heteranthera_dubia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "MacM.",
+                    "description": null,
+                    "genus": "heteranthera",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452678",
+                        "legacy_id": "5148",
+                        "fgsid": "113539",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382877",
+                "legacy_id": "2712",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pontederia",
+            "machine_name": "pontederia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "pontederiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pontederia [Cultivars]",
+                    "machine_name": "pontederia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pontederia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383886",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pontederia cordata",
+                    "machine_name": "pontederia_cordata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "pontederia",
+                    "family": "pontederiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Pontederia cordata angustifolia",
+                            "machine_name": "pontederia_cordata_angustifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "angustifolia",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Solms-Laub.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486885",
+                                "legacy_id": "24427",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Pontederia cordata 'Alba'",
+                            "machine_name": "pontederia_cordata_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alba",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1519190",
+                                "legacy_id": "96593",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Pontederia cordata 'Giant'",
+                            "machine_name": "pontederia_cordata_giant",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Giant",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1555999",
+                                "legacy_id": "151398",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Pontederia cordata 'Singapore Pink'",
+                            "machine_name": "pontederia_cordata_singapore_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Singapore Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573886",
+                                "legacy_id": "185853",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Pontederia cordata 'Rosea'",
+                            "machine_name": "pontederia_cordata_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580288",
+                                "legacy_id": "206596",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Pontederia cordata lancifolia",
+                            "machine_name": "pontederia_cordata_lancifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "lancifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1587574",
+                                "legacy_id": "219046",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Pontederia cordata 'Pink Pons'",
+                            "machine_name": "pontederia_cordata_pink_pons",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Pons",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "pontederia_cordata",
+                            "genus": "pontederia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1658714",
+                                "legacy_id": "271848",
+                                "fgsid": "28129",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422745",
+                        "legacy_id": "3968",
+                        "fgsid": "28129",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pontederia lancifolia",
+                    "machine_name": "pontederia_lancifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pontederia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "pontederia_cordata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1422746",
+                        "legacy_id": "8827",
+                        "fgsid": "28130",
+                        "legacy_from_data_cross_ref": [
+                            "+P. cordata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pontederia paniculata",
+                    "machine_name": "pontederia_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pontederia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435950",
+                        "legacy_id": "11974",
+                        "fgsid": "39242",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pontederia azurea",
+                    "machine_name": "pontederia_azurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pontederia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435951",
+                        "legacy_id": "1494",
+                        "fgsid": "39243",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pontederia virginica",
+                    "machine_name": "pontederia_virginica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "pontederia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446760",
+                        "legacy_id": "17412",
+                        "fgsid": "97587",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383885",
+                "legacy_id": "4506",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Monochoria",
+            "machine_name": "monochoria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "C. Presl.",
+            "description": null,
+            "family": "pontederiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Monochoria [Cultivars]",
+                    "machine_name": "monochoria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "monochoria",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389908",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Monochoria hastata",
+                    "machine_name": "monochoria_hastata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Solms-Laub.",
+                    "description": null,
+                    "genus": "monochoria",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421243",
+                        "legacy_id": "7207",
+                        "fgsid": "23340",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Monochoria vaginalis",
+                    "machine_name": "monochoria_vaginalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "monochoria",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421244",
+                        "legacy_id": "17078",
+                        "fgsid": "23341",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Monochoria africana",
+                    "machine_name": "monochoria_africana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "N.E. Br.",
+                    "description": null,
+                    "genus": "monochoria",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446128",
+                        "legacy_id": "302",
+                        "fgsid": "74495",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389907",
+                "legacy_id": "3649",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Eichhornia",
+            "machine_name": "eichhornia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Kunth.",
+            "description": null,
+            "family": "pontederiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eichhornia [Cultivars]",
+                    "machine_name": "eichhornia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eichhornia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390576",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Eichhornia azurea",
+                    "machine_name": "eichhornia_azurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus change",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "eichhornia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413148",
+                        "legacy_id": "1494",
+                        "fgsid": "12250",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eichhornia crassipes",
+                    "machine_name": "eichhornia_crassipes",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Solms-Laub.",
+                    "description": null,
+                    "genus": "eichhornia",
+                    "family": "pontederiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eichhornia crassipes 'Major'",
+                            "machine_name": "eichhornia_crassipes_major",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Major",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eichhornia_crassipes",
+                            "genus": "eichhornia",
+                            "family": "pontederiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1507374",
+                                "legacy_id": "78605",
+                                "fgsid": "12251",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413149",
+                        "legacy_id": "4146",
+                        "fgsid": "12251",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eichhornia paniculata",
+                    "machine_name": "eichhornia_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus change",
+                    "naming_authorities": "Solms-Laub.",
+                    "description": null,
+                    "genus": "eichhornia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413150",
+                        "legacy_id": "11974",
+                        "fgsid": "12252",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Eichhornia gracipes",
+                    "machine_name": "eichhornia_gracipes",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eichhornia",
+                    "family": "pontederiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2489431",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1552132212"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390575",
+                "legacy_id": "2037",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

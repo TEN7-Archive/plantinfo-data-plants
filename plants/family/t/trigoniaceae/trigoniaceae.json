@@ -1,0 +1,109 @@
+{
+    "name": "Trigoniaceae",
+    "machine_name": "trigoniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "A. Juss.",
+    "description": null,
+    "archival_data": {
+        "id": "2323006",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526942477"
+    },
+    "genus_items": [
+        {
+            "name": "Trigonia",
+            "machine_name": "trigonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "trigoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Trigonia [Cultivars]",
+                    "machine_name": "trigonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trigonia",
+                    "family": "trigoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323016",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526942515"
+                    }
+                },
+                {
+                    "name": "Trigonia nivea",
+                    "machine_name": "trigonia_nivea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Cambess.",
+                    "description": null,
+                    "genus": "trigonia",
+                    "family": "trigoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323021",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526942549"
+                    }
+                },
+                {
+                    "name": "Trigonia villosa",
+                    "machine_name": "trigonia_villosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "trigonia",
+                    "family": "trigoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323026",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526942590"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323011",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526942515"
+            }
+        }
+    ]
+}

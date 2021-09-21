@@ -1,0 +1,1032 @@
+{
+    "name": "Caricaceae",
+    "machine_name": "caricaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381179",
+        "legacy_id": "83",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Carica",
+            "machine_name": "carica",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "caricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Carica citriformis",
+                    "machine_name": "carica_citriformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Jacq.f.",
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408205",
+                        "legacy_id": "3550",
+                        "fgsid": "6378",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carica lanceolata",
+                    "machine_name": "carica_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 10",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408206",
+                        "legacy_id": "8822",
+                        "fgsid": "6379",
+                        "legacy_from_data_cross_ref": [
+                            "+Vasconcellea lanceolata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carica papaya",
+                    "machine_name": "carica_papaya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Carica papaya 'Solo'",
+                            "machine_name": "carica_papaya_solo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Solo",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1497173",
+                                "legacy_id": "73761",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Sunset'",
+                            "machine_name": "carica_papaya_sunset",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunset",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1497174",
+                                "legacy_id": "73762",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Waimanolo'",
+                            "machine_name": "carica_papaya_waimanolo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Waimanolo",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1497175",
+                                "legacy_id": "73763",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Meridol'",
+                            "machine_name": "carica_papaya_meridol",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Meridol",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1541521",
+                                "legacy_id": "120606",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Sunrise Solo'",
+                            "machine_name": "carica_papaya_sunrise_solo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunrise Solo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579193",
+                                "legacy_id": "199257",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'TR Hovey'",
+                            "machine_name": "carica_papaya_tr_hovey",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "TR Hovey",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588228",
+                                "legacy_id": "314297",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Big'",
+                            "machine_name": "carica_papaya_big",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Big",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603776",
+                                "legacy_id": "280816",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Rainbow'",
+                            "machine_name": "carica_papaya_rainbow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rainbow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1628328",
+                                "legacy_id": "249711",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'SunUp'",
+                            "machine_name": "carica_papaya_sunup",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "SunUp",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1628329",
+                                "legacy_id": "249712",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Formosa'",
+                            "machine_name": "carica_papaya_formosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Formosa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1641011",
+                                "legacy_id": "338256",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Thai Red'",
+                            "machine_name": "carica_papaya_thai_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Thai Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1641012",
+                                "legacy_id": "338257",
+                                "fgsid": "6380",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Carica papaya 'Watermelon'",
+                            "machine_name": "carica_papaya_watermelon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Watermelon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_papaya",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2450761",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1549565293"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408207",
+                        "legacy_id": "11992",
+                        "fgsid": "6380",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carica pentagona",
+                    "machine_name": "carica_pentagona",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Heilborn.",
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408208",
+                        "legacy_id": "12282",
+                        "fgsid": "6381",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carica pubescens",
+                    "machine_name": "carica_pubescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lenne & C. Koch.",
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408209",
+                        "legacy_id": "13232",
+                        "fgsid": "6382",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carica [Cultivars]",
+                    "machine_name": "carica_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Carica [Cultivars] 'Laie Gold'",
+                            "machine_name": "carica_cultivars_laie_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Laie Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_cultivars",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1581163",
+                                "legacy_id": "216377",
+                                "fgsid": "91595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Carica [Cultivars] 'Red Thai'",
+                            "machine_name": "carica_cultivars_red_thai",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Thai",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_cultivars",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615568",
+                                "legacy_id": "241334",
+                                "fgsid": "91595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Carica [Cultivars] 'Tainung'",
+                            "machine_name": "carica_cultivars_tainung",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tainung",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carica_cultivars",
+                            "genus": "carica",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1653515",
+                                "legacy_id": "368586",
+                                "fgsid": "91595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447466",
+                        "legacy_id": "2",
+                        "fgsid": "91595",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Carica microcarpa",
+                    "machine_name": "carica_microcarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Jacq.",
+                    "description": "synonym, set up for x-ref",
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "vasconcellea_microcarpa",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1462897",
+                        "legacy_id": "10415",
+                        "fgsid": "156649",
+                        "legacy_from_data_cross_ref": [
+                            "Vasconcellea microcarpa"
+                        ],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Carica peltata",
+                    "machine_name": "carica_peltata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook. & Arn.",
+                    "description": null,
+                    "genus": "carica",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331936",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528561838"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382749",
+                "legacy_id": "1037",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Jacaratia",
+            "machine_name": "jacaratia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "A. DC.",
+            "description": null,
+            "family": "caricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Jacaratia [Cultivars]",
+                    "machine_name": "jacaratia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "jacaratia",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394696",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Jacaratia hassleriana",
+                    "machine_name": "jacaratia_hassleriana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Chod.",
+                    "description": null,
+                    "genus": "jacaratia",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440859",
+                        "legacy_id": "18391",
+                        "fgsid": "44821",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Jacaratia corumbensis",
+                    "machine_name": "jacaratia_corumbensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "jacaratia",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446514",
+                        "legacy_id": "38463",
+                        "fgsid": "75475",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Jacaratia dolichaula",
+                    "machine_name": "jacaratia_dolichaula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Woodson.",
+                    "description": null,
+                    "genus": "jacaratia",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331941",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528561992"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394695",
+                "legacy_id": "5971",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Papaya",
+            "machine_name": "papaya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mill.",
+            "naming_authorities": "Missouri.",
+            "description": null,
+            "family": "caricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Papaya [Cultivars]",
+                    "machine_name": "papaya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "papaya",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395656",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Papaya carica",
+                    "machine_name": "papaya_carica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Gaertn.",
+                    "description": null,
+                    "genus": "papaya",
+                    "family": "caricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Papaya carica 'Tainung'",
+                            "machine_name": "papaya_carica_tainung",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tainung",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "papaya_carica",
+                            "genus": "papaya",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648935",
+                                "legacy_id": "367949",
+                                "fgsid": "138279",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458713",
+                        "legacy_id": "2934",
+                        "fgsid": "138279",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395655",
+                "legacy_id": "26124",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Vasconcellea",
+            "machine_name": "vasconcellea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley 3d",
+            "naming_authorities": "A. St.-Hil.",
+            "description": "(~ Carica)",
+            "family": "caricaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Vasconcellea [Cultivars]",
+                    "machine_name": "vasconcellea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "vasconcellea",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397578",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Vasconcellea microcarpa",
+                    "machine_name": "vasconcellea_microcarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. DC.",
+                    "description": null,
+                    "genus": "vasconcellea",
+                    "family": "caricaceae",
+                    "variety_items": [
+                        {
+                            "name": "Vasconcellea microcarpa baccata",
+                            "machine_name": "vasconcellea_microcarpa_baccata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "baccata",
+                            "authorities": "Tropicos",
+                            "naming_authorities": "V.M. Badillo.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "vasconcellea_microcarpa",
+                            "genus": "vasconcellea",
+                            "family": "caricaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1670655",
+                                "legacy_id": "410887",
+                                "fgsid": "156684",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Vasconcellea microcarpa baccata",
+                            "machine_name": "vasconcellea_microcarpa_baccata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "baccata",
+                            "authorities": "Tropicos",
+                            "naming_authorities": "V.M. Badillo.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "vasconcellea_microcarpa",
+                            "genus": "vasconcellea",
+                            "family": "caricaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "vasconcellea_microcarpa_baccata",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1670818",
+                                "legacy_id": "410888",
+                                "fgsid": "156684",
+                                "legacy_from_data_cross_ref": [
+                                    "Vasconcellea microcarpa baccata"
+                                ],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463145",
+                        "legacy_id": "10415",
+                        "fgsid": "156684",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Vasconcellea pubescens",
+                    "machine_name": "vasconcellea_pubescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. DC.",
+                    "description": null,
+                    "genus": "vasconcellea",
+                    "family": "caricaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331946",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528562089"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397577",
+                "legacy_id": "30566",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

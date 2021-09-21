@@ -1,0 +1,435 @@
+{
+    "name": "Cyrillaceae",
+    "machine_name": "cyrillaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381215",
+        "legacy_id": "138",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cliftonia",
+            "machine_name": "cliftonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Banks & Gaertn.f.",
+            "description": null,
+            "family": "cyrillaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cliftonia [Cultivars]",
+                    "machine_name": "cliftonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cliftonia",
+                    "family": "cyrillaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385282",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cliftonia monophylla",
+                    "machine_name": "cliftonia_monophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Britt. & Sarg.",
+                    "description": null,
+                    "genus": "cliftonia",
+                    "family": "cyrillaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cliftonia monophylla 'Rosea'",
+                            "machine_name": "cliftonia_monophylla_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosea",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cliftonia_monophylla",
+                            "genus": "cliftonia",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470390",
+                                "legacy_id": "5240",
+                                "fgsid": "8057",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cliftonia monophylla 'Berry Pink'",
+                            "machine_name": "cliftonia_monophylla_berry_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Berry Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cliftonia_monophylla",
+                            "genus": "cliftonia",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546166",
+                                "legacy_id": "123036",
+                                "fgsid": "8057",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Cliftonia monophylla 'Chipola Pink'",
+                            "machine_name": "cliftonia_monophylla_chipola_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chipola Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cliftonia_monophylla",
+                            "genus": "cliftonia",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582210",
+                                "legacy_id": "210403",
+                                "fgsid": "8057",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Cliftonia monophylla 'Don's Pink'",
+                            "machine_name": "cliftonia_monophylla_don_s_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Don's Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cliftonia_monophylla",
+                            "genus": "cliftonia",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1589429",
+                                "legacy_id": "315441",
+                                "fgsid": "8057",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408997",
+                        "legacy_id": "10669",
+                        "fgsid": "8057",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385281",
+                "legacy_id": "1351",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cyrilla",
+            "machine_name": "cyrilla",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Garden & L.",
+            "description": null,
+            "family": "cyrillaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cyrilla [Cultivars]",
+                    "machine_name": "cyrilla_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyrilla",
+                    "family": "cyrillaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387858",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cyrilla racemiflora",
+                    "machine_name": "cyrilla_racemiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cyrilla",
+                    "family": "cyrillaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cyrilla racemiflora 'Graniteville'",
+                            "machine_name": "cyrilla_racemiflora_graniteville",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Graniteville",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cyrilla_racemiflora",
+                            "genus": "cyrilla",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1501861",
+                                "legacy_id": "76017",
+                                "fgsid": "9969",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Cyrilla racemiflora parvifolia",
+                            "machine_name": "cyrilla_racemiflora_parvifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "parvifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cyrilla_racemiflora",
+                            "genus": "cyrilla",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1541293",
+                                "legacy_id": "120593",
+                                "fgsid": "9969",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Cyrilla racemiflora 'Scott Arboretum'",
+                            "machine_name": "cyrilla_racemiflora_scott_arboretum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Scott Arboretum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cyrilla_racemiflora",
+                            "genus": "cyrilla",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619634",
+                                "legacy_id": "343172",
+                                "fgsid": "9969",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Cyrilla racemiflora racemiflora",
+                            "machine_name": "cyrilla_racemiflora_racemiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "racemiflora",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cyrilla_racemiflora",
+                            "genus": "cyrilla",
+                            "family": "cyrillaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620118",
+                                "legacy_id": "351536",
+                                "fgsid": "9969",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404243",
+                        "legacy_id": "13503",
+                        "fgsid": "9969",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cyrilla parviflora",
+                    "machine_name": "cyrilla_parviflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyrilla",
+                    "family": "cyrillaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cyrilla_racemiflora",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1438796",
+                        "legacy_id": "12078",
+                        "fgsid": "38583",
+                        "legacy_from_data_cross_ref": [
+                            "C. racemiflora"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyrilla arida",
+                    "machine_name": "cyrilla_arida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "cyrilla",
+                    "family": "cyrillaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442070",
+                        "legacy_id": "1130",
+                        "fgsid": "42250",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387857",
+                "legacy_id": "1678",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

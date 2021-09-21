@@ -1,0 +1,743 @@
+{
+    "name": "Nothofagaceae",
+    "machine_name": "nothofagaceae",
+    "type": "family",
+    "authorities": "Tropicos change",
+    "naming_authorities": "Blume.",
+    "description": null,
+    "archival_data": {
+        "id": "2319251",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526403616"
+    },
+    "genus_items": [
+        {
+            "name": "Nothofagus",
+            "machine_name": "nothofagus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "nothofagaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nothofagus [Cultivars]",
+                    "machine_name": "nothofagus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391690",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Nothofagus alpina",
+                    "machine_name": "nothofagus_alpina",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Krasser.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424717",
+                        "legacy_id": "542",
+                        "fgsid": "24283",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus antarctica",
+                    "machine_name": "nothofagus_antarctica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nothofagus antarctica 'Puget Pillar'",
+                            "machine_name": "nothofagus_antarctica_puget_pillar",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Puget Pillar",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nothofagus_antarctica",
+                            "genus": "nothofagus",
+                            "family": "nothofagaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1485976",
+                                "legacy_id": "20569",
+                                "fgsid": "24284",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Nothofagus antarctica 'Prostrata'",
+                            "machine_name": "nothofagus_antarctica_prostrata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prostrata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nothofagus_antarctica",
+                            "genus": "nothofagus",
+                            "family": "nothofagaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573718",
+                                "legacy_id": "192996",
+                                "fgsid": "24284",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Nothofagus antarctica 'Chillan'",
+                            "machine_name": "nothofagus_antarctica_chillan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chillan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nothofagus_antarctica",
+                            "genus": "nothofagus",
+                            "family": "nothofagaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601749",
+                                "legacy_id": "231580",
+                                "fgsid": "24284",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424718",
+                        "legacy_id": "881",
+                        "fgsid": "24284",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus betuloides",
+                    "machine_name": "nothofagus_betuloides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis II",
+                    "naming_authorities": "Bl.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424719",
+                        "legacy_id": "1864",
+                        "fgsid": "24285",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus cliffortioides*",
+                    "machine_name": "nothofagus_cliffortioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nothofagus_solanderi_cliffortioides",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1424720",
+                        "legacy_id": "3610",
+                        "fgsid": "24286",
+                        "legacy_from_data_cross_ref": [
+                            "+N. solanderi cliffortioides"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus codonandra",
+                    "machine_name": "nothofagus_codonandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 12",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424721",
+                        "legacy_id": "71508",
+                        "fgsid": "24287",
+                        "legacy_from_data_cross_ref": [
+                            "+Trisyngyne codonandra"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus cunninghamii",
+                    "machine_name": "nothofagus_cunninghamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424722",
+                        "legacy_id": "4323",
+                        "fgsid": "24288",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus dombeyi",
+                    "machine_name": "nothofagus_dombeyi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis 10",
+                    "naming_authorities": "Bl.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424723",
+                        "legacy_id": "5066",
+                        "fgsid": "24289",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus fusca",
+                    "machine_name": "nothofagus_fusca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424724",
+                        "legacy_id": "6356",
+                        "fgsid": "24290",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus gunnii",
+                    "machine_name": "nothofagus_gunnii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "RoyalnoKewensis 10",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424725",
+                        "legacy_id": "7016",
+                        "fgsid": "24291",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus menziesii",
+                    "machine_name": "nothofagus_menziesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424726",
+                        "legacy_id": "10334",
+                        "fgsid": "24292",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus moorei",
+                    "machine_name": "nothofagus_moorei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Krasser.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424727",
+                        "legacy_id": "10721",
+                        "fgsid": "24293",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus nervosa*",
+                    "machine_name": "nothofagus_nervosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nothofagus_procera",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1424728",
+                        "legacy_id": "11144",
+                        "fgsid": "24295",
+                        "legacy_from_data_cross_ref": [
+                            "Nothofagus procera"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus obliqua",
+                    "machine_name": "nothofagus_obliqua",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Bl.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424729",
+                        "legacy_id": "11415",
+                        "fgsid": "24296",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus procera",
+                    "machine_name": "nothofagus_procera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424730",
+                        "legacy_id": "13046",
+                        "fgsid": "24297",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus pumilio",
+                    "machine_name": "nothofagus_pumilio",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Krasser.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424731",
+                        "legacy_id": "13300",
+                        "fgsid": "24298",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus solanderi",
+                    "machine_name": "nothofagus_solanderi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Oerst.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nothofagus solanderi cliffortioides",
+                            "machine_name": "nothofagus_solanderi_cliffortioides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cliffortioides",
+                            "authorities": "Royal.",
+                            "naming_authorities": "Poole.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "nothofagus_solanderi",
+                            "genus": "nothofagus",
+                            "family": "nothofagaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1485977",
+                                "legacy_id": "20570",
+                                "fgsid": "24299",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424732",
+                        "legacy_id": "15223",
+                        "fgsid": "24299",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus truncata",
+                    "machine_name": "nothofagus_truncata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "Ckn.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424733",
+                        "legacy_id": "16774",
+                        "fgsid": "24300",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Nothofagus glauca",
+                    "machine_name": "nothofagus_glauca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Krasser.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438218",
+                        "legacy_id": "6654",
+                        "fgsid": "41196",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nothofagus eugenananus",
+                    "machine_name": "nothofagus_eugenananus",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Plantsman 7\/1",
+                    "naming_authorities": "K. Gillanders.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452024",
+                        "legacy_id": "67890",
+                        "fgsid": "124266",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nothofagus alessandrii",
+                    "machine_name": "nothofagus_alessandrii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452025",
+                        "legacy_id": "67891",
+                        "fgsid": "124267",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nothofagus nitida",
+                    "machine_name": "nothofagus_nitida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.change",
+                    "naming_authorities": "Krasser.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454873",
+                        "legacy_id": "11240",
+                        "fgsid": "106599",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Nothofagus leonii",
+                    "machine_name": "nothofagus_leonii",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R. Espinosa.",
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379566",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537794496"
+                    }
+                },
+                {
+                    "name": "Nothofagus longibracteata",
+                    "machine_name": "nothofagus_longibracteata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nothofagus",
+                    "family": "nothofagaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379571",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537794591"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391689",
+                "legacy_id": "3867",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

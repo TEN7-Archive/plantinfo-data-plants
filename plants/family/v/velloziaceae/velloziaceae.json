@@ -1,0 +1,509 @@
+{
+    "name": "Velloziaceae",
+    "machine_name": "velloziaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381436",
+        "legacy_id": "429",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Talbotia",
+            "machine_name": "talbotia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Balfour.",
+            "description": null,
+            "family": "velloziaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Talbotia [Cultivars]",
+                    "machine_name": "talbotia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "talbotia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390200",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Talbotia elegans",
+                    "machine_name": "talbotia_elegans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Balf.",
+                    "description": null,
+                    "genus": "talbotia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428949",
+                        "legacy_id": "5343",
+                        "fgsid": "34258",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390199",
+                "legacy_id": "5411",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Vellozia",
+            "machine_name": "vellozia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Vand.",
+            "description": null,
+            "family": "velloziaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Vellozia [Cultivars]",
+                    "machine_name": "vellozia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "vellozia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393622",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Vellozia burle-marxii",
+                    "machine_name": "vellozia_burle_marxii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "L.B. Sm. & Ayensu.",
+                    "description": null,
+                    "genus": "vellozia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430148",
+                        "legacy_id": "2491",
+                        "fgsid": "35945",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Vellozia elegans",
+                    "machine_name": "vellozia_elegans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "vellozia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437784",
+                        "legacy_id": "5343",
+                        "fgsid": "39701",
+                        "legacy_from_data_cross_ref": [
+                            "Talbotia elegans@"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Vellozia viscosa",
+                    "machine_name": "vellozia_viscosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "vellozia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309791",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524909702"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393621",
+                "legacy_id": "5769",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Xerophyta",
+            "machine_name": "xerophyta",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Juss.",
+            "description": null,
+            "family": "velloziaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Xerophyta [Cultivars]",
+                    "machine_name": "xerophyta_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xerophyta",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394550",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Xerophyta humilis",
+                    "machine_name": "xerophyta_humilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xerophyta",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438349",
+                        "legacy_id": "7753",
+                        "fgsid": "36781",
+                        "legacy_from_data_cross_ref": [
+                            "+Vellozia humilis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xerophyta retinervis",
+                    "machine_name": "xerophyta_retinervis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "xerophyta",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438350",
+                        "legacy_id": "13750",
+                        "fgsid": "36782",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xerophyta viscosa",
+                    "machine_name": "xerophyta_viscosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Bak.",
+                    "description": null,
+                    "genus": "xerophyta",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438351",
+                        "legacy_id": "17453",
+                        "fgsid": "36783",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xerophyta splendens",
+                    "machine_name": "xerophyta_splendens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "N. Menezes.",
+                    "description": null,
+                    "genus": "xerophyta",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450074",
+                        "legacy_id": "15416",
+                        "fgsid": "71418",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Xerophyta eglandulosa",
+                    "machine_name": "xerophyta_eglandulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "H. Perrier.",
+                    "description": null,
+                    "genus": "xerophyta",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311176",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525070950"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394549",
+                "legacy_id": "5897",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Barbacenia",
+            "machine_name": "barbacenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Vand.",
+            "description": null,
+            "family": "velloziaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Barbacenia [Cultivars]",
+                    "machine_name": "barbacenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "barbacenia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395768",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Barbacenia purpurea",
+                    "machine_name": "barbacenia_purpurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "barbacenia",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459330",
+                        "legacy_id": "13338",
+                        "fgsid": "140123",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395767",
+                "legacy_id": "26664",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Acanthochlamys",
+            "machine_name": "acanthochlamys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "P.C. Kao.",
+            "description": null,
+            "family": "velloziaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Acanthochlamys [Cultivars]",
+                    "machine_name": "acanthochlamys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acanthochlamys",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311166",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525070524"
+                    }
+                },
+                {
+                    "name": "Acanthochlamys bracteata",
+                    "machine_name": "acanthochlamys_bracteata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "P.C. Kao.",
+                    "description": null,
+                    "genus": "acanthochlamys",
+                    "family": "velloziaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311171",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525070561"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2311161",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525070524"
+            }
+        }
+    ]
+}

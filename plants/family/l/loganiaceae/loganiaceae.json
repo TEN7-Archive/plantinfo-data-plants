@@ -1,0 +1,1238 @@
+{
+    "name": "Loganiaceae",
+    "machine_name": "loganiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381298",
+        "legacy_id": "257",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Buddleia*",
+            "machine_name": "buddleia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": null,
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [
+                {
+                    "machine_name": "buddleja",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [],
+            "archival_data": {
+                "id": "1381791",
+                "legacy_id": "866",
+                "legacy_from_data_cross_ref": [
+                    "Buddleja"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Nicodemia",
+            "machine_name": "nicodemia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": null,
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [
+                {
+                    "machine_name": "buddleia",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Nicodemia [Cultivars]",
+                    "machine_name": "nicodemia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nicodemia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438479",
+                        "legacy_id": "2",
+                        "fgsid": "39869",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383303",
+                "legacy_id": "6211",
+                "legacy_from_data_cross_ref": [
+                    "Buddleia"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Potalia",
+            "machine_name": "potalia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Aublet.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Potalia [Cultivars]",
+                    "machine_name": "potalia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "potalia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383916",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Potalia amara",
+                    "machine_name": "potalia_amara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Aublet.",
+                    "description": null,
+                    "genus": "potalia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423098",
+                        "legacy_id": "604",
+                        "fgsid": "28198",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383915",
+                "legacy_id": "4521",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Labordia",
+            "machine_name": "labordia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gaudich.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Labordia [Cultivars]",
+                    "machine_name": "labordia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "labordia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385466",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Labordia hedyosmifolia",
+                    "machine_name": "labordia_hedyosmifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "labordia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419939",
+                        "legacy_id": "70924",
+                        "fgsid": "20026",
+                        "legacy_from_data_cross_ref": [
+                            "+L. fagraeoidea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385465",
+                "legacy_id": "3060",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Logania",
+            "machine_name": "logania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Logania [Cultivars]",
+                    "machine_name": "logania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387216",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Logania albiflora",
+                    "machine_name": "logania_albiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Druce.",
+                    "description": null,
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419244",
+                        "legacy_id": "416",
+                        "fgsid": "21342",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Logania linifolia",
+                    "machine_name": "logania_linifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Schlecht.",
+                    "description": null,
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419245",
+                        "legacy_id": "9344",
+                        "fgsid": "21343",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Logania pusilla",
+                    "machine_name": "logania_pusilla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419246",
+                        "legacy_id": "13361",
+                        "fgsid": "21344",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Logania recurva",
+                    "machine_name": "logania_recurva",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "J.M. Black.",
+                    "description": null,
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419247",
+                        "legacy_id": "13640",
+                        "fgsid": "21345",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Logania diffusa",
+                    "machine_name": "logania_diffusa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452942",
+                        "legacy_id": "4896",
+                        "fgsid": "103116",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Logania insularis",
+                    "machine_name": "logania_insularis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "logania",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461201",
+                        "legacy_id": "8083",
+                        "fgsid": "139380",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387215",
+                "legacy_id": "3294",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Spigelia",
+            "machine_name": "spigelia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Spigelia [Cultivars]",
+                    "machine_name": "spigelia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "spigelia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389138",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Spigelia flava",
+                    "machine_name": "spigelia_flava",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "spigelia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431870",
+                        "legacy_id": "6024",
+                        "fgsid": "33449",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Spigelia gentianoides",
+                    "machine_name": "spigelia_gentianoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Chapm. & A. DC.",
+                    "description": null,
+                    "genus": "spigelia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431871",
+                        "legacy_id": "6508",
+                        "fgsid": "33450",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Spigelia marilandica",
+                    "machine_name": "spigelia_marilandica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "spigelia",
+                    "family": "loganiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Spigelia marilandica 'Wisley Jester'",
+                            "machine_name": "spigelia_marilandica_wisley_jester",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wisley Jester",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "spigelia_marilandica",
+                            "genus": "spigelia",
+                            "family": "loganiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584372",
+                                "legacy_id": "211662",
+                                "fgsid": "33451",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Spigelia marilandica 'Little Redhead'",
+                            "machine_name": "spigelia_marilandica_little_redhead",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Little Redhead",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "spigelia_marilandica",
+                            "genus": "spigelia",
+                            "family": "loganiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1646595",
+                                "legacy_id": "367557",
+                                "fgsid": "33451",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431872",
+                        "legacy_id": "10041",
+                        "fgsid": "33451",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Spigelia genuflexa",
+                    "machine_name": "spigelia_genuflexa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Popovkin & Struwe.",
+                    "description": null,
+                    "genus": "spigelia",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461093",
+                        "legacy_id": "6513",
+                        "fgsid": "140900",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389137",
+                "legacy_id": "5212",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Mitrasacme",
+            "machine_name": "mitrasacme",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mitrasacme [Cultivars]",
+                    "machine_name": "mitrasacme_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mitrasacme",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389860",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Mitrasacme novae-zelandiae",
+                    "machine_name": "mitrasacme_novae_zelandiae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kew CD",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "mitrasacme",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420878",
+                        "legacy_id": "11328",
+                        "fgsid": "23258",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mitrasacme paradoxa",
+                    "machine_name": "mitrasacme_paradoxa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "mitrasacme",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420879",
+                        "legacy_id": "12017",
+                        "fgsid": "23259",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Mitrasacme polymorpha",
+                    "machine_name": "mitrasacme_polymorpha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "mitrasacme",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420880",
+                        "legacy_id": "12848",
+                        "fgsid": "23260",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389859",
+                "legacy_id": "3625",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Strychnos",
+            "machine_name": "strychnos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Strychnos [Cultivars]",
+                    "machine_name": "strychnos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390038",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Strychnos lucida",
+                    "machine_name": "strychnos_lucida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427773",
+                        "legacy_id": "9574",
+                        "fgsid": "33931",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strychnos madagscariensis",
+                    "machine_name": "strychnos_madagscariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Poir.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427774",
+                        "legacy_id": "9851",
+                        "fgsid": "33932",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strychnos minor",
+                    "machine_name": "strychnos_minor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Dennst.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427775",
+                        "legacy_id": "10525",
+                        "fgsid": "33933",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strychnos spinosa",
+                    "machine_name": "strychnos_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427776",
+                        "legacy_id": "15394",
+                        "fgsid": "33934",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strychnos tomentosa",
+                    "machine_name": "strychnos_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427777",
+                        "legacy_id": "16461",
+                        "fgsid": "33935",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Strychnos toxifera",
+                    "machine_name": "strychnos_toxifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Schomb. ex Bentham.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448508",
+                        "legacy_id": "39806",
+                        "fgsid": "92999",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Strychnos nux-vomica",
+                    "machine_name": "strychnos_nux_vomica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454757",
+                        "legacy_id": "54808",
+                        "fgsid": "99792",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Strychnos henningsii",
+                    "machine_name": "strychnos_henningsii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gilg.",
+                    "description": null,
+                    "genus": "strychnos",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339561",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096480"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390037",
+                "legacy_id": "5327",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Geniostoma",
+            "machine_name": "geniostoma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forster & Forster.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Geniostoma [Cultivars]",
+                    "machine_name": "geniostoma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "geniostoma",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393336",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Geniostoma petiolosum",
+                    "machine_name": "geniostoma_petiolosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "C. Moore & F. Mue.",
+                    "description": null,
+                    "genus": "geniostoma",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410416",
+                        "legacy_id": "12403",
+                        "fgsid": "16057",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Geniostoma borbonicum",
+                    "machine_name": "geniostoma_borbonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Spreng.",
+                    "description": null,
+                    "genus": "geniostoma",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339541",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096203"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393335",
+                "legacy_id": "2406",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Gomphostigma",
+            "machine_name": "gomphostigma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Turcz.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gomphostigma [Cultivars]",
+                    "machine_name": "gomphostigma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gomphostigma",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394156",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gomphostigma virgatum",
+                    "machine_name": "gomphostigma_virgatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gomphostigma",
+                    "family": "loganiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Gomphostigma virgatum 'White Candy'",
+                            "machine_name": "gomphostigma_virgatum_white_candy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "White Candy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gomphostigma_virgatum",
+                            "genus": "gomphostigma",
+                            "family": "loganiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598244",
+                                "legacy_id": "224517",
+                                "fgsid": "16664",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413026",
+                        "legacy_id": "17400",
+                        "fgsid": "16664",
+                        "legacy_from_data_cross_ref": [
+                            "+G. scoparioides"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394155",
+                "legacy_id": "2482",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Phyllangium",
+            "machine_name": "phyllangium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Dunlop.",
+            "description": null,
+            "family": "loganiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phyllangium [Cultivars]",
+                    "machine_name": "phyllangium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phyllangium",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339551",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096303"
+                    }
+                },
+                {
+                    "name": "Phyllangium paradoxum",
+                    "machine_name": "phyllangium_paradoxum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phyllangium",
+                    "family": "loganiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339556",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530096376"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339546",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530096303"
+            }
+        }
+    ]
+}

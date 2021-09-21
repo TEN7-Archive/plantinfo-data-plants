@@ -1,0 +1,2872 @@
+{
+    "name": "Restionaceae",
+    "machine_name": "restionaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381378",
+        "legacy_id": "356",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cannomois",
+            "machine_name": "cannomois",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "P. Beauv. & Desv.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cannomois [Cultivars]",
+                    "machine_name": "cannomois_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cannomois",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382692",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cannomois virgata",
+                    "machine_name": "cannomois_virgata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cannomois",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407042",
+                        "legacy_id": "17398",
+                        "fgsid": "6075",
+                        "legacy_from_data_cross_ref": [
+                            "+C. cephalotes"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cannomois taylorii",
+                    "machine_name": "cannomois_taylorii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.P. Linder.",
+                    "description": null,
+                    "genus": "cannomois",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452985",
+                        "legacy_id": "16104",
+                        "fgsid": "103495",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cannomois grandis",
+                    "machine_name": "cannomois_grandis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cannomois",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458372",
+                        "legacy_id": "6888",
+                        "fgsid": "143962",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382691",
+                "legacy_id": "1007",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Hypolaena",
+            "machine_name": "hypolaena",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hypolaena [Cultivars]",
+                    "machine_name": "hypolaena_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hypolaena",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383834",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hypolaena exsulca",
+                    "machine_name": "hypolaena_exsulca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "hypolaena",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415774",
+                        "legacy_id": "5734",
+                        "fgsid": "18956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hypolaena fastigiata",
+                    "machine_name": "hypolaena_fastigiata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "hypolaena",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415775",
+                        "legacy_id": "5827",
+                        "fgsid": "18957",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383833",
+                "legacy_id": "2872",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Chondropetalum",
+            "machine_name": "chondropetalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Rottb.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Chondropetalum [Cultivars]",
+                    "machine_name": "chondropetalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chondropetalum",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384452",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Chondropetalum tectorum",
+                    "machine_name": "chondropetalum_tectorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chondropetalum",
+                    "family": "restionaceae",
+                    "variety_items": [
+                        {
+                            "name": "Chondropetalum tectorum elephantipes",
+                            "machine_name": "chondropetalum_tectorum_elephantipes",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "elephantipes",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "chondropetalum_tectorum",
+                            "genus": "chondropetalum",
+                            "family": "restionaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1627917",
+                                "legacy_id": "247338",
+                                "fgsid": "7458",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406384",
+                        "legacy_id": "16112",
+                        "fgsid": "7458",
+                        "legacy_from_data_cross_ref": [
+                            "+Elegia denusta"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chondropetalum hookerianum",
+                    "machine_name": "chondropetalum_hookerianum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Pillans.",
+                    "description": null,
+                    "genus": "chondropetalum",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451814",
+                        "legacy_id": "7638",
+                        "fgsid": "101964",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chondropetalum elephantinum",
+                    "machine_name": "chondropetalum_elephantinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "chondropetalum",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455638",
+                        "legacy_id": "44143",
+                        "fgsid": "107719",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384451",
+                "legacy_id": "1259",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ischyrolepis",
+            "machine_name": "ischyrolepis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Steudel.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ischyrolepis [Cultivars]",
+                    "machine_name": "ischyrolepis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ischyrolepis",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ischyrolepis subverticillata",
+                    "machine_name": "ischyrolepis_subverticillata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ischyrolepis",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417973",
+                        "legacy_id": "15825",
+                        "fgsid": "19474",
+                        "legacy_from_data_cross_ref": [
+                            "+Restio subverticillata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ischyrolepis sieberi",
+                    "machine_name": "ischyrolepis_sieberi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.P. Linder.",
+                    "description": null,
+                    "genus": "ischyrolepis",
+                    "family": "restionaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ischyrolepis sieberi venustulus",
+                            "machine_name": "ischyrolepis_sieberi_venustulus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "venustulus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "ischyrolepis_sieberi",
+                            "genus": "ischyrolepis",
+                            "family": "restionaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1629412",
+                                "legacy_id": "248018",
+                                "fgsid": "101960",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451810",
+                        "legacy_id": "15052",
+                        "fgsid": "101960",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384545",
+                "legacy_id": "2921",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Winfredia",
+            "machine_name": "winfredia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "L. Johnson & B. Briggs.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Winfredia [Cultivars]",
+                    "machine_name": "winfredia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "winfredia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384992",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384991",
+                "legacy_id": "9090",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Restio",
+            "machine_name": "restio",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Rottb.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Restio [Cultivars]",
+                    "machine_name": "restio_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385614",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Restio braceatus",
+                    "machine_name": "restio_braceatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424336",
+                        "legacy_id": "2189",
+                        "fgsid": "29818",
+                        "legacy_from_data_cross_ref": [
+                            "+Leptocarpus brachiata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio complanatus",
+                    "machine_name": "restio_complanatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424337",
+                        "legacy_id": "3792",
+                        "fgsid": "29819",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio dimorphus",
+                    "machine_name": "restio_dimorphus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424338",
+                        "legacy_id": "4937",
+                        "fgsid": "29820",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio fastigiatus",
+                    "machine_name": "restio_fastigiatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424339",
+                        "legacy_id": "5829",
+                        "fgsid": "29821",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio festuciformis",
+                    "machine_name": "restio_festuciformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Nees. & Mast.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424340",
+                        "legacy_id": "5894",
+                        "fgsid": "29822",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio fimbriatus",
+                    "machine_name": "restio_fimbriatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": "L.A.S. Johnson.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424341",
+                        "legacy_id": "5964",
+                        "fgsid": "29823",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio gracilis",
+                    "machine_name": "restio_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424342",
+                        "legacy_id": "6829",
+                        "fgsid": "29824",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio multiflorus",
+                    "machine_name": "restio_multiflorus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Spreng.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424343",
+                        "legacy_id": "10838",
+                        "fgsid": "29825",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio similis",
+                    "machine_name": "restio_similis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Pillans.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424344",
+                        "legacy_id": "15108",
+                        "fgsid": "29826",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio tetraphyllus",
+                    "machine_name": "restio_tetraphyllus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [
+                        {
+                            "name": "Restio tetraphyllus meiostachyus",
+                            "machine_name": "restio_tetraphyllus_meiostachyus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "meiostachyus",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "restio_tetraphyllus",
+                            "genus": "restio",
+                            "family": "restionaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486935",
+                                "legacy_id": "25665",
+                                "fgsid": "29827",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Restio tetraphyllus 'Cornish Gold'",
+                            "machine_name": "restio_tetraphyllus_cornish_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cornish Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "restio_tetraphyllus",
+                            "genus": "restio",
+                            "family": "restionaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1667818",
+                                "legacy_id": "400732",
+                                "fgsid": "29827",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424345",
+                        "legacy_id": "16273",
+                        "fgsid": "29827",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Restio quadratus",
+                    "machine_name": "restio_quadratus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445170",
+                        "legacy_id": "43743",
+                        "fgsid": "83697",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Restio pallens",
+                    "machine_name": "restio_pallens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "baloskion_pallens",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1449639",
+                        "legacy_id": "11909",
+                        "fgsid": "94776",
+                        "legacy_from_data_cross_ref": [
+                            "Baloskion pallens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Restio micans",
+                    "machine_name": "restio_micans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nees.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455176",
+                        "legacy_id": "10391",
+                        "fgsid": "106664",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Restio quinquefarius",
+                    "machine_name": "restio_quinquefarius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nees.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455177",
+                        "legacy_id": "58804",
+                        "fgsid": "106665",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Restio subverticellatus",
+                    "machine_name": "restio_subverticellatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "restio",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456701",
+                        "legacy_id": "82484",
+                        "fgsid": "142720",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385613",
+                "legacy_id": "4738",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Rhodocoma",
+            "machine_name": "rhodocoma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Steudel.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rhodocoma [Cultivars]",
+                    "machine_name": "rhodocoma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhodocoma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385684",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Rhodocoma capensis",
+                    "machine_name": "rhodocoma_capensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nees. & Steud.",
+                    "description": null,
+                    "genus": "rhodocoma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423930",
+                        "legacy_id": "2846",
+                        "fgsid": "29978",
+                        "legacy_from_data_cross_ref": [
+                            "+Restio rhodocoma"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Rhodocoma gigantea",
+                    "machine_name": "rhodocoma_gigantea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 19",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhodocoma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423931",
+                        "legacy_id": "6574",
+                        "fgsid": "29979",
+                        "legacy_from_data_cross_ref": [
+                            "+Thamnochortus giganteus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Rhodocoma fruticosa",
+                    "machine_name": "rhodocoma_fruticosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 19 says is Restio fruticosus",
+                    "genus": "rhodocoma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446484",
+                        "legacy_id": "6292",
+                        "fgsid": "75217",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Rhodocoma arida",
+                    "machine_name": "rhodocoma_arida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 20",
+                    "naming_authorities": "Linder & Vlok.",
+                    "description": null,
+                    "genus": "rhodocoma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448553",
+                        "legacy_id": "1130",
+                        "fgsid": "93257",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385683",
+                "legacy_id": "4774",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lepidobolus",
+            "machine_name": "lepidobolus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Nees.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lepidobolus [Cultivars]",
+                    "machine_name": "lepidobolus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lepidobolus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386330",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lepidobolus drapetocoleus",
+                    "machine_name": "lepidobolus_drapetocoleus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "lepidobolus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416192",
+                        "legacy_id": "5114",
+                        "fgsid": "20559",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lepidobolus chaeocephalus",
+                    "machine_name": "lepidobolus_chaeocephalus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "lepidobolus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444482",
+                        "legacy_id": "28683",
+                        "fgsid": "58415",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386329",
+                "legacy_id": "3176",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Leptocarpus",
+            "machine_name": "leptocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Leptocarpus [Cultivars]",
+                    "machine_name": "leptocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "leptocarpus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386356",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Leptocarpus brownii",
+                    "machine_name": "leptocarpus_brownii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "leptocarpus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416235",
+                        "legacy_id": "2364",
+                        "fgsid": "20603",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Leptocarpus similis",
+                    "machine_name": "leptocarpus_similis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": "Edgar.",
+                    "description": null,
+                    "genus": "leptocarpus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416236",
+                        "legacy_id": "15108",
+                        "fgsid": "20604",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Leptocarpus tenax",
+                    "machine_name": "leptocarpus_tenax",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "leptocarpus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416237",
+                        "legacy_id": "16139",
+                        "fgsid": "20605",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386355",
+                "legacy_id": "3189",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lepyrodia",
+            "machine_name": "lepyrodia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lepyrodia [Cultivars]",
+                    "machine_name": "lepyrodia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lepyrodia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386376",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lepyrodia gracilis",
+                    "machine_name": "lepyrodia_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "lepyrodia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416562",
+                        "legacy_id": "6829",
+                        "fgsid": "20645",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lepyrodia scariosa",
+                    "machine_name": "lepyrodia_scariosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "lepyrodia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416563",
+                        "legacy_id": "14519",
+                        "fgsid": "20646",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386375",
+                "legacy_id": "3199",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Loxocarya",
+            "machine_name": "loxocarya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Loxocarya [Cultivars]",
+                    "machine_name": "loxocarya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "loxocarya",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386790",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Loxocarya striata",
+                    "machine_name": "loxocarya_striata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "B.G. Briggs & L.A.S. Johnson.",
+                    "description": null,
+                    "genus": "loxocarya",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450423",
+                        "legacy_id": "15634",
+                        "fgsid": "71855",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386789",
+                "legacy_id": "9020",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lyginia",
+            "machine_name": "lyginia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lyginia [Cultivars]",
+                    "machine_name": "lyginia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lyginia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386796",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lyginia imberbis",
+                    "machine_name": "lyginia_imberbis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "lyginia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2316426",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525972913"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386795",
+                "legacy_id": "9023",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Alexgeorgea",
+            "machine_name": "alexgeorgea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Carkq.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Alexgeorgea [Cultivars]",
+                    "machine_name": "alexgeorgea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alexgeorgea",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389482",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Alexgeorgea arenicola",
+                    "machine_name": "alexgeorgea_arenicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "Carlq.",
+                    "description": null,
+                    "genus": "alexgeorgea",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401739",
+                        "legacy_id": "1080",
+                        "fgsid": "1717",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Alexgeorgea subterranea",
+                    "machine_name": "alexgeorgea_subterranea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "G.P. Yakovlev.",
+                    "description": null,
+                    "genus": "alexgeorgea",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444479",
+                        "legacy_id": "15803",
+                        "fgsid": "58355",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389481",
+                "legacy_id": "209",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Elegia",
+            "machine_name": "elegia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Elegia [Cultivars]",
+                    "machine_name": "elegia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390602",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Elegia capensis",
+                    "machine_name": "elegia_capensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": "Not in IPNI (IK)",
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413192",
+                        "legacy_id": "2846",
+                        "fgsid": "12295",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elegia filacea",
+                    "machine_name": "elegia_filacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413193",
+                        "legacy_id": "5922",
+                        "fgsid": "12296",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Elegia cuspidata",
+                    "machine_name": "elegia_cuspidata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Mart.",
+                    "description": null,
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445172",
+                        "legacy_id": "4387",
+                        "fgsid": "83699",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Elegia fistulosa",
+                    "machine_name": "elegia_fistulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450836",
+                        "legacy_id": "5993",
+                        "fgsid": "110059",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Elegia stipularis",
+                    "machine_name": "elegia_stipularis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455225",
+                        "legacy_id": "15580",
+                        "fgsid": "107082",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Elegia tectorum",
+                    "machine_name": "elegia_tectorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "elegia",
+                    "family": "restionaceae",
+                    "variety_items": [
+                        {
+                            "name": "Elegia tectorum 'El Campo'",
+                            "machine_name": "elegia_tectorum_el_campo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "El Campo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "elegia_tectorum",
+                            "genus": "elegia",
+                            "family": "restionaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2490116",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1552298010"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456700",
+                        "legacy_id": "16112",
+                        "fgsid": "142719",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390601",
+                "legacy_id": "2050",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Empodisma",
+            "machine_name": "empodisma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L. Johnson & Cutl.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Empodisma [Cultivars]",
+                    "machine_name": "empodisma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "empodisma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390660",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Empodisma minus",
+                    "machine_name": "empodisma_minus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 16",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "empodisma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1413563",
+                        "legacy_id": "10528",
+                        "fgsid": "12377",
+                        "legacy_from_data_cross_ref": [
+                            "+Calorophus minor"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390659",
+                "legacy_id": "2079",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Thamnochortus",
+            "machine_name": "thamnochortus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "P. Bergius.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Thamnochortus [Cultivars]",
+                    "machine_name": "thamnochortus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391024",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Thamnochortus cinereus",
+                    "machine_name": "thamnochortus_cinereus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 19",
+                    "naming_authorities": "H.P. Linder.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430105",
+                        "legacy_id": "3504",
+                        "fgsid": "34546",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thamnochortus insignis",
+                    "machine_name": "thamnochortus_insignis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430106",
+                        "legacy_id": "8073",
+                        "fgsid": "34547",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thamnochortus schlechteri",
+                    "machine_name": "thamnochortus_schlechteri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Pillans.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446486",
+                        "legacy_id": "14580",
+                        "fgsid": "75219",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thamnochortus lucens",
+                    "machine_name": "thamnochortus_lucens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 19 says is Restio lucens",
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450139",
+                        "legacy_id": "9569",
+                        "fgsid": "82736",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thamnochortus pellucidus",
+                    "machine_name": "thamnochortus_pellucidus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Pillans.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450847",
+                        "legacy_id": "60884",
+                        "fgsid": "110201",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thamnochortus bachmannii",
+                    "machine_name": "thamnochortus_bachmannii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451811",
+                        "legacy_id": "1508",
+                        "fgsid": "101961",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thamnochortus rigidus",
+                    "machine_name": "thamnochortus_rigidus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Esterh.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451812",
+                        "legacy_id": "13882",
+                        "fgsid": "101962",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thamnochortus spiciger",
+                    "machine_name": "thamnochortus_spiciger",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Spreng.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455762",
+                        "legacy_id": "71016",
+                        "fgsid": "127844",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thamnochortus fraternus",
+                    "machine_name": "thamnochortus_fraternus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pillans.",
+                    "description": null,
+                    "genus": "thamnochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462970",
+                        "legacy_id": "6248",
+                        "fgsid": "156125",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391023",
+                "legacy_id": "5487",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Anarthria",
+            "machine_name": "anarthria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anarthria [Cultivars]",
+                    "machine_name": "anarthria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anarthria",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395928",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Anarthria scabra",
+                    "machine_name": "anarthria_scabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "anarthria",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444480",
+                        "legacy_id": "14486",
+                        "fgsid": "58375",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395927",
+                "legacy_id": "10442",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Baloskion",
+            "machine_name": "baloskion",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Raf.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Baloskion [Cultivars]",
+                    "machine_name": "baloskion_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "baloskion",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395930",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Baloskion tetraphyllum",
+                    "machine_name": "baloskion_tetraphyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "baloskion",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444481",
+                        "legacy_id": "16272",
+                        "fgsid": "58395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Baloskion pallens",
+                    "machine_name": "baloskion_pallens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "B.G.Briggs & L.A.S.Johnson.",
+                    "description": "basionym: Restio pallens",
+                    "genus": "baloskion",
+                    "family": "restionaceae",
+                    "variety_items": [
+                        {
+                            "name": "Baloskion pallens Didgery Sticks \u00ae",
+                            "machine_name": "baloskion_pallens_didgery_sticks",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Didgery Sticks",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "baloskion_pallens",
+                            "genus": "baloskion",
+                            "family": "restionaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602509",
+                                "legacy_id": "226595",
+                                "fgsid": "94775",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449638",
+                        "legacy_id": "11909",
+                        "fgsid": "94775",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395929",
+                "legacy_id": "10462",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Calopsis",
+            "machine_name": "calopsis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Pal. & Desv.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Calopsis [Cultivars]",
+                    "machine_name": "calopsis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calopsis",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396264",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Calopsis paniculata",
+                    "machine_name": "calopsis_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis I says is Leptocarpus paniculatus",
+                    "genus": "calopsis",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446482",
+                        "legacy_id": "11974",
+                        "fgsid": "75215",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396263",
+                "legacy_id": "13002",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dovea",
+            "machine_name": "dovea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Kunth.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dovea [Cultivars]",
+                    "machine_name": "dovea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dovea",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dovea macrocarpa",
+                    "machine_name": "dovea_macrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "dovea",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446483",
+                        "legacy_id": "9768",
+                        "fgsid": "75216",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396265",
+                "legacy_id": "13003",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Staberoha",
+            "machine_name": "staberoha",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Kunth.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Staberoha [Cultivars]",
+                    "machine_name": "staberoha_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "staberoha",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396268",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Staberoha distachya",
+                    "machine_name": "staberoha_distachya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "staberoha",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446485",
+                        "legacy_id": "4992",
+                        "fgsid": "75218",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396267",
+                "legacy_id": "13004",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Askidiosperma",
+            "machine_name": "askidiosperma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Steudel.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Askidiosperma [Cultivars]",
+                    "machine_name": "askidiosperma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "askidiosperma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396478",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Askidiosperma chartaceum",
+                    "machine_name": "askidiosperma_chartaceum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 19 says is Dovea chartacea",
+                    "genus": "askidiosperma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445171",
+                        "legacy_id": "3293",
+                        "fgsid": "83698",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Askidiosperma paniculatum",
+                    "machine_name": "askidiosperma_paniculatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.P. Linder.",
+                    "description": null,
+                    "genus": "askidiosperma",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462866",
+                        "legacy_id": "11976",
+                        "fgsid": "154959",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396477",
+                "legacy_id": "14323",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Anthochortus",
+            "machine_name": "anthochortus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Engl.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anthochortus [Cultivars]",
+                    "machine_name": "anthochortus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anthochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397648",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Anthochortus crinalis",
+                    "machine_name": "anthochortus_crinalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.P. Linder.",
+                    "description": null,
+                    "genus": "anthochortus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463288",
+                        "legacy_id": "90444",
+                        "fgsid": "154939",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397647",
+                "legacy_id": "30184",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Desmocladus",
+            "machine_name": "desmocladus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Nees.",
+            "description": null,
+            "family": "restionaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Desmocladus [Cultivars]",
+                    "machine_name": "desmocladus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "desmocladus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2316416",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525972703"
+                    }
+                },
+                {
+                    "name": "Desmocladus fasciculatus",
+                    "machine_name": "desmocladus_fasciculatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "B.G. Briggs & L.A.S. Johnson.",
+                    "description": null,
+                    "genus": "desmocladus",
+                    "family": "restionaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2316421",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525972756"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2316411",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525972703"
+            }
+        }
+    ]
+}

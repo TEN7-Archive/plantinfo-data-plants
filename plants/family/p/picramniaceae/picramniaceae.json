@@ -1,0 +1,247 @@
+{
+    "name": "Picramniaceae",
+    "machine_name": "picramniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Fernando & Quinn.",
+    "description": null,
+    "archival_data": {
+        "id": "2327256",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527423349"
+    },
+    "genus_items": [
+        {
+            "name": "Picramnia",
+            "machine_name": "picramnia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "picramniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Picramnia [Cultivars]",
+                    "machine_name": "picramnia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "picramnia",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396160",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Picramnia coccinea",
+                    "machine_name": "picramnia_coccinea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "W.W.Thomas.",
+                    "description": null,
+                    "genus": "picramnia",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450059",
+                        "legacy_id": "3649",
+                        "fgsid": "71260",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Picramnia pentandra",
+                    "machine_name": "picramnia_pentandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "picramnia",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327251",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527423240"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396159",
+                "legacy_id": "12164",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Alvaradoa",
+            "machine_name": "alvaradoa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Liebm.",
+            "description": null,
+            "family": "picramniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Alvaradoa [Cultivars]",
+                    "machine_name": "alvaradoa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "alvaradoa",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527423622"
+                    }
+                },
+                {
+                    "name": "Alvaradoa amorphoides",
+                    "machine_name": "alvaradoa_amorphoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Liebm.",
+                    "description": null,
+                    "genus": "alvaradoa",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327271",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527423658"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2327261",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527423622"
+            }
+        },
+        {
+            "name": "Gumillea",
+            "machine_name": "gumillea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos (no family yet!)",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "picramniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gumillea [Cultivars]",
+                    "machine_name": "gumillea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gumillea",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327326",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527602610"
+                    }
+                },
+                {
+                    "name": "Gumillea auriculata",
+                    "machine_name": "gumillea_auriculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "gumillea",
+                    "family": "picramniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327331",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527602648"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2327321",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527602610"
+            }
+        }
+    ]
+}

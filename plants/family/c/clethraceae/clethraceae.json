@@ -1,0 +1,1275 @@
+{
+    "name": "Clethraceae",
+    "machine_name": "clethraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Klotzsch.",
+    "description": null,
+    "archival_data": {
+        "id": "2338836",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529927416"
+    },
+    "genus_items": [
+        {
+            "name": "Clethra",
+            "machine_name": "clethra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "clethraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Clethra acuminata",
+                    "machine_name": "clethra_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Michx.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408702",
+                        "legacy_id": "151",
+                        "fgsid": "8042",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra alnifolia",
+                    "machine_name": "clethra_alnifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [
+                        {
+                            "name": "Clethra alnifolia 'Fern Valley Pink'",
+                            "machine_name": "clethra_alnifolia_fern_valley_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fern Valley Pink",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470153",
+                                "legacy_id": "5228",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Hummingbird'",
+                            "machine_name": "clethra_alnifolia_hummingbird",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hummingbird",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470154",
+                                "legacy_id": "5229",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Pink Spire'",
+                            "machine_name": "clethra_alnifolia_pink_spire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Spire",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470155",
+                                "legacy_id": "5230",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Rosea'",
+                            "machine_name": "clethra_alnifolia_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosea",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470381",
+                                "legacy_id": "5231",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Ruby Spice'",
+                            "machine_name": "clethra_alnifolia_ruby_spice",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ruby Spice",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470382",
+                                "legacy_id": "5232",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Alba'",
+                            "machine_name": "clethra_alnifolia_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alba",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500695",
+                                "legacy_id": "74590",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Compacta'",
+                            "machine_name": "clethra_alnifolia_compacta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Compacta",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500696",
+                                "legacy_id": "74591",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Creel's Callico'",
+                            "machine_name": "clethra_alnifolia_creel_s_callico",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Creel's Callico",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500697",
+                                "legacy_id": "74592",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Paniculata'",
+                            "machine_name": "clethra_alnifolia_paniculata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Paniculata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500915",
+                                "legacy_id": "74593",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Tomentosa'",
+                            "machine_name": "clethra_alnifolia_tomentosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tomentosa",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500916",
+                                "legacy_id": "74594",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Anne Bidwell'",
+                            "machine_name": "clethra_alnifolia_anne_bidwell",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Anne Bidwell",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532776",
+                                "legacy_id": "111113",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Chattanooga'",
+                            "machine_name": "clethra_alnifolia_chattanooga",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chattanooga",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532777",
+                                "legacy_id": "111114",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Hokie Pink'",
+                            "machine_name": "clethra_alnifolia_hokie_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hokie Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532778",
+                                "legacy_id": "111115",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'September Beauty'",
+                            "machine_name": "clethra_alnifolia_september_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "September Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533887",
+                                "legacy_id": "110085",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Sixteen Candles'",
+                            "machine_name": "clethra_alnifolia_sixteen_candles",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sixteen Candles",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567080",
+                                "legacy_id": "174736",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Fern Valley Late Sweet'",
+                            "machine_name": "clethra_alnifolia_fern_valley_late_sweet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fern Valley Late Sweet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1570362",
+                                "legacy_id": "187524",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia White Dove \u2122",
+                            "machine_name": "clethra_alnifolia_white_dove",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "White Dove",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574106",
+                                "legacy_id": "195420",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia Sherry Sue \u00ae",
+                            "machine_name": "clethra_alnifolia_sherry_sue",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Sherry Sue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601267",
+                                "legacy_id": "225801",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Sweet Suzanne'",
+                            "machine_name": "clethra_alnifolia_sweet_suzanne",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sweet Suzanne",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601268",
+                                "legacy_id": "225802",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia Crystalina \u00ae",
+                            "machine_name": "clethra_alnifolia_crystalina",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Crystalina",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607463",
+                                "legacy_id": "381166",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia Vanilla Spice \u2122",
+                            "machine_name": "clethra_alnifolia_vanilla_spice",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Vanilla Spice",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1618057",
+                                "legacy_id": "354771",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia Sugartina \u00ae",
+                            "machine_name": "clethra_alnifolia_sugartina",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Sugartina",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1624557",
+                                "legacy_id": "361361",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Sotite'",
+                            "machine_name": "clethra_alnifolia_sotite",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sotite",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632374",
+                                "legacy_id": "290816",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Tom's Compact'",
+                            "machine_name": "clethra_alnifolia_tom_s_compact",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tom's Compact",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632375",
+                                "legacy_id": "290817",
+                                "fgsid": "8043",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Anne's Bouquet'",
+                            "machine_name": "clethra_alnifolia_anne_s_bouquet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Anne's Bouquet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2126731",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1492031400"
+                            }
+                        },
+                        {
+                            "name": "Clethra alnifolia 'Firefly'",
+                            "machine_name": "clethra_alnifolia_firefly",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Firefly",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_alnifolia",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2471231",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1550767662"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408703",
+                        "legacy_id": "516",
+                        "fgsid": "8043",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra barbinervis",
+                    "machine_name": "clethra_barbinervis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Siebold & Zucc.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [
+                        {
+                            "name": "Clethra barbinervis 'Takeda Nishiki'",
+                            "machine_name": "clethra_barbinervis_takeda_nishiki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Takeda Nishiki",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_barbinervis",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585072",
+                                "legacy_id": "219818",
+                                "fgsid": "8044",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Clethra barbinervis 'Jane Platt'",
+                            "machine_name": "clethra_barbinervis_jane_platt",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jane Platt",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_barbinervis",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597807",
+                                "legacy_id": "388142",
+                                "fgsid": "8044",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Clethra barbinervis First Snow \u00ae",
+                            "machine_name": "clethra_barbinervis_first_snow",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "First Snow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_barbinervis",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2592606",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1578500974"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408704",
+                        "legacy_id": "1641",
+                        "fgsid": "8044",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra delavayi",
+                    "machine_name": "clethra_delavayi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408705",
+                        "legacy_id": "4688",
+                        "fgsid": "8045",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra fargesii",
+                    "machine_name": "clethra_fargesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408706",
+                        "legacy_id": "5802",
+                        "fgsid": "8046",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra japonica*",
+                    "machine_name": "clethra_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "clethra_barbinervis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1408707",
+                        "legacy_id": "8265",
+                        "fgsid": "8047",
+                        "legacy_from_data_cross_ref": [
+                            "+C. barbinervis"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra macrophylla",
+                    "machine_name": "clethra_macrophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Mart. & Gal.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408708",
+                        "legacy_id": "9799",
+                        "fgsid": "8048",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra monostachya",
+                    "machine_name": "clethra_monostachya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Rehd. & Wils.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408709",
+                        "legacy_id": "10678",
+                        "fgsid": "8049",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra pringlei",
+                    "machine_name": "clethra_pringlei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "S. Wats.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [
+                        {
+                            "name": "Clethra pringlei 'White Water'",
+                            "machine_name": "clethra_pringlei_white_water",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "White Water",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_pringlei",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470383",
+                                "legacy_id": "5233",
+                                "fgsid": "8050",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408990",
+                        "legacy_id": "13023",
+                        "fgsid": "8050",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra tomentosa",
+                    "machine_name": "clethra_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [
+                        {
+                            "name": "Clethra tomentosa 'Cottondale'",
+                            "machine_name": "clethra_tomentosa_cottondale",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cottondale",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_tomentosa",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546165",
+                                "legacy_id": "123035",
+                                "fgsid": "8051",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Clethra tomentosa 'Woodlander's Sarah'",
+                            "machine_name": "clethra_tomentosa_woodlander_s_sarah",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Woodlander's Sarah",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_tomentosa",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638742",
+                                "legacy_id": "329737",
+                                "fgsid": "8051",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408991",
+                        "legacy_id": "16461",
+                        "fgsid": "8051",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Clethra arborea",
+                    "machine_name": "clethra_arborea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Ait.",
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444405",
+                        "legacy_id": "1021",
+                        "fgsid": "45684",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Clethra [Cultivars]",
+                    "machine_name": "clethra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "clethra",
+                    "family": "clethraceae",
+                    "variety_items": [
+                        {
+                            "name": "Clethra [Cultivars] Einstein \u2122",
+                            "machine_name": "clethra_cultivars_einstein",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Einstein",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "clethra_cultivars",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661614",
+                                "legacy_id": "393636",
+                                "fgsid": "147294",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Clethra [Cultivars] 'Summer Sweet'",
+                            "machine_name": "clethra_cultivars_summer_sweet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Summer Sweet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "clethra_cultivars",
+                            "genus": "clethra",
+                            "family": "clethraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2495656",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1553004026"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460136",
+                        "legacy_id": "2",
+                        "fgsid": "147294",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385271",
+                "legacy_id": "1346",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

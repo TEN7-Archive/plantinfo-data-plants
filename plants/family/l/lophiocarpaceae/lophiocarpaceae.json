@@ -1,0 +1,85 @@
+{
+    "name": "Lophiocarpaceae",
+    "machine_name": "lophiocarpaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Doweld & Reveal.",
+    "description": null,
+    "archival_data": {
+        "id": "2336251",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529326354"
+    },
+    "genus_items": [
+        {
+            "name": "Corbichonia",
+            "machine_name": "corbichonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Scop.",
+            "description": null,
+            "family": "lophiocarpaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Corbichonia [Cultivars]",
+                    "machine_name": "corbichonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "corbichonia",
+                    "family": "lophiocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336261",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529326389"
+                    }
+                },
+                {
+                    "name": "Corbichonia decumbens",
+                    "machine_name": "corbichonia_decumbens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Exell.",
+                    "description": null,
+                    "genus": "corbichonia",
+                    "family": "lophiocarpaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529326419"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2336256",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529326389"
+            }
+        }
+    ]
+}

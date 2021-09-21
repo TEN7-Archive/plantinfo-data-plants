@@ -1,0 +1,313 @@
+{
+    "name": "Putranjivaceae",
+    "machine_name": "putranjivaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Endl.",
+    "description": null,
+    "archival_data": {
+        "id": "2322911",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526915717"
+    },
+    "genus_items": [
+        {
+            "name": "Drypetes",
+            "machine_name": "drypetes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Vahl.",
+            "description": null,
+            "family": "putranjivaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Drypetes [Cultivars]",
+                    "machine_name": "drypetes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1390444",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Drypetes deplanchei",
+                    "machine_name": "drypetes_deplanchei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 12",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [
+                        {
+                            "name": "Drypetes deplanchei affinis",
+                            "machine_name": "drypetes_deplanchei_affinis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "affinis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "drypetes_deplanchei",
+                            "genus": "drypetes",
+                            "family": "putranjivaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468836",
+                                "legacy_id": "8713",
+                                "fgsid": "11879",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406235",
+                        "legacy_id": "71300",
+                        "fgsid": "11879",
+                        "legacy_from_data_cross_ref": [
+                            "+Elaeocarpus deplanchei"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Drypetes lasiogyna",
+                    "machine_name": "drypetes_lasiogyna",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [
+                        {
+                            "name": "Drypetes lasiogyna australasica",
+                            "machine_name": "drypetes_lasiogyna_australasica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "australasica",
+                            "authorities": "Cv.",
+                            "naming_authorities": "Airy-Shaw.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "drypetes_lasiogyna",
+                            "genus": "drypetes",
+                            "family": "putranjivaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468837",
+                                "legacy_id": "8714",
+                                "fgsid": "11880",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406236",
+                        "legacy_id": "8906",
+                        "fgsid": "11880",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Drypetes variabilis",
+                    "machine_name": "drypetes_variabilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Uittien.",
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406237",
+                        "legacy_id": "17145",
+                        "fgsid": "11881",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Drypetes diversifolia",
+                    "machine_name": "drypetes_diversifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Krug & Urb.",
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456578",
+                        "legacy_id": "5022",
+                        "fgsid": "137900",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Drypetes oblongifolia",
+                    "machine_name": "drypetes_oblongifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Airy Shaw.",
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2175706",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513516680"
+                    }
+                },
+                {
+                    "name": "Drypetes lateriflora",
+                    "machine_name": "drypetes_lateriflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kurg & Urb.",
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2278351",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1521974040"
+                    }
+                },
+                {
+                    "name": "Drypetes natalensis",
+                    "machine_name": "drypetes_natalensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hutch.",
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322906",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915580"
+                    }
+                },
+                {
+                    "name": "Drypetes euryodes",
+                    "machine_name": "drypetes_euryodes",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hutch.",
+                    "description": null,
+                    "genus": "drypetes",
+                    "family": "putranjivaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322916",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526916232"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1390443",
+                "legacy_id": "1970",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

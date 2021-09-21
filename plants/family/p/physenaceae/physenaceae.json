@@ -1,0 +1,109 @@
+{
+    "name": "Physenaceae",
+    "machine_name": "physenaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2332906",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528736067"
+    },
+    "genus_items": [
+        {
+            "name": "Physena",
+            "machine_name": "physena",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Noronha & Thouars.",
+            "description": null,
+            "family": "physenaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Physena [Cultivars]",
+                    "machine_name": "physena_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "physena",
+                    "family": "physenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332916",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528736104"
+                    }
+                },
+                {
+                    "name": "Physena madagascariensis",
+                    "machine_name": "physena_madagascariensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Thouars & Tul.",
+                    "description": null,
+                    "genus": "physena",
+                    "family": "physenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332921",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528736145"
+                    }
+                },
+                {
+                    "name": "Physena sessiliflora",
+                    "machine_name": "physena_sessiliflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Tul.",
+                    "description": null,
+                    "genus": "physena",
+                    "family": "physenaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332926",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528736222"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332911",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528736104"
+            }
+        }
+    ]
+}

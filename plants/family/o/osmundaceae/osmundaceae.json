@@ -1,0 +1,634 @@
+{
+    "name": "Osmundaceae",
+    "machine_name": "osmundaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381460",
+        "legacy_id": "471",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Osmunda",
+            "machine_name": "osmunda",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "osmundaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Osmunda [Cultivars]",
+                    "machine_name": "osmunda_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383314",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Osmunda cinnamomea",
+                    "machine_name": "osmunda_cinnamomea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [
+                        {
+                            "name": "Osmunda cinnamomea cinnamomea",
+                            "machine_name": "osmunda_cinnamomea_cinnamomea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cinnamomea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "osmunda_cinnamomea",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633472",
+                                "legacy_id": "306976",
+                                "fgsid": "41325",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438618",
+                        "legacy_id": "3511",
+                        "fgsid": "41325",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Osmunda claytoniana",
+                    "machine_name": "osmunda_claytoniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440714",
+                        "legacy_id": "21035",
+                        "fgsid": "43355",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Osmunda regalis",
+                    "machine_name": "osmunda_regalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [
+                        {
+                            "name": "Osmunda regalis spectabilis",
+                            "machine_name": "osmunda_regalis_spectabilis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "spectabilis",
+                            "authorities": "Royal Hort.",
+                            "naming_authorities": "A. Gray.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "osmunda_regalis",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538345",
+                                "legacy_id": "114863",
+                                "fgsid": "42866",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Osmunda regalis 'Purpurascens'",
+                            "machine_name": "osmunda_regalis_purpurascens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Purpurascens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "osmunda_regalis",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539533",
+                                "legacy_id": "114100",
+                                "fgsid": "42866",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Osmunda regalis 'Undulatifolia'",
+                            "machine_name": "osmunda_regalis_undulatifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Undulatifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "osmunda_regalis",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1539536",
+                                "legacy_id": "114104",
+                                "fgsid": "42866",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Osmunda regalis 'Cristata'",
+                            "machine_name": "osmunda_regalis_cristata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cristata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "osmunda_regalis",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1566036",
+                                "legacy_id": "180687",
+                                "fgsid": "42866",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Osmunda regalis regalis",
+                            "machine_name": "osmunda_regalis_regalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "regalis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "osmunda_regalis",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1571444",
+                                "legacy_id": "196327",
+                                "fgsid": "42866",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Osmunda regalis 'Shirley'",
+                            "machine_name": "osmunda_regalis_shirley",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shirley",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "osmunda_regalis",
+                            "genus": "osmunda",
+                            "family": "osmundaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1654859",
+                                "legacy_id": "370396",
+                                "fgsid": "42866",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444263",
+                        "legacy_id": "13668",
+                        "fgsid": "42866",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Osmunda lancea",
+                    "machine_name": "osmunda_lancea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449207",
+                        "legacy_id": "8817",
+                        "fgsid": "88576",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Osmunda ruggii",
+                    "machine_name": "osmunda_ruggii",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459465",
+                        "legacy_id": "75826",
+                        "fgsid": "133643",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Osmunda banksiifolia",
+                    "machine_name": "osmunda_banksiifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kuhn",
+                    "naming_authorities": "IPNI; Flora of China",
+                    "description": null,
+                    "genus": "osmunda",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460000",
+                        "legacy_id": "81864",
+                        "fgsid": "141899",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383313",
+                "legacy_id": "6216",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Todea",
+            "machine_name": "todea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Willd. & Bernh.",
+            "description": null,
+            "family": "osmundaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Todea [Cultivars]",
+                    "machine_name": "todea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "todea",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387556",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Todea barbara",
+                    "machine_name": "todea_barbara",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "T. Moore.",
+                    "description": null,
+                    "genus": "todea",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441139",
+                        "legacy_id": "1613",
+                        "fgsid": "43515",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387555",
+                "legacy_id": "9173",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Leptopteris",
+            "machine_name": "leptopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "C. Presl.",
+            "description": null,
+            "family": "osmundaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Leptopteris [Cultivars]",
+                    "machine_name": "leptopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "leptopteris",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396188",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Leptopteris wilkesiana",
+                    "machine_name": "leptopteris_wilkesiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H. Christ.",
+                    "description": null,
+                    "genus": "leptopteris",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459546",
+                        "legacy_id": "17721",
+                        "fgsid": "139041",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Leptopteris fraseri",
+                    "machine_name": "leptopteris_fraseri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "leptopteris",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306526",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524681673"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396187",
+                "legacy_id": "26285",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Osmundastrum",
+            "machine_name": "osmundastrum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "C. Presl.",
+            "description": null,
+            "family": "osmundaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Osmundastrum [Cultivars]",
+                    "machine_name": "osmundastrum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "osmundastrum",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306516",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524681513"
+                    }
+                },
+                {
+                    "name": "Osmundastrum cinnamomeum",
+                    "machine_name": "osmundastrum_cinnamomeum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "osmundastrum",
+                    "family": "osmundaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306521",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524681561"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2306511",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524681513"
+            }
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+{
+    "name": "Paulowniaceae",
+    "machine_name": "paulowniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Nakai.",
+    "description": null,
+    "archival_data": {
+        "id": "2350281",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531842905"
+    },
+    "genus_items": [
+        {
+            "name": "Paulownia",
+            "machine_name": "paulownia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Siebold & Zucc.",
+            "description": null,
+            "family": "paulowniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Paulownia [Cultivars]",
+                    "machine_name": "paulownia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394314",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Paulownia fortunei",
+                    "machine_name": "paulownia_fortunei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Hance.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Paulownia fortunei Fast Blue \u00ae",
+                            "machine_name": "paulownia_fortunei_fast_blue",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Fast Blue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "paulownia_fortunei",
+                            "genus": "paulownia",
+                            "family": "paulowniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1569339",
+                                "legacy_id": "179988",
+                                "fgsid": "26110",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426260",
+                        "legacy_id": "6193",
+                        "fgsid": "26110",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Paulownia kawakamii",
+                    "machine_name": "paulownia_kawakamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "T. Ito.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426261",
+                        "legacy_id": "8447",
+                        "fgsid": "26111",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Paulownia tomentosa",
+                    "machine_name": "paulownia_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Steud.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Paulownia tomentosa 'Lilacina'",
+                            "machine_name": "paulownia_tomentosa_lilacina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lilacina",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "paulownia_tomentosa",
+                            "genus": "paulownia",
+                            "family": "paulowniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1483481",
+                                "legacy_id": "22330",
+                                "fgsid": "26112",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Paulownia tomentosa 'Coreana'",
+                            "machine_name": "paulownia_tomentosa_coreana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Coreana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "paulownia_tomentosa",
+                            "genus": "paulownia",
+                            "family": "paulowniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521313",
+                                "legacy_id": "94791",
+                                "fgsid": "26112",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426262",
+                        "legacy_id": "16461",
+                        "fgsid": "26112",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Paulownia elongata",
+                    "machine_name": "paulownia_elongata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "S.Y. Hu.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435751",
+                        "legacy_id": "5388",
+                        "fgsid": "42121",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Paulownia fargesii",
+                    "machine_name": "paulownia_fargesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436400",
+                        "legacy_id": "5802",
+                        "fgsid": "40717",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Paulownia catalpifolia",
+                    "machine_name": "paulownia_catalpifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "T. Gong.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444145",
+                        "legacy_id": "28223",
+                        "fgsid": "57375",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Paulownia taiwaniana",
+                    "machine_name": "paulownia_taiwaniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "T.W. Hu & H.J. Chang.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379631",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537802733"
+                    }
+                },
+                {
+                    "name": "Paulownia lilacina",
+                    "machine_name": "paulownia_lilacina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sprague.",
+                    "description": null,
+                    "genus": "paulownia",
+                    "family": "paulowniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2386556",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1538747429"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394313",
+                "legacy_id": "4166",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

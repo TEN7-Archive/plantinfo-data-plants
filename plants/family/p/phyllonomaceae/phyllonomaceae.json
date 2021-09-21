@@ -1,0 +1,85 @@
+{
+    "name": "Phyllonomaceae",
+    "machine_name": "phyllonomaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Small.",
+    "description": null,
+    "archival_data": {
+        "id": "2358411",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532802882"
+    },
+    "genus_items": [
+        {
+            "name": "Phyllonoma",
+            "machine_name": "phyllonoma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Willd. & Roem. & Schult.",
+            "description": null,
+            "family": "phyllonomaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phyllonoma [Cultivars]",
+                    "machine_name": "phyllonoma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phyllonoma",
+                    "family": "phyllonomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358421",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532802923"
+                    }
+                },
+                {
+                    "name": "Phyllonoma laticuspis",
+                    "machine_name": "phyllonoma_laticuspis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "phyllonoma",
+                    "family": "phyllonomaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358426",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532802958"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2358416",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532802923"
+            }
+        }
+    ]
+}

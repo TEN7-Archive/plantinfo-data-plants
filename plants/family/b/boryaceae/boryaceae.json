@@ -1,0 +1,135 @@
+{
+    "name": "Boryaceae",
+    "machine_name": "boryaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "M.W. Chase & Rudall & Conran.",
+    "description": null,
+    "archival_data": {
+        "id": "2312106",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525197458"
+    },
+    "genus_items": [
+        {
+            "name": "Borya",
+            "machine_name": "borya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "boryaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Borya [Cultivars]",
+                    "machine_name": "borya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "borya",
+                    "family": "boryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393946",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Borya constricta",
+                    "machine_name": "borya_constricta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": "D.M. Churchill.",
+                    "description": null,
+                    "genus": "borya",
+                    "family": "boryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402327",
+                        "legacy_id": "3907",
+                        "fgsid": "4775",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Borya septrentrionalis",
+                    "machine_name": "borya_septrentrionalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "borya",
+                    "family": "boryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402328",
+                        "legacy_id": "14866",
+                        "fgsid": "4776",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Borya sphaerocephala",
+                    "machine_name": "borya_sphaerocephala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "borya",
+                    "family": "boryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1402329",
+                        "legacy_id": "15347",
+                        "fgsid": "4777",
+                        "legacy_from_data_cross_ref": [
+                            "+B. nitida"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393945",
+                "legacy_id": "764",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

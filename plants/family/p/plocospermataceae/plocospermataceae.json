@@ -1,0 +1,85 @@
+{
+    "name": "Plocospermataceae",
+    "machine_name": "plocospermataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Hutch.",
+    "description": null,
+    "archival_data": {
+        "id": "2340226",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530366012"
+    },
+    "genus_items": [
+        {
+            "name": "Plocosperma",
+            "machine_name": "plocosperma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Benth.",
+            "description": null,
+            "family": "plocospermataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Plocosperma [Cultivars]",
+                    "machine_name": "plocosperma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "plocosperma",
+                    "family": "plocospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340236",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530366043"
+                    }
+                },
+                {
+                    "name": "Plocosperma buxifolium",
+                    "machine_name": "plocosperma_buxifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "plocosperma",
+                    "family": "plocospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340241",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530366081"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2340231",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530366043"
+            }
+        }
+    ]
+}

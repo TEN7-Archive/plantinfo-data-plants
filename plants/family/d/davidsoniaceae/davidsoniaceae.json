@@ -1,0 +1,191 @@
+{
+    "name": "Davidsoniaceae",
+    "machine_name": "davidsoniaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381218",
+        "legacy_id": "141",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Davidsonia",
+            "machine_name": "davidsonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "davidsoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Davidsonia [Cultivars]",
+                    "machine_name": "davidsonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "davidsonia",
+                    "family": "davidsoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387968",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Davidsonia involucrata",
+                    "machine_name": "davidsonia_involucrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "davidsonia",
+                    "family": "davidsoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Davidsonia involucrata jerseryana",
+                            "machine_name": "davidsonia_involucrata_jerseryana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "jerseryana",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "davidsonia_involucrata",
+                            "genus": "davidsonia",
+                            "family": "davidsoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469088",
+                                "legacy_id": "7391",
+                                "fgsid": "10293",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405431",
+                        "legacy_id": "8141",
+                        "fgsid": "10293",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Davidsonia pruriens",
+                    "machine_name": "davidsonia_pruriens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "davidsonia",
+                    "family": "davidsoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Davidsonia pruriens jerseyana",
+                            "machine_name": "davidsonia_pruriens_jerseyana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "jerseyana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "davidsonia_pruriens",
+                            "genus": "davidsonia",
+                            "family": "davidsoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2359896",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1533129204"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405432",
+                        "legacy_id": "13104",
+                        "fgsid": "10294",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Davidsonia jerseyana",
+                    "machine_name": "davidsonia_jerseyana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "G.J.Harden & J.B.Williams.",
+                    "description": null,
+                    "genus": "davidsonia",
+                    "family": "davidsoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450842",
+                        "legacy_id": "60864",
+                        "fgsid": "110139",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387967",
+                "legacy_id": "1736",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

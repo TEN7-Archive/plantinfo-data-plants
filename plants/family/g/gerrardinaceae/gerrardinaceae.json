@@ -1,0 +1,85 @@
+{
+    "name": "Gerrardinaceae",
+    "machine_name": "gerrardinaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "M.H. Alford.",
+    "description": null,
+    "archival_data": {
+        "id": "2327986",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527772657"
+    },
+    "genus_items": [
+        {
+            "name": "Gerrardina",
+            "machine_name": "gerrardina",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Oliv.",
+            "description": null,
+            "family": "gerrardinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gerrardina [Cultivars]",
+                    "machine_name": "gerrardina_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gerrardina",
+                    "family": "gerrardinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327996",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527772688"
+                    }
+                },
+                {
+                    "name": "Gerrardina foliosa",
+                    "machine_name": "gerrardina_foliosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Oliv.",
+                    "description": null,
+                    "genus": "gerrardina",
+                    "family": "gerrardinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2328001",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527772736"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2327991",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527772688"
+            }
+        }
+    ]
+}

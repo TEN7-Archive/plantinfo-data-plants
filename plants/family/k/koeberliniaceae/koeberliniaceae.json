@@ -1,0 +1,85 @@
+{
+    "name": "Koeberliniaceae",
+    "machine_name": "koeberliniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Engl.",
+    "description": null,
+    "archival_data": {
+        "id": "2331741",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528546059"
+    },
+    "genus_items": [
+        {
+            "name": "Koeberlinia",
+            "machine_name": "koeberlinia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Zucc.",
+            "description": null,
+            "family": "koeberliniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Koeberlinia [Cultivars]",
+                    "machine_name": "koeberlinia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "koeberlinia",
+                    "family": "koeberliniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386762",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Koeberlinia spinosa",
+                    "machine_name": "koeberlinia_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Zucc.",
+                    "description": null,
+                    "genus": "koeberlinia",
+                    "family": "koeberliniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456321",
+                        "legacy_id": "15394",
+                        "fgsid": "108822",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386761",
+                "legacy_id": "9006",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

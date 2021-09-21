@@ -1,0 +1,133 @@
+{
+    "name": "Kewaceae",
+    "machine_name": "kewaceae",
+    "type": "family",
+    "authorities": "Tropocs",
+    "naming_authorities": "Christenh.",
+    "description": null,
+    "archival_data": {
+        "id": "2144821",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1510059569"
+    },
+    "genus_items": [
+        {
+            "name": "Kewa",
+            "machine_name": "kewa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Christenh.",
+            "description": null,
+            "family": "kewaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Kewa [Cultivars]",
+                    "machine_name": "kewa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "kewa",
+                    "family": "kewaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2144831",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1510059636"
+                    }
+                },
+                {
+                    "name": "Kewa acida",
+                    "machine_name": "kewa_acida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "kewa",
+                    "family": "kewaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2144836",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1510059687"
+                    }
+                },
+                {
+                    "name": "Kewa salsoloides",
+                    "machine_name": "kewa_salsoloides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "kewa",
+                    "family": "kewaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336271",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529326560"
+                    }
+                },
+                {
+                    "name": "Kewa bowkeriana",
+                    "machine_name": "kewa_bowkeriana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "kewa",
+                    "family": "kewaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2336276",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529326641"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2144826",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1510059636"
+            }
+        }
+    ]
+}

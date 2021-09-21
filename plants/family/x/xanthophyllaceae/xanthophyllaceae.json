@@ -1,0 +1,87 @@
+{
+    "name": "Xanthophyllaceae",
+    "machine_name": "xanthophyllaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381443",
+        "legacy_id": "437",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Xanthophyllum",
+            "machine_name": "xanthophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Roxb.",
+            "description": null,
+            "family": "xanthophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Xanthophyllum [Cultivars]",
+                    "machine_name": "xanthophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xanthophyllum",
+                    "family": "xanthophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394524",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Xanthophyllum octandrum",
+                    "machine_name": "xanthophyllum_octandrum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "xanthophyllum",
+                    "family": "xanthophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438298",
+                        "legacy_id": "11504",
+                        "fgsid": "36730",
+                        "legacy_from_data_cross_ref": [
+                            "+Macintyria octandra"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394523",
+                "legacy_id": "5884",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

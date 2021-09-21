@@ -1,0 +1,672 @@
+{
+    "name": "Cercidiphyllaceae",
+    "machine_name": "cercidiphyllaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381188",
+        "legacy_id": "95",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cercidiphyllum",
+            "machine_name": "cercidiphyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Siebold & Zucc.",
+            "description": null,
+            "family": "cercidiphyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cercidiphyllum [Cultivars]",
+                    "machine_name": "cercidiphyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cercidiphyllum",
+                    "family": "cercidiphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383634",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cercidiphyllum japonicum",
+                    "machine_name": "cercidiphyllum_japonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Siebold & Zucc.",
+                    "description": null,
+                    "genus": "cercidiphyllum",
+                    "family": "cercidiphyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cercidiphyllum japonicum pendulum",
+                            "machine_name": "cercidiphyllum_japonicum_pendulum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pendulum",
+                            "authorities": "Royal Hort change",
+                            "naming_authorities": "Ohwi.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467323",
+                                "legacy_id": "4462",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Heronswood Globe'",
+                            "machine_name": "cercidiphyllum_japonicum_heronswood_globe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Heronswood Globe",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503167",
+                                "legacy_id": "74084",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum magnificum",
+                            "machine_name": "cercidiphyllum_japonicum_magnificum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "magnificum",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": "Nak.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1529286",
+                                "legacy_id": "106213",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Amazing Grace'",
+                            "machine_name": "cercidiphyllum_japonicum_amazing_grace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Amazing Grace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532779",
+                                "legacy_id": "111116",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum japonicum",
+                            "machine_name": "cercidiphyllum_japonicum_japonicum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "japonicum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537251",
+                                "legacy_id": "115834",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Tidal Wave'",
+                            "machine_name": "cercidiphyllum_japonicum_tidal_wave",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tidal Wave",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1549930",
+                                "legacy_id": "122743",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Morioka Weeping'",
+                            "machine_name": "cercidiphyllum_japonicum_morioka_weeping",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Morioka Weeping",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557275",
+                                "legacy_id": "153948",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Rotfuchs\/Red Fox'",
+                            "machine_name": "cercidiphyllum_japonicum_rotfuchs_red_fox",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rotfuchs\/Red Fox",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557501",
+                                "legacy_id": "152350",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Ruby'",
+                            "machine_name": "cercidiphyllum_japonicum_ruby",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ruby",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557596",
+                                "legacy_id": "154226",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Strawberry'",
+                            "machine_name": "cercidiphyllum_japonicum_strawberry",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Strawberry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575616",
+                                "legacy_id": "199724",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum sinense",
+                            "machine_name": "cercidiphyllum_japonicum_sinense",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "sinense",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1591016",
+                                "legacy_id": "320547",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Graceful Grace'",
+                            "machine_name": "cercidiphyllum_japonicum_graceful_grace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Graceful Grace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602486",
+                                "legacy_id": "226526",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Brotzman's Select'",
+                            "machine_name": "cercidiphyllum_japonicum_brotzman_s_select",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brotzman's Select",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607016",
+                                "legacy_id": "280242",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Raspberry'",
+                            "machine_name": "cercidiphyllum_japonicum_raspberry",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Raspberry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614802",
+                                "legacy_id": "236015",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Red Fox'",
+                            "machine_name": "cercidiphyllum_japonicum_red_fox",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Fox",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1617355",
+                                "legacy_id": "348886",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Peach'",
+                            "machine_name": "cercidiphyllum_japonicum_peach",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Peach",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1630910",
+                                "legacy_id": "248818",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Titania'",
+                            "machine_name": "cercidiphyllum_japonicum_titania",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Titania",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1646262",
+                                "legacy_id": "372596",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum Hannah's Heart \u2122",
+                            "machine_name": "cercidiphyllum_japonicum_hannah_s_heart",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Hannah's Heart",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr Has Hannah's",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr Has Hannah&#039;s",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1649907",
+                                "legacy_id": "389253",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum 'Goteborg'",
+                            "machine_name": "cercidiphyllum_japonicum_goteborg",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Goteborg",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1670108",
+                                "legacy_id": "409567",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Cercidiphyllum japonicum Claim Jumper \u2122",
+                            "machine_name": "cercidiphyllum_japonicum_claim_jumper",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Claim Jumper",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "cercidiphyllum_japonicum",
+                            "genus": "cercidiphyllum",
+                            "family": "cercidiphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1671058",
+                                "legacy_id": "410507",
+                                "fgsid": "7091",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405166",
+                        "legacy_id": "8267",
+                        "fgsid": "7091",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cercidiphyllum magnificum",
+                    "machine_name": "cercidiphyllum_magnificum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri change",
+                    "naming_authorities": "Nakai.",
+                    "description": null,
+                    "genus": "cercidiphyllum",
+                    "family": "cercidiphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441561",
+                        "legacy_id": "9883",
+                        "fgsid": "44986",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383633",
+                "legacy_id": "1162",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

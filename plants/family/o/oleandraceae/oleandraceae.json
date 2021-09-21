@@ -1,0 +1,109 @@
+{
+    "name": "Oleandraceae",
+    "machine_name": "oleandraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381463",
+        "legacy_id": "474",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Oleandra",
+            "machine_name": "oleandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ching & Pic. Serm.",
+            "description": null,
+            "family": "oleandraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Oleandra [Cultivars]",
+                    "machine_name": "oleandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "oleandra",
+                    "family": "oleandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524767943"
+                    }
+                },
+                {
+                    "name": "Oleandra annetii",
+                    "machine_name": "oleandra_annetii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Tardieu.",
+                    "description": null,
+                    "genus": "oleandra",
+                    "family": "oleandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308501",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524767984"
+                    }
+                },
+                {
+                    "name": "Oleandra sibbaldii",
+                    "machine_name": "oleandra_sibbaldii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "oleandra",
+                    "family": "oleandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308506",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524768053"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2308491",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524767943"
+            }
+        }
+    ]
+}

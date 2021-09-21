@@ -1,0 +1,387 @@
+{
+    "name": "Basellaceae",
+    "machine_name": "basellaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381150",
+        "legacy_id": "44",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Anredera",
+            "machine_name": "anredera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Juss.",
+            "description": null,
+            "family": "basellaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anredera [Cultivars]",
+                    "machine_name": "anredera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anredera",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391138",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Anredera cordifolia",
+                    "machine_name": "anredera_cordifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Steenis.",
+                    "description": null,
+                    "genus": "anredera",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399896",
+                        "legacy_id": "3974",
+                        "fgsid": "2722",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Anredera basselloides",
+                    "machine_name": "anredera_basselloides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 1 says is Boussingualtia basselloides",
+                    "genus": "anredera",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447578",
+                        "legacy_id": "39644",
+                        "fgsid": "77398",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391137",
+                "legacy_id": "366",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ullucus",
+            "machine_name": "ullucus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Caldas.",
+            "description": null,
+            "family": "basellaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ullucus [Cultivars]",
+                    "machine_name": "ullucus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ullucus",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392822",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ullucus tuberosus",
+                    "machine_name": "ullucus_tuberosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Caldas.",
+                    "description": null,
+                    "genus": "ullucus",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428242",
+                        "legacy_id": "16813",
+                        "fgsid": "35664",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392821",
+                "legacy_id": "5709",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Basella",
+            "machine_name": "basella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "basellaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Basella [Cultivars]",
+                    "machine_name": "basella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "basella",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393028",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Basella alba",
+                    "machine_name": "basella_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "basella",
+                    "family": "basellaceae",
+                    "variety_items": [
+                        {
+                            "name": "Basella alba 'Rubra'",
+                            "machine_name": "basella_alba_rubra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rubra",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "basella_alba",
+                            "genus": "basella",
+                            "family": "basellaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464294",
+                                "legacy_id": "2062",
+                                "fgsid": "4172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Basella alba 'Red Stem'",
+                            "machine_name": "basella_alba_red_stem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Stem",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "basella_alba",
+                            "genus": "basella",
+                            "family": "basellaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499605",
+                                "legacy_id": "71905",
+                                "fgsid": "4172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Basella alba 'Red Vine'",
+                            "machine_name": "basella_alba_red_vine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Vine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "basella_alba",
+                            "genus": "basella",
+                            "family": "basellaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2607151",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1582393411"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399966",
+                        "legacy_id": "384",
+                        "fgsid": "4172",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Basella malabar",
+                    "machine_name": "basella_malabar",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "basella",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "basella_alba",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1437728",
+                        "legacy_id": "18211",
+                        "fgsid": "38350",
+                        "legacy_from_data_cross_ref": [
+                            "B. alba"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Basella rubra",
+                    "machine_name": "basella_rubra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "basella",
+                    "family": "basellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457594",
+                        "legacy_id": "14103",
+                        "fgsid": "135341",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393027",
+                "legacy_id": "642",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

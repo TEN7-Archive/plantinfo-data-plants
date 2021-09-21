@@ -1,0 +1,209 @@
+{
+    "name": "Neuradaceae",
+    "machine_name": "neuradaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381331",
+        "legacy_id": "296",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Neurada",
+            "machine_name": "neurada",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "neuradaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Neurada [Cultivars]",
+                    "machine_name": "neurada_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "neurada",
+                    "family": "neuradaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391606",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Neurada procumbens",
+                    "machine_name": "neurada_procumbens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "neurada",
+                    "family": "neuradaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417908",
+                        "legacy_id": "13053",
+                        "fgsid": "24167",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391605",
+                "legacy_id": "3825",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Grielum",
+            "machine_name": "grielum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "neuradaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Grielum [Cultivars]",
+                    "machine_name": "grielum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grielum",
+                    "family": "neuradaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394234",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Grielum humisiforum",
+                    "machine_name": "grielum_humisiforum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "grielum",
+                    "family": "neuradaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "grielum_tenuifolium",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1414211",
+                        "legacy_id": "7756",
+                        "fgsid": "16991",
+                        "legacy_from_data_cross_ref": [
+                            "+G. tenuifolium"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Grielum tenuifolium",
+                    "machine_name": "grielum_tenuifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "grielum",
+                    "family": "neuradaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414212",
+                        "legacy_id": "16170",
+                        "fgsid": "16992",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Grielum grandiflorum",
+                    "machine_name": "grielum_grandiflorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Druce.",
+                    "description": null,
+                    "genus": "grielum",
+                    "family": "neuradaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455224",
+                        "legacy_id": "6881",
+                        "fgsid": "107081",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394233",
+                "legacy_id": "2522",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

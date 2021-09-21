@@ -1,0 +1,85 @@
+{
+    "name": "Ticodendraceae",
+    "machine_name": "ticodendraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Gomez-Laur. & .D. Gomez.",
+    "description": null,
+    "archival_data": {
+        "id": "2320711",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526501152"
+    },
+    "genus_items": [
+        {
+            "name": "Ticodendron",
+            "machine_name": "ticodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Gomez-Laur. & L.D. Gomez.",
+            "description": null,
+            "family": "ticodendraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ticodendron [Cultivars]",
+                    "machine_name": "ticodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ticodendron",
+                    "family": "ticodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2320721",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526501199"
+                    }
+                },
+                {
+                    "name": "Ticodendron incognitum",
+                    "machine_name": "ticodendron_incognitum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Gomez-Laur. & L.D. Gomez.",
+                    "description": null,
+                    "genus": "ticodendron",
+                    "family": "ticodendraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2320726",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526501239"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2320716",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526501199"
+            }
+        }
+    ]
+}

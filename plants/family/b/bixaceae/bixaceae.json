@@ -1,0 +1,444 @@
+{
+    "name": "Bixaceae",
+    "machine_name": "bixaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381156",
+        "legacy_id": "51",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Amoreuxia",
+            "machine_name": "amoreuxia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Mocino & Sesse.",
+            "description": null,
+            "family": "bixaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Amoreuxia [Cultivars]",
+                    "machine_name": "amoreuxia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "amoreuxia",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381584",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Amoreuxia palmatifida",
+                    "machine_name": "amoreuxia_palmatifida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis I says is A. schiedeana",
+                    "genus": "amoreuxia",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439956",
+                        "legacy_id": "30543",
+                        "fgsid": "61875",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Amoreuxia wrightii",
+                    "machine_name": "amoreuxia_wrightii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "amoreuxia",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440772",
+                        "legacy_id": "17796",
+                        "fgsid": "43413",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Amoreuxia gonzalezii",
+                    "machine_name": "amoreuxia_gonzalezii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Sprague & Riley.",
+                    "description": null,
+                    "genus": "amoreuxia",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442086",
+                        "legacy_id": "18072",
+                        "fgsid": "42266",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381583",
+                "legacy_id": "6023",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cochlospermum",
+            "machine_name": "cochlospermum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Kunth.",
+            "description": null,
+            "family": "bixaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cochlospermum [Cultivars]",
+                    "machine_name": "cochlospermum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385340",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cochlospermum fraseri",
+                    "machine_name": "cochlospermum_fraseri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Planch.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cochlospermum fraseri heteronemum",
+                            "machine_name": "cochlospermum_fraseri_heteronemum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "heteronemum",
+                            "authorities": "Kewensis 17",
+                            "naming_authorities": "H.-H. Poppendieck.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "cochlospermum_fraseri",
+                            "genus": "cochlospermum",
+                            "family": "bixaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470409",
+                                "legacy_id": "5259",
+                                "fgsid": "8140",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409080",
+                        "legacy_id": "6244",
+                        "fgsid": "8140",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cochlospermum gillivraei",
+                    "machine_name": "cochlospermum_gillivraei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409081",
+                        "legacy_id": "6593",
+                        "fgsid": "8141",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cochlospermum hibiscoides",
+                    "machine_name": "cochlospermum_hibiscoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409082",
+                        "legacy_id": "7458",
+                        "fgsid": "8142",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cochlospermum planchonii",
+                    "machine_name": "cochlospermum_planchonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f. & Planch.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409083",
+                        "legacy_id": "12643",
+                        "fgsid": "8143",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cochlospermum religiosum",
+                    "machine_name": "cochlospermum_religiosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Alston.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409084",
+                        "legacy_id": "13705",
+                        "fgsid": "8144",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cochlospermum vitifolium",
+                    "machine_name": "cochlospermum_vitifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Spreng.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409085",
+                        "legacy_id": "17476",
+                        "fgsid": "8145",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cochlospermum angolense",
+                    "machine_name": "cochlospermum_angolense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Welw. & Oliv.",
+                    "description": null,
+                    "genus": "cochlospermum",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462526",
+                        "legacy_id": "804",
+                        "fgsid": "151540",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385339",
+                "legacy_id": "1380",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Bixa",
+            "machine_name": "bixa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "bixaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bixa [Cultivars]",
+                    "machine_name": "bixa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bixa",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393864",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Bixa orellana",
+                    "machine_name": "bixa_orellana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "bixa",
+                    "family": "bixaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401892",
+                        "legacy_id": "11702",
+                        "fgsid": "4637",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393863",
+                "legacy_id": "722",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

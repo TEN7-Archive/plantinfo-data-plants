@@ -1,0 +1,109 @@
+{
+    "name": "Trimeniaceae",
+    "machine_name": "trimeniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Gibbs.",
+    "description": null,
+    "archival_data": {
+        "id": "2309186",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524836780"
+    },
+    "genus_items": [
+        {
+            "name": "Trimenia",
+            "machine_name": "trimenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Seem.",
+            "description": null,
+            "family": "trimeniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Trimenia [Cultivars]",
+                    "machine_name": "trimenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trimenia",
+                    "family": "trimeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524836828"
+                    }
+                },
+                {
+                    "name": "Trimenia neocaledonica",
+                    "machine_name": "trimenia_neocaledonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baker.f.",
+                    "description": null,
+                    "genus": "trimenia",
+                    "family": "trimeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309201",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524836897"
+                    }
+                },
+                {
+                    "name": "Trimenia papuana",
+                    "machine_name": "trimenia_papuana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ridl.",
+                    "description": null,
+                    "genus": "trimenia",
+                    "family": "trimeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309206",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524836935"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2309191",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524836828"
+            }
+        }
+    ]
+}

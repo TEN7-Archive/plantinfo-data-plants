@@ -1,0 +1,481 @@
+{
+    "name": "Gunneraceae",
+    "machine_name": "gunneraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381262",
+        "legacy_id": "203",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Gunnera",
+            "machine_name": "gunnera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "gunneraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gunnera chilensis",
+                    "machine_name": "gunnera_chilensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "gunnera_tinctoria",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1414247",
+                        "legacy_id": "3340",
+                        "fgsid": "17027",
+                        "legacy_from_data_cross_ref": [
+                            "G. tinctoria"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera densiflora",
+                    "machine_name": "gunnera_densiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kew CD",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414248",
+                        "legacy_id": "4742",
+                        "fgsid": "17028",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera dentata",
+                    "machine_name": "gunnera_dentata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "T. Kirk.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414249",
+                        "legacy_id": "4755",
+                        "fgsid": "17029",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera hamiltonii",
+                    "machine_name": "gunnera_hamiltonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "T. Kirk. & W.S. H.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414250",
+                        "legacy_id": "7145",
+                        "fgsid": "17030",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera magellanica",
+                    "machine_name": "gunnera_magellanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414251",
+                        "legacy_id": "9874",
+                        "fgsid": "17031",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera manicata",
+                    "machine_name": "gunnera_manicata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Linden.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414252",
+                        "legacy_id": "9984",
+                        "fgsid": "17032",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera monoica",
+                    "machine_name": "gunnera_monoica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kew CD",
+                    "naming_authorities": "Raoul.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414253",
+                        "legacy_id": "10664",
+                        "fgsid": "17033",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera perpensa",
+                    "machine_name": "gunnera_perpensa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414254",
+                        "legacy_id": "12349",
+                        "fgsid": "17034",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera petaloides",
+                    "machine_name": "gunnera_petaloides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Gaudich.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414255",
+                        "legacy_id": "12388",
+                        "fgsid": "17035",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera prorepens",
+                    "machine_name": "gunnera_prorepens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414256",
+                        "legacy_id": "13075",
+                        "fgsid": "17036",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera tinctoria",
+                    "machine_name": "gunnera_tinctoria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Mirb.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1414257",
+                        "legacy_id": "16431",
+                        "fgsid": "17037",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Gunnera flavida",
+                    "machine_name": "gunnera_flavida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Colenso.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440895",
+                        "legacy_id": "18676",
+                        "fgsid": "46695",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gunnera [Cultivars]",
+                    "machine_name": "gunnera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [
+                        {
+                            "name": "Gunnera [Cultivars] 'Heronswood Hybrid'",
+                            "machine_name": "gunnera_cultivars_heronswood_hybrid",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Heronswood Hybrid",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "gunnera_cultivars",
+                            "genus": "gunnera",
+                            "family": "gunneraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574135",
+                                "legacy_id": "195452",
+                                "fgsid": "84055",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445515",
+                        "legacy_id": "2",
+                        "fgsid": "84055",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gunnera brephogea",
+                    "machine_name": "gunnera_brephogea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Linden & Andre.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447474",
+                        "legacy_id": "49623",
+                        "fgsid": "91637",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gunnera cordifolia",
+                    "machine_name": "gunnera_cordifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447796",
+                        "legacy_id": "3974",
+                        "fgsid": "91915",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gunnera killipiana",
+                    "machine_name": "gunnera_killipiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Lundell.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456372",
+                        "legacy_id": "60324",
+                        "fgsid": "108999",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gunnera pilosa",
+                    "machine_name": "gunnera_pilosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "gunnera",
+                    "family": "gunneraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318026",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526149821"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394275",
+                "legacy_id": "2543",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

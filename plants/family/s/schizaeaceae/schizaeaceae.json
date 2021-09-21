@@ -1,0 +1,295 @@
+{
+    "name": "Schizaeaceae",
+    "machine_name": "schizaeaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381477",
+        "legacy_id": "488",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Lygopodium",
+            "machine_name": "lygopodium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "schizaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lygopodium [Cultivars]",
+                    "machine_name": "lygopodium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lygopodium",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385918",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lygopodium japonicum",
+                    "machine_name": "lygopodium_japonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "lygopodium",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443301",
+                        "legacy_id": "8267",
+                        "fgsid": "45390",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385917",
+                "legacy_id": "9323",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Schizaea",
+            "machine_name": "schizaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "J. Sm.",
+            "description": null,
+            "family": "schizaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Schizaea [Cultivars]",
+                    "machine_name": "schizaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "schizaea",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387676",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Schizaea pectinata",
+                    "machine_name": "schizaea_pectinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "schizaea",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444681",
+                        "legacy_id": "12176",
+                        "fgsid": "44367",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Schizaea elegans",
+                    "machine_name": "schizaea_elegans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "schizaea",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306756",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524686072"
+                    }
+                },
+                {
+                    "name": "Schizaea dichotoma",
+                    "machine_name": "schizaea_dichotoma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "schizaea",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306761",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524686103"
+                    }
+                },
+                {
+                    "name": "Schizaea pusilla",
+                    "machine_name": "schizaea_pusilla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Pursh.",
+                    "description": null,
+                    "genus": "schizaea",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2398266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1540556297"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387675",
+                "legacy_id": "9234",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Actinostachys",
+            "machine_name": "actinostachys",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Wall.",
+            "description": null,
+            "family": "schizaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Actinostachys [Cultivars]",
+                    "machine_name": "actinostachys_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "actinostachys",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306711",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685921"
+                    }
+                },
+                {
+                    "name": "Actinostachys confusa",
+                    "machine_name": "actinostachys_confusa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.F. Reed.",
+                    "description": null,
+                    "genus": "actinostachys",
+                    "family": "schizaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306716",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685962"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2306706",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524685921"
+            }
+        }
+    ]
+}

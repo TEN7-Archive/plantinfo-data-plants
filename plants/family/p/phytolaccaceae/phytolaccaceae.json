@@ -1,0 +1,656 @@
+{
+    "name": "Phytolaccaceae",
+    "machine_name": "phytolaccaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381354",
+        "legacy_id": "325",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Agdestis",
+            "machine_name": "agdestis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Mocino & S.",
+            "description": null,
+            "family": "phytolaccaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Agdestis [Cultivars]",
+                    "machine_name": "agdestis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "agdestis",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381568",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Agdestis clematidea",
+                    "machine_name": "agdestis_clematidea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Mocino & S.",
+                    "description": null,
+                    "genus": "agdestis",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434280",
+                        "legacy_id": "3602",
+                        "fgsid": "41648",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381567",
+                "legacy_id": "6015",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Phytolacca",
+            "machine_name": "phytolacca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "phytolaccaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phytolacca [Cultivars]",
+                    "machine_name": "phytolacca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382326",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Phytolacca acinosa",
+                    "machine_name": "phytolacca_acinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Roxb.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424502",
+                        "legacy_id": "105",
+                        "fgsid": "27171",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca americana",
+                    "machine_name": "phytolacca_americana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [
+                        {
+                            "name": "Phytolacca americana 'Variegata'",
+                            "machine_name": "phytolacca_americana_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phytolacca_americana",
+                            "genus": "phytolacca",
+                            "family": "phytolaccaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568967",
+                                "legacy_id": "179177",
+                                "fgsid": "27172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Phytolacca americana 'Steve Silberstein'",
+                            "machine_name": "phytolacca_americana_steve_silberstein",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Steve Silberstein",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phytolacca_americana",
+                            "genus": "phytolacca",
+                            "family": "phytolaccaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575088",
+                                "legacy_id": "201225",
+                                "fgsid": "27172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Phytolacca americana 'Melody'",
+                            "machine_name": "phytolacca_americana_melody",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Melody",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phytolacca_americana",
+                            "genus": "phytolacca",
+                            "family": "phytolaccaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601620",
+                                "legacy_id": "229039",
+                                "fgsid": "27172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Phytolacca americana 'Silverstein'",
+                            "machine_name": "phytolacca_americana_silverstein",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silverstein",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phytolacca_americana",
+                            "genus": "phytolacca",
+                            "family": "phytolaccaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607372",
+                                "legacy_id": "284336",
+                                "fgsid": "27172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Phytolacca americana 'Sunny Side Up'",
+                            "machine_name": "phytolacca_americana_sunny_side_up",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunny Side Up",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "phytolacca_americana",
+                            "genus": "phytolacca",
+                            "family": "phytolaccaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623033",
+                                "legacy_id": "375104",
+                                "fgsid": "27172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Phytolacca americana americana",
+                            "machine_name": "phytolacca_americana_americana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "americana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "phytolacca_americana",
+                            "genus": "phytolacca",
+                            "family": "phytolaccaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633482",
+                                "legacy_id": "307097",
+                                "fgsid": "27172",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424503",
+                        "legacy_id": "646",
+                        "fgsid": "27172",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca bogotensis",
+                    "machine_name": "phytolacca_bogotensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "HBK.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424504",
+                        "legacy_id": "2077",
+                        "fgsid": "27173",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca clavigera",
+                    "machine_name": "phytolacca_clavigera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal.",
+                    "naming_authorities": "W.W. Sm.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424505",
+                        "legacy_id": "3594",
+                        "fgsid": "27174",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca dioica",
+                    "machine_name": "phytolacca_dioica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424506",
+                        "legacy_id": "4943",
+                        "fgsid": "27175",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca esculenta",
+                    "machine_name": "phytolacca_esculenta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Van Houtte.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424507",
+                        "legacy_id": "5621",
+                        "fgsid": "27176",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca octandra",
+                    "machine_name": "phytolacca_octandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424508",
+                        "legacy_id": "11503",
+                        "fgsid": "27177",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca polyandra",
+                    "machine_name": "phytolacca_polyandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Batalin.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424509",
+                        "legacy_id": "12815",
+                        "fgsid": "27178",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca rivinoides",
+                    "machine_name": "phytolacca_rivinoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Kunth & Bouche.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424510",
+                        "legacy_id": "13916",
+                        "fgsid": "27179",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Phytolacca dodecandra",
+                    "machine_name": "phytolacca_dodecandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "L'Her.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448150",
+                        "legacy_id": "5040",
+                        "fgsid": "92475",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Phytolacca insularis",
+                    "machine_name": "phytolacca_insularis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nakai.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454023",
+                        "legacy_id": "8083",
+                        "fgsid": "98998",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Phytolacca icosandra",
+                    "machine_name": "phytolacca_icosandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "The Plant List",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "phytolacca",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2394071",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1539899580"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382325",
+                "legacy_id": "4357",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ercilla",
+            "machine_name": "ercilla",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "A.Juss.",
+            "description": null,
+            "family": "phytolaccaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ercilla [Cultivars]",
+                    "machine_name": "ercilla_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ercilla",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396726",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ercilla volubilis",
+                    "machine_name": "ercilla_volubilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "A.Juss.",
+                    "description": null,
+                    "genus": "ercilla",
+                    "family": "phytolaccaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448539",
+                        "legacy_id": "17506",
+                        "fgsid": "93176",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396725",
+                "legacy_id": "16282",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

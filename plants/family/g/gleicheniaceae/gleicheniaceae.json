@@ -1,0 +1,541 @@
+{
+    "name": "Gleicheniaceae",
+    "machine_name": "gleicheniaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381254",
+        "legacy_id": "190",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Glehnia",
+            "machine_name": "glehnia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Schmidt & Miq.",
+            "description": null,
+            "family": "gleicheniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Glehnia [Cultivars]",
+                    "machine_name": "glehnia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "glehnia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394088",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Glehnia littoralis",
+                    "machine_name": "glehnia_littoralis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "F. Schmidt & Miq.",
+                    "description": null,
+                    "genus": "glehnia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Glehnia littoralis leiocarpa",
+                            "machine_name": "glehnia_littoralis_leiocarpa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "leiocarpa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "glehnia_littoralis",
+                            "genus": "glehnia",
+                            "family": "gleicheniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636385",
+                                "legacy_id": "296653",
+                                "fgsid": "113354",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452658",
+                        "legacy_id": "9385",
+                        "fgsid": "113354",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394087",
+                "legacy_id": "2447",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Gleichenia",
+            "machine_name": "gleichenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Sm.",
+            "description": "syn- Dicranopteris",
+            "family": "gleicheniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gleichenia [Cultivars]",
+                    "machine_name": "gleichenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396652",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gleichenia alpina",
+                    "machine_name": "gleichenia_alpina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "alpina",
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446297",
+                        "legacy_id": "542",
+                        "fgsid": "90356",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gleichenia linearis",
+                    "machine_name": "gleichenia_linearis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Clarke.",
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446409",
+                        "legacy_id": "9331",
+                        "fgsid": "96855",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gleichenia rupestris",
+                    "machine_name": "gleichenia_rupestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450921",
+                        "legacy_id": "14185",
+                        "fgsid": "123129",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gleichenia microphylla",
+                    "machine_name": "gleichenia_microphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451647",
+                        "legacy_id": "10445",
+                        "fgsid": "123700",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Gleichenia cunninghamii",
+                    "machine_name": "gleichenia_cunninghamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Heward & Hook.",
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2418476",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1544448345"
+                    }
+                },
+                {
+                    "name": "Gleichenia gigantea",
+                    "machine_name": "gleichenia_gigantea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Wall. & Hook.",
+                    "description": null,
+                    "genus": "gleichenia",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2574396",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1571857741"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396651",
+                "legacy_id": "15642",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Dicranopteris",
+            "machine_name": "dicranopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI(IK)",
+            "naming_authorities": "Bernhardi",
+            "description": null,
+            "family": "gleicheniaceae",
+            "cross_references": [
+                {
+                    "machine_name": "gleichenia",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Dicranopteris [Cultivars]",
+                    "machine_name": "dicranopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dicranopteris",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396852",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Dicranopteris flexuosa",
+                    "machine_name": "dicranopteris_flexuosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Underw.",
+                    "description": null,
+                    "genus": "dicranopteris",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306646",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685137"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396851",
+                "legacy_id": "17022",
+                "legacy_from_data_cross_ref": [
+                    "Gleichenia"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Gleichenella",
+            "machine_name": "gleichenella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ching.",
+            "description": null,
+            "family": "gleicheniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gleichenella [Cultivars]",
+                    "machine_name": "gleichenella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gleichenella",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306631",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524684923"
+                    }
+                },
+                {
+                    "name": "Gleichenella pectinata",
+                    "machine_name": "gleichenella_pectinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ching.",
+                    "description": null,
+                    "genus": "gleichenella",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306636",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524684964"
+                    }
+                },
+                {
+                    "name": "Gleichenella microphylla",
+                    "machine_name": "gleichenella_microphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gleichenella",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306641",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685001"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2306626",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524684923"
+            }
+        },
+        {
+            "name": "Stromatopteris",
+            "machine_name": "stromatopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Mett.",
+            "description": null,
+            "family": "gleicheniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Stromatopteris [Cultivars]",
+                    "machine_name": "stromatopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "stromatopteris",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306656",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685227"
+                    }
+                },
+                {
+                    "name": "Stromatopteris moniliformis",
+                    "machine_name": "stromatopteris_moniliformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mett.",
+                    "description": null,
+                    "genus": "stromatopteris",
+                    "family": "gleicheniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306661",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685276"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2306651",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524685227"
+            }
+        }
+    ]
+}

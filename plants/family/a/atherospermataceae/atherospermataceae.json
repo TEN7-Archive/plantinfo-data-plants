@@ -1,0 +1,247 @@
+{
+    "name": "Atherospermataceae",
+    "machine_name": "atherospermataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "R. Br.",
+    "description": null,
+    "archival_data": {
+        "id": "2310181",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524923551"
+    },
+    "genus_items": [
+        {
+            "name": "Laurelia",
+            "machine_name": "laurelia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Juss.",
+            "description": null,
+            "family": "atherospermataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Laurelia [Cultivars]",
+                    "machine_name": "laurelia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "laurelia",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386234",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Laurelia novae-zelandiae",
+                    "machine_name": "laurelia_novae_zelandiae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Cunn.",
+                    "description": null,
+                    "genus": "laurelia",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421409",
+                        "legacy_id": "11328",
+                        "fgsid": "20366",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Laurelia sempervirens",
+                    "machine_name": "laurelia_sempervirens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Tul.",
+                    "description": null,
+                    "genus": "laurelia",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310201",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524923760"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386233",
+                "legacy_id": "3126",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Atherosperma",
+            "machine_name": "atherosperma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Lab.",
+            "description": null,
+            "family": "atherospermataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Atherosperma [Cultivars]",
+                    "machine_name": "atherosperma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "atherosperma",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392182",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Atherosperma moschatus",
+                    "machine_name": "atherosperma_moschatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Lab.",
+                    "description": null,
+                    "genus": "atherosperma",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398433",
+                        "legacy_id": "10762",
+                        "fgsid": "3811",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392181",
+                "legacy_id": "555",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Nemuaron",
+            "machine_name": "nemuaron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "atherospermataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nemuaron [Cultivars]",
+                    "machine_name": "nemuaron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nemuaron",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310191",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524923602"
+                    }
+                },
+                {
+                    "name": "Nemuaron vieillardii",
+                    "machine_name": "nemuaron_vieillardii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "nemuaron",
+                    "family": "atherospermataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524923661"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2310186",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524923602"
+            }
+        }
+    ]
+}

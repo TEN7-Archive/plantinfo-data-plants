@@ -1,0 +1,181 @@
+{
+    "name": "Lygodiaceae",
+    "machine_name": "lygodiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "M. Roem.",
+    "description": null,
+    "archival_data": {
+        "id": "2446701",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1549110689"
+    },
+    "genus_items": [
+        {
+            "name": "Lygodium",
+            "machine_name": "lygodium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Sw.",
+            "description": null,
+            "family": "lygodiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lygodium [Cultivars]",
+                    "machine_name": "lygodium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lygodium",
+                    "family": "lygodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383242",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Lygodium palmatum",
+                    "machine_name": "lygodium_palmatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "lygodium",
+                    "family": "lygodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440075",
+                        "legacy_id": "11929",
+                        "fgsid": "44580",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Lygodium microphyllum",
+                    "machine_name": "lygodium_microphyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "lygodium",
+                    "family": "lygodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441900",
+                        "legacy_id": "10447",
+                        "fgsid": "45059",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Lygodium flexuosum",
+                    "machine_name": "lygodium_flexuosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "lygodium",
+                    "family": "lygodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442400",
+                        "legacy_id": "6069",
+                        "fgsid": "42314",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Lygodium japonicum",
+                    "machine_name": "lygodium_japonicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (APNI)",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "lygodium",
+                    "family": "lygodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447657",
+                        "legacy_id": "8267",
+                        "fgsid": "77796",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Lygodium volubile",
+                    "machine_name": "lygodium_volubile",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "lygodium",
+                    "family": "lygodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306766",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524686220"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383241",
+                "legacy_id": "6180",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

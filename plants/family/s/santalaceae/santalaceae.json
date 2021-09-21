@@ -1,0 +1,2092 @@
+{
+    "name": "Santalaceae",
+    "machine_name": "santalaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381389",
+        "legacy_id": "371",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Buckleya",
+            "machine_name": "buckleya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Torr.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Buckleya [Cultivars]",
+                    "machine_name": "buckleya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "buckleya",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381790",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Buckleya distichophylla",
+                    "machine_name": "buckleya_distichophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "buckleya",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397739",
+                        "legacy_id": "5000",
+                        "fgsid": "5179",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381789",
+                "legacy_id": "865",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Phoradendron",
+            "machine_name": "phoradendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Nutt.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phoradendron [Cultivars]",
+                    "machine_name": "phoradendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382246",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Phoradendron rubrum",
+                    "machine_name": "phoradendron_rubrum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423757",
+                        "legacy_id": "14134",
+                        "fgsid": "26985",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Phoradendron serotinum",
+                    "machine_name": "phoradendron_serotinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "M. Johnston.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423758",
+                        "legacy_id": "14894",
+                        "fgsid": "26986",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Phoradendron henslovii",
+                    "machine_name": "phoradendron_henslovii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Robinson.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441338",
+                        "legacy_id": "32363",
+                        "fgsid": "65415",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Phoradendron californicum",
+                    "machine_name": "phoradendron_californicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452103",
+                        "legacy_id": "2649",
+                        "fgsid": "130804",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Phoradendron macrophyllum",
+                    "machine_name": "phoradendron_macrophyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Cockerel.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452111",
+                        "legacy_id": "9801",
+                        "fgsid": "130840",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Phoradendron leucarpum",
+                    "machine_name": "phoradendron_leucarpum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Reveal. & M.C. Johnston.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456279",
+                        "legacy_id": "55623",
+                        "fgsid": "101015",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Phoradendron tomentosum",
+                    "machine_name": "phoradendron_tomentosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Engelm. & A. Gray.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456280",
+                        "legacy_id": "16464",
+                        "fgsid": "101016",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Phoradendron flavescens",
+                    "machine_name": "phoradendron_flavescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Engelm.",
+                    "description": null,
+                    "genus": "phoradendron",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460340",
+                        "legacy_id": "6028",
+                        "fgsid": "145440",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382245",
+                "legacy_id": "4317",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Choretrum",
+            "machine_name": "choretrum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Choretrum [Cultivars]",
+                    "machine_name": "choretrum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "choretrum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384460",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Choretrum candollei",
+                    "machine_name": "choretrum_candollei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell & Benth.",
+                    "description": null,
+                    "genus": "choretrum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406682",
+                        "legacy_id": "2807",
+                        "fgsid": "7467",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Choretrum glomeratum",
+                    "machine_name": "choretrum_glomeratum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "choretrum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406683",
+                        "legacy_id": "6709",
+                        "fgsid": "7468",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Choretrum lateriflorum",
+                    "machine_name": "choretrum_lateriflorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "choretrum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406684",
+                        "legacy_id": "8923",
+                        "fgsid": "7469",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Choretrum pauciflorum",
+                    "machine_name": "choretrum_pauciflorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "choretrum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "choretrum_lateriflorum",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1406685",
+                        "legacy_id": "12137",
+                        "fgsid": "7470",
+                        "legacy_from_data_cross_ref": [
+                            "+C. lateriflorum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384459",
+                "legacy_id": "1263",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Comandra",
+            "machine_name": "comandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Nutt.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Comandra [Cultivars]",
+                    "machine_name": "comandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "comandra",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386070",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Comandra umbellata",
+                    "machine_name": "comandra_umbellata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "comandra",
+                    "family": "santalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Comandra umbellata californica",
+                            "machine_name": "comandra_umbellata_californica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "californica",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "comandra_umbellata",
+                            "genus": "comandra",
+                            "family": "santalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1470456",
+                                "legacy_id": "5307",
+                                "fgsid": "8334",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Comandra umbellata umbellata",
+                            "machine_name": "comandra_umbellata_umbellata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "umbellata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "comandra_umbellata",
+                            "genus": "comandra",
+                            "family": "santalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634630",
+                                "legacy_id": "302157",
+                                "fgsid": "8334",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Comandra umbellata pallida",
+                            "machine_name": "comandra_umbellata_pallida",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pallida",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "comandra_umbellata",
+                            "genus": "comandra",
+                            "family": "santalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1635451",
+                                "legacy_id": "295258",
+                                "fgsid": "8334",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403788",
+                        "legacy_id": "16919",
+                        "fgsid": "8334",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386069",
+                "legacy_id": "1428",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Leptomeria",
+            "machine_name": "leptomeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Leptomeria [Cultivars]",
+                    "machine_name": "leptomeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "leptomeria",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386366",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Leptomeria acida",
+                    "machine_name": "leptomeria_acida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "leptomeria",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416246",
+                        "legacy_id": "96",
+                        "fgsid": "20614",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386365",
+                "legacy_id": "3194",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Santalum",
+            "machine_name": "santalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Santalum [Cultivars]",
+                    "machine_name": "santalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386596",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Santalum acuminatum",
+                    "machine_name": "santalum_acuminatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Santalum acuminatum 'Powell's No. 1'",
+                            "machine_name": "santalum_acuminatum_powell_s_no_1",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Powell's No. 1",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "santalum_acuminatum",
+                            "genus": "santalum",
+                            "family": "santalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491572",
+                                "legacy_id": "31780",
+                                "fgsid": "31650",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430654",
+                        "legacy_id": "155",
+                        "fgsid": "31650",
+                        "legacy_from_data_cross_ref": [
+                            "+Fusanus acuminatus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum album",
+                    "machine_name": "santalum_album",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430655",
+                        "legacy_id": "450",
+                        "fgsid": "31652",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum ellipticum",
+                    "machine_name": "santalum_ellipticum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "santalum_freycinetianum",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1430656",
+                        "legacy_id": "5375",
+                        "fgsid": "31653",
+                        "legacy_from_data_cross_ref": [
+                            "+S. freycinetianum"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum freycinetianum",
+                    "machine_name": "santalum_freycinetianum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Gaud.",
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430657",
+                        "legacy_id": "6261",
+                        "fgsid": "31654",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum haleakalae",
+                    "machine_name": "santalum_haleakalae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Hillebr.",
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430658",
+                        "legacy_id": "7109",
+                        "fgsid": "31655",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum lanceolatum",
+                    "machine_name": "santalum_lanceolatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430659",
+                        "legacy_id": "8824",
+                        "fgsid": "31656",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum murrayanum",
+                    "machine_name": "santalum_murrayanum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430660",
+                        "legacy_id": "10888",
+                        "fgsid": "31657",
+                        "legacy_from_data_cross_ref": [
+                            "+Eucarya murrayana"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum obtusifolium",
+                    "machine_name": "santalum_obtusifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430661",
+                        "legacy_id": "11465",
+                        "fgsid": "31658",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum spicatum",
+                    "machine_name": "santalum_spicatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430662",
+                        "legacy_id": "15367",
+                        "fgsid": "31659",
+                        "legacy_from_data_cross_ref": [
+                            "+Fusanus spicatus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Santalum paniculatum",
+                    "machine_name": "santalum_paniculatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook. & Arn.",
+                    "description": null,
+                    "genus": "santalum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461000",
+                        "legacy_id": "11976",
+                        "fgsid": "139282",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386595",
+                "legacy_id": "4914",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Thesium",
+            "machine_name": "thesium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Thesium [Cultivars]",
+                    "machine_name": "thesium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391060",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Thesium alpinum",
+                    "machine_name": "thesium_alpinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430460",
+                        "legacy_id": "544",
+                        "fgsid": "34614",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium bavarum",
+                    "machine_name": "thesium_bavarum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Schrank.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430461",
+                        "legacy_id": "1732",
+                        "fgsid": "34615",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium divaricaticum",
+                    "machine_name": "thesium_divaricaticum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Jan. & Mert. & K.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430462",
+                        "legacy_id": "5014",
+                        "fgsid": "34616",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium ebracteatum",
+                    "machine_name": "thesium_ebracteatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hayne.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430463",
+                        "legacy_id": "5236",
+                        "fgsid": "34617",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium humifusum",
+                    "machine_name": "thesium_humifusum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430464",
+                        "legacy_id": "7748",
+                        "fgsid": "34618",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium linophyllon",
+                    "machine_name": "thesium_linophyllon",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 19 noauth",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430465",
+                        "legacy_id": "9352",
+                        "fgsid": "34619",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium pyrenaicum",
+                    "machine_name": "thesium_pyrenaicum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430466",
+                        "legacy_id": "13409",
+                        "fgsid": "34620",
+                        "legacy_from_data_cross_ref": [
+                            "+T. pratense"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium rostratum",
+                    "machine_name": "thesium_rostratum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Mert. & Koch.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430467",
+                        "legacy_id": "14031",
+                        "fgsid": "34621",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thesium refractum",
+                    "machine_name": "thesium_refractum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.A. Mey.",
+                    "description": null,
+                    "genus": "thesium",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332551",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528721024"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391059",
+                "legacy_id": "5505",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Exocarpos",
+            "machine_name": "exocarpos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Exocarpos [Cultivars]",
+                    "machine_name": "exocarpos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392354",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Exocarpos aphyllus",
+                    "machine_name": "exocarpos_aphyllus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412249",
+                        "legacy_id": "941",
+                        "fgsid": "15099",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Exocarpos bidwillii",
+                    "machine_name": "exocarpos_bidwillii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412250",
+                        "legacy_id": "1903",
+                        "fgsid": "15100",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Exocarpos cupressiformis",
+                    "machine_name": "exocarpos_cupressiformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412251",
+                        "legacy_id": "4335",
+                        "fgsid": "15101",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Exocarpos homaeocladus",
+                    "machine_name": "exocarpos_homaeocladus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "C. Moore & F. Mue.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412252",
+                        "legacy_id": "7615",
+                        "fgsid": "15102",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Exocarpos latifolius",
+                    "machine_name": "exocarpos_latifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412253",
+                        "legacy_id": "8940",
+                        "fgsid": "15103",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Exocarpos sparteus",
+                    "machine_name": "exocarpos_sparteus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412254",
+                        "legacy_id": "15290",
+                        "fgsid": "15104",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Exocarpos strictus",
+                    "machine_name": "exocarpos_strictus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "exocarpos",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1412255",
+                        "legacy_id": "15655",
+                        "fgsid": "15105",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392353",
+                "legacy_id": "2253",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Omphacomeria",
+            "machine_name": "omphacomeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "A. DC.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Omphacomeria [Cultivars]",
+                    "machine_name": "omphacomeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "omphacomeria",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392504",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Omphacomeria acerba",
+                    "machine_name": "omphacomeria_acerba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "A. DC.",
+                    "description": null,
+                    "genus": "omphacomeria",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426537",
+                        "legacy_id": "71",
+                        "fgsid": "24699",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392503",
+                "legacy_id": "3935",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Osyris",
+            "machine_name": "osyris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Osyris [Cultivars]",
+                    "machine_name": "osyris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "osyris",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392698",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Osyris alba",
+                    "machine_name": "osyris_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "osyris",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1422959",
+                        "legacy_id": "384",
+                        "fgsid": "25325",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Osyris lanceolata",
+                    "machine_name": "osyris_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hochst. & Steud.",
+                    "description": null,
+                    "genus": "osyris",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332556",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528722213"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392697",
+                "legacy_id": "4034",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Geocaulon",
+            "machine_name": "geocaulon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Fern.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Geocaulon [Cultivars]",
+                    "machine_name": "geocaulon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "geocaulon",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393354",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Geocaulon lividum",
+                    "machine_name": "geocaulon_lividum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "geocaulon",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1411177",
+                        "legacy_id": "9398",
+                        "fgsid": "16241",
+                        "legacy_from_data_cross_ref": [
+                            "+Comandra livida"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393353",
+                "legacy_id": "2415",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Viscum",
+            "machine_name": "viscum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Viscum [Cultivars]",
+                    "machine_name": "viscum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393692",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Viscum album",
+                    "machine_name": "viscum_album",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Viscum album coloratum",
+                            "machine_name": "viscum_album_coloratum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "coloratum",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "viscum_album",
+                            "genus": "viscum",
+                            "family": "santalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1500019",
+                                "legacy_id": "34108",
+                                "fgsid": "36404",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Viscum album creticum",
+                            "machine_name": "viscum_album_creticum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "creticum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "viscum_album",
+                            "genus": "viscum",
+                            "family": "santalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1609682",
+                                "legacy_id": "382963",
+                                "fgsid": "36404",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436924",
+                        "legacy_id": "450",
+                        "fgsid": "36404",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Viscum combreticola",
+                    "machine_name": "viscum_combreticola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436925",
+                        "legacy_id": "3766",
+                        "fgsid": "36405",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Viscum cruciatum",
+                    "machine_name": "viscum_cruciatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Sieber & Spreng.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436926",
+                        "legacy_id": "4242",
+                        "fgsid": "36406",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Viscum minimum",
+                    "machine_name": "viscum_minimum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Harv.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436927",
+                        "legacy_id": "10521",
+                        "fgsid": "36407",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Viscum rotundifolium",
+                    "machine_name": "viscum_rotundifolium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.f.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436928",
+                        "legacy_id": "14056",
+                        "fgsid": "36408",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Viscum triflorum",
+                    "machine_name": "viscum_triflorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436929",
+                        "legacy_id": "16659",
+                        "fgsid": "36409",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Viscum crassulae",
+                    "machine_name": "viscum_crassulae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Eckl. & Zeyh.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453158",
+                        "legacy_id": "68864",
+                        "fgsid": "125582",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Viscum articulatum",
+                    "machine_name": "viscum_articulatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Burm.f.",
+                    "description": null,
+                    "genus": "viscum",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2263831",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519851240"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393691",
+                "legacy_id": "5804",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Cervantesia",
+            "machine_name": "cervantesia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "santalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cervantesia [Cultivars]",
+                    "machine_name": "cervantesia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cervantesia",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528720845"
+                    }
+                },
+                {
+                    "name": "Cervantesia tomentosa",
+                    "machine_name": "cervantesia_tomentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "cervantesia",
+                    "family": "santalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332501",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528720879"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332491",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528720845"
+            }
+        }
+    ]
+}

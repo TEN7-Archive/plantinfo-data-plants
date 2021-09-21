@@ -1,0 +1,85 @@
+{
+    "name": "Cynomoriaceae",
+    "machine_name": "cynomoriaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Endl. & Lindl.",
+    "description": null,
+    "archival_data": {
+        "id": "2318641",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526303396"
+    },
+    "genus_items": [
+        {
+            "name": "Cynomorium",
+            "machine_name": "cynomorium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cynomoriaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cynomorium [Cultivars]",
+                    "machine_name": "cynomorium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cynomorium",
+                    "family": "cynomoriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387834",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Cynomorium coccineum",
+                    "machine_name": "cynomorium_coccineum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cynomorium",
+                    "family": "cynomoriaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403824",
+                        "legacy_id": "3651",
+                        "fgsid": "9842",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387833",
+                "legacy_id": "1666",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

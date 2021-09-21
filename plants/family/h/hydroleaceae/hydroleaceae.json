@@ -1,0 +1,157 @@
+{
+    "name": "Hydroleaceae",
+    "machine_name": "hydroleaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "R. Br.",
+    "description": null,
+    "archival_data": {
+        "id": "2340221",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530365599"
+    },
+    "genus_items": [
+        {
+            "name": "Hydrolea",
+            "machine_name": "hydrolea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "hydroleaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hydrolea [Cultivars]",
+                    "machine_name": "hydrolea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hydrolea",
+                    "family": "hydroleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383762",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Hydrolea corymbosa",
+                    "machine_name": "hydrolea_corymbosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Ell.",
+                    "description": null,
+                    "genus": "hydrolea",
+                    "family": "hydroleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421008",
+                        "legacy_id": "4071",
+                        "fgsid": "18781",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Hydrolea ovata",
+                    "machine_name": "hydrolea_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "hydrolea",
+                    "family": "hydroleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421009",
+                        "legacy_id": "11800",
+                        "fgsid": "18782",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Hydrolea zeylanica",
+                    "machine_name": "hydrolea_zeylanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Vahl.",
+                    "description": null,
+                    "genus": "hydrolea",
+                    "family": "hydroleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448722",
+                        "legacy_id": "17946",
+                        "fgsid": "79475",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Hydrolea spinosa",
+                    "machine_name": "hydrolea_spinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "hydrolea",
+                    "family": "hydroleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2340216",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530365460"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383761",
+                "legacy_id": "2836",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

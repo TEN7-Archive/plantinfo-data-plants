@@ -1,0 +1,938 @@
+{
+    "name": "Resedaceae",
+    "machine_name": "resedaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381377",
+        "legacy_id": "355",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Caylusea",
+            "machine_name": "caylusea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "St. Hil.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Caylusea [Cultivars]",
+                    "machine_name": "caylusea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caylusea",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383510",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Caylusea muricata",
+                    "machine_name": "caylusea_muricata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "caylusea",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403689",
+                        "legacy_id": "10878",
+                        "fgsid": "6765",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383509",
+                "legacy_id": "1100",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Reseda",
+            "machine_name": "reseda",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Reseda alba",
+                    "machine_name": "reseda_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424326",
+                        "legacy_id": "384",
+                        "fgsid": "29808",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda arabica",
+                    "machine_name": "reseda_arabica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Boiss.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424327",
+                        "legacy_id": "994",
+                        "fgsid": "29809",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda complicata",
+                    "machine_name": "reseda_complicata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Bory.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424328",
+                        "legacy_id": "3795",
+                        "fgsid": "29810",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda decursiva",
+                    "machine_name": "reseda_decursiva",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Forssk.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424329",
+                        "legacy_id": "4659",
+                        "fgsid": "29811",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda glauca",
+                    "machine_name": "reseda_glauca",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424330",
+                        "legacy_id": "6654",
+                        "fgsid": "29812",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda lutea",
+                    "machine_name": "reseda_lutea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424331",
+                        "legacy_id": "9629",
+                        "fgsid": "29813",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda luteola",
+                    "machine_name": "reseda_luteola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424332",
+                        "legacy_id": "9640",
+                        "fgsid": "29814",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda muricata",
+                    "machine_name": "reseda_muricata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424333",
+                        "legacy_id": "10878",
+                        "fgsid": "29815",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda odorata",
+                    "machine_name": "reseda_odorata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [
+                        {
+                            "name": "Reseda odorata 'Machet'",
+                            "machine_name": "reseda_odorata_machet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Machet",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "reseda_odorata",
+                            "genus": "reseda",
+                            "family": "resedaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1523772",
+                                "legacy_id": "97774",
+                                "fgsid": "29816",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Reseda odorata 'Machet Giant'",
+                            "machine_name": "reseda_odorata_machet_giant",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Machet Giant",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "reseda_odorata",
+                            "genus": "reseda",
+                            "family": "resedaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1523773",
+                                "legacy_id": "97775",
+                                "fgsid": "29816",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Reseda odorata grandiflora",
+                            "machine_name": "reseda_odorata_grandiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "grandiflora",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "reseda_odorata",
+                            "genus": "reseda",
+                            "family": "resedaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533593",
+                                "legacy_id": "110011",
+                                "fgsid": "29816",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Reseda odorata 'True Machet'",
+                            "machine_name": "reseda_odorata_true_machet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "True Machet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "reseda_odorata",
+                            "genus": "reseda",
+                            "family": "resedaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1553936",
+                                "legacy_id": "145546",
+                                "fgsid": "29816",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Reseda odorata 'Alba'",
+                            "machine_name": "reseda_odorata_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alba",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "reseda_odorata",
+                            "genus": "reseda",
+                            "family": "resedaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1554038",
+                                "legacy_id": "128782",
+                                "fgsid": "29816",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424334",
+                        "legacy_id": "11522",
+                        "fgsid": "29816",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda phyteuma",
+                    "machine_name": "reseda_phyteuma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1424335",
+                        "legacy_id": "12517",
+                        "fgsid": "29817",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Reseda [Cultivars]",
+                    "machine_name": "reseda_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "reseda",
+                    "family": "resedaceae",
+                    "variety_items": [
+                        {
+                            "name": "Reseda [Cultivars] 'Fragrant Beauty'",
+                            "machine_name": "reseda_cultivars_fragrant_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fragrant Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "reseda_cultivars",
+                            "genus": "reseda",
+                            "family": "resedaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1550984",
+                                "legacy_id": "130147",
+                                "fgsid": "49695",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441628",
+                        "legacy_id": "2",
+                        "fgsid": "49695",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385611",
+                "legacy_id": "4737",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sesamoides",
+            "machine_name": "sesamoides",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Ortega.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sesamoides [Cultivars]",
+                    "machine_name": "sesamoides_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sesamoides",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388218",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sesamoides canescens",
+                    "machine_name": "sesamoides_canescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "O. Kuntze.",
+                    "description": null,
+                    "genus": "sesamoides",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429185",
+                        "legacy_id": "2813",
+                        "fgsid": "32761",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Sesamoides pygmaea",
+                    "machine_name": "sesamoides_pygmaea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 16",
+                    "naming_authorities": "O. Kuntze.",
+                    "description": null,
+                    "genus": "sesamoides",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429186",
+                        "legacy_id": "13389",
+                        "fgsid": "32762",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388217",
+                "legacy_id": "5082",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ochradenus",
+            "machine_name": "ochradenus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Del.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ochradenus [Cultivars]",
+                    "machine_name": "ochradenus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ochradenus",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391750",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ochradenus baccatus",
+                    "machine_name": "ochradenus_baccatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Del.",
+                    "description": null,
+                    "genus": "ochradenus",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425458",
+                        "legacy_id": "1502",
+                        "fgsid": "24458",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391749",
+                "legacy_id": "3897",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Oligomeris",
+            "machine_name": "oligomeris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Cambess.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Oligomeris [Cultivars]",
+                    "machine_name": "oligomeris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "oligomeris",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392494",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Oligomeris glaucescens",
+                    "machine_name": "oligomeris_glaucescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Cambess.",
+                    "description": null,
+                    "genus": "oligomeris",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426532",
+                        "legacy_id": "6656",
+                        "fgsid": "24694",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Oligomeris subulata",
+                    "machine_name": "oligomeris_subulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "oligomeris",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "oligomeris_glaucescens",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1426533",
+                        "legacy_id": "15812",
+                        "fgsid": "24695",
+                        "legacy_from_data_cross_ref": [
+                            "+O. glaucescens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392493",
+                "legacy_id": "3930",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Forchhammeria",
+            "machine_name": "forchhammeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Liebm.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Forchhammeria [Cultivars]",
+                    "machine_name": "forchhammeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "forchhammeria",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394738",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Forchhammeria watsonii",
+                    "machine_name": "forchhammeria_watsonii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Rose.",
+                    "description": null,
+                    "genus": "forchhammeria",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453400",
+                        "legacy_id": "17612",
+                        "fgsid": "114849",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394737",
+                "legacy_id": "20925",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Stixis",
+            "machine_name": "stixis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Lour.",
+            "description": null,
+            "family": "resedaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Stixis [Cultivars]",
+                    "machine_name": "stixis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "stixis",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331846",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528547370"
+                    }
+                },
+                {
+                    "name": "Stixis ovata",
+                    "machine_name": "stixis_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hallier.f.",
+                    "description": null,
+                    "genus": "stixis",
+                    "family": "resedaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331851",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528547407"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331841",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528547370"
+            }
+        }
+    ]
+}

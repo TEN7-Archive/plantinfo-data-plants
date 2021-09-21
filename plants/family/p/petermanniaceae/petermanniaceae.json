@@ -1,0 +1,85 @@
+{
+    "name": "Petermanniaceae",
+    "machine_name": "petermanniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Hutch.",
+    "description": null,
+    "archival_data": {
+        "id": "2311671",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525109069"
+    },
+    "genus_items": [
+        {
+            "name": "Petermannia",
+            "machine_name": "petermannia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicios",
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "petermanniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Petermannia [Cultivars]",
+                    "machine_name": "petermannia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "petermannia",
+                    "family": "petermanniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311681",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525109104"
+                    }
+                },
+                {
+                    "name": "Petermannia cirrosa",
+                    "machine_name": "petermannia_cirrosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "petermannia",
+                    "family": "petermanniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311686",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525109140"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2311676",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525109104"
+            }
+        }
+    ]
+}

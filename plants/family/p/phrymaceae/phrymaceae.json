@@ -1,0 +1,3759 @@
+{
+    "name": "Phrymaceae",
+    "machine_name": "phrymaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Schauer.",
+    "description": null,
+    "archival_data": {
+        "id": "2349436",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531743918"
+    },
+    "genus_items": [
+        {
+            "name": "Lancea",
+            "machine_name": "lancea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Hook.f. & Thoms.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lancea [Cultivars]",
+                    "machine_name": "lancea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lancea",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385534",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Lancea tibetica",
+                    "machine_name": "lancea_tibetica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.f. & Thoms.",
+                    "description": null,
+                    "genus": "lancea",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420709",
+                        "legacy_id": "16405",
+                        "fgsid": "20227",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385533",
+                "legacy_id": "3095",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Diplacus",
+            "machine_name": "diplacus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Nutt.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [
+                {
+                    "machine_name": "mimulus",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Diplacus [Cultivars]",
+                    "machine_name": "diplacus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplacus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389558",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Diplacus grandiflorus",
+                    "machine_name": "diplacus_grandiflorus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplacus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "mimulus_bifidus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1409216",
+                        "legacy_id": "6882",
+                        "fgsid": "11208",
+                        "legacy_from_data_cross_ref": [
+                            "+Mimulus bifidus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Diplacus longiflorus",
+                    "machine_name": "diplacus_longiflorus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplacus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1409217",
+                        "legacy_id": "9472",
+                        "fgsid": "11209",
+                        "legacy_from_data_cross_ref": [
+                            "+Mimulus glutinosus"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Diplacus aurantiacus",
+                    "machine_name": "diplacus_aurantiacus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplacus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446502",
+                        "legacy_id": "1383",
+                        "fgsid": "75395",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Diplacus pictus",
+                    "machine_name": "diplacus_pictus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.L. Nesom.",
+                    "description": null,
+                    "genus": "diplacus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353576",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532441640"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389557",
+                "legacy_id": "1863",
+                "legacy_from_data_cross_ref": [
+                    "Mimulus"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Mimulus",
+            "machine_name": "mimulus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mimulus [Cultivars]",
+                    "machine_name": "mimulus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus [Cultivars] 'Andean Nymph'",
+                            "machine_name": "mimulus_cultivars_andean_nymph",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Andean Nymph",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482176",
+                                "legacy_id": "19588",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Fire Dragon'",
+                            "machine_name": "mimulus_cultivars_fire_dragon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fire Dragon",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482177",
+                                "legacy_id": "19589",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Magic Series'",
+                            "machine_name": "mimulus_cultivars_magic_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magic Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482178",
+                                "legacy_id": "19590",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Magnifique'",
+                            "machine_name": "mimulus_cultivars_magnifique",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magnifique",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482179",
+                                "legacy_id": "19591",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Malibu Series'",
+                            "machine_name": "mimulus_cultivars_malibu_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Malibu Series",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482180",
+                                "legacy_id": "19592",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Mystic Series'",
+                            "machine_name": "mimulus_cultivars_mystic_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mystic Series",
+                            "authorities": "Cv. change",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482181",
+                                "legacy_id": "19593",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Plymtrees'",
+                            "machine_name": "mimulus_cultivars_plymtrees",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Plymtrees",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482182",
+                                "legacy_id": "19594",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Royal Velvet'",
+                            "machine_name": "mimulus_cultivars_royal_velvet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Royal Velvet",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482183",
+                                "legacy_id": "19595",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Western Hills'",
+                            "machine_name": "mimulus_cultivars_western_hills",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Western Hills",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482184",
+                                "legacy_id": "19596",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Wisley Red'",
+                            "machine_name": "mimulus_cultivars_wisley_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wisley Red",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482185",
+                                "legacy_id": "19597",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Calypso Series'",
+                            "machine_name": "mimulus_cultivars_calypso_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Calypso Series",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521202",
+                                "legacy_id": "92484",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Dos Equis'",
+                            "machine_name": "mimulus_cultivars_dos_equis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dos Equis",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521203",
+                                "legacy_id": "92485",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Threave Variegated'",
+                            "machine_name": "mimulus_cultivars_threave_variegated",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Threave Variegated",
+                            "authorities": null,
+                            "naming_authorities": "Cv.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1527915",
+                                "legacy_id": "106017",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "false",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Roter Kaiser\/Red Emperor'",
+                            "machine_name": "mimulus_cultivars_roter_kaiser_red_emperor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roter Kaiser\/Red Emperor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543565",
+                                "legacy_id": "119891",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Red Emperor'",
+                            "machine_name": "mimulus_cultivars_red_emperor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Emperor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "mimulus_cultivars_roter_kaiser_red_emperor",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1543566",
+                                "legacy_id": "119892",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [
+                                    "Mimulus  UNKNOWN Roter Kaiser\/Red Emperor"
+                                ],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Trailing Tropicana'",
+                            "machine_name": "mimulus_cultivars_trailing_tropicana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Trailing Tropicana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1550400",
+                                "legacy_id": "125268",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Tropicana'",
+                            "machine_name": "mimulus_cultivars_tropicana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tropicana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1551642",
+                                "legacy_id": "132462",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] Jelly Bean Series \u00ae",
+                            "machine_name": "mimulus_cultivars_jelly_bean_series",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Jelly Bean Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1557758",
+                                "legacy_id": "150083",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Puck'",
+                            "machine_name": "mimulus_cultivars_puck",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Puck",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561927",
+                                "legacy_id": "160464",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Splash'",
+                            "machine_name": "mimulus_cultivars_splash",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Splash",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561928",
+                                "legacy_id": "160465",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Apricot'",
+                            "machine_name": "mimulus_cultivars_apricot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Apricot",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1562971",
+                                "legacy_id": "168259",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Salmon Pink'",
+                            "machine_name": "mimulus_cultivars_salmon_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Salmon Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567422",
+                                "legacy_id": "174898",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Terra Cotta'",
+                            "machine_name": "mimulus_cultivars_terra_cotta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Terra Cotta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567423",
+                                "legacy_id": "174899",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Verity White'",
+                            "machine_name": "mimulus_cultivars_verity_white",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Verity White",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584306",
+                                "legacy_id": "208616",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Valentine'",
+                            "machine_name": "mimulus_cultivars_valentine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Valentine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584307",
+                                "legacy_id": "208617",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Maximus Series'",
+                            "machine_name": "mimulus_cultivars_maximus_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Maximus Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586129",
+                                "legacy_id": "222646",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Red Dragon'",
+                            "machine_name": "mimulus_cultivars_red_dragon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Dragon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590928",
+                                "legacy_id": "275423",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Pamela'",
+                            "machine_name": "mimulus_cultivars_pamela",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pamela",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1594812",
+                                "legacy_id": "382042",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Bounty Series'",
+                            "machine_name": "mimulus_cultivars_bounty_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bounty Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603351",
+                                "legacy_id": "276812",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Twinkle Series'",
+                            "machine_name": "mimulus_cultivars_twinkle_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Twinkle Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1628389",
+                                "legacy_id": "252871",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Monkey Magic'",
+                            "machine_name": "mimulus_cultivars_monkey_magic",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Monkey Magic",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634819",
+                                "legacy_id": "294117",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Vortex Series'",
+                            "machine_name": "mimulus_cultivars_vortex_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Vortex Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638728",
+                                "legacy_id": "329656",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Sunset'",
+                            "machine_name": "mimulus_cultivars_sunset",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sunset",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1642461",
+                                "legacy_id": "257205",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Burgundy'",
+                            "machine_name": "mimulus_cultivars_burgundy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Burgundy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1642462",
+                                "legacy_id": "257204",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] Georgie Series \u00ae",
+                            "machine_name": "mimulus_cultivars_georgie_series",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Georgie Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648969",
+                                "legacy_id": "368734",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Soquel Orange'",
+                            "machine_name": "mimulus_cultivars_soquel_orange",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Soquel Orange",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655495",
+                                "legacy_id": "371636",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Jack'",
+                            "machine_name": "mimulus_cultivars_jack",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jack",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655874",
+                                "legacy_id": "273596",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Pumpkin'",
+                            "machine_name": "mimulus_cultivars_pumpkin",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pumpkin",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655875",
+                                "legacy_id": "273597",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Ruby Silver'",
+                            "machine_name": "mimulus_cultivars_ruby_silver",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ruby Silver",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655876",
+                                "legacy_id": "273598",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Sam'",
+                            "machine_name": "mimulus_cultivars_sam",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sam",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655877",
+                                "legacy_id": "273599",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Trish'",
+                            "machine_name": "mimulus_cultivars_trish",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Trish",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655878",
+                                "legacy_id": "273600",
+                                "fgsid": "23164",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Changeling'",
+                            "machine_name": "mimulus_cultivars_changeling",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Changeling",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2393141",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1539605580"
+                            }
+                        },
+                        {
+                            "name": "Mimulus [Cultivars] 'Ball Magic'",
+                            "machine_name": "mimulus_cultivars_ball_magic",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ball Magic",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_cultivars",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2616491",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1585163709"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420501",
+                        "legacy_id": "2",
+                        "fgsid": "23164",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus alatus",
+                    "machine_name": "mimulus_alatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Sol.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus alatus 'Snow Crystal'",
+                            "machine_name": "mimulus_alatus_snow_crystal",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Snow Crystal",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_alatus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482379",
+                                "legacy_id": "19598",
+                                "fgsid": "23165",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Mimulus alatus alba",
+                            "machine_name": "mimulus_alatus_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "alba",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_alatus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576322",
+                                "legacy_id": "201594",
+                                "fgsid": "23165",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420502",
+                        "legacy_id": "381",
+                        "fgsid": "23165",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus alsinoides",
+                    "machine_name": "mimulus_alsinoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Douglas & Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420503",
+                        "legacy_id": "555",
+                        "fgsid": "23166",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus aridus",
+                    "machine_name": "mimulus_aridus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A.L. Grant.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420504",
+                        "legacy_id": "1133",
+                        "fgsid": "23167",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus aurantiacus",
+                    "machine_name": "mimulus_aurantiacus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Curtis.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus aurantiacus australis",
+                            "machine_name": "mimulus_aurantiacus_australis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "australis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mimulus_aurantiacus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1547909",
+                                "legacy_id": "122262",
+                                "fgsid": "23168",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Mimulus aurantiacus 'Rancho Santa Ana Red'",
+                            "machine_name": "mimulus_aurantiacus_rancho_santa_ana_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rancho Santa Ana Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_aurantiacus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620328",
+                                "legacy_id": "347481",
+                                "fgsid": "23168",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Mimulus aurantiacus 'Mesa Orange'",
+                            "machine_name": "mimulus_aurantiacus_mesa_orange",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mesa Orange",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_aurantiacus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620976",
+                                "legacy_id": "352218",
+                                "fgsid": "23168",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Mimulus aurantiacus pubescens",
+                            "machine_name": "mimulus_aurantiacus_pubescens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pubescens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_aurantiacus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1669781",
+                                "legacy_id": "409307",
+                                "fgsid": "23168",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Mimulus aurantiacus 'Pure Gold'",
+                            "machine_name": "mimulus_aurantiacus_pure_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pure Gold",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_aurantiacus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2413036",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1543486421"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420505",
+                        "legacy_id": "1383",
+                        "fgsid": "23168",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus bifidus",
+                    "machine_name": "mimulus_bifidus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Penn.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus bifidus fasciculatus",
+                            "machine_name": "mimulus_bifidus_fasciculatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "fasciculatus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mimulus_bifidus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521204",
+                                "legacy_id": "92486",
+                                "fgsid": "23169",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Mimulus bifidus bifidus",
+                            "machine_name": "mimulus_bifidus_bifidus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "bifidus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "mimulus_bifidus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1584382",
+                                "legacy_id": "211673",
+                                "fgsid": "23169",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Mimulus bifidus 'Esselen'",
+                            "machine_name": "mimulus_bifidus_esselen",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Esselen",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_bifidus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2393146",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1539605678"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420506",
+                        "legacy_id": "1915",
+                        "fgsid": "23169",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus bolanderi",
+                    "machine_name": "mimulus_bolanderi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420507",
+                        "legacy_id": "2091",
+                        "fgsid": "23170",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus burnetii",
+                    "machine_name": "mimulus_burnetii",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "hort.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420508",
+                        "legacy_id": "2502",
+                        "fgsid": "23171",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus cardinalis",
+                    "machine_name": "mimulus_cardinalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Dougl. & Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420509",
+                        "legacy_id": "2914",
+                        "fgsid": "23172",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus clivicola",
+                    "machine_name": "mimulus_clivicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Greenm.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420510",
+                        "legacy_id": "3615",
+                        "fgsid": "23173",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus cupreus",
+                    "machine_name": "mimulus_cupreus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Dombr.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420511",
+                        "legacy_id": "4339",
+                        "fgsid": "23174",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus douglasii",
+                    "machine_name": "mimulus_douglasii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420512",
+                        "legacy_id": "5097",
+                        "fgsid": "23175",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus eastwoodiae",
+                    "machine_name": "mimulus_eastwoodiae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Rydb.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420513",
+                        "legacy_id": "5229",
+                        "fgsid": "23176",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus flemingii",
+                    "machine_name": "mimulus_flemingii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Munz.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420514",
+                        "legacy_id": "6057",
+                        "fgsid": "23177",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus fremontii",
+                    "machine_name": "mimulus_fremontii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420515",
+                        "legacy_id": "6258",
+                        "fgsid": "23178",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus glabratus",
+                    "machine_name": "mimulus_glabratus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "HBK.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus glabratus fremontii",
+                            "machine_name": "mimulus_glabratus_fremontii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "fremontii",
+                            "authorities": "Cv.",
+                            "naming_authorities": "A.L. Grant.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_glabratus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1482380",
+                                "legacy_id": "19599",
+                                "fgsid": "23179",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Mimulus glabratus jamesii",
+                            "machine_name": "mimulus_glabratus_jamesii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "jamesii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_glabratus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626574",
+                                "legacy_id": "358199",
+                                "fgsid": "23179",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        },
+                        {
+                            "name": "Mimulus glabratus michiganensis",
+                            "machine_name": "mimulus_glabratus_michiganensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "michiganensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_glabratus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1649083",
+                                "legacy_id": "359854",
+                                "fgsid": "23179",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420516",
+                        "legacy_id": "6621",
+                        "fgsid": "23179",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus gracilis",
+                    "machine_name": "mimulus_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420517",
+                        "legacy_id": "6829",
+                        "fgsid": "23180",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus guttatus",
+                    "machine_name": "mimulus_guttatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Fisch. & DC.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus guttatus 'Lothian Fire'",
+                            "machine_name": "mimulus_guttatus_lothian_fire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lothian Fire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_guttatus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620252",
+                                "legacy_id": "343697",
+                                "fgsid": "23181",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420518",
+                        "legacy_id": "7033",
+                        "fgsid": "23181",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus jungermannioides",
+                    "machine_name": "mimulus_jungermannioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Suksd.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420519",
+                        "legacy_id": "8366",
+                        "fgsid": "23182",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus kelloggii",
+                    "machine_name": "mimulus_kelloggii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420520",
+                        "legacy_id": "8462",
+                        "fgsid": "23183",
+                        "legacy_from_data_cross_ref": [
+                            "+M. atropurpurea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus lewisii",
+                    "machine_name": "mimulus_lewisii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Pursh.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420521",
+                        "legacy_id": "9221",
+                        "fgsid": "23184",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus longiflorus",
+                    "machine_name": "mimulus_longiflorus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "A.L. Grant.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus longiflorus calycinus",
+                            "machine_name": "mimulus_longiflorus_calycinus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "calycinus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": "Munz.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "mimulus_longiflorus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521205",
+                                "legacy_id": "92487",
+                                "fgsid": "23185",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Mimulus longiflorus longiflorus",
+                            "machine_name": "mimulus_longiflorus_longiflorus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "longiflorus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "mimulus_longiflorus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521206",
+                                "legacy_id": "92488",
+                                "fgsid": "23185",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Mimulus longiflorus rutilus",
+                            "machine_name": "mimulus_longiflorus_rutilus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rutilus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": "A.L. Grant.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_longiflorus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521207",
+                                "legacy_id": "92489",
+                                "fgsid": "23185",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Mimulus longiflorus 'Conejo'",
+                            "machine_name": "mimulus_longiflorus_conejo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Conejo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_longiflorus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1547910",
+                                "legacy_id": "122263",
+                                "fgsid": "23185",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420522",
+                        "legacy_id": "9472",
+                        "fgsid": "23185",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus luteus",
+                    "machine_name": "mimulus_luteus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus luteus 'Tigrinus Grandiflorus'",
+                            "machine_name": "mimulus_luteus_tigrinus_grandiflorus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tigrinus Grandiflorus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_luteus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521208",
+                                "legacy_id": "92490",
+                                "fgsid": "23186",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Mimulus luteus 'Variegatus'",
+                            "machine_name": "mimulus_luteus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegatus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mimulus_luteus",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561929",
+                                "legacy_id": "160466",
+                                "fgsid": "23186",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420523",
+                        "legacy_id": "9652",
+                        "fgsid": "23186",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus moschatus",
+                    "machine_name": "mimulus_moschatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Dougl. & Lindl.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420524",
+                        "legacy_id": "10762",
+                        "fgsid": "23187",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus nepalensis",
+                    "machine_name": "mimulus_nepalensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420525",
+                        "legacy_id": "11129",
+                        "fgsid": "23188",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus patulus",
+                    "machine_name": "mimulus_patulus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "Pennell.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420526",
+                        "legacy_id": "12132",
+                        "fgsid": "23189",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus pulsiferae",
+                    "machine_name": "mimulus_pulsiferae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420527",
+                        "legacy_id": "13282",
+                        "fgsid": "23190",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus pygmaeus",
+                    "machine_name": "mimulus_pygmaeus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Grant.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420528",
+                        "legacy_id": "13393",
+                        "fgsid": "23191",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus repens",
+                    "machine_name": "mimulus_repens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420529",
+                        "legacy_id": "13725",
+                        "fgsid": "23192",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus ringens",
+                    "machine_name": "mimulus_ringens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus ringens colophilus",
+                            "machine_name": "mimulus_ringens_colophilus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "colophilus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_ringens",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1609787",
+                                "legacy_id": "359938",
+                                "fgsid": "23193",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Mimulus ringens ringens",
+                            "machine_name": "mimulus_ringens_ringens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "ringens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "mimulus_ringens",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636154",
+                                "legacy_id": "304436",
+                                "fgsid": "23193",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857880"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420530",
+                        "legacy_id": "13888",
+                        "fgsid": "23193",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus tilingii",
+                    "machine_name": "mimulus_tilingii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Regel.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420531",
+                        "legacy_id": "16420",
+                        "fgsid": "23194",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus tricolor",
+                    "machine_name": "mimulus_tricolor",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hartw.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420532",
+                        "legacy_id": "16635",
+                        "fgsid": "23195",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus washingtonensis",
+                    "machine_name": "mimulus_washingtonensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "Gand.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420533",
+                        "legacy_id": "17599",
+                        "fgsid": "23196",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus brevipes",
+                    "machine_name": "mimulus_brevipes",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434239",
+                        "legacy_id": "2309",
+                        "fgsid": "40193",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus primuloides",
+                    "machine_name": "mimulus_primuloides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus primuloides linearifolius",
+                            "machine_name": "mimulus_primuloides_linearifolius",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "linearifolius",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "mimulus_primuloides",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556545",
+                                "legacy_id": "149582",
+                                "fgsid": "40194",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434240",
+                        "legacy_id": "13017",
+                        "fgsid": "40194",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus cusickii",
+                    "machine_name": "mimulus_cusickii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435194",
+                        "legacy_id": "4385",
+                        "fgsid": "39048",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus glutinosus*",
+                    "machine_name": "mimulus_glutinosus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "mimulus_aurantiacus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435195",
+                        "legacy_id": "18956",
+                        "fgsid": "39049",
+                        "legacy_from_data_cross_ref": [
+                            "M. aurantiacus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus tigrinus*",
+                    "machine_name": "mimulus_tigrinus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "mimulus_hybridus",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1435196",
+                        "legacy_id": "18957",
+                        "fgsid": "39050",
+                        "legacy_from_data_cross_ref": [
+                            "M. x hybridus"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus rupicola",
+                    "machine_name": "mimulus_rupicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Coville & Grant.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435303",
+                        "legacy_id": "14187",
+                        "fgsid": "40434",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus hybridus",
+                    "machine_name": "mimulus_hybridus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "hort. & Sieb.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437546",
+                        "legacy_id": "7791",
+                        "fgsid": "41049",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Mimulus bigelovii",
+                    "machine_name": "mimulus_bigelovii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mimulus bigelovii cuspidata",
+                            "machine_name": "mimulus_bigelovii_cuspidata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cuspidata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "mimulus_bigelovii",
+                            "genus": "mimulus",
+                            "family": "phrymaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521201",
+                                "legacy_id": "92483",
+                                "fgsid": "39992",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438880",
+                        "legacy_id": "1927",
+                        "fgsid": "39992",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus naiandinus",
+                    "machine_name": "mimulus_naiandinus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp nov",
+                    "naming_authorities": "J.M. Watson & von Bohlen.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440327",
+                        "legacy_id": "30903",
+                        "fgsid": "62695",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus pictus",
+                    "machine_name": "mimulus_pictus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440619",
+                        "legacy_id": "12530",
+                        "fgsid": "62841",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus prostratus",
+                    "machine_name": "mimulus_prostratus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441449",
+                        "legacy_id": "13082",
+                        "fgsid": "43565",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus puniceus",
+                    "machine_name": "mimulus_puniceus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Steud.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442112",
+                        "legacy_id": "13323",
+                        "fgsid": "42292",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus dentatus",
+                    "machine_name": "mimulus_dentatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Nutt. & Benth.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444020",
+                        "legacy_id": "4758",
+                        "fgsid": "45570",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus viscidus",
+                    "machine_name": "mimulus_viscidus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Congdon.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446640",
+                        "legacy_id": "45043",
+                        "fgsid": "85495",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus nanus",
+                    "machine_name": "mimulus_nanus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Phil.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449144",
+                        "legacy_id": "11006",
+                        "fgsid": "87980",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus spissus",
+                    "machine_name": "mimulus_spissus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 7",
+                    "naming_authorities": "Grant.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449519",
+                        "legacy_id": "47343",
+                        "fgsid": "88690",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus suksdorfii",
+                    "machine_name": "mimulus_suksdorfii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "usda",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451933",
+                        "legacy_id": "15863",
+                        "fgsid": "111559",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus mephiticus",
+                    "machine_name": "mimulus_mephiticus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Greene.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452455",
+                        "legacy_id": "68384",
+                        "fgsid": "124930",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus diplotricha",
+                    "machine_name": "mimulus_diplotricha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "USDA",
+                    "naming_authorities": "C. Wright.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453447",
+                        "legacy_id": "56083",
+                        "fgsid": "115259",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus pulchellus",
+                    "machine_name": "mimulus_pulchellus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "A.L. Grant.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456324",
+                        "legacy_id": "13259",
+                        "fgsid": "108825",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Mimulus bridgesii",
+                    "machine_name": "mimulus_bridgesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Clos.",
+                    "description": null,
+                    "genus": "mimulus",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461837",
+                        "legacy_id": "2331",
+                        "fgsid": "152859",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389825",
+                "legacy_id": "3608",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Peplidium",
+            "machine_name": "peplidium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Delile.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Peplidium [Cultivars]",
+                    "machine_name": "peplidium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "peplidium",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396874",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Peplidium muelleri",
+                    "machine_name": "peplidium_muelleri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "peplidium",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446787",
+                        "legacy_id": "10803",
+                        "fgsid": "97698",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Peplidium aithocheilum",
+                    "machine_name": "peplidium_aithocheilum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "peplidium",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353596",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532442535"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396873",
+                "legacy_id": "17202",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Phryma",
+            "machine_name": "phryma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Schauer.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phryma [Cultivars]",
+                    "machine_name": "phryma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phryma",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396932",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Phryma leptostachya",
+                    "machine_name": "phryma_leptostachya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "phryma",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454333",
+                        "legacy_id": "9139",
+                        "fgsid": "99077",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396931",
+                "legacy_id": "17586",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Erythranthe",
+            "machine_name": "erythranthe",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Spach.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Erythranthe [Cultivars]",
+                    "machine_name": "erythranthe_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "erythranthe",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353566",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532441543"
+                    }
+                },
+                {
+                    "name": "Erythranthe cardinalis",
+                    "machine_name": "erythranthe_cardinalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Spach.",
+                    "description": null,
+                    "genus": "erythranthe",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353571",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532441579"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2353561",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532441543"
+            }
+        },
+        {
+            "name": "Hemichaena",
+            "machine_name": "hemichaena",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Benth.",
+            "description": null,
+            "family": "phrymaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hemichaena [Cultivars]",
+                    "machine_name": "hemichaena_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hemichaena",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353586",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532442046"
+                    }
+                },
+                {
+                    "name": "Hemichaena fruticosa",
+                    "machine_name": "hemichaena_fruticosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "hemichaena",
+                    "family": "phrymaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2353591",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532442087"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2353581",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532442046"
+            }
+        }
+    ]
+}

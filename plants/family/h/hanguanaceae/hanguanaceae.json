@@ -1,0 +1,133 @@
+{
+    "name": "Hanguanaceae",
+    "machine_name": "hanguanaceae",
+    "type": "family",
+    "authorities": "Tropicos change",
+    "naming_authorities": "Airy Shaw.",
+    "description": null,
+    "archival_data": {
+        "id": "2312976",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525609802"
+    },
+    "genus_items": [
+        {
+            "name": "Hanguana",
+            "machine_name": "hanguana",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "hanguanaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hanguana [Cultivars]",
+                    "machine_name": "hanguana_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hanguana",
+                    "family": "hanguanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396732",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Hanguana malayana",
+                    "machine_name": "hanguana_malayana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 5 says is Veratrum malayanum",
+                    "genus": "hanguana",
+                    "family": "hanguanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448569",
+                        "legacy_id": "9935",
+                        "fgsid": "93495",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Hanguana anthelminthica",
+                    "machine_name": "hanguana_anthelminthica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Masam.",
+                    "description": null,
+                    "genus": "hanguana",
+                    "family": "hanguanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2312971",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525609680"
+                    }
+                },
+                {
+                    "name": "Hanguana rubinea",
+                    "machine_name": "hanguana_rubinea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hanguana",
+                    "family": "hanguanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2312981",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525610047"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396731",
+                "legacy_id": "16342",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

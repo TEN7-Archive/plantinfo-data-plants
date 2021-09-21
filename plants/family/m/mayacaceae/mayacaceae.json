@@ -1,0 +1,85 @@
+{
+    "name": "Mayacaceae",
+    "machine_name": "mayacaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Kunth.",
+    "description": null,
+    "archival_data": {
+        "id": "2313771",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525869066"
+    },
+    "genus_items": [
+        {
+            "name": "Mayaca",
+            "machine_name": "mayaca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "mayacaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mayaca [Cultivars]",
+                    "machine_name": "mayaca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mayaca",
+                    "family": "mayacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313781",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525869102"
+                    }
+                },
+                {
+                    "name": "Mayaca fluviatilis",
+                    "machine_name": "mayaca_fluviatilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "mayaca",
+                    "family": "mayacaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2313786",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525869141"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2313776",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525869102"
+            }
+        }
+    ]
+}

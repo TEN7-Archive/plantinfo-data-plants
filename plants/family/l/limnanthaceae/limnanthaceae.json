@@ -1,0 +1,497 @@
+{
+    "name": "Limnanthaceae",
+    "machine_name": "limnanthaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381294",
+        "legacy_id": "251",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Limnanthes",
+            "machine_name": "limnanthes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "R. Br.",
+            "description": null,
+            "family": "limnanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Limnanthes [Cultivars]",
+                    "machine_name": "limnanthes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387126",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Limnanthes alba",
+                    "machine_name": "limnanthes_alba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hartw. & Benth.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417749",
+                        "legacy_id": "384",
+                        "fgsid": "20986",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Limnanthes bakeri",
+                    "machine_name": "limnanthes_bakeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "Howell.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417750",
+                        "legacy_id": "1547",
+                        "fgsid": "20987",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Limnanthes douglasii",
+                    "machine_name": "limnanthes_douglasii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Limnanthes douglasii nivea",
+                            "machine_name": "limnanthes_douglasii_nivea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "nivea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "limnanthes_douglasii",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1565086",
+                                "legacy_id": "166416",
+                                "fgsid": "20988",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Limnanthes douglasii 'Meringue'",
+                            "machine_name": "limnanthes_douglasii_meringue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Meringue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "limnanthes_douglasii",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579125",
+                                "legacy_id": "197306",
+                                "fgsid": "20988",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Limnanthes douglasii sulphurea",
+                            "machine_name": "limnanthes_douglasii_sulphurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "sulphurea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "limnanthes_douglasii",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579126",
+                                "legacy_id": "197307",
+                                "fgsid": "20988",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Limnanthes douglasii rosea",
+                            "machine_name": "limnanthes_douglasii_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rosea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "limnanthes_douglasii",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1637671",
+                                "legacy_id": "335856",
+                                "fgsid": "20988",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417751",
+                        "legacy_id": "5097",
+                        "fgsid": "20988",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Limnanthes floccosa",
+                    "machine_name": "limnanthes_floccosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Howell.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Limnanthes floccosa grandiflora",
+                            "machine_name": "limnanthes_floccosa_grandiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "grandiflora",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "limnanthes_floccosa",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479356",
+                                "legacy_id": "17597",
+                                "fgsid": "20989",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Limnanthes floccosa pumila",
+                            "machine_name": "limnanthes_floccosa_pumila",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pumila",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "limnanthes_floccosa",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479357",
+                                "legacy_id": "17598",
+                                "fgsid": "20989",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417752",
+                        "legacy_id": "6077",
+                        "fgsid": "20989",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Limnanthes gracilis",
+                    "machine_name": "limnanthes_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Howell.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Limnanthes gracilis gracilis",
+                            "machine_name": "limnanthes_gracilis_gracilis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "gracilis",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "limnanthes_gracilis",
+                            "genus": "limnanthes",
+                            "family": "limnanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479358",
+                                "legacy_id": "17599",
+                                "fgsid": "20990",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417753",
+                        "legacy_id": "6829",
+                        "fgsid": "20990",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Limnanthes vinculans",
+                    "machine_name": "limnanthes_vinculans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 15",
+                    "naming_authorities": "Ornduff.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1417754",
+                        "legacy_id": "17374",
+                        "fgsid": "20991",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Limnanthes macounii",
+                    "machine_name": "limnanthes_macounii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Trel.",
+                    "description": null,
+                    "genus": "limnanthes",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451549",
+                        "legacy_id": "9739",
+                        "fgsid": "110820",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387125",
+                "legacy_id": "3248",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Floerkea",
+            "machine_name": "floerkea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Willd.",
+            "description": null,
+            "family": "limnanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Floerkea [Cultivars]",
+                    "machine_name": "floerkea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "floerkea",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397390",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Floerkea proserpinacoides",
+                    "machine_name": "floerkea_proserpinacoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "floerkea",
+                    "family": "limnanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452654",
+                        "legacy_id": "18977",
+                        "fgsid": "113350",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397389",
+                "legacy_id": "20606",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

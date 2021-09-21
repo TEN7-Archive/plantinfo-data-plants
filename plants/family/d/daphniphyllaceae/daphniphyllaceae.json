@@ -1,0 +1,420 @@
+{
+    "name": "Daphniphyllaceae",
+    "machine_name": "daphniphyllaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381216",
+        "legacy_id": "139",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Daphniphyllum",
+            "machine_name": "daphniphyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "daphniphyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Daphniphyllum [Cultivars]",
+                    "machine_name": "daphniphyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387936",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum glaucescense",
+                    "machine_name": "daphniphyllum_glaucescense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Daphniphyllum glaucescense oldhamii",
+                            "machine_name": "daphniphyllum_glaucescense_oldhamii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "oldhamii",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "daphniphyllum_glaucescense",
+                            "genus": "daphniphyllum",
+                            "family": "daphniphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468744",
+                                "legacy_id": "7284",
+                                "fgsid": "10230",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Daphniphyllum glaucescense taiwanianum",
+                            "machine_name": "daphniphyllum_glaucescense_taiwanianum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "taiwanianum",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "daphniphyllum_glaucescense",
+                            "genus": "daphniphyllum",
+                            "family": "daphniphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468745",
+                                "legacy_id": "7285",
+                                "fgsid": "10230",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405369",
+                        "legacy_id": "6658",
+                        "fgsid": "10230",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum humile",
+                    "machine_name": "daphniphyllum_humile",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405370",
+                        "legacy_id": "7751",
+                        "fgsid": "10231",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum macropodium",
+                    "machine_name": "daphniphyllum_macropodium",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405371",
+                        "legacy_id": "9807",
+                        "fgsid": "10232",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum membranaceum",
+                    "machine_name": "daphniphyllum_membranaceum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": "Hayata.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405372",
+                        "legacy_id": "10317",
+                        "fgsid": "10233",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum scortechinii",
+                    "machine_name": "daphniphyllum_scortechinii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405373",
+                        "legacy_id": "14704",
+                        "fgsid": "10234",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum himalaense",
+                    "machine_name": "daphniphyllum_himalaense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Muell.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Daphniphyllum himalaense macropodum",
+                            "machine_name": "daphniphyllum_himalaense_macropodum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "macropodum",
+                            "authorities": null,
+                            "naming_authorities": "T.C. Huang.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "daphniphyllum_himalaense",
+                            "genus": "daphniphyllum",
+                            "family": "daphniphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1548580",
+                                "legacy_id": "123669",
+                                "fgsid": "45744",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444737",
+                        "legacy_id": "20888",
+                        "fgsid": "45744",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum teijsmannii",
+                    "machine_name": "daphniphyllum_teijsmannii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Kurz & Teysm. & Binn.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [
+                        {
+                            "name": "Daphniphyllum teijsmannii 'Mountain Dove'",
+                            "machine_name": "daphniphyllum_teijsmannii_mountain_dove",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mountain Dove",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "daphniphyllum_teijsmannii",
+                            "genus": "daphniphyllum",
+                            "family": "daphniphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588933",
+                                "legacy_id": "318761",
+                                "fgsid": "85455",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Daphniphyllum teijsmannii 'Snow Country'",
+                            "machine_name": "daphniphyllum_teijsmannii_snow_country",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Snow Country",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "daphniphyllum_teijsmannii",
+                            "genus": "daphniphyllum",
+                            "family": "daphniphyllaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588934",
+                                "legacy_id": "318762",
+                                "fgsid": "85455",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446637",
+                        "legacy_id": "45023",
+                        "fgsid": "85455",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum calycinum",
+                    "machine_name": "daphniphyllum_calycinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455360",
+                        "legacy_id": "2708",
+                        "fgsid": "127525",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Daphniphyllum chartaceum",
+                    "machine_name": "daphniphyllum_chartaceum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "K. Rosenthal.",
+                    "description": null,
+                    "genus": "daphniphyllum",
+                    "family": "daphniphyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318506",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526230000"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387935",
+                "legacy_id": "1719",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

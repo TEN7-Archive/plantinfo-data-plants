@@ -1,0 +1,85 @@
+{
+    "name": "Brunelliaceae",
+    "machine_name": "brunelliaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Engl.",
+    "description": null,
+    "archival_data": {
+        "id": "2322421",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526832039"
+    },
+    "genus_items": [
+        {
+            "name": "Brunellia",
+            "machine_name": "brunellia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "brunelliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Brunellia [Cultivars]",
+                    "machine_name": "brunellia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "brunellia",
+                    "family": "brunelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322431",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526832072"
+                    }
+                },
+                {
+                    "name": "Brunellia comocladifolia",
+                    "machine_name": "brunellia_comocladifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Bonpl.",
+                    "description": null,
+                    "genus": "brunellia",
+                    "family": "brunelliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322436",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526832124"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322426",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526832072"
+            }
+        }
+    ]
+}

@@ -1,0 +1,3032 @@
+{
+    "name": "Cunoniaceae",
+    "machine_name": "cunoniaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381208",
+        "legacy_id": "127",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Callicoma",
+            "machine_name": "callicoma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Andrews.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Callicoma [Cultivars]",
+                    "machine_name": "callicoma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "callicoma",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382558",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Callicoma serratifolia",
+                    "machine_name": "callicoma_serratifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Andr.",
+                    "description": null,
+                    "genus": "callicoma",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399295",
+                        "legacy_id": "14915",
+                        "fgsid": "5671",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382557",
+                "legacy_id": "939",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ceratopetalum",
+            "machine_name": "ceratopetalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Sm.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ceratopetalum [Cultivars]",
+                    "machine_name": "ceratopetalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ceratopetalum",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ceratopetalum [Cultivars] Summer Star \u2122",
+                            "machine_name": "ceratopetalum_cultivars_summer_star",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Summer Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "ceratopetalum_cultivars",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533834",
+                                "legacy_id": "108895",
+                                "fgsid": "7059",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum [Cultivars] 'Wildfire'",
+                            "machine_name": "ceratopetalum_cultivars_wildfire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wildfire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_cultivars",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2353116",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532363492"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum [Cultivars] 'Bulli'",
+                            "machine_name": "ceratopetalum_cultivars_bulli",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bulli",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_cultivars",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2353221",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532364172"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404844",
+                        "legacy_id": "2",
+                        "fgsid": "7059",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ceratopetalum apetalum",
+                    "machine_name": "ceratopetalum_apetalum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "ceratopetalum",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404845",
+                        "legacy_id": "933",
+                        "fgsid": "7060",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ceratopetalum gummiferum",
+                    "machine_name": "ceratopetalum_gummiferum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "ceratopetalum",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Ceratopetalum gummiferum 'White Christmas'",
+                            "machine_name": "ceratopetalum_gummiferum_white_christmas",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "White Christmas",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467313",
+                                "legacy_id": "4452",
+                                "fgsid": "7059",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Albery's Dwarf'",
+                            "machine_name": "ceratopetalum_gummiferum_albery_s_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albery's Dwarf",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467314",
+                                "legacy_id": "4453",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Albery's Red'",
+                            "machine_name": "ceratopetalum_gummiferum_albery_s_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albery's Red",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467315",
+                                "legacy_id": "4454",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Fairley's Coral '",
+                            "machine_name": "ceratopetalum_gummiferum_fairley_s_coral",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fairley's Coral ",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467316",
+                                "legacy_id": "4455",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Silent Night'",
+                            "machine_name": "ceratopetalum_gummiferum_silent_night",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Silent Night",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467317",
+                                "legacy_id": "4456",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'True Blue'",
+                            "machine_name": "ceratopetalum_gummiferum_true_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "True Blue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1534834",
+                                "legacy_id": "106628",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Festival'",
+                            "machine_name": "ceratopetalum_gummiferum_festival",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Festival",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1534835",
+                                "legacy_id": "106629",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Linden Late'",
+                            "machine_name": "ceratopetalum_gummiferum_linden_late",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Linden Late",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1534836",
+                                "legacy_id": "106630",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Martin Place'",
+                            "machine_name": "ceratopetalum_gummiferum_martin_place",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Martin Place",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1534837",
+                                "legacy_id": "106631",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Christmas Belle'",
+                            "machine_name": "ceratopetalum_gummiferum_christmas_belle",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Christmas Belle",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1534838",
+                                "legacy_id": "106632",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Fairley's Coral Pink'",
+                            "machine_name": "ceratopetalum_gummiferum_fairley_s_coral_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fairley's Coral Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543970",
+                                "legacy_id": "117538",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Virgo'",
+                            "machine_name": "ceratopetalum_gummiferum_virgo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Virgo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543971",
+                                "legacy_id": "117539",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Wentworth Falls'",
+                            "machine_name": "ceratopetalum_gummiferum_wentworth_falls",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wentworth Falls",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543972",
+                                "legacy_id": "117540",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'William's Tangerine'",
+                            "machine_name": "ceratopetalum_gummiferum_william_s_tangerine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "William's Tangerine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543973",
+                                "legacy_id": "117541",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Mirrabooka'",
+                            "machine_name": "ceratopetalum_gummiferum_mirrabooka",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mirrabooka",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546056",
+                                "legacy_id": "121772",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Albery's Millenium Red'",
+                            "machine_name": "ceratopetalum_gummiferum_albery_s_millenium_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albery's Millenium Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546057",
+                                "legacy_id": "121773",
+                                "fgsid": "7061",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Long Angle Pink'",
+                            "machine_name": "ceratopetalum_gummiferum_long_angle_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Long Angle Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2353121",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532363682"
+                            }
+                        },
+                        {
+                            "name": "Ceratopetalum gummiferum 'Karlong Selection 8'",
+                            "machine_name": "ceratopetalum_gummiferum_karlong_selection_8",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Karlong Selection 8",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "ceratopetalum_gummiferum",
+                            "genus": "ceratopetalum",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2353126",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532363754"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404846",
+                        "legacy_id": "7011",
+                        "fgsid": "7061",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ceratopetalum virchowii",
+                    "machine_name": "ceratopetalum_virchowii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "ceratopetalum",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458655",
+                        "legacy_id": "83750",
+                        "fgsid": "144422",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383617",
+                "legacy_id": "1154",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pullea",
+            "machine_name": "pullea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Schltr.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pullea [Cultivars]",
+                    "machine_name": "pullea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pullea",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384792",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pullea stutzeri",
+                    "machine_name": "pullea_stutzeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pullea",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426514",
+                        "legacy_id": "72696",
+                        "fgsid": "29090",
+                        "legacy_from_data_cross_ref": [
+                            "+Callicoma stutzeri"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384791",
+                "legacy_id": "4649",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Caldcluvia",
+            "machine_name": "caldcluvia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "D. Don.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Caldcluvia [Cultivars]",
+                    "machine_name": "caldcluvia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caldcluvia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385086",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Caldcluvia paniculata",
+                    "machine_name": "caldcluvia_paniculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "caldcluvia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440004",
+                        "legacy_id": "11974",
+                        "fgsid": "43176",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385085",
+                "legacy_id": "9149",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cunonia",
+            "machine_name": "cunonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cunonia [Cultivars]",
+                    "machine_name": "cunonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cunonia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387088",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cunonia capensis",
+                    "machine_name": "cunonia_capensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "cunonia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408759",
+                        "legacy_id": "2846",
+                        "fgsid": "9579",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cunonia deplanchei",
+                    "machine_name": "cunonia_deplanchei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "cunonia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322321",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526831189"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387087",
+                "legacy_id": "1613",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Schizomeria",
+            "machine_name": "schizomeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "D. Don.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Schizomeria [Cultivars]",
+                    "machine_name": "schizomeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "schizomeria",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387412",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Schizomeria ovata",
+                    "machine_name": "schizomeria_ovata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "D. Don.",
+                    "description": null,
+                    "genus": "schizomeria",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432885",
+                        "legacy_id": "11800",
+                        "fgsid": "32180",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387411",
+                "legacy_id": "4996",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ackama",
+            "machine_name": "ackama",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "A. Cunn.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ackama [Cultivars]",
+                    "machine_name": "ackama_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ackama",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388530",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ackama rosifolia",
+                    "machine_name": "ackama_rosifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "A. Cunn.",
+                    "description": null,
+                    "genus": "ackama",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398192",
+                        "legacy_id": "14012",
+                        "fgsid": "822",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388529",
+                "legacy_id": "60",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Acrophyllum",
+            "machine_name": "acrophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Bent.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Acrophyllum [Cultivars]",
+                    "machine_name": "acrophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acrophyllum",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388568",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Acrophyllum australe",
+                    "machine_name": "acrophyllum_australe",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 18",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acrophyllum",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398591",
+                        "legacy_id": "1435",
+                        "fgsid": "929",
+                        "legacy_from_data_cross_ref": [
+                            "+Weinmannia australis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388567",
+                "legacy_id": "81",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Eucryphia",
+            "machine_name": "eucryphia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Cav.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Eucryphia [Cultivars]",
+                    "machine_name": "eucryphia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia [Cultivars] 'Penwith'",
+                            "machine_name": "eucryphia_cultivars_penwith",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Penwith",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_cultivars",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471898",
+                                "legacy_id": "9379",
+                                "fgsid": "14318",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415202",
+                        "legacy_id": "2",
+                        "fgsid": "14318",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia cordifolia",
+                    "machine_name": "eucryphia_cordifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia cordifolia 'Ulmo'",
+                            "machine_name": "eucryphia_cordifolia_ulmo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ulmo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_cordifolia",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576058",
+                                "legacy_id": "203961",
+                                "fgsid": "14319",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415203",
+                        "legacy_id": "3974",
+                        "fgsid": "14319",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia glutinosa",
+                    "machine_name": "eucryphia_glutinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia glutinosa 'Plena'",
+                            "machine_name": "eucryphia_glutinosa_plena",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Plena",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_glutinosa",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471899",
+                                "legacy_id": "9380",
+                                "fgsid": "14320",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia glutinosa 'Nana'",
+                            "machine_name": "eucryphia_glutinosa_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_glutinosa",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1508768",
+                                "legacy_id": "78954",
+                                "fgsid": "14320",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415204",
+                        "legacy_id": "6735",
+                        "fgsid": "14320",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia intermedia",
+                    "machine_name": "eucryphia_intermedia",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Bausch.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia intermedia 'Rostrevor'",
+                            "machine_name": "eucryphia_intermedia_rostrevor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rostrevor",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_intermedia",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471900",
+                                "legacy_id": "9381",
+                                "fgsid": "14321",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia intermedia 'Grayswood'",
+                            "machine_name": "eucryphia_intermedia_grayswood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grayswood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_intermedia",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596557",
+                                "legacy_id": "387576",
+                                "fgsid": "14321",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415205",
+                        "legacy_id": "8100",
+                        "fgsid": "14321",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia lucida",
+                    "machine_name": "eucryphia_lucida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Baillon.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia lucida 'Ballerina'",
+                            "machine_name": "eucryphia_lucida_ballerina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ballerina",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_lucida",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471901",
+                                "legacy_id": "9382",
+                                "fgsid": "14322",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia lucida 'Pink Cloud'",
+                            "machine_name": "eucryphia_lucida_pink_cloud",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pink Cloud",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_lucida",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471902",
+                                "legacy_id": "9383",
+                                "fgsid": "14322",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia lucida 'Gilt Edge'",
+                            "machine_name": "eucryphia_lucida_gilt_edge",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gilt Edge",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_lucida",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596471",
+                                "legacy_id": "372659",
+                                "fgsid": "14322",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia lucida 'Lesley'",
+                            "machine_name": "eucryphia_lucida_lesley",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lesley",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_lucida",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596472",
+                                "legacy_id": "372660",
+                                "fgsid": "14322",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia lucida 'Spring Glow'",
+                            "machine_name": "eucryphia_lucida_spring_glow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spring Glow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_lucida",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1650592",
+                                "legacy_id": "368430",
+                                "fgsid": "14322",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415206",
+                        "legacy_id": "9574",
+                        "fgsid": "14322",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia milliganii",
+                    "machine_name": "eucryphia_milliganii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415207",
+                        "legacy_id": "10499",
+                        "fgsid": "14323",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia moorei",
+                    "machine_name": "eucryphia_moorei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415208",
+                        "legacy_id": "10721",
+                        "fgsid": "14324",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia nymansensis",
+                    "machine_name": "eucryphia_nymansensis",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Bausch.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia nymansensis 'Nymansay'",
+                            "machine_name": "eucryphia_nymansensis_nymansay",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nymansay",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_nymansensis",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1471903",
+                                "legacy_id": "9384",
+                                "fgsid": "14325",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia nymansensis 'Mount Usher'",
+                            "machine_name": "eucryphia_nymansensis_mount_usher",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mount Usher",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_nymansensis",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1529038",
+                                "legacy_id": "106411",
+                                "fgsid": "14325",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia nymansensis 'George Graham'",
+                            "machine_name": "eucryphia_nymansensis_george_graham",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "George Graham",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_nymansensis",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596555",
+                                "legacy_id": "387575",
+                                "fgsid": "14325",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia nymansensis 'Nymans Silver'",
+                            "machine_name": "eucryphia_nymansensis_nymans_silver",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nymans Silver",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_nymansensis",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1607764",
+                                "legacy_id": "387577",
+                                "fgsid": "14325",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Eucryphia nymansensis 'Nymans'",
+                            "machine_name": "eucryphia_nymansensis_nymans",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nymans ",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_nymansensis",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2385061",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1538411820"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415209",
+                        "legacy_id": "11394",
+                        "fgsid": "14325",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Eucryphia chrysanthemifolia",
+                    "machine_name": "eucryphia_chrysanthemifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440611",
+                        "legacy_id": "30944",
+                        "fgsid": "62823",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Eucryphia hillieri",
+                    "machine_name": "eucryphia_hillieri",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Eucryphia hillieri 'Winton'",
+                            "machine_name": "eucryphia_hillieri_winton",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Winton",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "eucryphia_hillieri",
+                            "genus": "eucryphia",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1645423",
+                                "legacy_id": "258438",
+                                "fgsid": "103999",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1453346",
+                        "legacy_id": "7484",
+                        "fgsid": "103999",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Eucryphia jinksii",
+                    "machine_name": "eucryphia_jinksii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "P.I. Forst.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459671",
+                        "legacy_id": "83746",
+                        "fgsid": "144406",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Eucryphia wilkiei",
+                    "machine_name": "eucryphia_wilkiei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "B. Hyland.",
+                    "description": null,
+                    "genus": "eucryphia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459682",
+                        "legacy_id": "83751",
+                        "fgsid": "144423",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392271",
+                "legacy_id": "2211",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Bauera",
+            "machine_name": "bauera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Banks & Andrews.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bauera [Cultivars]",
+                    "machine_name": "bauera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bauera",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393040",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Bauera capitata",
+                    "machine_name": "bauera_capitata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Ser. & DC.",
+                    "description": null,
+                    "genus": "bauera",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399977",
+                        "legacy_id": "2858",
+                        "fgsid": "4183",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bauera rubioides",
+                    "machine_name": "bauera_rubioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Andr.",
+                    "description": null,
+                    "genus": "bauera",
+                    "family": "cunoniaceae",
+                    "variety_items": [
+                        {
+                            "name": "Bauera rubioides microphylla",
+                            "machine_name": "bauera_rubioides_microphylla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "microphylla",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "bauera_rubioides",
+                            "genus": "bauera",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464297",
+                                "legacy_id": "2065",
+                                "fgsid": "4184",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Bauera rubioides rubioides",
+                            "machine_name": "bauera_rubioides_rubioides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rubioides",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "bauera_rubioides",
+                            "genus": "bauera",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1464298",
+                                "legacy_id": "2066",
+                                "fgsid": "4184",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Bauera rubioides 'Candy Stripe'",
+                            "machine_name": "bauera_rubioides_candy_stripe",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Candy Stripe",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "bauera_rubioides",
+                            "genus": "bauera",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499608",
+                                "legacy_id": "71908",
+                                "fgsid": "4184",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Bauera rubioides 'Double Pink'",
+                            "machine_name": "bauera_rubioides_double_pink",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Double Pink",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "bauera_rubioides",
+                            "genus": "bauera",
+                            "family": "cunoniaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1656496",
+                                "legacy_id": "263116",
+                                "fgsid": "4184",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399978",
+                        "legacy_id": "14100",
+                        "fgsid": "4184",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bauera sessiliflora",
+                    "machine_name": "bauera_sessiliflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "bauera",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399979",
+                        "legacy_id": "14934",
+                        "fgsid": "4185",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393039",
+                "legacy_id": "648",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Geissois",
+            "machine_name": "geissois",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Geissois [Cultivars]",
+                    "machine_name": "geissois_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "geissois",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393318",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Geissois benthamii",
+                    "machine_name": "geissois_benthamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "geissois",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410383",
+                        "legacy_id": "1820",
+                        "fgsid": "16024",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Geissois biagiana",
+                    "machine_name": "geissois_biagiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "geissois",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1410384",
+                        "legacy_id": "71644",
+                        "fgsid": "16025",
+                        "legacy_from_data_cross_ref": [
+                            "+Weinmannia biagiana"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Geissois bradfordii",
+                    "machine_name": "geissois_bradfordii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp. nov.",
+                    "naming_authorities": "H.C. Hopkins.",
+                    "description": null,
+                    "genus": "geissois",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452340",
+                        "legacy_id": "62504",
+                        "fgsid": "113119",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Geissois hirsuta",
+                    "machine_name": "geissois_hirsuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "geissois",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454670",
+                        "legacy_id": "7517",
+                        "fgsid": "127122",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Geissois pruinosa",
+                    "machine_name": "geissois_pruinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "geissois",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322316",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526831067"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393317",
+                "legacy_id": "2397",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Vesselowskya",
+            "machine_name": "vesselowskya",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Pampan.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Vesselowskya [Cultivars]",
+                    "machine_name": "vesselowskya_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "vesselowskya",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393656",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Vesselowskya rubrifolia",
+                    "machine_name": "vesselowskya_rubrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Pampan.",
+                    "description": null,
+                    "genus": "vesselowskya",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429747",
+                        "legacy_id": "14110",
+                        "fgsid": "36129",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393655",
+                "legacy_id": "5786",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Weinmannia",
+            "machine_name": "weinmannia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Weinmannia [Cultivars]",
+                    "machine_name": "weinmannia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1393756",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Weinmannia macrostachya",
+                    "machine_name": "weinmannia_macrostachya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437931",
+                        "legacy_id": "9825",
+                        "fgsid": "36632",
+                        "legacy_from_data_cross_ref": [
+                            "+W. tinctoria"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Weinmannia sylvicola",
+                    "machine_name": "weinmannia_sylvicola",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Sol. & A. Cunn.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437932",
+                        "legacy_id": "15951",
+                        "fgsid": "36633",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Weinmannia dryadifolia",
+                    "machine_name": "weinmannia_dryadifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Moric. ex Ser.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443592",
+                        "legacy_id": "5139",
+                        "fgsid": "44093",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia fraxinea",
+                    "machine_name": "weinmannia_fraxinea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Sm. ex D. Don.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443593",
+                        "legacy_id": "20248",
+                        "fgsid": "44094",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia clemensiae",
+                    "machine_name": "weinmannia_clemensiae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "v. Steenis.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443594",
+                        "legacy_id": "20249",
+                        "fgsid": "44095",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia stenostachya",
+                    "machine_name": "weinmannia_stenostachya",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443595",
+                        "legacy_id": "15547",
+                        "fgsid": "44096",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia parviflora",
+                    "machine_name": "weinmannia_parviflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Forst. f.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443596",
+                        "legacy_id": "12078",
+                        "fgsid": "44097",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia auriformis",
+                    "machine_name": "weinmannia_auriformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Z.S.Rogers.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455845",
+                        "legacy_id": "55346",
+                        "fgsid": "100463",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia trichosperma",
+                    "machine_name": "weinmannia_trichosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Cav.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456460",
+                        "legacy_id": "66904",
+                        "fgsid": "122662",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia macrophylla",
+                    "machine_name": "weinmannia_macrophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kunth.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460746",
+                        "legacy_id": "9799",
+                        "fgsid": "145260",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Weinmannia tinctoria",
+                    "machine_name": "weinmannia_tinctoria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Sm.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322341",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526831491"
+                    }
+                },
+                {
+                    "name": "Weinmannia racemosa",
+                    "machine_name": "weinmannia_racemosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L.f.",
+                    "description": null,
+                    "genus": "weinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2380801",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537966304"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393755",
+                "legacy_id": "5836",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Anodopetalum",
+            "machine_name": "anodopetalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "A. Cunningh. & Endl.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Anodopetalum [Cultivars]",
+                    "machine_name": "anodopetalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "anodopetalum",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396860",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Anodopetalum biglandulosum",
+                    "machine_name": "anodopetalum_biglandulosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "anodopetalum",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447540",
+                        "legacy_id": "53269",
+                        "fgsid": "97429",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396859",
+                "legacy_id": "17102",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pseudoweinmannia",
+            "machine_name": "pseudoweinmannia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Engl.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pseudoweinmannia [Cultivars]",
+                    "machine_name": "pseudoweinmannia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pseudoweinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396978",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pseudoweinmannia lachnocarpa",
+                    "machine_name": "pseudoweinmannia_lachnocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "pseudoweinmannia",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455154",
+                        "legacy_id": "54983",
+                        "fgsid": "99983",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396977",
+                "legacy_id": "17862",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pancheria",
+            "machine_name": "pancheria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Brongn. & Gris.",
+            "description": null,
+            "family": "cunoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pancheria [Cultivars]",
+                    "machine_name": "pancheria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pancheria",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322331",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526831309"
+                    }
+                },
+                {
+                    "name": "Pancheria hirsuta",
+                    "machine_name": "pancheria_hirsuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Vieill. & Guillaumin.",
+                    "description": null,
+                    "genus": "pancheria",
+                    "family": "cunoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322336",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526831388"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322326",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526831309"
+            }
+        }
+    ]
+}

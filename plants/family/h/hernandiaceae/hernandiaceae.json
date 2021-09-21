@@ -1,0 +1,371 @@
+{
+    "name": "Hernandiaceae",
+    "machine_name": "hernandiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381268",
+        "legacy_id": "212",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Gyrocarpus",
+            "machine_name": "gyrocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Jacq.",
+            "description": null,
+            "family": "hernandiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Gyrocarpus [Cultivars]",
+                    "machine_name": "gyrocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "gyrocarpus",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381964",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Gyrocarpus americanus",
+                    "machine_name": "gyrocarpus_americanus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Jacq.",
+                    "description": null,
+                    "genus": "gyrocarpus",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415013",
+                        "legacy_id": "649",
+                        "fgsid": "17225",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381963",
+                "legacy_id": "2563",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Hernandia",
+            "machine_name": "hernandia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "hernandiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hernandia [Cultivars]",
+                    "machine_name": "hernandia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hernandia",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382848",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hernandia bivalvis",
+                    "machine_name": "hernandia_bivalvis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "hernandia",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418641",
+                        "legacy_id": "2007",
+                        "fgsid": "18117",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hernandia ovigera",
+                    "machine_name": "hernandia_ovigera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "hernandia",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418642",
+                        "legacy_id": "11809",
+                        "fgsid": "18119",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hernandia peltata",
+                    "machine_name": "hernandia_peltata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hernandia",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "hernandia_ovigera",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1418643",
+                        "legacy_id": "12232",
+                        "fgsid": "18120",
+                        "legacy_from_data_cross_ref": [
+                            "+H. ovigera"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hernandia sonora",
+                    "machine_name": "hernandia_sonora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "hernandia",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418644",
+                        "legacy_id": "15254",
+                        "fgsid": "18121",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hernandia nymphaeifolia",
+                    "machine_name": "hernandia_nymphaeifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IK2",
+                    "naming_authorities": "Kubitzki.",
+                    "description": null,
+                    "genus": "hernandia",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444559",
+                        "legacy_id": "19841",
+                        "fgsid": "42889",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382847",
+                "legacy_id": "2697",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Illigera",
+            "machine_name": "illigera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "hernandiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Illigera [Cultivars]",
+                    "machine_name": "illigera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "illigera",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394690",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394689",
+                "legacy_id": "5968",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sparattanthelium",
+            "machine_name": "sparattanthelium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Mart.",
+            "description": null,
+            "family": "hernandiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sparattanthelium [Cultivars]",
+                    "machine_name": "sparattanthelium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sparattanthelium",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310211",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524924225"
+                    }
+                },
+                {
+                    "name": "Sparattanthelium botocudorum",
+                    "machine_name": "sparattanthelium_botocudorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mart.",
+                    "description": null,
+                    "genus": "sparattanthelium",
+                    "family": "hernandiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310216",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524924272"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2310206",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524924225"
+            }
+        }
+    ]
+}

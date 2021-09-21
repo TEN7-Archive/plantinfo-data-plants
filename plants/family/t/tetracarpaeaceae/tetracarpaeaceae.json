@@ -1,0 +1,85 @@
+{
+    "name": "Tetracarpaeaceae",
+    "machine_name": "tetracarpaeaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Nakai.",
+    "description": null,
+    "archival_data": {
+        "id": "2264121",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1519908943"
+    },
+    "genus_items": [
+        {
+            "name": "Tetracarpaea",
+            "machine_name": "tetracarpaea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hook.",
+            "description": null,
+            "family": "tetracarpaeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tetracarpaea [Cultivars]",
+                    "machine_name": "tetracarpaea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tetracarpaea",
+                    "family": "tetracarpaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2264131",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519908986"
+                    }
+                },
+                {
+                    "name": "Tetracarpaea tasmannica",
+                    "machine_name": "tetracarpaea_tasmannica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "tetracarpaea",
+                    "family": "tetracarpaeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2264136",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519909021"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2264126",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1519908986"
+            }
+        }
+    ]
+}

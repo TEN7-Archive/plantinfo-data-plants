@@ -1,0 +1,1335 @@
+{
+    "name": "Sterculiaceae",
+    "machine_name": "sterculiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381410",
+        "legacy_id": "397",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Byttneria",
+            "machine_name": "byttneria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Loefl.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Byttneria [Cultivars]",
+                    "machine_name": "byttneria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "byttneria",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381862",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Byttneria aspera",
+                    "machine_name": "byttneria_aspera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "byttneria",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398855",
+                        "legacy_id": "1245",
+                        "fgsid": "5426",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381861",
+                "legacy_id": "903",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Keraudrenia",
+            "machine_name": "keraudrenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gay.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Keraudrenia [Cultivars]",
+                    "machine_name": "keraudrenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "keraudrenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385362",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Keraudrenia aephrosperma",
+                    "machine_name": "keraudrenia_aephrosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "keraudrenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419531",
+                        "legacy_id": "71740",
+                        "fgsid": "19900",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Keraudrenia corallata",
+                    "machine_name": "keraudrenia_corallata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "keraudrenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Keraudrenia corallata denticulata",
+                            "machine_name": "keraudrenia_corallata_denticulata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "denticulata",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "keraudrenia_corallata",
+                            "genus": "keraudrenia",
+                            "family": "sterculiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1480183",
+                                "legacy_id": "16574",
+                                "fgsid": "19901",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419532",
+                        "legacy_id": "71523",
+                        "fgsid": "19901",
+                        "legacy_from_data_cross_ref": [
+                            "+Seringia corallata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Keraudrenia integrifolia",
+                    "machine_name": "keraudrenia_integrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Steud.",
+                    "description": null,
+                    "genus": "keraudrenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419533",
+                        "legacy_id": "8094",
+                        "fgsid": "19902",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385361",
+                "legacy_id": "3007",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Commersonia",
+            "machine_name": "commersonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Forster & Forster.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Commersonia [Cultivars]",
+                    "machine_name": "commersonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "commersonia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386084",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Commersonia bartramia",
+                    "machine_name": "commersonia_bartramia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "commersonia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404129",
+                        "legacy_id": "1674",
+                        "fgsid": "8379",
+                        "legacy_from_data_cross_ref": [
+                            "+Muntingia bartramia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Commersonia fraseri",
+                    "machine_name": "commersonia_fraseri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "J. Gay.",
+                    "description": null,
+                    "genus": "commersonia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404130",
+                        "legacy_id": "6244",
+                        "fgsid": "8380",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386083",
+                "legacy_id": "1435",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Melhania",
+            "machine_name": "melhania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Forssk.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Melhania [Cultivars]",
+                    "machine_name": "melhania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "melhania",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386802",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386801",
+                "legacy_id": "9026",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lysiosepalum",
+            "machine_name": "lysiosepalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lysiosepalum [Cultivars]",
+                    "machine_name": "lysiosepalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lysiosepalum",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387994",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lysiosepalum involucratum",
+                    "machine_name": "lysiosepalum_involucratum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lysiosepalum",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1420794",
+                        "legacy_id": "18731",
+                        "fgsid": "21758",
+                        "legacy_from_data_cross_ref": [
+                            "+Thomasia involucrata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387993",
+                "legacy_id": "3364",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Seringia",
+            "machine_name": "seringia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gay.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Seringia [Cultivars]",
+                    "machine_name": "seringia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "seringia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388208",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Seringia arborescens",
+                    "machine_name": "seringia_arborescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "seringia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1429170",
+                        "legacy_id": "1022",
+                        "fgsid": "32746",
+                        "legacy_from_data_cross_ref": [
+                            "+Lasiopetalum arborescens"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388207",
+                "legacy_id": "5077",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Abroma",
+            "machine_name": "abroma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Jacq.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [
+                {
+                    "machine_name": "ambroma",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Abroma [Cultivars]",
+                    "machine_name": "abroma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "abroma",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388432",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Abroma angusta",
+                    "machine_name": "abroma_angusta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "abroma",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449819",
+                        "legacy_id": "822",
+                        "fgsid": "82115",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388431",
+                "legacy_id": "7",
+                "legacy_from_data_cross_ref": [
+                    "Ambroma"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Thomasia",
+            "machine_name": "thomasia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Gay.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Thomasia grandiflora",
+                    "machine_name": "thomasia_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Thomasia grandiflora 'Mt Lesueur'",
+                            "machine_name": "thomasia_grandiflora_mt_lesueur",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mt Lesueur",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "thomasia_grandiflora",
+                            "genus": "thomasia",
+                            "family": "sterculiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626788",
+                                "legacy_id": "373159",
+                                "fgsid": "34646",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430492",
+                        "legacy_id": "6879",
+                        "fgsid": "34646",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thomasia macrocarpa",
+                    "machine_name": "thomasia_macrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hueg.",
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430493",
+                        "legacy_id": "9768",
+                        "fgsid": "34647",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thomasia petalocalyx",
+                    "machine_name": "thomasia_petalocalyx",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "F. Muell.",
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430494",
+                        "legacy_id": "12387",
+                        "fgsid": "34648",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thomasia pygmaea",
+                    "machine_name": "thomasia_pygmaea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430495",
+                        "legacy_id": "13389",
+                        "fgsid": "34649",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Thomasia purpurea",
+                    "machine_name": "thomasia_purpurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "J. Gay.",
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440817",
+                        "legacy_id": "13338",
+                        "fgsid": "44779",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thomasia [Cultivars]",
+                    "machine_name": "thomasia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Thomasia [Cultivars] 'Velvet Star'",
+                            "machine_name": "thomasia_cultivars_velvet_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Velvet Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "thomasia_cultivars",
+                            "genus": "thomasia",
+                            "family": "sterculiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596305",
+                                "legacy_id": "373160",
+                                "fgsid": "139979",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458605",
+                        "legacy_id": "2",
+                        "fgsid": "139979",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thomasia microphylla",
+                    "machine_name": "thomasia_microphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thomasia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2181496",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1513948202"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391069",
+                "legacy_id": "5510",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Argyrodendron",
+            "machine_name": "argyrodendron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "F. Muell.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Argyrodendron [Cultivars]",
+                    "machine_name": "argyrodendron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "argyrodendron",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391320",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Argyrodendron actinophyllum",
+                    "machine_name": "argyrodendron_actinophyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 9",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "argyrodendron",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401788",
+                        "legacy_id": "138",
+                        "fgsid": "3145",
+                        "legacy_from_data_cross_ref": [
+                            "+Tarrietia actinophylla"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Argyrodendron trifoliatum",
+                    "machine_name": "argyrodendron_trifoliatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "argyrodendron",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401789",
+                        "legacy_id": "16666",
+                        "fgsid": "3146",
+                        "legacy_from_data_cross_ref": [
+                            "+Tarrietia argyrodendron"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391319",
+                "legacy_id": "459",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ayenia",
+            "machine_name": "ayenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ayenia [Cultivars]",
+                    "machine_name": "ayenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ayenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392244",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ayenia filiformis",
+                    "machine_name": "ayenia_filiformis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "S. Wats.",
+                    "description": null,
+                    "genus": "ayenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398819",
+                        "legacy_id": "5945",
+                        "fgsid": "3910",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Ayenia microphylla",
+                    "machine_name": "ayenia_microphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "ayenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451394",
+                        "legacy_id": "10445",
+                        "fgsid": "130344",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ayenia compacta",
+                    "machine_name": "ayenia_compacta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Rose.",
+                    "description": null,
+                    "genus": "ayenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452100",
+                        "legacy_id": "3783",
+                        "fgsid": "130801",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Ayenia limitaris",
+                    "machine_name": "ayenia_limitaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Crist\u221a\u2265bal.",
+                    "description": null,
+                    "genus": "ayenia",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460808",
+                        "legacy_id": "76786",
+                        "fgsid": "135021",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392243",
+                "legacy_id": "587",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ungeria",
+            "machine_name": "ungeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Schott & Endl.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ungeria [Cultivars]",
+                    "machine_name": "ungeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ungeria",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392836",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ungeria floribunda",
+                    "machine_name": "ungeria_floribunda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Schott & Endl.",
+                    "description": null,
+                    "genus": "ungeria",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1428273",
+                        "legacy_id": "6083",
+                        "fgsid": "35697",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392835",
+                "legacy_id": "5716",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Guazuma",
+            "machine_name": "guazuma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Mill.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Guazuma [Cultivars]",
+                    "machine_name": "guazuma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "guazuma",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394828",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Guazuma ulmifolia",
+                    "machine_name": "guazuma_ulmifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "guazuma",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454886",
+                        "legacy_id": "16913",
+                        "fgsid": "118559",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394827",
+                "legacy_id": "21644",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Kola",
+            "machine_name": "kola",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "none",
+            "naming_authorities": null,
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [
+                {
+                    "machine_name": "cola",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Kola [Cultivars]",
+                    "machine_name": "kola_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "kola",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395020",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395019",
+                "legacy_id": "23124",
+                "legacy_from_data_cross_ref": [
+                    "Cola"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pentapetes",
+            "machine_name": "pentapetes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "sterculiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pentapetes [Cultivars]",
+                    "machine_name": "pentapetes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pentapetes",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396012",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pentapetes phoenicea",
+                    "machine_name": "pentapetes_phoenicea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "pentapetes",
+                    "family": "sterculiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440256",
+                        "legacy_id": "12480",
+                        "fgsid": "62015",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396011",
+                "legacy_id": "10902",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

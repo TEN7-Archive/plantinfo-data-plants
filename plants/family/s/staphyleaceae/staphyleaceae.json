@@ -1,0 +1,437 @@
+{
+    "name": "Staphyleaceae",
+    "machine_name": "staphyleaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381408",
+        "legacy_id": "395",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Euscaphis",
+            "machine_name": "euscaphis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Siebold & Zucc.",
+            "description": null,
+            "family": "staphyleaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Euscaphis [Cultivars]",
+                    "machine_name": "euscaphis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "euscaphis",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382466",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Euscaphis japonica",
+                    "machine_name": "euscaphis_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Kanitz.",
+                    "description": null,
+                    "genus": "euscaphis",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437882",
+                        "legacy_id": "8265",
+                        "fgsid": "41129",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382465",
+                "legacy_id": "6129",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Staphylea",
+            "machine_name": "staphylea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "staphyleaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Staphylea [Cultivars]",
+                    "machine_name": "staphylea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389202",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Staphylea bumalda",
+                    "machine_name": "staphylea_bumalda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432640",
+                        "legacy_id": "2457",
+                        "fgsid": "33651",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Staphylea colchica",
+                    "machine_name": "staphylea_colchica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Stev.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [
+                        {
+                            "name": "Staphylea colchica 'Hessei'",
+                            "machine_name": "staphylea_colchica_hessei",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hessei",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "staphylea_colchica",
+                            "genus": "staphylea",
+                            "family": "staphyleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2327176",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1527422341"
+                            }
+                        },
+                        {
+                            "name": "Staphylea colchica 'Grandiflora'",
+                            "machine_name": "staphylea_colchica_grandiflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grandiflora",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "staphylea_colchica",
+                            "genus": "staphylea",
+                            "family": "staphyleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2483441",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1551616627"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432641",
+                        "legacy_id": "3699",
+                        "fgsid": "33652",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Staphylea emodi",
+                    "machine_name": "staphylea_emodi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432642",
+                        "legacy_id": "5419",
+                        "fgsid": "33653",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Staphylea holocarpa",
+                    "machine_name": "staphylea_holocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [
+                        {
+                            "name": "Staphylea holocarpa rosea",
+                            "machine_name": "staphylea_holocarpa_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "rosea",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Rehd. & E.H. Wils.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "staphylea_holocarpa",
+                            "genus": "staphylea",
+                            "family": "staphyleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1494807",
+                                "legacy_id": "32625",
+                                "fgsid": "33654",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432643",
+                        "legacy_id": "7595",
+                        "fgsid": "33654",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Staphylea pinnata",
+                    "machine_name": "staphylea_pinnata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432644",
+                        "legacy_id": "12592",
+                        "fgsid": "33655",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Staphylea trifolia",
+                    "machine_name": "staphylea_trifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [
+                        {
+                            "name": "Staphylea trifolia pyriformis",
+                            "machine_name": "staphylea_trifolia_pyriformis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pyriformis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "staphylea_trifolia",
+                            "genus": "staphylea",
+                            "family": "staphyleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2327181",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1527422423"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432645",
+                        "legacy_id": "16661",
+                        "fgsid": "33656",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Staphylea bolanderi",
+                    "machine_name": "staphylea_bolanderi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "A. Gray.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2483446",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551616848"
+                    }
+                },
+                {
+                    "name": "Staphylea pringlei",
+                    "machine_name": "staphylea_pringlei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "S. Watson.",
+                    "description": null,
+                    "genus": "staphylea",
+                    "family": "staphyleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2483451",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551616970"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389201",
+                "legacy_id": "5246",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

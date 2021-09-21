@@ -1,0 +1,674 @@
+{
+    "name": "Stachyuraceae",
+    "machine_name": "stachyuraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381405",
+        "legacy_id": "391",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Stachyurus",
+            "machine_name": "stachyurus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Siebold & Zucc.",
+            "description": null,
+            "family": "stachyuraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Stachyurus [Cultivars]",
+                    "machine_name": "stachyurus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389180",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Stachyurus chinensis",
+                    "machine_name": "stachyurus_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [
+                        {
+                            "name": "Stachyurus chinensis 'Magpie'",
+                            "machine_name": "stachyurus_chinensis_magpie",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Magpie",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_chinensis",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1494800",
+                                "legacy_id": "32618",
+                                "fgsid": "33593",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus chinensis latus",
+                            "machine_name": "stachyurus_chinensis_latus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "latus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "stachyurus_chinensis",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545963",
+                                "legacy_id": "125390",
+                                "fgsid": "33593",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus chinensis 'Wonderful Image'",
+                            "machine_name": "stachyurus_chinensis_wonderful_image",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wonderful Image",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_chinensis",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636245",
+                                "legacy_id": "289396",
+                                "fgsid": "33593",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus chinensis 'Joy Forever'",
+                            "machine_name": "stachyurus_chinensis_joy_forever",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Joy Forever",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_chinensis",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636255",
+                                "legacy_id": "289436",
+                                "fgsid": "33593",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432299",
+                        "legacy_id": "3351",
+                        "fgsid": "33593",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Stachyurus himalaicus",
+                    "machine_name": "stachyurus_himalaicus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.f. & Thoms.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [
+                        {
+                            "name": "Stachyurus himalaicus 'Slender Lady'",
+                            "machine_name": "stachyurus_himalaicus_slender_lady",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Slender Lady",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_himalaicus",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636256",
+                                "legacy_id": "289437",
+                                "fgsid": "33594",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432300",
+                        "legacy_id": "7489",
+                        "fgsid": "33594",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Stachyurus praecox",
+                    "machine_name": "stachyurus_praecox",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Siebold & Zucc.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [
+                        {
+                            "name": "Stachyurus praecox matsuzakii",
+                            "machine_name": "stachyurus_praecox_matsuzakii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "matsuzakii",
+                            "authorities": "Cv.",
+                            "naming_authorities": "Makino.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1494801",
+                                "legacy_id": "32619",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Aurea Variegata'",
+                            "machine_name": "stachyurus_praecox_aurea_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aurea Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1528273",
+                                "legacy_id": "102508",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Aureomarginata'",
+                            "machine_name": "stachyurus_praecox_aureomarginata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aureomarginata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576199",
+                                "legacy_id": "199888",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox leucotrichus",
+                            "machine_name": "stachyurus_praecox_leucotrichus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "leucotrichus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576200",
+                                "legacy_id": "199889",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Rubriflorus'",
+                            "machine_name": "stachyurus_praecox_rubriflorus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rubriflorus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1576201",
+                                "legacy_id": "199890",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Oriental Sun'",
+                            "machine_name": "stachyurus_praecox_oriental_sun",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Oriental Sun",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1593183",
+                                "legacy_id": "390934",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Petra'",
+                            "machine_name": "stachyurus_praecox_petra",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Petra",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1636257",
+                                "legacy_id": "289438",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Sterling Silver'",
+                            "machine_name": "stachyurus_praecox_sterling_silver",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sterling Silver",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655385",
+                                "legacy_id": "375023",
+                                "fgsid": "33595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox Morning Dew \u2122",
+                            "machine_name": "stachyurus_praecox_morning_dew",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Morning Dew",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2291691",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1523119380"
+                            }
+                        },
+                        {
+                            "name": "Stachyurus praecox 'Issai'",
+                            "machine_name": "stachyurus_praecox_issai",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Issai",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "stachyurus_praecox",
+                            "genus": "stachyurus",
+                            "family": "stachyuraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2602086",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1580826587"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432301",
+                        "legacy_id": "12963",
+                        "fgsid": "33595",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Stachyurus yunnanensis",
+                    "machine_name": "stachyurus_yunnanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440586",
+                        "legacy_id": "17903",
+                        "fgsid": "46255",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stachyurus salicifolius",
+                    "machine_name": "stachyurus_salicifolius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440797",
+                        "legacy_id": "14291",
+                        "fgsid": "44759",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stachyurus schetuanica",
+                    "machine_name": "stachyurus_schetuanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445768",
+                        "legacy_id": "37523",
+                        "fgsid": "73955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stachyurus szechuanensis",
+                    "machine_name": "stachyurus_szechuanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "W.P. Fang.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446453",
+                        "legacy_id": "53071",
+                        "fgsid": "97028",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stachyurus retusus",
+                    "machine_name": "stachyurus_retusus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Y.C. Yang.",
+                    "description": null,
+                    "genus": "stachyurus",
+                    "family": "stachyuraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450810",
+                        "legacy_id": "13769",
+                        "fgsid": "109739",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389179",
+                "legacy_id": "5234",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

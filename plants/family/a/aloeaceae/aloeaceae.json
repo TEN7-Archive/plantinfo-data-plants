@@ -1,0 +1,178 @@
+{
+    "name": "Aloeaceae",
+    "machine_name": "aloeaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381131",
+        "legacy_id": "11",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Poellnitzia",
+            "machine_name": "poellnitzia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Uitew.",
+            "description": null,
+            "family": "aloeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Poellnitzia [Cultivars]",
+                    "machine_name": "poellnitzia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "poellnitzia",
+                    "family": "aloeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383158",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Poellnitzia rubriflora",
+                    "machine_name": "poellnitzia_rubriflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Uitew.",
+                    "description": null,
+                    "genus": "poellnitzia",
+                    "family": "aloeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427152",
+                        "legacy_id": "14107",
+                        "fgsid": "27876",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Poellnitzia rubrifolia",
+                    "machine_name": "poellnitzia_rubrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Uitew.",
+                    "description": null,
+                    "genus": "poellnitzia",
+                    "family": "aloeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427153",
+                        "legacy_id": "14110",
+                        "fgsid": "27877",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383157",
+                "legacy_id": "4459",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Aristaloe",
+            "machine_name": "aristaloe",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "none?",
+            "naming_authorities": null,
+            "description": null,
+            "family": "aloeaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aristaloe [Cultivars]",
+                    "machine_name": "aristaloe_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aristaloe",
+                    "family": "aloeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397448",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Aristaloe aristata",
+                    "machine_name": "aristaloe_aristata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "aristaloe",
+                    "family": "aloeaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462392",
+                        "legacy_id": "1144",
+                        "fgsid": "153641",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397447",
+                "legacy_id": "29824",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

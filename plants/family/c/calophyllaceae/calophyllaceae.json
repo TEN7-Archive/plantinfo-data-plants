@@ -1,0 +1,316 @@
+{
+    "name": "Calophyllaceae",
+    "machine_name": "calophyllaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Agardh.",
+    "description": null,
+    "archival_data": {
+        "id": "2322731",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526903840"
+    },
+    "genus_items": [
+        {
+            "name": "Calophyllum",
+            "machine_name": "calophyllum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "calophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Calophyllum [Cultivars]",
+                    "machine_name": "calophyllum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calophyllum",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382600",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Calophyllum brasiliense",
+                    "machine_name": "calophyllum_brasiliense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Camb.",
+                    "description": null,
+                    "genus": "calophyllum",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400486",
+                        "legacy_id": "2256",
+                        "fgsid": "5788",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calophyllum inophyllum",
+                    "machine_name": "calophyllum_inophyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "calophyllum",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400487",
+                        "legacy_id": "8055",
+                        "fgsid": "5789",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382599",
+                "legacy_id": "960",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Mammea",
+            "machine_name": "mammea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "calophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mammea [Cultivars]",
+                    "machine_name": "mammea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mammea",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388140",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Mammea americana",
+                    "machine_name": "mammea_americana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "mammea",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1415958",
+                        "legacy_id": "646",
+                        "fgsid": "22043",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388139",
+                "legacy_id": "3438",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Mesua",
+            "machine_name": "mesua",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "calophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mesua [Cultivars]",
+                    "machine_name": "mesua_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mesua",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389036",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Mesua ferrea",
+                    "machine_name": "mesua_ferrea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "mesua",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419772",
+                        "legacy_id": "5872",
+                        "fgsid": "22997",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389035",
+                "legacy_id": "3553",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Caraipa",
+            "machine_name": "caraipa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "calophyllaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Caraipa [Cultivars]",
+                    "machine_name": "caraipa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "caraipa",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322741",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526904045"
+                    }
+                },
+                {
+                    "name": "Caraipa tereticaulis",
+                    "machine_name": "caraipa_tereticaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Tul.",
+                    "description": null,
+                    "genus": "caraipa",
+                    "family": "calophyllaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322746",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526904098"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322736",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526904045"
+            }
+        }
+    ]
+}

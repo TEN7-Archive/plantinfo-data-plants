@@ -1,0 +1,109 @@
+{
+    "name": "Saccolomataceae",
+    "machine_name": "saccolomataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Doweld.",
+    "description": null,
+    "archival_data": {
+        "id": "2307836",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524757305"
+    },
+    "genus_items": [
+        {
+            "name": "Saccoloma",
+            "machine_name": "saccoloma",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Kaulf.",
+            "description": null,
+            "family": "saccolomataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Saccoloma [Cultivars]",
+                    "machine_name": "saccoloma_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "saccoloma",
+                    "family": "saccolomataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307846",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524757368"
+                    }
+                },
+                {
+                    "name": "Saccoloma inaequale",
+                    "machine_name": "saccoloma_inaequale",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mett.",
+                    "description": null,
+                    "genus": "saccoloma",
+                    "family": "saccolomataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307851",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524757417"
+                    }
+                },
+                {
+                    "name": "Saccoloma domingense",
+                    "machine_name": "saccoloma_domingense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Chr.",
+                    "description": "no dominguense",
+                    "genus": "saccoloma",
+                    "family": "saccolomataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307856",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524757477"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2307841",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524757368"
+            }
+        }
+    ]
+}

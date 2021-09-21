@@ -1,0 +1,4017 @@
+{
+    "name": "Actinidiaceae",
+    "machine_name": "actinidiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381124",
+        "legacy_id": "4",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Saurauia",
+            "machine_name": "saurauia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Willd.",
+            "description": null,
+            "family": "actinidiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Saurauia [Cultivars]",
+                    "machine_name": "saurauia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "saurauia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386672",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Saurauia napaulensis",
+                    "machine_name": "saurauia_napaulensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "DC.",
+                    "description": null,
+                    "genus": "saurauia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1431381",
+                        "legacy_id": "11009",
+                        "fgsid": "31808",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Saurauia madrensis",
+                    "machine_name": "saurauia_madrensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "B.T. Keller & Breedlove.",
+                    "description": null,
+                    "genus": "saurauia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456553",
+                        "legacy_id": "9860",
+                        "fgsid": "129180",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Saurauia subspinosa",
+                    "machine_name": "saurauia_subspinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "J. Anthony.",
+                    "description": null,
+                    "genus": "saurauia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326296",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527252886"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386671",
+                "legacy_id": "4952",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Actinidia",
+            "machine_name": "actinidia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lindl.",
+            "description": null,
+            "family": "actinidiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Actinidia arguta",
+                    "machine_name": "actinidia_arguta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Planch. & Miq.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia arguta 'Ananasnaya'",
+                            "machine_name": "actinidia_arguta_ananasnaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ananasnaya",
+                            "authorities": "Royal Hort.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465944",
+                                "legacy_id": "608",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Issai'",
+                            "machine_name": "actinidia_arguta_issai",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Issai",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465945",
+                                "legacy_id": "609",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Weiki'",
+                            "machine_name": "actinidia_arguta_weiki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Weiki",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465946",
+                                "legacy_id": "610",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 119-40B",
+                            "machine_name": "actinidia_arguta_119_40b",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "119-40B",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499203",
+                                "legacy_id": "70606",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 125-40",
+                            "machine_name": "actinidia_arguta_125_40",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "125-40",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499204",
+                                "legacy_id": "70607",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Fortyniner\/74-49'",
+                            "machine_name": "actinidia_arguta_fortyniner_74_49",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fortyniner\/74-49",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499205",
+                                "legacy_id": "70608",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Akin no. 3'",
+                            "machine_name": "actinidia_arguta_akin_no_3",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Akin no. 3",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499206",
+                                "legacy_id": "70609",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Anna'",
+                            "machine_name": "actinidia_arguta_anna",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Anna",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499207",
+                                "legacy_id": "70610",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [
+                                    "A. arguta 'Ananasnaja'"
+                                ],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Chico 74-62'",
+                            "machine_name": "actinidia_arguta_chico_74_62",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chico 74-62",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499208",
+                                "legacy_id": "70611",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Cordifolia'",
+                            "machine_name": "actinidia_arguta_cordifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cordifolia",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499209",
+                                "legacy_id": "70612",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Dumbarton Oaks'",
+                            "machine_name": "actinidia_arguta_dumbarton_oaks",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dumbarton Oaks",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499210",
+                                "legacy_id": "70613",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Geneva'",
+                            "machine_name": "actinidia_arguta_geneva",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Geneva",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499211",
+                                "legacy_id": "70614",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Geneva no. 1'",
+                            "machine_name": "actinidia_arguta_geneva_no_1",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Geneva no. 1",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499212",
+                                "legacy_id": "70615",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Geneva no. 2'",
+                            "machine_name": "actinidia_arguta_geneva_no_2",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Geneva no. 2",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499213",
+                                "legacy_id": "70616",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Jumbo'",
+                            "machine_name": "actinidia_arguta_jumbo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jumbo",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499214",
+                                "legacy_id": "70617",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Ken's Red'",
+                            "machine_name": "actinidia_arguta_ken_s_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ken's Red",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499215",
+                                "legacy_id": "70618",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Langer'",
+                            "machine_name": "actinidia_arguta_langer",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Langer",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499216",
+                                "legacy_id": "70619",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Meader'",
+                            "machine_name": "actinidia_arguta_meader",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Meader",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499217",
+                                "legacy_id": "70620",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta Kiev \u2122",
+                            "machine_name": "actinidia_arguta_kiev",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Kiev",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540977",
+                                "legacy_id": "114442",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Rosy'",
+                            "machine_name": "actinidia_arguta_rosy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540978",
+                                "legacy_id": "114443",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Rossana'",
+                            "machine_name": "actinidia_arguta_rossana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rossana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540979",
+                                "legacy_id": "114444",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Pacific Male'",
+                            "machine_name": "actinidia_arguta_pacific_male",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pacific Male",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545927",
+                                "legacy_id": "120496",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Cornell'",
+                            "machine_name": "actinidia_arguta_cornell",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cornell",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574433",
+                                "legacy_id": "195513",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Geneva no. 3'",
+                            "machine_name": "actinidia_arguta_geneva_no_3",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Geneva no. 3",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574434",
+                                "legacy_id": "195514",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Michigan State'",
+                            "machine_name": "actinidia_arguta_michigan_state",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Michigan State",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574435",
+                                "legacy_id": "195515",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Smith no. 2'",
+                            "machine_name": "actinidia_arguta_smith_no_2",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Smith no. 2",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574436",
+                                "legacy_id": "195516",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta purpurea",
+                            "machine_name": "actinidia_arguta_purpurea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "purpurea",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "C.F.Liang.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600147",
+                                "legacy_id": "227977",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Annasnaja'",
+                            "machine_name": "actinidia_arguta_annasnaja",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Annasnaja",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1622915",
+                                "legacy_id": "365339",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Chico Hardy'",
+                            "machine_name": "actinidia_arguta_chico_hardy",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chico Hardy",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638282",
+                                "legacy_id": "336436",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Andre'",
+                            "machine_name": "actinidia_arguta_andre",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Andre",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638283",
+                                "legacy_id": "336437",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Chung Bai'",
+                            "machine_name": "actinidia_arguta_chung_bai",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chung Bai",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1651918",
+                                "legacy_id": "375997",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Flowercloud Male'",
+                            "machine_name": "actinidia_arguta_flowercloud_male",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Flowercloud Male",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1652201",
+                                "legacy_id": "376774",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Chang Bai'",
+                            "machine_name": "actinidia_arguta_chang_bai",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chang Bai",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655804",
+                                "legacy_id": "379068",
+                                "fgsid": "948",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Actinidia arguta 'Prolific'",
+                            "machine_name": "actinidia_arguta_prolific",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prolific",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_arguta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2125346",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1489596444"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398610",
+                        "legacy_id": "1110",
+                        "fgsid": "948",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia callosa",
+                    "machine_name": "actinidia_callosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Lindl.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia callosa discolor",
+                            "machine_name": "actinidia_callosa_discolor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "discolor",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "C.F.Liang.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_callosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600155",
+                                "legacy_id": "227985",
+                                "fgsid": "949",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia callosa henryi",
+                            "machine_name": "actinidia_callosa_henryi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "henryi",
+                            "authorities": "none?",
+                            "naming_authorities": "Maxim.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_callosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600156",
+                                "legacy_id": "227986",
+                                "fgsid": "949",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398611",
+                        "legacy_id": "2670",
+                        "fgsid": "949",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia coriacea",
+                    "machine_name": "actinidia_coriacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "S.T. Dunn.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398612",
+                        "legacy_id": "3985",
+                        "fgsid": "951",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia deliciosa",
+                    "machine_name": "actinidia_deliciosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "C.F. Liang & Ferg.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia deliciosa 'Allison'",
+                            "machine_name": "actinidia_deliciosa_allison",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Allison",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465947",
+                                "legacy_id": "611",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Bruno'",
+                            "machine_name": "actinidia_deliciosa_bruno",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bruno",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465948",
+                                "legacy_id": "612",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'CQ'",
+                            "machine_name": "actinidia_deliciosa_cq",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "CQ",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465949",
+                                "legacy_id": "613",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Gracie'",
+                            "machine_name": "actinidia_deliciosa_gracie",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gracie",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465950",
+                                "legacy_id": "614",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Hayward'",
+                            "machine_name": "actinidia_deliciosa_hayward",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hayward",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465951",
+                                "legacy_id": "615",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Matua'",
+                            "machine_name": "actinidia_deliciosa_matua",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Matua",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465952",
+                                "legacy_id": "616",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Monty'",
+                            "machine_name": "actinidia_deliciosa_monty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Monty",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465953",
+                                "legacy_id": "617",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Abbott'",
+                            "machine_name": "actinidia_deliciosa_abbott",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Abbott",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499218",
+                                "legacy_id": "70621",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Blake'",
+                            "machine_name": "actinidia_deliciosa_blake",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Blake",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499219",
+                                "legacy_id": "70622",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Chico Hayward'",
+                            "machine_name": "actinidia_deliciosa_chico_hayward",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chico Hayward",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499220",
+                                "legacy_id": "70623",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Dexter'",
+                            "machine_name": "actinidia_deliciosa_dexter",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dexter",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499221",
+                                "legacy_id": "70624",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Elmwood'",
+                            "machine_name": "actinidia_deliciosa_elmwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Elmwood",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499222",
+                                "legacy_id": "70625",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Kramer'",
+                            "machine_name": "actinidia_deliciosa_kramer",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kramer",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499223",
+                                "legacy_id": "70626",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Saanichton'",
+                            "machine_name": "actinidia_deliciosa_saanichton",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Saanichton",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499224",
+                                "legacy_id": "70627",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Tewi'",
+                            "machine_name": "actinidia_deliciosa_tewi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tewi",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499225",
+                                "legacy_id": "70628",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Tomuri'",
+                            "machine_name": "actinidia_deliciosa_tomuri",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tomuri",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499226",
+                                "legacy_id": "70629",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Vincent'",
+                            "machine_name": "actinidia_deliciosa_vincent",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Vincent",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499227",
+                                "legacy_id": "70630",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Summertime Girl'",
+                            "machine_name": "actinidia_deliciosa_summertime_girl",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Summertime Girl",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1554905",
+                                "legacy_id": "129463",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Exbury'",
+                            "machine_name": "actinidia_deliciosa_exbury",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Exbury",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1591267",
+                                "legacy_id": "316822",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Solissimo'",
+                            "machine_name": "actinidia_deliciosa_solissimo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Solissimo",
+                            "authorities": "mm",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597282",
+                                "legacy_id": "382646",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa chlorocarpa",
+                            "machine_name": "actinidia_deliciosa_chlorocarpa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "chlorocarpa",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "C.F.Liang & A.R.Ferguson.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600154",
+                                "legacy_id": "227984",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'All Purpose Male'",
+                            "machine_name": "actinidia_deliciosa_all_purpose_male",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "All Purpose Male",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603050",
+                                "legacy_id": "276687",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'California'",
+                            "machine_name": "actinidia_deliciosa_california",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "California",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638699",
+                                "legacy_id": "339516",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia deliciosa 'Jenny'",
+                            "machine_name": "actinidia_deliciosa_jenny",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jenny",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_deliciosa",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660391",
+                                "legacy_id": "268958",
+                                "fgsid": "952",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398613",
+                        "legacy_id": "4697",
+                        "fgsid": "952",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia eriantha",
+                    "machine_name": "actinidia_eriantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Benth.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia eriantha calvescens",
+                            "machine_name": "actinidia_eriantha_calvescens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "calvescens",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "C.F.Liang.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_eriantha",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600143",
+                                "legacy_id": "227973",
+                                "fgsid": "953",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398614",
+                        "legacy_id": "5516",
+                        "fgsid": "953",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia kolomikta",
+                    "machine_name": "actinidia_kolomikta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia kolomikta 'Arctic Beauty'",
+                            "machine_name": "actinidia_kolomikta_arctic_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Arctic Beauty",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499228",
+                                "legacy_id": "70631",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Arnold Arboretum'",
+                            "machine_name": "actinidia_kolomikta_arnold_arboretum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Arnold Arboretum",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499229",
+                                "legacy_id": "70632",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Aromatanaya'",
+                            "machine_name": "actinidia_kolomikta_aromatanaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aromatanaya",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499230",
+                                "legacy_id": "70633",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Krupnopladnaya'",
+                            "machine_name": "actinidia_kolomikta_krupnopladnaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Krupnopladnaya",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499231",
+                                "legacy_id": "70634",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta Frost \u2122",
+                            "machine_name": "actinidia_kolomikta_frost",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Frost",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "'Matovaya'",
+                                "summary": null,
+                                "format": null,
+                                "safe_value": "&#039;Matovaya&#039;",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499232",
+                                "legacy_id": "70635",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Nahodka'",
+                            "machine_name": "actinidia_kolomikta_nahodka",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Nahodka",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499233",
+                                "legacy_id": "70636",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Pautski'",
+                            "machine_name": "actinidia_kolomikta_pautski",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pautski",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499234",
+                                "legacy_id": "70637",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Pavlovskaya'",
+                            "machine_name": "actinidia_kolomikta_pavlovskaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pavlovskaya",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499235",
+                                "legacy_id": "70638",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Red Beauty'",
+                            "machine_name": "actinidia_kolomikta_red_beauty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Beauty",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499236",
+                                "legacy_id": "70639",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Sentyabraskaya\/September'",
+                            "machine_name": "actinidia_kolomikta_sentyabraskaya_september",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sentyabraskaya\/September",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499237",
+                                "legacy_id": "70640",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Urozainaya'",
+                            "machine_name": "actinidia_kolomikta_urozainaya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Urozainaya",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499238",
+                                "legacy_id": "70641",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta September Sun \u2122",
+                            "machine_name": "actinidia_kolomikta_september_sun",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "September Sun",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1551382",
+                                "legacy_id": "137538",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Oluyckos'",
+                            "machine_name": "actinidia_kolomikta_oluyckos",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Oluyckos",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1574437",
+                                "legacy_id": "195517",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta Pasha \u2122",
+                            "machine_name": "actinidia_kolomikta_pasha",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Pasha",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598593",
+                                "legacy_id": "227003",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta Hero \u2122",
+                            "machine_name": "actinidia_kolomikta_hero",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Hero",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615241",
+                                "legacy_id": "238871",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta Viktor \u2122",
+                            "machine_name": "actinidia_kolomikta_viktor",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Viktor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1615242",
+                                "legacy_id": "238872",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Adam'",
+                            "machine_name": "actinidia_kolomikta_adam",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Adam",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623620",
+                                "legacy_id": "359541",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Dr Szymanowski'",
+                            "machine_name": "actinidia_kolomikta_dr_szymanowski",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Dr Szymanowski",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623621",
+                                "legacy_id": "359542",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Sientiabrskeja'",
+                            "machine_name": "actinidia_kolomikta_sientiabrskeja",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sientiabrskeja",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623622",
+                                "legacy_id": "359543",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta Emerald \u2122",
+                            "machine_name": "actinidia_kolomikta_emerald",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Emerald",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634341",
+                                "legacy_id": "308441",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia kolomikta 'Victor'",
+                            "machine_name": "actinidia_kolomikta_victor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Victor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_kolomikta",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638321",
+                                "legacy_id": "336596",
+                                "fgsid": "954",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398615",
+                        "legacy_id": "8599",
+                        "fgsid": "954",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia lanceolata",
+                    "machine_name": "actinidia_lanceolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "S.T. Dunn.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398616",
+                        "legacy_id": "8822",
+                        "fgsid": "955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia melanandra",
+                    "machine_name": "actinidia_melanandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398617",
+                        "legacy_id": "10262",
+                        "fgsid": "956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia polygama",
+                    "machine_name": "actinidia_polygama",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia polygama 418-77B",
+                            "machine_name": "actinidia_polygama_418_77b",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "418-77B",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_polygama",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499239",
+                                "legacy_id": "70642",
+                                "fgsid": "957",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Actinidia polygama Vera's Prize \u2122",
+                            "machine_name": "actinidia_polygama_vera_s_prize",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Vera's Prize",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_polygama",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561308",
+                                "legacy_id": "159741",
+                                "fgsid": "957",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Actinidia polygama Pavel \u2122",
+                            "machine_name": "actinidia_polygama_pavel",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Pavel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_polygama",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561309",
+                                "legacy_id": "159742",
+                                "fgsid": "957",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Actinidia polygama Vera's Pride \u2122",
+                            "machine_name": "actinidia_polygama_vera_s_pride",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Vera's Pride",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_polygama",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1563605",
+                                "legacy_id": "168756",
+                                "fgsid": "957",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Actinidia polygama Hot Pepper \u2122",
+                            "machine_name": "actinidia_polygama_hot_pepper",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Hot Pepper",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_polygama",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1598594",
+                                "legacy_id": "227004",
+                                "fgsid": "957",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398618",
+                        "legacy_id": "12841",
+                        "fgsid": "957",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia purpurea",
+                    "machine_name": "actinidia_purpurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Rehd.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia purpurea 'Hardy Red'",
+                            "machine_name": "actinidia_purpurea_hardy_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hardy Red",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_purpurea",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499240",
+                                "legacy_id": "70643",
+                                "fgsid": "958",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        }
+                    ],
+                    "cross_references": [
+                        {
+                            "machine_name": "actinidia_arguta_purpurea",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1398619",
+                        "legacy_id": "13338",
+                        "fgsid": "958",
+                        "legacy_from_data_cross_ref": [
+                            "Actinidia arguta purpurea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia rufa",
+                    "machine_name": "actinidia_rufa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Franch. &Sav.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398620",
+                        "legacy_id": "14149",
+                        "fgsid": "959",
+                        "legacy_from_data_cross_ref": [
+                            "+A. callos a"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia volubilis*",
+                    "machine_name": "actinidia_volubilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "actinidia_polygama",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1398621",
+                        "legacy_id": "17506",
+                        "fgsid": "960",
+                        "legacy_from_data_cross_ref": [
+                            "+A. polygama"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Actinidia giraldii",
+                    "machine_name": "actinidia_giraldii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Diels.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433633",
+                        "legacy_id": "6601",
+                        "fgsid": "37004",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia macrosperma",
+                    "machine_name": "actinidia_macrosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "C.F. Liang.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434957",
+                        "legacy_id": "9824",
+                        "fgsid": "40364",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Actinidia rubricaulis",
+                    "machine_name": "actinidia_rubricaulis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "Dunn.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia rubricaulis coriacea",
+                            "machine_name": "actinidia_rubricaulis_coriacea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "coriacea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_rubricaulis",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545968",
+                                "legacy_id": "125442",
+                                "fgsid": "46296",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440589",
+                        "legacy_id": "14105",
+                        "fgsid": "46296",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia [Cultivars]",
+                    "machine_name": "actinidia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia [Cultivars] 'Miller's'",
+                            "machine_name": "actinidia_cultivars_miller_s",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Miller's",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1535998",
+                                "legacy_id": "110615",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] '74-46'",
+                            "machine_name": "actinidia_cultivars_74_46",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "74-46",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1536000",
+                                "legacy_id": "110617",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'Fifty-five\/74-55'",
+                            "machine_name": "actinidia_cultivars_fifty_five_74_55",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fifty-five\/74-55",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1536001",
+                                "legacy_id": "110618",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'Meyer's Cordifolia'",
+                            "machine_name": "actinidia_cultivars_meyer_s_cordifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Meyer's Cordifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1536002",
+                                "legacy_id": "110619",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'MSU'",
+                            "machine_name": "actinidia_cultivars_msu",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "MSU",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545244",
+                                "legacy_id": "119086",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] '#5'",
+                            "machine_name": "actinidia_cultivars_5",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "#5",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545806",
+                                "legacy_id": "119212",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] '74-32'",
+                            "machine_name": "actinidia_cultivars_74_32",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "74-32",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545807",
+                                "legacy_id": "119213",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'Abor-eat-eum'",
+                            "machine_name": "actinidia_cultivars_abor_eat_eum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Abor-eat-eum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546682",
+                                "legacy_id": "121954",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'Arbor-eat-um'",
+                            "machine_name": "actinidia_cultivars_arbor_eat_um",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Arbor-eat-um",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1547583",
+                                "legacy_id": "122165",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'Solo'",
+                            "machine_name": "actinidia_cultivars_solo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Solo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1586482",
+                                "legacy_id": "221933",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] '#1'",
+                            "machine_name": "actinidia_cultivars_1",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "#1",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600697",
+                                "legacy_id": "228259",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] '74-49'",
+                            "machine_name": "actinidia_cultivars_74_49",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "74-49",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1630658",
+                                "legacy_id": "248791",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] Natasha \u2122",
+                            "machine_name": "actinidia_cultivars_natasha",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Natasha",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634336",
+                                "legacy_id": "308436",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] Tatyana \u2122",
+                            "machine_name": "actinidia_cultivars_tatyana",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Tatyana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634337",
+                                "legacy_id": "308437",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] Andrey \u2122",
+                            "machine_name": "actinidia_cultivars_andrey",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Andrey",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634338",
+                                "legacy_id": "308438",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Actinidia [Cultivars] 'Golden Sunshine'",
+                            "machine_name": "actinidia_cultivars_golden_sunshine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Sunshine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_cultivars",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648494",
+                                "legacy_id": "387798",
+                                "fgsid": "43388",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440747",
+                        "legacy_id": "2",
+                        "fgsid": "43388",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia cordifolia",
+                    "machine_name": "actinidia_cordifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Miq.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443931",
+                        "legacy_id": "3974",
+                        "fgsid": "44161",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia pilosula",
+                    "machine_name": "actinidia_pilosula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 9 says is A. callosa pilosula",
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444757",
+                        "legacy_id": "12557",
+                        "fgsid": "45764",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia latifolia",
+                    "machine_name": "actinidia_latifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 7 says is Heptaca latifolia",
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445498",
+                        "legacy_id": "8936",
+                        "fgsid": "83982",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia chinensis",
+                    "machine_name": "actinidia_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Planch.",
+                    "description": "was cross reference",
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia chinensis 'Tonshan'",
+                            "machine_name": "actinidia_chinensis_tonshan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tonshan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "actinidia_chinensis",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2338826",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1529927037"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449398",
+                        "legacy_id": "3351",
+                        "fgsid": "80755",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia hubeiensis",
+                    "machine_name": "actinidia_hubeiensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "H.M.Sun & R.H.Huang.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449998",
+                        "legacy_id": "51703",
+                        "fgsid": "95215",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia cylindrica",
+                    "machine_name": "actinidia_cylindrica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "C.F.Liang.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia cylindrica reticulata",
+                            "machine_name": "actinidia_cylindrica_reticulata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "reticulata",
+                            "authorities": "IPNI(IK)",
+                            "naming_authorities": "C.F.Liang.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_cylindrica",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600151",
+                                "legacy_id": "227981",
+                                "fgsid": "95216",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449999",
+                        "legacy_id": "4444",
+                        "fgsid": "95216",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia melliana",
+                    "machine_name": "actinidia_melliana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Hand.-Mazz.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450000",
+                        "legacy_id": "51704",
+                        "fgsid": "95217",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia fulvicoma",
+                    "machine_name": "actinidia_fulvicoma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Hance.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450001",
+                        "legacy_id": "6324",
+                        "fgsid": "95218",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia lijiangensis",
+                    "machine_name": "actinidia_lijiangensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "C.F.Liang & Y.X.Lu.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450002",
+                        "legacy_id": "51705",
+                        "fgsid": "95219",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia styracifolia",
+                    "machine_name": "actinidia_styracifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "C.F.Liang.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450003",
+                        "legacy_id": "51706",
+                        "fgsid": "95220",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia chrysantha",
+                    "machine_name": "actinidia_chrysantha",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "C.F.Liang.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450004",
+                        "legacy_id": "3423",
+                        "fgsid": "95221",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia grandiflora",
+                    "machine_name": "actinidia_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "C.F.Liang.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450005",
+                        "legacy_id": "6879",
+                        "fgsid": "95222",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia valvata",
+                    "machine_name": "actinidia_valvata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Dunn.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450006",
+                        "legacy_id": "51707",
+                        "fgsid": "95223",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia indochinensis",
+                    "machine_name": "actinidia_indochinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1450007",
+                        "legacy_id": "51708",
+                        "fgsid": "95224",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Actinidia tetramera",
+                    "machine_name": "actinidia_tetramera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "actinidia",
+                    "family": "actinidiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Actinidia tetramera maloides",
+                            "machine_name": "actinidia_tetramera_maloides",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "maloides",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "actinidia_tetramera",
+                            "genus": "actinidia",
+                            "family": "actinidiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1626621",
+                                "legacy_id": "370522",
+                                "fgsid": "139081",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461310",
+                        "legacy_id": "16264",
+                        "fgsid": "139081",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388577",
+                "legacy_id": "87",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Clematoclethra",
+            "machine_name": "clematoclethra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Maxim.",
+            "description": null,
+            "family": "actinidiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Clematoclethra [Cultivars]",
+                    "machine_name": "clematoclethra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "clematoclethra",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326931",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527345259"
+                    }
+                },
+                {
+                    "name": "Clematoclethra actinidioides",
+                    "machine_name": "clematoclethra_actinidioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "clematoclethra",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2326936",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527345299"
+                    }
+                },
+                {
+                    "name": "Clematoclethra lasioclada",
+                    "machine_name": "clematoclethra_lasioclada",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Maxim.",
+                    "description": null,
+                    "genus": "clematoclethra",
+                    "family": "actinidiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338831",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529927260"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2326926",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527345259"
+            }
+        }
+    ]
+}

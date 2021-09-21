@@ -1,0 +1,109 @@
+{
+    "name": "Kirkiaceae",
+    "machine_name": "kirkiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2327341",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527603356"
+    },
+    "genus_items": [
+        {
+            "name": "Kirkia",
+            "machine_name": "kirkia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Oliver.",
+            "description": null,
+            "family": "kirkiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Kirkia [Cultivars]",
+                    "machine_name": "kirkia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "kirkia",
+                    "family": "kirkiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385390",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Kirkia acuminata",
+                    "machine_name": "kirkia_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "kirkia",
+                    "family": "kirkiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419555",
+                        "legacy_id": "151",
+                        "fgsid": "19925",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Kirkia wilmsii",
+                    "machine_name": "kirkia_wilmsii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Englr.",
+                    "description": null,
+                    "genus": "kirkia",
+                    "family": "kirkiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419556",
+                        "legacy_id": "17739",
+                        "fgsid": "19926",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385389",
+                "legacy_id": "3022",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

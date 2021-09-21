@@ -1,0 +1,154 @@
+{
+    "name": "Sladeniaceae",
+    "machine_name": "sladeniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Airy Shaw.",
+    "description": null,
+    "archival_data": {
+        "id": "2338341",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1529846555"
+    },
+    "genus_items": [
+        {
+            "name": "Sladenia",
+            "machine_name": "sladenia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Kurz.",
+            "description": null,
+            "family": "sladeniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sladenia [Cultivars]",
+                    "machine_name": "sladenia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sladenia",
+                    "family": "sladeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338351",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846583"
+                    }
+                },
+                {
+                    "name": "Sladenia celastrifolia",
+                    "machine_name": "sladenia_celastrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Kurz.",
+                    "description": null,
+                    "genus": "sladenia",
+                    "family": "sladeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338356",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846620"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2338346",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529846583"
+            }
+        },
+        {
+            "name": "Ficalhoa",
+            "machine_name": "ficalhoa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hiern.",
+            "description": null,
+            "family": "sladeniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ficalhoa [Cultivars]",
+                    "machine_name": "ficalhoa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ficalhoa",
+                    "family": "sladeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338366",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846719"
+                    }
+                },
+                {
+                    "name": "Ficalhoa laurifolia",
+                    "machine_name": "ficalhoa_laurifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hiern.",
+                    "description": null,
+                    "genus": "ficalhoa",
+                    "family": "sladeniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2338371",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529846756"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2338361",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529846719"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1092 @@
+{
+    "name": "Platanaceae",
+    "machine_name": "platanaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381359",
+        "legacy_id": "331",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Platanus",
+            "machine_name": "platanus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "platanaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Platanus acerifolia",
+                    "machine_name": "platanus_acerifolia",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus acerifolia 'Bloodgood'",
+                            "machine_name": "platanus_acerifolia_bloodgood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bloodgood",
+                            "authorities": "Source",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486320",
+                                "legacy_id": "24310",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Columbia'",
+                            "machine_name": "platanus_acerifolia_columbia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Columbia",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518640",
+                                "legacy_id": "96464",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Liberty'",
+                            "machine_name": "platanus_acerifolia_liberty",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Liberty",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518641",
+                                "legacy_id": "96465",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia Metroshade \u2122",
+                            "machine_name": "platanus_acerifolia_metroshade",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Metroshade",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Grex"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518642",
+                                "legacy_id": "96466",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Suttneri'",
+                            "machine_name": "platanus_acerifolia_suttneri",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Suttneri",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518643",
+                                "legacy_id": "96467",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Yarwood'",
+                            "machine_name": "platanus_acerifolia_yarwood",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yarwood",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1518644",
+                                "legacy_id": "96468",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Morton Thornhill'",
+                            "machine_name": "platanus_acerifolia_morton_thornhill",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Morton Thornhill",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1589914",
+                                "legacy_id": "323157",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia Exclamation! \u2122",
+                            "machine_name": "platanus_acerifolia_exclamation",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Exclamation!",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1595339",
+                                "legacy_id": "360522",
+                                "fgsid": "27634",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia Monumental \u00ae",
+                            "machine_name": "platanus_acerifolia_monumental",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Monumental",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2538861",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561302835"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Huissen'",
+                            "machine_name": "platanus_acerifolia_huissen",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Huissen",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2538866",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561302896"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Pyramindalis'",
+                            "machine_name": "platanus_acerifolia_pyramindalis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pyramindalis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2538871",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561302942"
+                            }
+                        },
+                        {
+                            "name": "Platanus acerifolia 'Tremonia'",
+                            "machine_name": "platanus_acerifolia_tremonia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tremonia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_acerifolia",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2538876",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561302999"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426363",
+                        "legacy_id": "72",
+                        "fgsid": "27634",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus digitata",
+                    "machine_name": "platanus_digitata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "platanus_orientalis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1426364",
+                        "legacy_id": "4907",
+                        "fgsid": "27635",
+                        "legacy_from_data_cross_ref": [
+                            "+P. orientalis"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus hispanica",
+                    "machine_name": "platanus_hispanica",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "RoyalnoKewensis 14",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus hispanica 'Cantabrigiensis'",
+                            "machine_name": "platanus_hispanica_cantabrigiensis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cantabrigiensis",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_hispanica",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578395",
+                                "legacy_id": "202440",
+                                "fgsid": "27636",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Platanus hispanica 'Tremonia'",
+                            "machine_name": "platanus_hispanica_tremonia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tremonia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_hispanica",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578396",
+                                "legacy_id": "202441",
+                                "fgsid": "27636",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426365",
+                        "legacy_id": "7544",
+                        "fgsid": "27636",
+                        "legacy_from_data_cross_ref": [
+                            "+P. x acerifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus hybridus",
+                    "machine_name": "platanus_hybridus",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "platanus_occidentalis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1426366",
+                        "legacy_id": "7791",
+                        "fgsid": "27637",
+                        "legacy_from_data_cross_ref": [
+                            "+P. occidentalis"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus mexicana",
+                    "machine_name": "platanus_mexicana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Moric.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus mexicana 'Alamo'",
+                            "machine_name": "platanus_mexicana_alamo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alamo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_mexicana",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1623514",
+                                "legacy_id": "377514",
+                                "fgsid": "27638",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426367",
+                        "legacy_id": "10378",
+                        "fgsid": "27638",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus occidentalis",
+                    "machine_name": "platanus_occidentalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus occidentalis Rockford Road \u2122",
+                            "machine_name": "platanus_occidentalis_rockford_road",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Rockford Road",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_occidentalis",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2573676",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1571754839"
+                            }
+                        },
+                        {
+                            "name": "Platanus occidentalis Silverwood \u2122",
+                            "machine_name": "platanus_occidentalis_silverwood",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Silverwood",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_occidentalis",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2573681",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1571754858"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426368",
+                        "legacy_id": "11476",
+                        "fgsid": "27639",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus orientalis",
+                    "machine_name": "platanus_orientalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus orientalis cretica",
+                            "machine_name": "platanus_orientalis_cretica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "cretica",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "platanus_orientalis",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486321",
+                                "legacy_id": "24311",
+                                "fgsid": "27640",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Platanus orientalis insularis",
+                            "machine_name": "platanus_orientalis_insularis",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "insularis",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": "A. DC.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "platanus_orientalis",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1486322",
+                                "legacy_id": "24312",
+                                "fgsid": "27640",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        },
+                        {
+                            "name": "Platanus orientalis 'Digitata'",
+                            "machine_name": "platanus_orientalis_digitata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Digitata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": {
+                                "value": "Dirr has as cv.",
+                                "summary": "",
+                                "format": null,
+                                "safe_value": "Dirr has as cv.",
+                                "safe_summary": ""
+                            },
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_orientalis",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543733",
+                                "legacy_id": "118675",
+                                "fgsid": "27640",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Platanus orientalis 'Mirkovec'",
+                            "machine_name": "platanus_orientalis_mirkovec",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Mirkovec",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_orientalis",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578394",
+                                "legacy_id": "202439",
+                                "fgsid": "27640",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426369",
+                        "legacy_id": "11720",
+                        "fgsid": "27640",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus racemosa",
+                    "machine_name": "platanus_racemosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "Nutt.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus racemosa 'Roberts'",
+                            "machine_name": "platanus_racemosa_roberts",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roberts",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_racemosa",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1625979",
+                                "legacy_id": "357476",
+                                "fgsid": "27641",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426370",
+                        "legacy_id": "13506",
+                        "fgsid": "27641",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus wrightii",
+                    "machine_name": "platanus_wrightii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hortus",
+                    "naming_authorities": "P. Wats.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1426371",
+                        "legacy_id": "17796",
+                        "fgsid": "27642",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Platanus densicoma",
+                    "machine_name": "platanus_densicoma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Dode.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445154",
+                        "legacy_id": "43663",
+                        "fgsid": "83618",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Platanus [Cultivars]",
+                    "machine_name": "platanus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [
+                        {
+                            "name": "Platanus [Cultivars] 'Augustine Henry'",
+                            "machine_name": "platanus_cultivars_augustine_henry",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Augustine Henry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "platanus_cultivars",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1578393",
+                                "legacy_id": "202438",
+                                "fgsid": "86455",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Platanus [Cultivars] Encore \u2122",
+                            "machine_name": "platanus_cultivars_encore",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Encore",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_cultivars",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588844",
+                                "legacy_id": "314976",
+                                "fgsid": "86455",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Platanus [Cultivars] Ovation \u2122",
+                            "machine_name": "platanus_cultivars_ovation",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Ovation",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_cultivars",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1631387",
+                                "legacy_id": "244358",
+                                "fgsid": "86455",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Platanus [Cultivars] Admiration \u00ae",
+                            "machine_name": "platanus_cultivars_admiration",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Admiration",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "platanus_cultivars",
+                            "genus": "platanus",
+                            "family": "platanaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640231",
+                                "legacy_id": "330525",
+                                "fgsid": "86455",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447668",
+                        "legacy_id": "2",
+                        "fgsid": "86455",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Platanus rzedowskii",
+                    "machine_name": "platanus_rzedowskii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Nixon & J.M. Poole.",
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2379961",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1537879275"
+                    }
+                },
+                {
+                    "name": "Platanus wyomingensis",
+                    "machine_name": "platanus_wyomingensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "platanus",
+                    "family": "platanaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2413616",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1543501026"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383059",
+                "legacy_id": "4410",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

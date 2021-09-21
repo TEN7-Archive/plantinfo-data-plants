@@ -1,0 +1,356 @@
+{
+    "name": "Juncaginaceae",
+    "machine_name": "juncaginaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381282",
+        "legacy_id": "231",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Triglochin",
+            "machine_name": "triglochin",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "juncaginaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Triglochin [Cultivars]",
+                    "machine_name": "triglochin_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391980",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Triglochin bulbosa",
+                    "machine_name": "triglochin_bulbosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hrt",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [
+                        {
+                            "name": "Triglochin bulbosa barrelieri",
+                            "machine_name": "triglochin_bulbosa_barrelieri",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "barrelieri",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "triglochin_bulbosa",
+                            "genus": "triglochin",
+                            "family": "juncaginaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491940",
+                                "legacy_id": "33183",
+                                "fgsid": "35332",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433156",
+                        "legacy_id": "2441",
+                        "fgsid": "35332",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Triglochin centrocarpa",
+                    "machine_name": "triglochin_centrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433157",
+                        "legacy_id": "3174",
+                        "fgsid": "35333",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Triglochin palustris",
+                    "machine_name": "triglochin_palustris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433158",
+                        "legacy_id": "11948",
+                        "fgsid": "35335",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Triglochin procera",
+                    "machine_name": "triglochin_procera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II \"um\"",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433159",
+                        "legacy_id": "13046",
+                        "fgsid": "35336",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Triglochin striata",
+                    "machine_name": "triglochin_striata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433160",
+                        "legacy_id": "15634",
+                        "fgsid": "35337",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Triglochin maritima",
+                    "machine_name": "triglochin_maritima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri change",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [
+                        {
+                            "name": "Triglochin maritima elata",
+                            "machine_name": "triglochin_maritima_elata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "elata",
+                            "authorities": "Cv.",
+                            "naming_authorities": "A. Gray.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "triglochin_maritima",
+                            "genus": "triglochin",
+                            "family": "juncaginaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1491941",
+                                "legacy_id": "33184",
+                                "fgsid": "102895",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482824689"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452643",
+                        "legacy_id": "10052",
+                        "fgsid": "102895",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Triglochin concinna",
+                    "machine_name": "triglochin_concinna",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Burtt Davy.",
+                    "description": null,
+                    "genus": "triglochin",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454537",
+                        "legacy_id": "3822",
+                        "fgsid": "117919",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391979",
+                "legacy_id": "5626",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cycnogeton",
+            "machine_name": "cycnogeton",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Endl.",
+            "description": null,
+            "family": "juncaginaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cycnogeton [Cultivars]",
+                    "machine_name": "cycnogeton_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cycnogeton",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310561",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525015894"
+                    }
+                },
+                {
+                    "name": "Cycnogeton procerum",
+                    "machine_name": "cycnogeton_procerum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Buchenau.",
+                    "description": null,
+                    "genus": "cycnogeton",
+                    "family": "juncaginaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310566",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525015935"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2310556",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525015894"
+            }
+        }
+    ]
+}

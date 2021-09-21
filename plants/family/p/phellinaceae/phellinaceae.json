@@ -1,0 +1,109 @@
+{
+    "name": "Phellinaceae",
+    "machine_name": "phellinaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2358871",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532875742"
+    },
+    "genus_items": [
+        {
+            "name": "Phelline",
+            "machine_name": "phelline",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Labill.",
+            "description": null,
+            "family": "phellinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phelline [Cultivars]",
+                    "machine_name": "phelline_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phelline",
+                    "family": "phellinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358881",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532875805"
+                    }
+                },
+                {
+                    "name": "Phelline comosa",
+                    "machine_name": "phelline_comosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Labill.",
+                    "description": null,
+                    "genus": "phelline",
+                    "family": "phellinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358886",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532875848"
+                    }
+                },
+                {
+                    "name": "Phelline macrophylla",
+                    "machine_name": "phelline_macrophylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "phelline",
+                    "family": "phellinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2358891",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1532875907"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2358876",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1532875805"
+            }
+        }
+    ]
+}

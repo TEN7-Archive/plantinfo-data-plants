@@ -1,0 +1,254 @@
+{
+    "name": "Opiliaceae",
+    "machine_name": "opiliaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381342",
+        "legacy_id": "308",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Opilia",
+            "machine_name": "opilia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Roxb.",
+            "description": null,
+            "family": "opiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Opilia [Cultivars]",
+                    "machine_name": "opilia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "opilia",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392552",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Opilia amentacea",
+                    "machine_name": "opilia_amentacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Roxb.",
+                    "description": null,
+                    "genus": "opilia",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427352",
+                        "legacy_id": "645",
+                        "fgsid": "24961",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Opilia celtidifolia",
+                    "machine_name": "opilia_celtidifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "opilia",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "opilia_amentacea",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1427353",
+                        "legacy_id": "71447",
+                        "fgsid": "24962",
+                        "legacy_from_data_cross_ref": [
+                            "+O. amentacea"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392551",
+                "legacy_id": "3960",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Champereia",
+            "machine_name": "champereia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Griff.",
+            "description": null,
+            "family": "opiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Champereia [Cultivars]",
+                    "machine_name": "champereia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "champereia",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332436",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528720113"
+                    }
+                },
+                {
+                    "name": "Champereia manillana",
+                    "machine_name": "champereia_manillana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "champereia",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332441",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528720153"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332431",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528720113"
+            }
+        },
+        {
+            "name": "Lepionurus",
+            "machine_name": "lepionurus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "opiliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lepionurus [Cultivars]",
+                    "machine_name": "lepionurus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lepionurus",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332451",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528720238"
+                    }
+                },
+                {
+                    "name": "Lepionurus sylvestris",
+                    "machine_name": "lepionurus_sylvestris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Blume.",
+                    "description": null,
+                    "genus": "lepionurus",
+                    "family": "opiliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2332456",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528720273"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2332446",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528720238"
+            }
+        }
+    ]
+}

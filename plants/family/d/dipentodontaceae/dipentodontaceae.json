@@ -1,0 +1,154 @@
+{
+    "name": "Dipentodontaceae",
+    "machine_name": "dipentodontaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Merr.",
+    "description": null,
+    "archival_data": {
+        "id": "2256981",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1519306848"
+    },
+    "genus_items": [
+        {
+            "name": "Dipentodon",
+            "machine_name": "dipentodon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Dunn.",
+            "description": null,
+            "family": "dipentodontaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dipentodon [Cultivars]",
+                    "machine_name": "dipentodon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dipentodon",
+                    "family": "dipentodontaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2256991",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519306899"
+                    }
+                },
+                {
+                    "name": "Dipentodon sinicus",
+                    "machine_name": "dipentodon_sinicus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Dunn.",
+                    "description": null,
+                    "genus": "dipentodon",
+                    "family": "dipentodontaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2256996",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1519306957"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2256986",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1519306899"
+            }
+        },
+        {
+            "name": "Perrottetia",
+            "machine_name": "perrottetia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Rose.",
+            "description": null,
+            "family": "dipentodontaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Perrottetia [Cultivars]",
+                    "machine_name": "perrottetia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "perrottetia",
+                    "family": "dipentodontaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2330601",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528056022"
+                    }
+                },
+                {
+                    "name": "Perrottetia longistylies",
+                    "machine_name": "perrottetia_longistylies",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Rose.",
+                    "description": null,
+                    "genus": "perrottetia",
+                    "family": "dipentodontaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2330606",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528056074"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2330596",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528056022"
+            }
+        }
+    ]
+}

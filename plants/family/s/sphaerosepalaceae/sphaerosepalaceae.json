@@ -1,0 +1,109 @@
+{
+    "name": "Sphaerosepalaceae",
+    "machine_name": "sphaerosepalaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Tiegh. & Bullock.",
+    "description": null,
+    "archival_data": {
+        "id": "2331251",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528309776"
+    },
+    "genus_items": [
+        {
+            "name": "Rhopalocarpus",
+            "machine_name": "rhopalocarpus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Bojer.",
+            "description": null,
+            "family": "sphaerosepalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rhopalocarpus [Cultivars]",
+                    "machine_name": "rhopalocarpus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhopalocarpus",
+                    "family": "sphaerosepalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331261",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528309810"
+                    }
+                },
+                {
+                    "name": "Rhopalocarpus similis",
+                    "machine_name": "rhopalocarpus_similis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "rhopalocarpus",
+                    "family": "sphaerosepalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528309850"
+                    }
+                },
+                {
+                    "name": "Rhopalocarpus triplinervius",
+                    "machine_name": "rhopalocarpus_triplinervius",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "rhopalocarpus",
+                    "family": "sphaerosepalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331271",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528309901"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331256",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528309810"
+            }
+        }
+    ]
+}

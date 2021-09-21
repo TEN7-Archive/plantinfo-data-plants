@@ -1,0 +1,1626 @@
+{
+    "name": "Thelypteridaceae",
+    "machine_name": "thelypteridaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381461",
+        "legacy_id": "472",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Macrothelypteris",
+            "machine_name": "macrothelypteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Ching.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Macrothelypteris [Cultivars]",
+                    "machine_name": "macrothelypteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "macrothelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383248",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Macrothelypteris torresiana",
+                    "machine_name": "macrothelypteris_torresiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "macrothelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Macrothelypteris torresiana 'Eco Maiden Lace'",
+                            "machine_name": "macrothelypteris_torresiana_eco_maiden_lace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Eco Maiden Lace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "macrothelypteris_torresiana",
+                            "genus": "macrothelypteris",
+                            "family": "thelypteridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1588301",
+                                "legacy_id": "318076",
+                                "fgsid": "123219",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451240",
+                        "legacy_id": "18905",
+                        "fgsid": "123219",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Macrothelypteris polypodioides",
+                    "machine_name": "macrothelypteris_polypodioides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Holltum.",
+                    "description": null,
+                    "genus": "macrothelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458726",
+                        "legacy_id": "20350",
+                        "fgsid": "139460",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383247",
+                "legacy_id": "6183",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Meniscium",
+            "machine_name": "meniscium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Schreb.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [
+                {
+                    "machine_name": "cyclosorus",
+                    "type": "genus"
+                }
+            ],
+            "species_items": [
+                {
+                    "name": "Meniscium [Cultivars]",
+                    "machine_name": "meniscium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "meniscium",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383266",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Meniscium reticulatum",
+                    "machine_name": "meniscium_reticulatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Sw.",
+                    "description": null,
+                    "genus": "meniscium",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442401",
+                        "legacy_id": "13748",
+                        "fgsid": "42315",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383265",
+                "legacy_id": "6192",
+                "legacy_from_data_cross_ref": [
+                    "Cyclosorus"
+                ],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Parathelypteris",
+            "machine_name": "parathelypteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Ching.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Parathelypteris [Cultivars]",
+                    "machine_name": "parathelypteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "parathelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383328",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Parathelypteris novagranatae",
+                    "machine_name": "parathelypteris_novagranatae",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Ching.",
+                    "description": null,
+                    "genus": "parathelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435276",
+                        "legacy_id": "45964",
+                        "fgsid": "40407",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Parathelypteris simulata",
+                    "machine_name": "parathelypteris_simulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Ching.",
+                    "description": null,
+                    "genus": "parathelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445884",
+                        "legacy_id": "15132",
+                        "fgsid": "84340",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383327",
+                "legacy_id": "6223",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Phegopteris",
+            "machine_name": "phegopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Fee.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phegopteris [Cultivars]",
+                    "machine_name": "phegopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phegopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383344",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Phegopteris connectilis",
+                    "machine_name": "phegopteris_connectilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Watt.",
+                    "description": null,
+                    "genus": "phegopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1443142",
+                        "legacy_id": "19111",
+                        "fgsid": "42526",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Phegopteris decursive-pinnata",
+                    "machine_name": "phegopteris_decursive_pinnata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Fee.",
+                    "description": null,
+                    "genus": "phegopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444541",
+                        "legacy_id": "19623",
+                        "fgsid": "42871",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Phegopteris hexagonoptera",
+                    "machine_name": "phegopteris_hexagonoptera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Fee.",
+                    "description": null,
+                    "genus": "phegopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445886",
+                        "legacy_id": "19113",
+                        "fgsid": "84342",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383343",
+                "legacy_id": "6231",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Thelypteris",
+            "machine_name": "thelypteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort",
+            "naming_authorities": "Schmidel.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Thelypteris [Cultivars]",
+                    "machine_name": "thelypteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384132",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Thelypteris decursive-pinnata",
+                    "machine_name": "thelypteris_decursive_pinnata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "phegopteris_decursive_pinnata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1438511",
+                        "legacy_id": "19623",
+                        "fgsid": "39902",
+                        "legacy_from_data_cross_ref": [
+                            "Phegopteris decursive-pinnata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris normalis",
+                    "machine_name": "thelypteris_normalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Moxley.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Thelypteris normalis 'Austin City Limits'",
+                            "machine_name": "thelypteris_normalis_austin_city_limits",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Austin City Limits",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "thelypteris_normalis",
+                            "genus": "thelypteris",
+                            "family": "thelypteridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1670530",
+                                "legacy_id": "410208",
+                                "fgsid": "62115",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440269",
+                        "legacy_id": "18570",
+                        "fgsid": "62115",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris noveboracensis",
+                    "machine_name": "thelypteris_noveboracensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "parathelypteris_novagranatae",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1440729",
+                        "legacy_id": "11322",
+                        "fgsid": "43370",
+                        "legacy_from_data_cross_ref": [
+                            "Parathelypteris noveboracensis"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris kunthii",
+                    "machine_name": "thelypteris_kunthii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Thelypteris kunthii 'Lindheimerii'",
+                            "machine_name": "thelypteris_kunthii_lindheimerii",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lindheimerii",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "thelypteris_kunthii",
+                            "genus": "thelypteris",
+                            "family": "thelypteridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597536",
+                                "legacy_id": "367190",
+                                "fgsid": "43559",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441443",
+                        "legacy_id": "8678",
+                        "fgsid": "43559",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris phegopteris",
+                    "machine_name": "thelypteris_phegopteris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference.",
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "phegopteris_connectilis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1442355",
+                        "legacy_id": "18574",
+                        "fgsid": "51735",
+                        "legacy_from_data_cross_ref": [
+                            "Phegopteris connectilis"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris palustris",
+                    "machine_name": "thelypteris_palustris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Schott.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Thelypteris palustris pubescens",
+                            "machine_name": "thelypteris_palustris_pubescens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pubescens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "thelypteris_palustris",
+                            "genus": "thelypteris",
+                            "family": "thelypteridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1570272",
+                                "legacy_id": "195889",
+                                "fgsid": "42896",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444566",
+                        "legacy_id": "11948",
+                        "fgsid": "42896",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris acuminata",
+                    "machine_name": "thelypteris_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "christella_acuminata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1445496",
+                        "legacy_id": "151",
+                        "fgsid": "83980",
+                        "legacy_from_data_cross_ref": [
+                            "Christella acuminata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris dentata",
+                    "machine_name": "thelypteris_dentata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "E.P. St John.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445650",
+                        "legacy_id": "4755",
+                        "fgsid": "96470",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris pozoi",
+                    "machine_name": "thelypteris_pozoi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "C.V. Morton.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451291",
+                        "legacy_id": "67412",
+                        "fgsid": "123470",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris simulata",
+                    "machine_name": "thelypteris_simulata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Nieuwl.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452480",
+                        "legacy_id": "15132",
+                        "fgsid": "131819",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris puberula",
+                    "machine_name": "thelypteris_puberula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.V. Morton.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460607",
+                        "legacy_id": "13229",
+                        "fgsid": "135276",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Thelypteris hydrophila",
+                    "machine_name": "thelypteris_hydrophila",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Proctor.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306386",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524680047"
+                    }
+                },
+                {
+                    "name": "Thelypteris limbosperma",
+                    "machine_name": "thelypteris_limbosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "H.P. Fuchs.",
+                    "description": null,
+                    "genus": "thelypteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308291",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524765874"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384131",
+                "legacy_id": "6291",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cyclosorus",
+            "machine_name": "cyclosorus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Link.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cyclosorus [Cultivars]",
+                    "machine_name": "cyclosorus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyclosorus",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1387614",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cyclosorus attenuatum",
+                    "machine_name": "cyclosorus_attenuatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "cyclosorus",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448574",
+                        "legacy_id": "1353",
+                        "fgsid": "67375",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyclosorus pennigerus",
+                    "machine_name": "cyclosorus_pennigerus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(APNI)",
+                    "naming_authorities": "Ching.",
+                    "description": null,
+                    "genus": "cyclosorus",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449187",
+                        "legacy_id": "47163",
+                        "fgsid": "88375",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Cyclosorus interruptus",
+                    "machine_name": "cyclosorus_interruptus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "H. Ito.",
+                    "description": null,
+                    "genus": "cyclosorus",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2344486",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1531065185"
+                    }
+                },
+                {
+                    "name": "Cyclosorus acuminatus",
+                    "machine_name": "cyclosorus_acuminatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Nakai.",
+                    "description": null,
+                    "genus": "cyclosorus",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2408576",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1542454174"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387613",
+                "legacy_id": "9202",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sphaerostephanos",
+            "machine_name": "sphaerostephanos",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "J. Sm.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sphaerostephanos [Cultivars]",
+                    "machine_name": "sphaerostephanos_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sphaerostephanos",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395480",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sphaerostephanos unitus",
+                    "machine_name": "sphaerostephanos_unitus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Holttum.",
+                    "description": null,
+                    "genus": "sphaerostephanos",
+                    "family": "thelypteridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Sphaerostephanos unitus unitus",
+                            "machine_name": "sphaerostephanos_unitus_unitus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "unitus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "sphaerostephanos_unitus",
+                            "genus": "sphaerostephanos",
+                            "family": "thelypteridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661175",
+                                "legacy_id": "392590",
+                                "fgsid": "146885",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456733",
+                        "legacy_id": "85347",
+                        "fgsid": "146885",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395479",
+                "legacy_id": "28785",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Chingia",
+            "machine_name": "chingia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Holttum.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Chingia [Cultivars]",
+                    "machine_name": "chingia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chingia",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395520",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Chingia australis",
+                    "machine_name": "chingia_australis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "chingia",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458258",
+                        "legacy_id": "1443",
+                        "fgsid": "146883",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395519",
+                "legacy_id": "28784",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Plesioneuron",
+            "machine_name": "plesioneuron",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley created for cross",
+            "naming_authorities": null,
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Plesioneuron [Cultivars]",
+                    "machine_name": "plesioneuron_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "plesioneuron",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396094",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Plesioneuron tuberculatum",
+                    "machine_name": "plesioneuron_tuberculatum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri change",
+                    "naming_authorities": "Holttum.",
+                    "description": null,
+                    "genus": "plesioneuron",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458257",
+                        "legacy_id": "16803",
+                        "fgsid": "146882",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396093",
+                "legacy_id": "11642",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Christella",
+            "machine_name": "christella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Lev.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Christella [Cultivars]",
+                    "machine_name": "christella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "christella",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396486",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Christella acuminata",
+                    "machine_name": "christella_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Lev.",
+                    "description": null,
+                    "genus": "christella",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445497",
+                        "legacy_id": "151",
+                        "fgsid": "83981",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396485",
+                "legacy_id": "14402",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pronephrium",
+            "machine_name": "pronephrium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Royal Hort.",
+            "naming_authorities": "Presl.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pronephrium [Cultivars]",
+                    "machine_name": "pronephrium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pronephrium",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pronephrium simplex",
+                    "machine_name": "pronephrium_simplex",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "Holltum.",
+                    "description": null,
+                    "genus": "pronephrium",
+                    "family": "thelypteridaceae",
+                    "variety_items": [
+                        {
+                            "name": "Pronephrium simplex variegata",
+                            "machine_name": "pronephrium_simplex_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Form"
+                            ],
+                            "species": "pronephrium_simplex",
+                            "genus": "pronephrium",
+                            "family": "thelypteridaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1600826",
+                                "legacy_id": "231016",
+                                "fgsid": "96584",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446028",
+                        "legacy_id": "15116",
+                        "fgsid": "96584",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pronephrium triphyllum",
+                    "machine_name": "pronephrium_triphyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Holtt.",
+                    "description": null,
+                    "genus": "pronephrium",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447016",
+                        "legacy_id": "16724",
+                        "fgsid": "85875",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pronephrium penangianum",
+                    "machine_name": "pronephrium_penangianum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Holttum.",
+                    "description": null,
+                    "genus": "pronephrium",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462286",
+                        "legacy_id": "88324",
+                        "fgsid": "151220",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396545",
+                "legacy_id": "14842",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pneumatopteris",
+            "machine_name": "pneumatopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri change",
+            "naming_authorities": "Nakai.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pneumatopteris [Cultivars]",
+                    "machine_name": "pneumatopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pneumatopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396586",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pneumatopteris costata",
+                    "machine_name": "pneumatopteris_costata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "pneumatopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458259",
+                        "legacy_id": "4088",
+                        "fgsid": "146884",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396585",
+                "legacy_id": "15222",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pseudophegopteris",
+            "machine_name": "pseudophegopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Ching.",
+            "description": null,
+            "family": "thelypteridaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pseudophegopteris [Cultivars]",
+                    "machine_name": "pseudophegopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pseudophegopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2276036",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1521748476"
+                    }
+                },
+                {
+                    "name": "Pseudophegopteris levingei",
+                    "machine_name": "pseudophegopteris_levingei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Ching.",
+                    "description": null,
+                    "genus": "pseudophegopteris",
+                    "family": "thelypteridaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2276041",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1521748517"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2276031",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1521748476"
+            }
+        }
+    ]
+}

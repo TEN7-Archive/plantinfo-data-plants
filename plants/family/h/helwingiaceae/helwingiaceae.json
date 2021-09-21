@@ -1,0 +1,273 @@
+{
+    "name": "Helwingiaceae",
+    "machine_name": "helwingiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Decne.",
+    "description": null,
+    "archival_data": {
+        "id": "2339291",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530023320"
+    },
+    "genus_items": [
+        {
+            "name": "Helwingia",
+            "machine_name": "helwingia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Willd.",
+            "description": null,
+            "family": "helwingiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Helwingia [Cultivars]",
+                    "machine_name": "helwingia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "helwingia",
+                    "family": "helwingiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382802",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Helwingia himalaica",
+                    "machine_name": "helwingia_himalaica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook.f. & Thoms.",
+                    "description": null,
+                    "genus": "helwingia",
+                    "family": "helwingiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1411997",
+                        "legacy_id": "7487",
+                        "fgsid": "18035",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Helwingia japonica",
+                    "machine_name": "helwingia_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "helwingia",
+                    "family": "helwingiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Helwingia japonica formosana",
+                            "machine_name": "helwingia_japonica_formosana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "formosana",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "helwingia_japonica",
+                            "genus": "helwingia",
+                            "family": "helwingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1475892",
+                                "legacy_id": "11680",
+                                "fgsid": "18036",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Helwingia japonica 'Gold Boat'",
+                            "machine_name": "helwingia_japonica_gold_boat",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Boat",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "helwingia_japonica",
+                            "genus": "helwingia",
+                            "family": "helwingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614118",
+                                "legacy_id": "243153",
+                                "fgsid": "18036",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Helwingia japonica 'Freckles'",
+                            "machine_name": "helwingia_japonica_freckles",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Freckles",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "helwingia_japonica",
+                            "genus": "helwingia",
+                            "family": "helwingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614119",
+                                "legacy_id": "243154",
+                                "fgsid": "18036",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Helwingia japonica papillosa",
+                            "machine_name": "helwingia_japonica_papillosa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "papillosa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "helwingia_japonica",
+                            "genus": "helwingia",
+                            "family": "helwingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661101",
+                                "legacy_id": "392196",
+                                "fgsid": "18036",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1411998",
+                        "legacy_id": "8265",
+                        "fgsid": "18036",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Helwingia chinensis",
+                    "machine_name": "helwingia_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Batal.",
+                    "description": null,
+                    "genus": "helwingia",
+                    "family": "helwingiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Helwingia chinensis Pearly Twirly \u2122",
+                            "machine_name": "helwingia_chinensis_pearly_twirly",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Pearly Twirly",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "helwingia_chinensis",
+                            "genus": "helwingia",
+                            "family": "helwingiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2511306",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1556719327"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434191",
+                        "legacy_id": "3351",
+                        "fgsid": "40145",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382801",
+                "legacy_id": "2673",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

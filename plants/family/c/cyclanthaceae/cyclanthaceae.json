@@ -1,0 +1,300 @@
+{
+    "name": "Cyclanthaceae",
+    "machine_name": "cyclanthaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381212",
+        "legacy_id": "132",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Carludovica",
+            "machine_name": "carludovica",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Ruiz & Pav.",
+            "description": null,
+            "family": "cyclanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Carludovica palmata",
+                    "machine_name": "carludovica_palmata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Ruiz & Pav.",
+                    "description": null,
+                    "genus": "carludovica",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408522",
+                        "legacy_id": "11927",
+                        "fgsid": "6399",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Carludovica [Cultivars]",
+                    "machine_name": "carludovica_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carludovica",
+                    "family": "cyclanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Carludovica [Cultivars] 'Jungle Drums'",
+                            "machine_name": "carludovica_cultivars_jungle_drums",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jungle Drums",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "carludovica_cultivars",
+                            "genus": "carludovica",
+                            "family": "cyclanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1547230",
+                                "legacy_id": "126162",
+                                "fgsid": "46595",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440888",
+                        "legacy_id": "2",
+                        "fgsid": "46595",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Carludovica drudei",
+                    "machine_name": "carludovica_drudei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "carludovica",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311206",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525071249"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382759",
+                "legacy_id": "1042",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cyclanthus",
+            "machine_name": "cyclanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropcios",
+            "naming_authorities": "Poit. & A. Rich.",
+            "description": null,
+            "family": "cyclanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cyclanthus [Cultivars]",
+                    "machine_name": "cyclanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cyclanthus",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311216",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525071351"
+                    }
+                },
+                {
+                    "name": "Cyclanthus bipartitus",
+                    "machine_name": "cyclanthus_bipartitus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Poit. & A. Rich.",
+                    "description": null,
+                    "genus": "cyclanthus",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311221",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525071388"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2311211",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525071351"
+            }
+        },
+        {
+            "name": "Asplundia",
+            "machine_name": "asplundia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Harling.",
+            "description": null,
+            "family": "cyclanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Asplundia [Cultivars]",
+                    "machine_name": "asplundia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "asplundia",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311231",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525071473"
+                    }
+                },
+                {
+                    "name": "Asplundia rigida",
+                    "machine_name": "asplundia_rigida",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Harling.",
+                    "description": null,
+                    "genus": "asplundia",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311236",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525071508"
+                    }
+                },
+                {
+                    "name": "Asplundia insignis",
+                    "machine_name": "asplundia_insignis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Harling.",
+                    "description": null,
+                    "genus": "asplundia",
+                    "family": "cyclanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2311241",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1525071573"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2311226",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1525071473"
+            }
+        }
+    ]
+}

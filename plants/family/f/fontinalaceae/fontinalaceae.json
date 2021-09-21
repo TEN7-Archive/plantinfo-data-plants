@@ -1,0 +1,85 @@
+{
+    "name": "Fontinalaceae",
+    "machine_name": "fontinalaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Schimp.",
+    "description": null,
+    "archival_data": {
+        "id": "2492841",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1552656202"
+    },
+    "genus_items": [
+        {
+            "name": "Fontinalis",
+            "machine_name": "fontinalis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hedw.",
+            "description": null,
+            "family": "fontinalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Fontinalis [Cultivars]",
+                    "machine_name": "fontinalis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "fontinalis",
+                    "family": "fontinalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2492851",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1552656231"
+                    }
+                },
+                {
+                    "name": "Fontinalis antipyretica",
+                    "machine_name": "fontinalis_antipyretica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hedw.",
+                    "description": null,
+                    "genus": "fontinalis",
+                    "family": "fontinalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2492856",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1552656431"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2492846",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1552656231"
+            }
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+{
+    "name": "Calycanthaceae",
+    "machine_name": "calycanthaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381172",
+        "legacy_id": "71",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Calycanthus",
+            "machine_name": "calycanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropiicos",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "calycanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Calycanthus chinensis",
+                    "machine_name": "calycanthus_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 14",
+                    "naming_authorities": "Cheng & S.Y. Chan.",
+                    "description": null,
+                    "genus": "calycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calycanthus chinensis 'Wild Dragon Series'",
+                            "machine_name": "calycanthus_chinensis_wild_dragon_series",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wild Dragon Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_chinensis",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1544466",
+                                "legacy_id": "120138",
+                                "fgsid": "5832",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399649",
+                        "legacy_id": "3351",
+                        "fgsid": "5832",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calycanthus floridus",
+                    "machine_name": "calycanthus_floridus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "calycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calycanthus floridus 'Edith Wilder'",
+                            "machine_name": "calycanthus_floridus_edith_wilder",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Edith Wilder",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465245",
+                                "legacy_id": "3374",
+                                "fgsid": "5833",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus 'Athens'",
+                            "machine_name": "calycanthus_floridus_athens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Athens",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499931",
+                                "legacy_id": "73143",
+                                "fgsid": "5833",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus 'Michael Lindsey'",
+                            "machine_name": "calycanthus_floridus_michael_lindsey",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Michael Lindsey",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1553994",
+                                "legacy_id": "128282",
+                                "fgsid": "5833",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus 'Alease'",
+                            "machine_name": "calycanthus_floridus_alease",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alease",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1638738",
+                                "legacy_id": "329719",
+                                "fgsid": "5833",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus 'Sweetie'",
+                            "machine_name": "calycanthus_floridus_sweetie",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sweetie",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1642360",
+                                "legacy_id": "255086",
+                                "fgsid": "5833",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus 'Big George'",
+                            "machine_name": "calycanthus_floridus_big_george",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Big George",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1664529",
+                                "legacy_id": "405108",
+                                "fgsid": "5833",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus Burgundy Spice \u2122",
+                            "machine_name": "calycanthus_floridus_burgundy_spice",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Burgundy Spice",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2211941",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1516623540"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus floridus purpureus",
+                            "machine_name": "calycanthus_floridus_purpureus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "purpureus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "calycanthus_floridus",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2444216",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1548860841"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399650",
+                        "legacy_id": "6094",
+                        "fgsid": "5833",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calycanthus occidentalis",
+                    "machine_name": "calycanthus_occidentalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Hook. & Arn.",
+                    "description": null,
+                    "genus": "calycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399651",
+                        "legacy_id": "11476",
+                        "fgsid": "5834",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Calycanthus fertilis",
+                    "machine_name": "calycanthus_fertilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Walter.",
+                    "description": null,
+                    "genus": "calycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444652",
+                        "legacy_id": "19374",
+                        "fgsid": "44337",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Calycanthus [Cultivars]",
+                    "machine_name": "calycanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calycanthus [Cultivars] 'Venus'",
+                            "machine_name": "calycanthus_cultivars_venus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Venus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_cultivars",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1599821",
+                                "legacy_id": "227825",
+                                "fgsid": "95155",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus [Cultivars] 'Aphrodite'",
+                            "machine_name": "calycanthus_cultivars_aphrodite",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aphrodite",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_cultivars",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1608192",
+                                "legacy_id": "383753",
+                                "fgsid": "95155",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Calycanthus [Cultivars] 'Roy's Dark Red'",
+                            "machine_name": "calycanthus_cultivars_roy_s_dark_red",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Roy's Dark Red",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_cultivars",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1649797",
+                                "legacy_id": "361802",
+                                "fgsid": "95155",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449987",
+                        "legacy_id": "2",
+                        "fgsid": "95155",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Calycanthus raulstonii",
+                    "machine_name": "calycanthus_raulstonii",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "F.T. Lass & Fantz.",
+                    "description": null,
+                    "genus": "calycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calycanthus raulstonii 'Hartlage Wine*'",
+                            "machine_name": "calycanthus_raulstonii_hartlage_wine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hartlage Wine*",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calycanthus_raulstonii",
+                            "genus": "calycanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "sinocalycalycanthus_raulstonii_hartlage_wine",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1599820",
+                                "legacy_id": "227824",
+                                "fgsid": "95155",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2297981",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1523534580"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382619",
+                "legacy_id": "970",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Idiospermum",
+            "machine_name": "idiospermum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "S.T. Blake.",
+            "description": null,
+            "family": "calycanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Idiospermum [Cultivars]",
+                    "machine_name": "idiospermum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "idiospermum",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383860",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Idiospermum australiense",
+                    "machine_name": "idiospermum_australiense",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "S.T. Blake.",
+                    "description": null,
+                    "genus": "idiospermum",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1416105",
+                        "legacy_id": "1440",
+                        "fgsid": "19007",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383859",
+                "legacy_id": "2885",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Chimonanthus",
+            "machine_name": "chimonanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lindl.",
+            "description": null,
+            "family": "calycanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Chimonanthus [Cultivars]",
+                    "machine_name": "chimonanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chimonanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Chimonanthus praecox",
+                    "machine_name": "chimonanthus_praecox",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Link.",
+                    "description": null,
+                    "genus": "chimonanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [
+                        {
+                            "name": "Chimonanthus praecox 'Grandiflorus'",
+                            "machine_name": "chimonanthus_praecox_grandiflorus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Grandiflorus",
+                            "authorities": "Royal Hort change",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chimonanthus_praecox",
+                            "genus": "chimonanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468297",
+                                "legacy_id": "4736",
+                                "fgsid": "7390",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Chimonanthus praecox 'Luteus'",
+                            "machine_name": "chimonanthus_praecox_luteus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Luteus",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chimonanthus_praecox",
+                            "genus": "chimonanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1468298",
+                                "legacy_id": "4737",
+                                "fgsid": "7390",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Chimonanthus praecox 'Concolor'",
+                            "machine_name": "chimonanthus_praecox_concolor",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Concolor",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chimonanthus_praecox",
+                            "genus": "chimonanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1504031",
+                                "legacy_id": "74305",
+                                "fgsid": "7390",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Chimonanthus praecox 'Spring Valley'",
+                            "machine_name": "chimonanthus_praecox_spring_valley",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Spring Valley",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "chimonanthus_praecox",
+                            "genus": "chimonanthus",
+                            "family": "calycanthaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1550532",
+                                "legacy_id": "122916",
+                                "fgsid": "7390",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1406317",
+                        "legacy_id": "12963",
+                        "fgsid": "7390",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chimonanthus nitens",
+                    "machine_name": "chimonanthus_nitens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "chimonanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434698",
+                        "legacy_id": "11238",
+                        "fgsid": "41795",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Chimonanthus fragrans",
+                    "machine_name": "chimonanthus_fragrans",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "chimonanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "chimonanthus_praecox",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1438407",
+                        "legacy_id": "6219",
+                        "fgsid": "38485",
+                        "legacy_from_data_cross_ref": [
+                            "C. praecox"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Chimonanthus zhejiangensis",
+                    "machine_name": "chimonanthus_zhejiangensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "chimonanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449743",
+                        "legacy_id": "35603",
+                        "fgsid": "70815",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384405",
+                "legacy_id": "1236",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sinocalycanthus",
+            "machine_name": "sinocalycanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "C.C. Cheng & Chan.",
+            "description": null,
+            "family": "calycanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sinocalycanthus [Cultivars]",
+                    "machine_name": "sinocalycanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sinocalycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388298",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sinocalycanthus chinensis",
+                    "machine_name": "sinocalycanthus_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sinocalycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "calycanthus_chinensis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1430001",
+                        "legacy_id": "3351",
+                        "fgsid": "32999",
+                        "legacy_from_data_cross_ref": [
+                            "+Calycanthus chinensis"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Sinocalycanthus sinensis",
+                    "machine_name": "sinocalycanthus_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sinocalycanthus",
+                    "family": "calycanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437110",
+                        "legacy_id": "15144",
+                        "fgsid": "39564",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388297",
+                "legacy_id": "5123",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

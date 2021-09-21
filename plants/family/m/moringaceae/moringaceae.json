@@ -1,0 +1,260 @@
+{
+    "name": "Moringaceae",
+    "machine_name": "moringaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381321",
+        "legacy_id": "284",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Moringa",
+            "machine_name": "moringa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Adans.",
+            "description": null,
+            "family": "moringaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Moringa [Cultivars]",
+                    "machine_name": "moringa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389954",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Moringa drouhardii",
+                    "machine_name": "moringa_drouhardii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 8",
+                    "naming_authorities": "Jumelle.",
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421655",
+                        "legacy_id": "5126",
+                        "fgsid": "23474",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Moringa longituba",
+                    "machine_name": "moringa_longituba",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421656",
+                        "legacy_id": "9515",
+                        "fgsid": "23475",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Moringa oleifera",
+                    "machine_name": "moringa_oleifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal not Hortus",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421657",
+                        "legacy_id": "11569",
+                        "fgsid": "23476",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Moringa ovalifolia",
+                    "machine_name": "moringa_ovalifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Kewensis 6",
+                    "naming_authorities": "Dinter & Berger.",
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421658",
+                        "legacy_id": "11795",
+                        "fgsid": "23477",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Moringa pterygosperma",
+                    "machine_name": "moringa_pterygosperma",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal not Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "moringa_oleifera",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1421659",
+                        "legacy_id": "13221",
+                        "fgsid": "23478",
+                        "legacy_from_data_cross_ref": [
+                            "M. oleifera"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Moringa hildebrandtii",
+                    "machine_name": "moringa_hildebrandtii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444137",
+                        "legacy_id": "7478",
+                        "fgsid": "57235",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Moringa peregrina",
+                    "machine_name": "moringa_peregrina",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI(IK)",
+                    "naming_authorities": "Fiori",
+                    "description": "basionym: Hyperanthera peregrina",
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451855",
+                        "legacy_id": "12318",
+                        "fgsid": "102035",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Moringa stenopetala",
+                    "machine_name": "moringa_stenopetala",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Cufod.",
+                    "description": null,
+                    "genus": "moringa",
+                    "family": "moringaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456118",
+                        "legacy_id": "15536",
+                        "fgsid": "128260",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389953",
+                "legacy_id": "3672",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

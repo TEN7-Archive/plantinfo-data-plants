@@ -1,0 +1,85 @@
+{
+    "name": "Schlegeliaceae",
+    "machine_name": "schlegeliaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Reveal.",
+    "description": null,
+    "archival_data": {
+        "id": "2350391",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531845255"
+    },
+    "genus_items": [
+        {
+            "name": "Schlegelia",
+            "machine_name": "schlegelia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Miq.",
+            "description": null,
+            "family": "schlegeliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Schlegelia [Cultivars]",
+                    "machine_name": "schlegelia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "schlegelia",
+                    "family": "schlegeliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2350401",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1531845283"
+                    }
+                },
+                {
+                    "name": "Schlegelia parasitica",
+                    "machine_name": "schlegelia_parasitica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Miers & Gentry.",
+                    "description": null,
+                    "genus": "schlegelia",
+                    "family": "schlegeliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2350406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1531845329"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2350396",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1531845283"
+            }
+        }
+    ]
+}

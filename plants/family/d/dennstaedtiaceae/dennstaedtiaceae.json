@@ -1,0 +1,821 @@
+{
+    "name": "Dennstaedtiaceae",
+    "machine_name": "dennstaedtiaceae",
+    "type": "family",
+    "authorities": "Royal Hort",
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381466",
+        "legacy_id": "477",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Dennstaedtia",
+            "machine_name": "dennstaedtia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Bernh.",
+            "description": null,
+            "family": "dennstaedtiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Dennstaedtia obtusifolia",
+                    "machine_name": "dennstaedtia_obtusifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Moore.",
+                    "description": null,
+                    "genus": "dennstaedtia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434285",
+                        "legacy_id": "11463",
+                        "fgsid": "41653",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Dennstaedtia punctilobula",
+                    "machine_name": "dennstaedtia_punctilobula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Moore.",
+                    "description": null,
+                    "genus": "dennstaedtia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440715",
+                        "legacy_id": "18510",
+                        "fgsid": "43356",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dennstaedtia wilfordii",
+                    "machine_name": "dennstaedtia_wilfordii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "dennstaedtia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445905",
+                        "legacy_id": "18894",
+                        "fgsid": "84384",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dennstaedtia [Cultivars]",
+                    "machine_name": "dennstaedtia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "dennstaedtia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Dennstaedtia [Cultivars] 'Sohuksan'",
+                            "machine_name": "dennstaedtia_cultivars_sohuksan",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sohuksan",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "dennstaedtia_cultivars",
+                            "genus": "dennstaedtia",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647132",
+                                "legacy_id": "378833",
+                                "fgsid": "142000",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460374",
+                        "legacy_id": "2",
+                        "fgsid": "142000",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Dennstaedtia bipinnata",
+                    "machine_name": "dennstaedtia_bipinnata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Maxon.",
+                    "description": null,
+                    "genus": "dennstaedtia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308061",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524759167"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382405",
+                "legacy_id": "6098",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Hypolepis",
+            "machine_name": "hypolepis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Bernh.",
+            "description": null,
+            "family": "dennstaedtiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Hypolepis [Cultivars]",
+                    "machine_name": "hypolepis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "hypolepis",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382516",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Hypolepis punctata",
+                    "machine_name": "hypolepis_punctata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Mett.",
+                    "description": null,
+                    "genus": "hypolepis",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433952",
+                        "legacy_id": "13309",
+                        "fgsid": "41592",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Hypolepis glandulifera",
+                    "machine_name": "hypolepis_glandulifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "hypolepis",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442679",
+                        "legacy_id": "6639",
+                        "fgsid": "52501",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Hypolepis repens",
+                    "machine_name": "hypolepis_repens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "hypolepis",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308056",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524759066"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382515",
+                "legacy_id": "6154",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Microlepia",
+            "machine_name": "microlepia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "C. Presl.",
+            "description": null,
+            "family": "dennstaedtiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Microlepia [Cultivars]",
+                    "machine_name": "microlepia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "microlepia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383270",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Microlepia strigosa",
+                    "machine_name": "microlepia_strigosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "C. Presl.",
+                    "description": null,
+                    "genus": "microlepia",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Microlepia strigosa 'Shishi'",
+                            "machine_name": "microlepia_strigosa_shishi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shishi",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "microlepia_strigosa",
+                            "genus": "microlepia",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616446",
+                                "legacy_id": "241796",
+                                "fgsid": "40354",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Microlepia strigosa macfaddeniae",
+                            "machine_name": "microlepia_strigosa_macfaddeniae",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "macfaddeniae",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "microlepia_strigosa",
+                            "genus": "microlepia",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1621956",
+                                "legacy_id": "353596",
+                                "fgsid": "40354",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434947",
+                        "legacy_id": "15661",
+                        "fgsid": "40354",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383269",
+                "legacy_id": "6194",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pteridium",
+            "machine_name": "pteridium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Gled. & Scop.",
+            "description": null,
+            "family": "dennstaedtiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pteridium [Cultivars]",
+                    "machine_name": "pteridium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pteridium",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383382",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pteridium aquilinum",
+                    "machine_name": "pteridium_aquilinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Kuhn.",
+                    "description": null,
+                    "genus": "pteridium",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Pteridium aquilinum latiusculum",
+                            "machine_name": "pteridium_aquilinum_latiusculum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "latiusculum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "pteridium_aquilinum",
+                            "genus": "pteridium",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1591898",
+                                "legacy_id": "317540",
+                                "fgsid": "41204",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Pteridium aquilinum pubescens",
+                            "machine_name": "pteridium_aquilinum_pubescens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pubescens",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "pteridium_aquilinum",
+                            "genus": "pteridium",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632499",
+                                "legacy_id": "298196",
+                                "fgsid": "41204",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Pteridium aquilinum pseudocaudocanudatrum",
+                            "machine_name": "pteridium_aquilinum_pseudocaudocanudatrum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pseudocaudocanudatrum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "pteridium_aquilinum",
+                            "genus": "pteridium",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1639439",
+                                "legacy_id": "333196",
+                                "fgsid": "41204",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Pteridium aquilinum decompositum",
+                            "machine_name": "pteridium_aquilinum_decompositum",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "decompositum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "pteridium_aquilinum",
+                            "genus": "pteridium",
+                            "family": "dennstaedtiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640627",
+                                "legacy_id": "334256",
+                                "fgsid": "41204",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438226",
+                        "legacy_id": "19252",
+                        "fgsid": "41204",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pteridium esculentum",
+                    "machine_name": "pteridium_esculentum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Cockayne.",
+                    "description": null,
+                    "genus": "pteridium",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458261",
+                        "legacy_id": "5623",
+                        "fgsid": "146892",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pteridium pinetorum",
+                    "machine_name": "pteridium_pinetorum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "C.N. Page & R.R. Mill.",
+                    "description": null,
+                    "genus": "pteridium",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524758823"
+                    }
+                },
+                {
+                    "name": "Pteridium pubescens",
+                    "machine_name": "pteridium_pubescens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pteridium",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307981",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524758873"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383381",
+                "legacy_id": "6250",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Histiopteris",
+            "machine_name": "histiopteris",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "J. Sm.",
+            "description": null,
+            "family": "dennstaedtiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Histiopteris [Cultivars]",
+                    "machine_name": "histiopteris_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "histiopteris",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395890",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Histiopteris incisa",
+                    "machine_name": "histiopteris_incisa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "J. Sm.",
+                    "description": null,
+                    "genus": "histiopteris",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442677",
+                        "legacy_id": "7979",
+                        "fgsid": "52499",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395889",
+                "legacy_id": "10082",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Blotiella",
+            "machine_name": "blotiella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "R.M. Tryon.",
+            "description": null,
+            "family": "dennstaedtiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Blotiella [Cultivars]",
+                    "machine_name": "blotiella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "blotiella",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307966",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524758659"
+                    }
+                },
+                {
+                    "name": "Blotiella stipitata",
+                    "machine_name": "blotiella_stipitata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Faden.",
+                    "description": null,
+                    "genus": "blotiella",
+                    "family": "dennstaedtiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2307971",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524758702"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2307961",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524758659"
+            }
+        }
+    ]
+}

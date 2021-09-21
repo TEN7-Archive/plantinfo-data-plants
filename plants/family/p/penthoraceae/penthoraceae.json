@@ -1,0 +1,85 @@
+{
+    "name": "Penthoraceae",
+    "machine_name": "penthoraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Rydb. & Britton.",
+    "description": null,
+    "archival_data": {
+        "id": "2318631",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526302914"
+    },
+    "genus_items": [
+        {
+            "name": "Penthorum",
+            "machine_name": "penthorum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "penthoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Penthorum [Cultivars]",
+                    "machine_name": "penthorum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "penthorum",
+                    "family": "penthoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394406",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Penthorum sedoides",
+                    "machine_name": "penthorum_sedoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "penthorum",
+                    "family": "penthoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427438",
+                        "legacy_id": "14755",
+                        "fgsid": "26471",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394405",
+                "legacy_id": "4215",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

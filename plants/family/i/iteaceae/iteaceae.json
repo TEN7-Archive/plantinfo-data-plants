@@ -1,0 +1,638 @@
+{
+    "name": "Iteaceae",
+    "machine_name": "iteaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "J. Agardh.",
+    "description": null,
+    "archival_data": {
+        "id": "2318521",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526230198"
+    },
+    "genus_items": [
+        {
+            "name": "Itea",
+            "machine_name": "itea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "iteaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Itea [Cultivars]",
+                    "machine_name": "itea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [
+                        {
+                            "name": "Itea [Cultivars] Scentlandia \u2122",
+                            "machine_name": "itea_cultivars_scentlandia",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Scentlandia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_cultivars",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2403951",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1541019673"
+                            }
+                        },
+                        {
+                            "name": "Itea [Cultivars] Short N'Sweet \u2122",
+                            "machine_name": "itea_cultivars_short_n_sweet",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Short N'Sweet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "itea_cultivars",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2614601",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1584545900"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384578",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Itea chinensis",
+                    "machine_name": "itea_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Hook. & Arn.",
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418018",
+                        "legacy_id": "3351",
+                        "fgsid": "19520",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea ilicifolia",
+                    "machine_name": "itea_ilicifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "D. Oliver.",
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418019",
+                        "legacy_id": "7903",
+                        "fgsid": "19521",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea oldhamii",
+                    "machine_name": "itea_oldhamii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418020",
+                        "legacy_id": "11566",
+                        "fgsid": "19522",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea parviflora",
+                    "machine_name": "itea_parviflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Hemsl.",
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418021",
+                        "legacy_id": "12078",
+                        "fgsid": "19523",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea virginica",
+                    "machine_name": "itea_virginica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [
+                        {
+                            "name": "Itea virginica 'Henry's Garnet'",
+                            "machine_name": "itea_virginica_henry_s_garnet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Henry's Garnet",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479250",
+                                "legacy_id": "16318",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica 'Sara Eve'",
+                            "machine_name": "itea_virginica_sara_eve",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sara Eve",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479251",
+                                "legacy_id": "16319",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica 'Saturnalia'",
+                            "machine_name": "itea_virginica_saturnalia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Saturnalia",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1479252",
+                                "legacy_id": "16320",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820920"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica 'Longspire'",
+                            "machine_name": "itea_virginica_longspire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Longspire",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1517828",
+                                "legacy_id": "89232",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica Little Henry \u00ae",
+                            "machine_name": "itea_virginica_little_henry",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Little Henry",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1533129",
+                                "legacy_id": "107430",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica 'Merlot'",
+                            "machine_name": "itea_virginica_merlot",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Merlot",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1545574",
+                                "legacy_id": "119197",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica 'Theodore Klein'",
+                            "machine_name": "itea_virginica_theodore_klein",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Theodore Klein",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1573905",
+                                "legacy_id": "185908",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica Scarlet Beauty \u2122",
+                            "machine_name": "itea_virginica_scarlet_beauty",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Scarlet Beauty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575712",
+                                "legacy_id": "203669",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica 'Shirley's Compact'",
+                            "machine_name": "itea_virginica_shirley_s_compact",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shirley's Compact",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1603589",
+                                "legacy_id": "285937",
+                                "fgsid": "19524",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica Sweet Loretta \u2122",
+                            "machine_name": "itea_virginica_sweet_loretta",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Sweet Loretta",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2251031",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1519069020"
+                            }
+                        },
+                        {
+                            "name": "Itea virginica Love Child \u2122",
+                            "machine_name": "itea_virginica_love_child",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Love Child",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "itea_virginica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2611101",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1584017939"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418022",
+                        "legacy_id": "17412",
+                        "fgsid": "19524",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea yunnanensis",
+                    "machine_name": "itea_yunnanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1418023",
+                        "legacy_id": "17903",
+                        "fgsid": "19525",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea japonica",
+                    "machine_name": "itea_japonica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Oliver.",
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [
+                        {
+                            "name": "Itea japonica 'Beppu'",
+                            "machine_name": "itea_japonica_beppu",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Beppu",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "itea_japonica",
+                            "genus": "itea",
+                            "family": "iteaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1543881",
+                                "legacy_id": "116331",
+                                "fgsid": "41796",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1434699",
+                        "legacy_id": "8265",
+                        "fgsid": "41796",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Itea rhamnoides",
+                    "machine_name": "itea_rhamnoides",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "itea",
+                    "family": "iteaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2318511",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526230080"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384577",
+                "legacy_id": "2937",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

@@ -1,0 +1,573 @@
+{
+    "name": "Icacinaceae",
+    "machine_name": "icacinaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381276",
+        "legacy_id": "223",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cassinopsis",
+            "machine_name": "cassinopsis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Sonder.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cassinopsis [Cultivars]",
+                    "machine_name": "cassinopsis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cassinopsis",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383444",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cassinopsis ilicifolia",
+                    "machine_name": "cassinopsis_ilicifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cassinopsis",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1408971",
+                        "legacy_id": "7903",
+                        "fgsid": "6562",
+                        "legacy_from_data_cross_ref": [
+                            "+Hartogia ilicifolia"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Cassinopsis tinifolia",
+                    "machine_name": "cassinopsis_tinifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Harv.",
+                    "description": null,
+                    "genus": "cassinopsis",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339171",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016511"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383443",
+                "legacy_id": "1067",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pyrenacantha",
+            "machine_name": "pyrenacantha",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pyrenacantha [Cultivars]",
+                    "machine_name": "pyrenacantha_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pyrenacantha",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384828",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pyrenacantha grandiflora",
+                    "machine_name": "pyrenacantha_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "pyrenacantha",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427219",
+                        "legacy_id": "6879",
+                        "fgsid": "29241",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pyrenacantha malvifolia",
+                    "machine_name": "pyrenacantha_malvifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Engl.",
+                    "description": null,
+                    "genus": "pyrenacantha",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427220",
+                        "legacy_id": "9955",
+                        "fgsid": "29242",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pyrenacantha scandens",
+                    "machine_name": "pyrenacantha_scandens",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Planch. & Harv.",
+                    "description": null,
+                    "genus": "pyrenacantha",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460734",
+                        "legacy_id": "14500",
+                        "fgsid": "145005",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384827",
+                "legacy_id": "4667",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lavigeria",
+            "machine_name": "lavigeria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Pierre.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lavigeria [Cultivars]",
+                    "machine_name": "lavigeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lavigeria",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386244",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lavigeria macrocarpa",
+                    "machine_name": "lavigeria_macrocarpa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Pierre.",
+                    "description": null,
+                    "genus": "lavigeria",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421440",
+                        "legacy_id": "9768",
+                        "fgsid": "20399",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386243",
+                "legacy_id": "3131",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nothapodytes",
+            "machine_name": "nothapodytes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Mabberley",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nothapodytes [Cultivars]",
+                    "machine_name": "nothapodytes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nothapodytes",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396482",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nothapodytes nimmoniana",
+                    "machine_name": "nothapodytes_nimmoniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "Kewensis 17 says is Premna nimmoniana",
+                    "genus": "nothapodytes",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445476",
+                        "legacy_id": "43903",
+                        "fgsid": "83835",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396481",
+                "legacy_id": "14362",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Phytocrene",
+            "machine_name": "phytocrene",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Wall.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Phytocrene [Cultivars]",
+                    "machine_name": "phytocrene_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phytocrene",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339131",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016110"
+                    }
+                },
+                {
+                    "name": "Phytocrene bracteata",
+                    "machine_name": "phytocrene_bracteata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "none?",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "phytocrene",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339136",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016145"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339126",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530016110"
+            }
+        },
+        {
+            "name": "Icacina",
+            "machine_name": "icacina",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "A. Juss.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Icacina [Cultivars]",
+                    "machine_name": "icacina_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "icacina",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339146",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016245"
+                    }
+                },
+                {
+                    "name": "Icacina mannii",
+                    "machine_name": "icacina_mannii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Oliv.",
+                    "description": null,
+                    "genus": "icacina",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339151",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016281"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339141",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530016245"
+            }
+        },
+        {
+            "name": "Iodes",
+            "machine_name": "iodes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Blume.",
+            "description": null,
+            "family": "icacinaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Iodes [Cultivars]",
+                    "machine_name": "iodes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "iodes",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339161",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016373"
+                    }
+                },
+                {
+                    "name": "Iodes ovalis",
+                    "machine_name": "iodes_ovalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Merr.",
+                    "description": null,
+                    "genus": "iodes",
+                    "family": "icacinaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339166",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530016412"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2339156",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1530016373"
+            }
+        }
+    ]
+}

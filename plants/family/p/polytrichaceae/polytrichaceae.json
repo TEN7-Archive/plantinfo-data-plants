@@ -1,0 +1,154 @@
+{
+    "name": "Polytrichaceae",
+    "machine_name": "polytrichaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Schwagr.",
+    "description": null,
+    "archival_data": {
+        "id": "2487016",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1551966532"
+    },
+    "genus_items": [
+        {
+            "name": "Polytrichum",
+            "machine_name": "polytrichum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hedw.",
+            "description": null,
+            "family": "polytrichaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Polytrichum [Cultivars]",
+                    "machine_name": "polytrichum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "polytrichum",
+                    "family": "polytrichaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2487026",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551966566"
+                    }
+                },
+                {
+                    "name": "Polytrichum juniperinum",
+                    "machine_name": "polytrichum_juniperinum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hedw.",
+                    "description": null,
+                    "genus": "polytrichum",
+                    "family": "polytrichaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2487031",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551966626"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2487021",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1551966566"
+            }
+        },
+        {
+            "name": "Itatiella",
+            "machine_name": "itatiella",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "G.L. Sm.",
+            "description": null,
+            "family": "polytrichaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Itatiella [Cultivars]",
+                    "machine_name": "itatiella_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "itatiella",
+                    "family": "polytrichaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2487041",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551966733"
+                    }
+                },
+                {
+                    "name": "Itatiella ulei",
+                    "machine_name": "itatiella_ulei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "G.L. Sm.",
+                    "description": null,
+                    "genus": "itatiella",
+                    "family": "polytrichaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2487046",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1551966764"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2487036",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1551966733"
+            }
+        }
+    ]
+}

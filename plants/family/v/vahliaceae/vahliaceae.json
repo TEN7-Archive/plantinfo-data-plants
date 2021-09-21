@@ -1,0 +1,85 @@
+{
+    "name": "Vahliaceae",
+    "machine_name": "vahliaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Thunb.",
+    "description": null,
+    "archival_data": {
+        "id": "2339901",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1530277617"
+    },
+    "genus_items": [
+        {
+            "name": "Vahlia",
+            "machine_name": "vahlia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Thunb.",
+            "description": null,
+            "family": "vahliaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Vahlia [Cultivars]",
+                    "machine_name": "vahlia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "vahlia",
+                    "family": "vahliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1392884",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Vahlia capensis",
+                    "machine_name": "vahlia_capensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Thunb.",
+                    "description": null,
+                    "genus": "vahlia",
+                    "family": "vahliaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2339906",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1530277785"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1392883",
+                "legacy_id": "5741",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

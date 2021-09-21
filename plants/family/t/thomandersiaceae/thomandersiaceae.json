@@ -1,0 +1,85 @@
+{
+    "name": "Thomandersiaceae",
+    "machine_name": "thomandersiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Sreem.",
+    "description": null,
+    "archival_data": {
+        "id": "2350416",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1531845513"
+    },
+    "genus_items": [
+        {
+            "name": "Thomandersia",
+            "machine_name": "thomandersia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "thomandersiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Thomandersia [Cultivars]",
+                    "machine_name": "thomandersia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "thomandersia",
+                    "family": "thomandersiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381550",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Thomandersia congolana",
+                    "machine_name": "thomandersia_congolana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "De Wild & T. Durand.",
+                    "description": null,
+                    "genus": "thomandersia",
+                    "family": "thomandersiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2350411",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1531845420"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381549",
+                "legacy_id": "6006",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

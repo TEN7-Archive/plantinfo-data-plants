@@ -1,0 +1,85 @@
+{
+    "name": "Ptaeroxylaceae",
+    "machine_name": "ptaeroxylaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381372",
+        "legacy_id": "350",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Ptaeroxylon",
+            "machine_name": "ptaeroxylon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Ecklon & Zeyher.",
+            "description": null,
+            "family": "ptaeroxylaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ptaeroxylon [Cultivars]",
+                    "machine_name": "ptaeroxylon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ptaeroxylon",
+                    "family": "ptaeroxylaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384722",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ptaeroxylon obliquum",
+                    "machine_name": "ptaeroxylon_obliquum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Radlk.",
+                    "description": null,
+                    "genus": "ptaeroxylon",
+                    "family": "ptaeroxylaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425785",
+                        "legacy_id": "11420",
+                        "fgsid": "28919",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384721",
+                "legacy_id": "4613",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "name": "Sarcobataceae",
+    "machine_name": "sarcobataceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Behnke.",
+    "description": null,
+    "archival_data": {
+        "id": "2333131",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528806018"
+    },
+    "genus_items": [
+        {
+            "name": "Sarcobatus",
+            "machine_name": "sarcobatus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Nees.",
+            "description": null,
+            "family": "sarcobataceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sarcobatus [Cultivars]",
+                    "machine_name": "sarcobatus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sarcobatus",
+                    "family": "sarcobataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1386620",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Sarcobatus baileyi",
+                    "machine_name": "sarcobatus_baileyi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 1",
+                    "naming_authorities": "Cov.",
+                    "description": null,
+                    "genus": "sarcobatus",
+                    "family": "sarcobataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430698",
+                        "legacy_id": "1535",
+                        "fgsid": "31695",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Sarcobatus vermiculatus",
+                    "machine_name": "sarcobatus_vermiculatus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Torr.",
+                    "description": null,
+                    "genus": "sarcobatus",
+                    "family": "sarcobataceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1430699",
+                        "legacy_id": "17241",
+                        "fgsid": "31696",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1386619",
+                "legacy_id": "4926",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

@@ -1,0 +1,491 @@
+{
+    "name": "Tofieldiaceae",
+    "machine_name": "tofieldiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Takht.",
+    "description": null,
+    "archival_data": {
+        "id": "2310551",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525013420"
+    },
+    "genus_items": [
+        {
+            "name": "Tofieldia",
+            "machine_name": "tofieldia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Huds.",
+            "description": null,
+            "family": "tofieldiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Tofieldia [Cultivars]",
+                    "machine_name": "tofieldia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391834",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Tofieldia calyculata",
+                    "machine_name": "tofieldia_calyculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Wahl.",
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432009",
+                        "legacy_id": "2715",
+                        "fgsid": "35032",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tofieldia coccinea",
+                    "machine_name": "tofieldia_coccinea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri change",
+                    "naming_authorities": "Richardson.",
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Tofieldia coccinea 'Apoi'",
+                            "machine_name": "tofieldia_coccinea_apoi",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Apoi",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "tofieldia_coccinea",
+                            "genus": "tofieldia",
+                            "family": "tofieldiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601066",
+                                "legacy_id": "231066",
+                                "fgsid": "35033",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432010",
+                        "legacy_id": "3649",
+                        "fgsid": "35033",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tofieldia glutinosa",
+                    "machine_name": "tofieldia_glutinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Tofieldia glutinosa brevistyla",
+                            "machine_name": "tofieldia_glutinosa_brevistyla",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "brevistyla",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "tofieldia_glutinosa",
+                            "genus": "tofieldia",
+                            "family": "tofieldiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1591409",
+                                "legacy_id": "324098",
+                                "fgsid": "35034",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432011",
+                        "legacy_id": "6735",
+                        "fgsid": "35034",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tofieldia palustris",
+                    "machine_name": "tofieldia_palustris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Huds.",
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432012",
+                        "legacy_id": "11948",
+                        "fgsid": "35035",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tofieldia pusilla",
+                    "machine_name": "tofieldia_pusilla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort change",
+                    "naming_authorities": "Pers.",
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432013",
+                        "legacy_id": "13361",
+                        "fgsid": "35036",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Tofieldia okuboi",
+                    "machine_name": "tofieldia_okuboi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Makino.",
+                    "description": null,
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1433608",
+                        "legacy_id": "19643",
+                        "fgsid": "41519",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Tofieldia nuda",
+                    "machine_name": "tofieldia_nuda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Tofieldia nuda furusei",
+                            "machine_name": "tofieldia_nuda_furusei",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "furusei",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "tofieldia_nuda",
+                            "genus": "tofieldia",
+                            "family": "tofieldiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1601067",
+                                "legacy_id": "231067",
+                                "fgsid": "96633",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446059",
+                        "legacy_id": "11345",
+                        "fgsid": "96633",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Tofieldia racemosa*",
+                    "machine_name": "tofieldia_racemosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": "Britton, Sterns & Poggenb.",
+                    "description": "USDA & FNA:  synonym for Triantha racemosa",
+                    "genus": "tofieldia",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "triantha_racemosa",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1462931",
+                        "legacy_id": "13506",
+                        "fgsid": "155399",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391833",
+                "legacy_id": "5551",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Triantha",
+            "machine_name": "triantha",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Baker.",
+            "description": null,
+            "family": "tofieldiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Triantha [Cultivars]",
+                    "machine_name": "triantha_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "triantha",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394934",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Triantha glutinosa",
+                    "machine_name": "triantha_glutinosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "triantha",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451676",
+                        "legacy_id": "6735",
+                        "fgsid": "123959",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Triantha racemosa",
+                    "machine_name": "triantha_racemosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Small.",
+                    "description": null,
+                    "genus": "triantha",
+                    "family": "tofieldiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463131",
+                        "legacy_id": "13506",
+                        "fgsid": "155419",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Triantha occidentalis",
+                    "machine_name": "triantha_occidentalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R.R. Gates.",
+                    "description": null,
+                    "genus": "triantha",
+                    "family": "tofieldiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Triantha occidentalis montana",
+                            "machine_name": "triantha_occidentalis_montana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "montana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "triantha_occidentalis",
+                            "genus": "triantha",
+                            "family": "tofieldiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2310441",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1524994140"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2310436",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524994140"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394933",
+                "legacy_id": "22504",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

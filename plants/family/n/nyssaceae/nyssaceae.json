@@ -1,0 +1,1795 @@
+{
+    "name": "Nyssaceae",
+    "machine_name": "nyssaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381335",
+        "legacy_id": "301",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Camptotheca",
+            "machine_name": "camptotheca",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Decne.",
+            "description": null,
+            "family": "nyssaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Camptotheca [Cultivars]",
+                    "machine_name": "camptotheca_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "camptotheca",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382670",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Camptotheca acuminata",
+                    "machine_name": "camptotheca_acuminata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "camptotheca",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407009",
+                        "legacy_id": "151",
+                        "fgsid": "6042",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382669",
+                "legacy_id": "996",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Davidia",
+            "machine_name": "davidia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Baillon.",
+            "description": null,
+            "family": "nyssaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Davidia involucrata",
+                    "machine_name": "davidia_involucrata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Baillon.",
+                    "description": null,
+                    "genus": "davidia",
+                    "family": "nyssaceae",
+                    "variety_items": [
+                        {
+                            "name": "Davidia involucrata vilmoriniana",
+                            "machine_name": "davidia_involucrata_vilmoriniana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "vilmoriniana",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Wanger.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1469087",
+                                "legacy_id": "7390",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817735"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Sonoma'",
+                            "machine_name": "davidia_involucrata_sonoma",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sonoma",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567769",
+                                "legacy_id": "178101",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata involucrata",
+                            "machine_name": "davidia_involucrata_involucrata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "involucrata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1579914",
+                                "legacy_id": "215223",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Kylee's Columnar'",
+                            "machine_name": "davidia_involucrata_kylee_s_columnar",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kylee's Columnar",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597808",
+                                "legacy_id": "388143",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Platt's Variegated'",
+                            "machine_name": "davidia_involucrata_platt_s_variegated",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Platt's Variegated",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1599979",
+                                "legacy_id": "232934",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'White Dust'",
+                            "machine_name": "davidia_involucrata_white_dust",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "White Dust",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1608695",
+                                "legacy_id": "380294",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Columnaris'",
+                            "machine_name": "davidia_involucrata_columnaris",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Columnaris",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1633996",
+                                "legacy_id": "301096",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Crimson Spring'",
+                            "machine_name": "davidia_involucrata_crimson_spring",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crimson Spring",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634047",
+                                "legacy_id": "307899",
+                                "fgsid": "10292",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Aya nishiki'",
+                            "machine_name": "davidia_involucrata_aya_nishiki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aya nishiki",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2333206",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1528821420"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Lady Sunshine'",
+                            "machine_name": "davidia_involucrata_lady_sunshine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lady Sunshine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2534926",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1560956187"
+                            }
+                        },
+                        {
+                            "name": "Davidia involucrata 'Iseli Fastigiate'",
+                            "machine_name": "davidia_involucrata_iseli_fastigiate",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Iseli Fastigiate",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_involucrata",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2534931",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1560956287"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405430",
+                        "legacy_id": "8141",
+                        "fgsid": "10292",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Davidia laeta",
+                    "machine_name": "davidia_laeta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 4",
+                    "naming_authorities": "Dode.",
+                    "description": null,
+                    "genus": "davidia",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446857",
+                        "legacy_id": "8748",
+                        "fgsid": "76035",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Davidia [Cultivars]",
+                    "machine_name": "davidia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "davidia",
+                    "family": "nyssaceae",
+                    "variety_items": [
+                        {
+                            "name": "Davidia [Cultivars] 'Lady Dahlia'",
+                            "machine_name": "davidia_cultivars_lady_dahlia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lady Dahlia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_cultivars",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1646264",
+                                "legacy_id": "372598",
+                                "fgsid": "138379",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Davidia [Cultivars] 'Lady Sunshine'",
+                            "machine_name": "davidia_cultivars_lady_sunshine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lady Sunshine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "davidia_cultivars",
+                            "genus": "davidia",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1648961",
+                                "legacy_id": "368427",
+                                "fgsid": "138379",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459178",
+                        "legacy_id": "2",
+                        "fgsid": "138379",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1387965",
+                "legacy_id": "1735",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Nyssa",
+            "machine_name": "nyssa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "nyssaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Nyssa [Cultivars]",
+                    "machine_name": "nyssa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391738",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Nyssa aquatica",
+                    "machine_name": "nyssa_aquatica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425431",
+                        "legacy_id": "979",
+                        "fgsid": "24431",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nyssa biflora",
+                    "machine_name": "nyssa_biflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nyssa_sylvatica_biflora",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1425432",
+                        "legacy_id": "1916",
+                        "fgsid": "24432",
+                        "legacy_from_data_cross_ref": [
+                            "+N. sylvatica biflora"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nyssa capitata",
+                    "machine_name": "nyssa_capitata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": "Walt.",
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425433",
+                        "legacy_id": "2858",
+                        "fgsid": "24433",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nyssa ogeche",
+                    "machine_name": "nyssa_ogeche",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425434",
+                        "legacy_id": "11549",
+                        "fgsid": "24434",
+                        "legacy_from_data_cross_ref": [
+                            "+N. capitata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nyssa sinensis",
+                    "machine_name": "nyssa_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "D. Oliver.",
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nyssa sinensis 'Jim Russell'",
+                            "machine_name": "nyssa_sinensis_jim_russell",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jim Russell",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sinensis",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662368",
+                                "legacy_id": "392519",
+                                "fgsid": "24435",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425435",
+                        "legacy_id": "15144",
+                        "fgsid": "24435",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Nyssa sylvatica",
+                    "machine_name": "nyssa_sylvatica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Marsh.",
+                    "description": null,
+                    "genus": "nyssa",
+                    "family": "nyssaceae",
+                    "variety_items": [
+                        {
+                            "name": "Nyssa sylvatica biflora",
+                            "machine_name": "nyssa_sylvatica_biflora",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "biflora",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Sarg.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1481949",
+                                "legacy_id": "20753",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482820977"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Autumn Cascade'",
+                            "machine_name": "nyssa_sylvatica_autumn_cascade",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Autumn Cascade",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521810",
+                                "legacy_id": "93803",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832500"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Miss Scarlet'",
+                            "machine_name": "nyssa_sylvatica_miss_scarlet",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Miss Scarlet",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1521811",
+                                "legacy_id": "93804",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482832509"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Pendula'",
+                            "machine_name": "nyssa_sylvatica_pendula",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pendula",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1532762",
+                                "legacy_id": "111099",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica sylvatica",
+                            "machine_name": "nyssa_sylvatica_sylvatica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "sylvatica",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1534223",
+                                "legacy_id": "106450",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Bernheim Select'",
+                            "machine_name": "nyssa_sylvatica_bernheim_select",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Bernheim Select",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537227",
+                                "legacy_id": "115809",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Wisley Bonfire'",
+                            "machine_name": "nyssa_sylvatica_wisley_bonfire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wisley Bonfire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538487",
+                                "legacy_id": "112549",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Madison Strain'",
+                            "machine_name": "nyssa_sylvatica_madison_strain",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Madison Strain",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1564548",
+                                "legacy_id": "157917",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'High Beeches'",
+                            "machine_name": "nyssa_sylvatica_high_beeches",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "High Beeches",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1570955",
+                                "legacy_id": "187736",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Zydeco Twist'",
+                            "machine_name": "nyssa_sylvatica_zydeco_twist",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Zydeco Twist",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1590796",
+                                "legacy_id": "323736",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Green Gable \u2122",
+                            "machine_name": "nyssa_sylvatica_green_gable",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Green Gable",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1593905",
+                                "legacy_id": "383768",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Jolly \u00ae",
+                            "machine_name": "nyssa_sylvatica_jolly",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Jolly",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1595654",
+                                "legacy_id": "363477",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Caroline'",
+                            "machine_name": "nyssa_sylvatica_caroline",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Caroline",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597029",
+                                "legacy_id": "390564",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Red Rage \u2122",
+                            "machine_name": "nyssa_sylvatica_red_rage",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Red Rage",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1599321",
+                                "legacy_id": "230341",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Lakeside Weeper'",
+                            "machine_name": "nyssa_sylvatica_lakeside_weeper",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lakeside Weeper",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1599822",
+                                "legacy_id": "227826",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Red Red Wine'",
+                            "machine_name": "nyssa_sylvatica_red_red_wine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Red Red Wine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1602490",
+                                "legacy_id": "226557",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Tupelo Tower \u00ae",
+                            "machine_name": "nyssa_sylvatica_tupelo_tower",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Tupelo Tower",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1608822",
+                                "legacy_id": "384738",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Wildfire'",
+                            "machine_name": "nyssa_sylvatica_wildfire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Wildfire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1616412",
+                                "legacy_id": "239412",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Sheri's Cloud'",
+                            "machine_name": "nyssa_sylvatica_sheri_s_cloud",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sheri's Cloud",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1619642",
+                                "legacy_id": "343180",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Snow Flurries \u00ae",
+                            "machine_name": "nyssa_sylvatica_snow_flurries",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Snow Flurries",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1624861",
+                                "legacy_id": "362760",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Forum \u2122",
+                            "machine_name": "nyssa_sylvatica_forum",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Forum",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1645270",
+                                "legacy_id": "254236",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Penwood Weeper'",
+                            "machine_name": "nyssa_sylvatica_penwood_weeper",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Penwood Weeper",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1647296",
+                                "legacy_id": "387464",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Gum Drop \u00ae",
+                            "machine_name": "nyssa_sylvatica_gum_drop",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Gum Drop",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660738",
+                                "legacy_id": "393425",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Afterburner \u00ae",
+                            "machine_name": "nyssa_sylvatica_afterburner",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Afterburner",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1660979",
+                                "legacy_id": "391786",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Valley Scorcher'",
+                            "machine_name": "nyssa_sylvatica_valley_scorcher",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Valley Scorcher",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662030",
+                                "legacy_id": "392518",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Sheffield Park'",
+                            "machine_name": "nyssa_sylvatica_sheffield_park",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Sheffield Park",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662639",
+                                "legacy_id": "392517",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'Black Wildfire'",
+                            "machine_name": "nyssa_sylvatica_black_wildfire",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Black Wildfire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1664817",
+                                "legacy_id": "403752",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica 'David Odom'",
+                            "machine_name": "nyssa_sylvatica_david_odom",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "David Odom",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1668905",
+                                "legacy_id": "405147",
+                                "fgsid": "24436",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Red Splyndor \u2122",
+                            "machine_name": "nyssa_sylvatica_red_splyndor",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Red Splyndor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2174776",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1513370124"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica ursina",
+                            "machine_name": "nyssa_sylvatica_ursina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "ursina",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2379576",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1537794667"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Firestarter \u00ae",
+                            "machine_name": "nyssa_sylvatica_firestarter",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Firestarter",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2491681",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1552589830"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Firemaster \u00ae",
+                            "machine_name": "nyssa_sylvatica_firemaster",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Firemaster",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2536946",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561203309"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Forest Fire \u00ae",
+                            "machine_name": "nyssa_sylvatica_forest_fire",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Forest Fire",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2536951",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561203441"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica White Chapel \u00ae",
+                            "machine_name": "nyssa_sylvatica_white_chapel",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "White Chapel",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2536961",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1561203683"
+                            }
+                        },
+                        {
+                            "name": "Nyssa sylvatica Northern Splendor \u2122",
+                            "machine_name": "nyssa_sylvatica_northern_splendor",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Northern Splendor",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "nyssa_sylvatica",
+                            "genus": "nyssa",
+                            "family": "nyssaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2576186",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1572038152"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1425436",
+                        "legacy_id": "15943",
+                        "fgsid": "24436",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391737",
+                "legacy_id": "3891",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Diplopanax",
+            "machine_name": "diplopanax",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hand.-Mazz.",
+            "description": null,
+            "family": "nyssaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Diplopanax [Cultivars]",
+                    "machine_name": "diplopanax_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "diplopanax",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337776",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529753299"
+                    }
+                },
+                {
+                    "name": "Diplopanax stachyanthus",
+                    "machine_name": "diplopanax_stachyanthus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hand.-Mazz.",
+                    "description": null,
+                    "genus": "diplopanax",
+                    "family": "nyssaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2337781",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1529753344"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2337771",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1529753299"
+            }
+        }
+    ]
+}

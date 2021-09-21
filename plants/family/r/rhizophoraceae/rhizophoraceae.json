@@ -1,0 +1,680 @@
+{
+    "name": "Rhizophoraceae",
+    "machine_name": "rhizophoraceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381380",
+        "legacy_id": "360",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Bruguiera",
+            "machine_name": "bruguiera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lam.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bruguiera [Cultivars]",
+                    "machine_name": "bruguiera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bruguiera",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381758",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Bruguiera exaristata",
+                    "machine_name": "bruguiera_exaristata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 13",
+                    "naming_authorities": "Ding Hou.",
+                    "description": null,
+                    "genus": "bruguiera",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397703",
+                        "legacy_id": "5692",
+                        "fgsid": "5142",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bruguiera gymnorrhiza",
+                    "machine_name": "bruguiera_gymnorrhiza",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "bruguiera",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397704",
+                        "legacy_id": "7047",
+                        "fgsid": "5143",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Bruguiera sexangula",
+                    "machine_name": "bruguiera_sexangula",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bruguiera",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397705",
+                        "legacy_id": "51728",
+                        "fgsid": "5144",
+                        "legacy_from_data_cross_ref": [
+                            "+Rhizophora saxangula"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381757",
+                "legacy_id": "849",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Carallia",
+            "machine_name": "carallia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Roxb.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Carallia [Cultivars]",
+                    "machine_name": "carallia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carallia",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382722",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Carallia brachiata",
+                    "machine_name": "carallia_brachiata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 6",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "carallia",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1407373",
+                        "legacy_id": "2192",
+                        "fgsid": "6123",
+                        "legacy_from_data_cross_ref": [
+                            "+Diatoma brachiata"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382721",
+                "legacy_id": "1022",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Ceriops",
+            "machine_name": "ceriops",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Arn.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ceriops [Cultivars]",
+                    "machine_name": "ceriops_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ceriops",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384272",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Ceriops tagal",
+                    "machine_name": "ceriops_tagal",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley.",
+                    "naming_authorities": "C. Robinson.",
+                    "description": null,
+                    "genus": "ceriops",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405213",
+                        "legacy_id": "15989",
+                        "fgsid": "7139",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384271",
+                "legacy_id": "1168",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Rhizophora",
+            "machine_name": "rhizophora",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Rhizophora [Cultivars]",
+                    "machine_name": "rhizophora_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhizophora",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385674",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Rhizophora apiculata",
+                    "machine_name": "rhizophora_apiculata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhizophora",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "bruguiera_gymnorrhiza",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1423624",
+                        "legacy_id": "943",
+                        "fgsid": "29954",
+                        "legacy_from_data_cross_ref": [
+                            "+Bruguiera gymnorrhiza"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Rhizophora mangle",
+                    "machine_name": "rhizophora_mangle",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "rhizophora",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423625",
+                        "legacy_id": "9980",
+                        "fgsid": "29955",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Rhizophora mucronata",
+                    "machine_name": "rhizophora_mucronata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Lam.",
+                    "description": null,
+                    "genus": "rhizophora",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423626",
+                        "legacy_id": "10788",
+                        "fgsid": "29956",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Rhizophora stylosa",
+                    "machine_name": "rhizophora_stylosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis II",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "rhizophora",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1423627",
+                        "legacy_id": "15700",
+                        "fgsid": "29957",
+                        "legacy_from_data_cross_ref": [
+                            "+Kandelia rheedii"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Rhizophora samoensis",
+                    "machine_name": "rhizophora_samoensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Salvoza.",
+                    "description": null,
+                    "genus": "rhizophora",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322501",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526832855"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385673",
+                "legacy_id": "4769",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pellacalyx",
+            "machine_name": "pellacalyx",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Korth.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pellacalyx [Cultivars]",
+                    "machine_name": "pellacalyx_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pellacalyx",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394358",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pellacalyx yunnanensis",
+                    "machine_name": "pellacalyx_yunnanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 11",
+                    "naming_authorities": "Hu.",
+                    "description": null,
+                    "genus": "pellacalyx",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1427023",
+                        "legacy_id": "17903",
+                        "fgsid": "26330",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Pellacalyx axillaris",
+                    "machine_name": "pellacalyx_axillaris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hoeven & de Vriese.",
+                    "description": null,
+                    "genus": "pellacalyx",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322506",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526832968"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394357",
+                "legacy_id": "4189",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Cassipourea",
+            "machine_name": "cassipourea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cassipourea [Cultivars]",
+                    "machine_name": "cassipourea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cassipourea",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397142",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Cassipourea flanaganii",
+                    "machine_name": "cassipourea_flanaganii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Alston.",
+                    "description": null,
+                    "genus": "cassipourea",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1452986",
+                        "legacy_id": "6022",
+                        "fgsid": "103496",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397141",
+                "legacy_id": "18922",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Crossostylis",
+            "machine_name": "crossostylis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "J.R. Forst. & G. Forst.",
+            "description": null,
+            "family": "rhizophoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Crossostylis [Cultivars]",
+                    "machine_name": "crossostylis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "crossostylis",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2384971",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1538405409"
+                    }
+                },
+                {
+                    "name": "Crossostylis grandiflora",
+                    "machine_name": "crossostylis_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brongn. & Gris.",
+                    "description": null,
+                    "genus": "crossostylis",
+                    "family": "rhizophoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2384976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1538405449"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2384966",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1538405409"
+            }
+        }
+    ]
+}

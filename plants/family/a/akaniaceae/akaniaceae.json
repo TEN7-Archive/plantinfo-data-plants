@@ -1,0 +1,154 @@
+{
+    "name": "Akaniaceae",
+    "machine_name": "akaniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Stapf.",
+    "description": null,
+    "archival_data": {
+        "id": "2331626",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528467403"
+    },
+    "genus_items": [
+        {
+            "name": "Bretschneidera",
+            "machine_name": "bretschneidera",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Hemsley.",
+            "description": null,
+            "family": "akaniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Bretschneidera [Cultivars]",
+                    "machine_name": "bretschneidera_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "bretschneidera",
+                    "family": "akaniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1381708",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Bretschneidera sinensis",
+                    "machine_name": "bretschneidera_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 3",
+                    "naming_authorities": "Hemsley.",
+                    "description": null,
+                    "genus": "bretschneidera",
+                    "family": "akaniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1403451",
+                        "legacy_id": "15144",
+                        "fgsid": "5039",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381707",
+                "legacy_id": "823",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Akania",
+            "machine_name": "akania",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "akaniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Akania [Cultivars]",
+                    "machine_name": "akania_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "akania",
+                    "family": "akaniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331636",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528467453"
+                    }
+                },
+                {
+                    "name": "Akania hillii",
+                    "machine_name": "akania_hillii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "akania",
+                    "family": "akaniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331641",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528467489"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331631",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528467453"
+            }
+        }
+    ]
+}

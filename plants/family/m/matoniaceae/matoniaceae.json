@@ -1,0 +1,85 @@
+{
+    "name": "Matoniaceae",
+    "machine_name": "matoniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Pic. Serm. & Reveal.",
+    "description": null,
+    "archival_data": {
+        "id": "2306686",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524685721"
+    },
+    "genus_items": [
+        {
+            "name": "Matonia",
+            "machine_name": "matonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "R. Br. & Wall.",
+            "description": null,
+            "family": "matoniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Matonia [Cultivars]",
+                    "machine_name": "matonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "matonia",
+                    "family": "matoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306696",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685778"
+                    }
+                },
+                {
+                    "name": "Matonia pectinata",
+                    "machine_name": "matonia_pectinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "matonia",
+                    "family": "matoniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2306701",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524685815"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2306691",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1524685778"
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "name": "Setchellanthaceae",
+    "machine_name": "setchellanthaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Brandegee.",
+    "description": null,
+    "archival_data": {
+        "id": "2331721",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528545849"
+    },
+    "genus_items": [
+        {
+            "name": "Setchellanthus",
+            "machine_name": "setchellanthus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Brandegee.",
+            "description": null,
+            "family": "setchellanthaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Setchellanthus [Cultivars]",
+                    "machine_name": "setchellanthus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "setchellanthus",
+                    "family": "setchellanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331731",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528545888"
+                    }
+                },
+                {
+                    "name": "Setchellanthus caerulea",
+                    "machine_name": "setchellanthus_caerulea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Brandegee.",
+                    "description": null,
+                    "genus": "setchellanthus",
+                    "family": "setchellanthaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331736",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528545923"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331726",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528545888"
+            }
+        }
+    ]
+}

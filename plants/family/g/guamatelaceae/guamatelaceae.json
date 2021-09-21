@@ -1,0 +1,85 @@
+{
+    "name": "Guamatelaceae",
+    "machine_name": "guamatelaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "S.H. Oh & D. Potter",
+    "description": null,
+    "archival_data": {
+        "id": "2327186",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527422563"
+    },
+    "genus_items": [
+        {
+            "name": "Guamatela",
+            "machine_name": "guamatela",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Donn. Sm.",
+            "description": null,
+            "family": "guamatelaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Guamatela [Cultivars]",
+                    "machine_name": "guamatela_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "guamatela",
+                    "family": "guamatelaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327196",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527422597"
+                    }
+                },
+                {
+                    "name": "Guamatela tuerckheimii",
+                    "machine_name": "guamatela_tuerckheimii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Donn. Sm.",
+                    "description": null,
+                    "genus": "guamatela",
+                    "family": "guamatelaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2327201",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527422636"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2327191",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527422597"
+            }
+        }
+    ]
+}

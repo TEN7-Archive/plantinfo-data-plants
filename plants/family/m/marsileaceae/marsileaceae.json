@@ -1,0 +1,593 @@
+{
+    "name": "Marsileaceae",
+    "machine_name": "marsileaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381478",
+        "legacy_id": "489",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Marsilea",
+            "machine_name": "marsilea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "marsileaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Marsilea [Cultivars]",
+                    "machine_name": "marsilea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383258",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Marsilea drummondii",
+                    "machine_name": "marsilea_drummondii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "A. Br.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438544",
+                        "legacy_id": "5132",
+                        "fgsid": "39935",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea mutica",
+                    "machine_name": "marsilea_mutica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Mett.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [
+                        {
+                            "name": "Marsilea mutica 'Variegata'",
+                            "machine_name": "marsilea_mutica_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "marsilea_mutica",
+                            "genus": "marsilea",
+                            "family": "marsileaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1640016",
+                                "legacy_id": "333696",
+                                "fgsid": "44658",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440153",
+                        "legacy_id": "10918",
+                        "fgsid": "44658",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea quadrifolia",
+                    "machine_name": "marsilea_quadrifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [
+                        {
+                            "name": "Marsilea quadrifolia 'Variegata'",
+                            "machine_name": "marsilea_quadrifolia_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "marsilea_quadrifolia",
+                            "genus": "marsilea",
+                            "family": "marsileaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1580296",
+                                "legacy_id": "206604",
+                                "fgsid": "44950",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1441526",
+                        "legacy_id": "13445",
+                        "fgsid": "44950",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea schelpiana",
+                    "machine_name": "marsilea_schelpiana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442656",
+                        "legacy_id": "24143",
+                        "fgsid": "52195",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea strigosa",
+                    "machine_name": "marsilea_strigosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (APNI)",
+                    "naming_authorities": "Willd.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445153",
+                        "legacy_id": "15661",
+                        "fgsid": "83617",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea crenata",
+                    "machine_name": "marsilea_crenata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448673",
+                        "legacy_id": "4168",
+                        "fgsid": "79075",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea mucronata",
+                    "machine_name": "marsilea_mucronata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "none?",
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448876",
+                        "legacy_id": "10788",
+                        "fgsid": "93547",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea macropoda",
+                    "machine_name": "marsilea_macropoda",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (GCI)",
+                    "naming_authorities": "Engelm.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1449667",
+                        "legacy_id": "9805",
+                        "fgsid": "69995",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea minuta",
+                    "machine_name": "marsilea_minuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455611",
+                        "legacy_id": "10532",
+                        "fgsid": "107655",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea vestita",
+                    "machine_name": "marsilea_vestita",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Hook. & Grev.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455612",
+                        "legacy_id": "17304",
+                        "fgsid": "107656",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea hirsuta",
+                    "machine_name": "marsilea_hirsuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "R. Br.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458791",
+                        "legacy_id": "7517",
+                        "fgsid": "138366",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Marsilea villosa",
+                    "machine_name": "marsilea_villosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Kaulf.",
+                    "description": null,
+                    "genus": "marsilea",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1460601",
+                        "legacy_id": "17352",
+                        "fgsid": "135132",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383257",
+                "legacy_id": "6188",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Regnellidium",
+            "machine_name": "regnellidium",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Lindman.",
+            "description": null,
+            "family": "marsileaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Regnellidium [Cultivars]",
+                    "machine_name": "regnellidium_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "regnellidium",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383402",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Regnellidium diphyllum",
+                    "machine_name": "regnellidium_diphyllum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Lindman.",
+                    "description": null,
+                    "genus": "regnellidium",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1439000",
+                        "legacy_id": "4959",
+                        "fgsid": "41434",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383401",
+                "legacy_id": "6260",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Pilularia",
+            "machine_name": "pilularia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (APNI)",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "marsileaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pilularia [Cultivars]",
+                    "machine_name": "pilularia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pilularia",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396476",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Pilularia minuta",
+                    "machine_name": "pilularia_minuta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabb.",
+                    "naming_authorities": "Dur. ex A.Br.",
+                    "description": null,
+                    "genus": "pilularia",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1445169",
+                        "legacy_id": "10532",
+                        "fgsid": "83696",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pilularia globulifera",
+                    "machine_name": "pilularia_globulifera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabb.",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "pilularia",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1447764",
+                        "legacy_id": "6697",
+                        "fgsid": "91696",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Pilularia americana",
+                    "machine_name": "pilularia_americana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "usda",
+                    "naming_authorities": "A. Braun.",
+                    "description": null,
+                    "genus": "pilularia",
+                    "family": "marsileaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1451944",
+                        "legacy_id": "646",
+                        "fgsid": "111639",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396475",
+                "legacy_id": "14322",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

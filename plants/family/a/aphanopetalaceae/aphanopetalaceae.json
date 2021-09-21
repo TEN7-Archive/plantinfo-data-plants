@@ -1,0 +1,114 @@
+{
+    "name": "Aphanopetalaceae",
+    "machine_name": "aphanopetalaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Endl.",
+    "description": null,
+    "archival_data": {
+        "id": "2318591",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526302365"
+    },
+    "genus_items": [
+        {
+            "name": "Aphanopetalum",
+            "machine_name": "aphanopetalum",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Endl.",
+            "description": null,
+            "family": "aphanopetalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Aphanopetalum [Cultivars]",
+                    "machine_name": "aphanopetalum_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "aphanopetalum",
+                    "family": "aphanopetalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1391202",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Aphanopetalum resinosum",
+                    "machine_name": "aphanopetalum_resinosum",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis I",
+                    "naming_authorities": "Endl.",
+                    "description": null,
+                    "genus": "aphanopetalum",
+                    "family": "aphanopetalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Aphanopetalum resinosum 'Gossamer Wings'",
+                            "machine_name": "aphanopetalum_resinosum_gossamer_wings",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gossamer Wings",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "aphanopetalum_resinosum",
+                            "genus": "aphanopetalum",
+                            "family": "aphanopetalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1596507",
+                                "legacy_id": "373061",
+                                "fgsid": "2840",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1400597",
+                        "legacy_id": "13737",
+                        "fgsid": "2840",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1391201",
+                "legacy_id": "399",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

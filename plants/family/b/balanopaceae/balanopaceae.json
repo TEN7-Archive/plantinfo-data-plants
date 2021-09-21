@@ -1,0 +1,85 @@
+{
+    "name": "Balanopaceae",
+    "machine_name": "balanopaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Benth. & Hook.f.",
+    "description": null,
+    "archival_data": {
+        "id": "2322986",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526942237"
+    },
+    "genus_items": [
+        {
+            "name": "Balanops",
+            "machine_name": "balanops",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "balanopaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Balanops [Cultivars]",
+                    "machine_name": "balanops_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "balanops",
+                    "family": "balanopaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322996",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526942276"
+                    }
+                },
+                {
+                    "name": "Balanops pancheri",
+                    "machine_name": "balanops_pancheri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "balanops",
+                    "family": "balanopaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323001",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526942308"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322991",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526942276"
+            }
+        }
+    ]
+}

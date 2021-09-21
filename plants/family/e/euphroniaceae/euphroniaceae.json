@@ -1,0 +1,109 @@
+{
+    "name": "Euphroniaceae",
+    "machine_name": "euphroniaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Marc.-Berti.",
+    "description": null,
+    "archival_data": {
+        "id": "2323116",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526989291"
+    },
+    "genus_items": [
+        {
+            "name": "Euphronia",
+            "machine_name": "euphronia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Mart. & Zucc.",
+            "description": null,
+            "family": "euphroniaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Euphronia [Cultivars]",
+                    "machine_name": "euphronia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "euphronia",
+                    "family": "euphroniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323126",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526989356"
+                    }
+                },
+                {
+                    "name": "Euphronia guianensis",
+                    "machine_name": "euphronia_guianensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hallier.f.",
+                    "description": null,
+                    "genus": "euphronia",
+                    "family": "euphroniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323131",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526989405"
+                    }
+                },
+                {
+                    "name": "Euphronia acuminatissima",
+                    "machine_name": "euphronia_acuminatissima",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Steyerm.",
+                    "description": null,
+                    "genus": "euphronia",
+                    "family": "euphroniaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323136",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526989452"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323121",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526989356"
+            }
+        }
+    ]
+}

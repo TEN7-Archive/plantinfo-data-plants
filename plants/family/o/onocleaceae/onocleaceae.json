@@ -1,0 +1,378 @@
+{
+    "name": "Onocleaceae",
+    "machine_name": "onocleaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Pic. Serm.",
+    "description": null,
+    "archival_data": {
+        "id": "2359431",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1532958342"
+    },
+    "genus_items": [
+        {
+            "name": "Matteuccia",
+            "machine_name": "matteuccia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Tod.",
+            "description": null,
+            "family": "onocleaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Matteuccia [Cultivars]",
+                    "machine_name": "matteuccia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "matteuccia",
+                    "family": "onocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383264",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Matteuccia nodulosa",
+                    "machine_name": "matteuccia_nodulosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "matteuccia",
+                    "family": "onocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438471",
+                        "legacy_id": "18939",
+                        "fgsid": "39861",
+                        "legacy_from_data_cross_ref": [
+                            "M. struthiopteris pensylvanica"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Matteuccia pensylvanica*",
+                    "machine_name": "matteuccia_pensylvanica",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": "created for cross reference",
+                    "genus": "matteuccia",
+                    "family": "onocleaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "matteuccia_struthiopteris",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1440728",
+                        "legacy_id": "12274",
+                        "fgsid": "43369",
+                        "legacy_from_data_cross_ref": [
+                            "Matteuccia struthiopteris"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Matteuccia struthiopteris",
+                    "machine_name": "matteuccia_struthiopteris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "Tod.",
+                    "description": null,
+                    "genus": "matteuccia",
+                    "family": "onocleaceae",
+                    "variety_items": [
+                        {
+                            "name": "Matteuccia struthiopteris pensylvanica",
+                            "machine_name": "matteuccia_struthiopteris_pensylvanica",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "pensylvanica",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "matteuccia_struthiopteris",
+                            "genus": "matteuccia",
+                            "family": "onocleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1537633",
+                                "legacy_id": "112365",
+                                "fgsid": "42865",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Matteuccia struthiopteris 'The King*'",
+                            "machine_name": "matteuccia_struthiopteris_the_king",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "The King*",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "matteuccia_struthiopteris",
+                            "genus": "matteuccia",
+                            "family": "onocleaceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "matteuccia_struthiopteris_jumbo",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1548779",
+                                "legacy_id": "122470",
+                                "fgsid": "42865",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Matteuccia struthiopteris 'Jumbo'",
+                            "machine_name": "matteuccia_struthiopteris_jumbo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Jumbo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "matteuccia_struthiopteris",
+                            "genus": "matteuccia",
+                            "family": "onocleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1556655",
+                                "legacy_id": "153731",
+                                "fgsid": "42865",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1444262",
+                        "legacy_id": "18940",
+                        "fgsid": "42865",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Matteuccia orientalis",
+                    "machine_name": "matteuccia_orientalis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Trev.",
+                    "description": null,
+                    "genus": "matteuccia",
+                    "family": "onocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448322",
+                        "legacy_id": "11720",
+                        "fgsid": "78477",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383263",
+                "legacy_id": "6191",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Onoclea",
+            "machine_name": "onoclea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "onocleaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Onoclea [Cultivars]",
+                    "machine_name": "onoclea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "onoclea",
+                    "family": "onocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383308",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Onoclea sensibilis",
+                    "machine_name": "onoclea_sensibilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "onoclea",
+                    "family": "onocleaceae",
+                    "variety_items": [
+                        {
+                            "name": "Onoclea sensibilis 'Texas Too Tall'",
+                            "machine_name": "onoclea_sensibilis_texas_too_tall",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Texas Too Tall",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "onoclea_sensibilis",
+                            "genus": "onoclea",
+                            "family": "onocleaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272471",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521059760"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1438617",
+                        "legacy_id": "19009",
+                        "fgsid": "41324",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Onoclea struthiopteris",
+                    "machine_name": "onoclea_struthiopteris",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hoffm.",
+                    "description": null,
+                    "genus": "onoclea",
+                    "family": "onocleaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2308306",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524766320"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383307",
+                "legacy_id": "6213",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

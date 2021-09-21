@@ -1,0 +1,1166 @@
+{
+    "name": "Agavaceae",
+    "machine_name": "agavaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381126",
+        "legacy_id": "6",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Calibanus",
+            "machine_name": "calibanus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Rose.",
+            "description": null,
+            "family": "agavaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Calibanus hookeri",
+                    "machine_name": "calibanus_hookeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calibanus",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1399267",
+                        "legacy_id": "7635",
+                        "fgsid": "5643",
+                        "legacy_from_data_cross_ref": [
+                            "+Dasylirium hookeri"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Calibanus [Cultivars]",
+                    "machine_name": "calibanus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "calibanus",
+                    "family": "agavaceae",
+                    "variety_items": [
+                        {
+                            "name": "Calibanus [Cultivars] 'Lotusland'",
+                            "machine_name": "calibanus_cultivars_lotusland",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lotusland",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "calibanus_cultivars",
+                            "genus": "calibanus",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1652317",
+                                "legacy_id": "389744",
+                                "fgsid": "145839",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458172",
+                        "legacy_id": "2",
+                        "fgsid": "145839",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1381919",
+                "legacy_id": "932",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Beaucarnea",
+            "machine_name": "beaucarnea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Lem.",
+            "description": null,
+            "family": "agavaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Beaucarnea gracilis",
+                    "machine_name": "beaucarnea_gracilis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lem.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nolina_gracilis",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1400315",
+                        "legacy_id": "6829",
+                        "fgsid": "4230",
+                        "legacy_from_data_cross_ref": [
+                            "Nolina gracilis"
+                        ],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Beaucarnea recurvata",
+                    "machine_name": "beaucarnea_recurvata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus not Mabber.",
+                    "naming_authorities": "Lem.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nolina_recurvata",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1400316",
+                        "legacy_id": "13641",
+                        "fgsid": "4231",
+                        "legacy_from_data_cross_ref": [
+                            "Nolina recurvata"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Beaucarnea stricta",
+                    "machine_name": "beaucarnea_stricta",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Lem.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "nolina_stricta",
+                            "type": "species"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1400317",
+                        "legacy_id": "15647",
+                        "fgsid": "4232",
+                        "legacy_from_data_cross_ref": [
+                            "Nolina stricta"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Beaucarnea guatemalensis",
+                    "machine_name": "beaucarnea_guatemalensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Rose.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1435372",
+                        "legacy_id": "6990",
+                        "fgsid": "42015",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Beaucarnea [Cultivars]",
+                    "machine_name": "beaucarnea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [
+                        {
+                            "name": "Beaucarnea [Cultivars] 'Gold Star'",
+                            "machine_name": "beaucarnea_cultivars_gold_star",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Star",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "beaucarnea_cultivars",
+                            "genus": "beaucarnea",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1624030",
+                                "legacy_id": "373065",
+                                "fgsid": "139939",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1458145",
+                        "legacy_id": "2",
+                        "fgsid": "139939",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Beaucarnea hookeri",
+                    "machine_name": "beaucarnea_hookeri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Baker.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462923",
+                        "legacy_id": "7635",
+                        "fgsid": "154401",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Beaucarnea inermis",
+                    "machine_name": "beaucarnea_inermis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Rose.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1463111",
+                        "legacy_id": "8014",
+                        "fgsid": "154420",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Beaucarnea sanctomariana",
+                    "machine_name": "beaucarnea_sanctomariana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "L. Hern.",
+                    "description": null,
+                    "genus": "beaucarnea",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2559416",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "kallen",
+                        "created": "1567882783"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1393049",
+                "legacy_id": "654",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Prochnyanthes",
+            "machine_name": "prochnyanthes",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "IPNI (IK)",
+            "naming_authorities": "S. Wats.",
+            "description": null,
+            "family": "agavaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Prochnyanthes [Cultivars]",
+                    "machine_name": "prochnyanthes_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "prochnyanthes",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1396514",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Prochnyanthes mexicana",
+                    "machine_name": "prochnyanthes_mexicana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "IPNI (IK)",
+                    "naming_authorities": "Rose.",
+                    "description": null,
+                    "genus": "prochnyanthes",
+                    "family": "agavaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446296",
+                        "legacy_id": "10378",
+                        "fgsid": "85057",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1396513",
+                "legacy_id": "14662",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Mangave",
+            "machine_name": "mangave",
+            "type": "genus",
+            "hybrid": "true",
+            "authorities": null,
+            "naming_authorities": "hort.",
+            "description": null,
+            "family": "agavaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Mangave [Cultivars]",
+                    "machine_name": "mangave_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "mangave",
+                    "family": "agavaceae",
+                    "variety_items": [
+                        {
+                            "name": "Mangave [Cultivars] 'Macho Mocha'",
+                            "machine_name": "mangave_cultivars_macho_mocha",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Macho Mocha",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1669155",
+                                "legacy_id": "407371",
+                                "fgsid": "154339",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866049"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] 'Pineapple Express'",
+                            "machine_name": "mangave_cultivars_pineapple_express",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pineapple Express",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2132616",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1503423699"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Bad Hair Day \u00ae",
+                            "machine_name": "mangave_cultivars_bad_hair_day",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Bad Hair Day",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272351",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521056811"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Catch a Wave \u00ae",
+                            "machine_name": "mangave_cultivars_catch_a_wave",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Catch a Wave",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272356",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521056848"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] 'Crazy Cowlick'",
+                            "machine_name": "mangave_cultivars_crazy_cowlick",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Crazy Cowlick",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272361",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521056873"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Dreadlocks \u00ae",
+                            "machine_name": "mangave_cultivars_dreadlocks",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Dreadlocks",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272366",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521056902"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Electric Cheetah \u00ae",
+                            "machine_name": "mangave_cultivars_electric_cheetah",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Electric Cheetah",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272371",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521056932"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Mad about Mangave Series \u00ae",
+                            "machine_name": "mangave_cultivars_mad_about_mangave_series",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Mad about Mangave Series",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272376",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521056994"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Inca Warrior \u00ae",
+                            "machine_name": "mangave_cultivars_inca_warrior",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Inca Warrior",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272381",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057041"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Freckles and Speckles \u00ae",
+                            "machine_name": "mangave_cultivars_freckles_and_speckles",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Freckles and Speckles",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272386",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057072"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Falling Waters \u00ae",
+                            "machine_name": "mangave_cultivars_falling_waters",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Falling Waters",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272391",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057098"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Iron Man \u00ae",
+                            "machine_name": "mangave_cultivars_iron_man",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Iron Man",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272396",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057396"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Kaleidoscope \u00ae",
+                            "machine_name": "mangave_cultivars_kaleidoscope",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Kaleidoscope",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272401",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057424"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Lavender Lady \u00ae",
+                            "machine_name": "mangave_cultivars_lavender_lady",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Lavender Lady",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272406",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057445"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Mayan Queen \u00ae",
+                            "machine_name": "mangave_cultivars_mayan_queen",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Mayan Queen",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272411",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057472"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Mission to Mars \u00ae",
+                            "machine_name": "mangave_cultivars_mission_to_mars",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Mission to Mars",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272416",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057526"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Navajo \u00ae",
+                            "machine_name": "mangave_cultivars_navajo",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Navajo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272421",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057548"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Purple People Eater \u00ae",
+                            "machine_name": "mangave_cultivars_purple_people_eater",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Purple People Eater",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272426",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057582"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Racing Stripes \u00ae",
+                            "machine_name": "mangave_cultivars_racing_stripes",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Racing Stripes",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272431",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057607"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Silver Fox \u00ae",
+                            "machine_name": "mangave_cultivars_silver_fox",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Silver Fox",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272436",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057655"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Whale Tale \u00ae",
+                            "machine_name": "mangave_cultivars_whale_tale",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Whale Tale",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272441",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057712"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] Spotty Dotty \u00ae",
+                            "machine_name": "mangave_cultivars_spotty_dotty",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Spotty Dotty",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2272446",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1521057720"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] 'Moonglow'",
+                            "machine_name": "mangave_cultivars_moonglow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Moonglow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2354841",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532530800"
+                            }
+                        },
+                        {
+                            "name": "Mangave [Cultivars] 'Redwing'",
+                            "machine_name": "mangave_cultivars_redwing",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Redwing",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "mangave_cultivars",
+                            "genus": "mangave",
+                            "family": "agavaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2354846",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1532530981"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1462992",
+                        "legacy_id": "2",
+                        "fgsid": "154339",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397583",
+                "legacy_id": "29944",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

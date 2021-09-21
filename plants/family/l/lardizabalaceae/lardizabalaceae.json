@@ -1,0 +1,1720 @@
+{
+    "name": "Lardizabalaceae",
+    "machine_name": "lardizabalaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381285",
+        "legacy_id": "235",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Holboellia",
+            "machine_name": "holboellia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Wallich.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Holboellia [Cultivars]",
+                    "machine_name": "holboellia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1382976",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Holboellia coriacea",
+                    "machine_name": "holboellia_coriacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus corrected",
+                    "naming_authorities": "Diels.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Holboellia coriacea 'China Blue'",
+                            "machine_name": "holboellia_coriacea_china_blue",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "China Blue",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "holboellia_coriacea",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1546174",
+                                "legacy_id": "123045",
+                                "fgsid": "18405",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Holboellia coriacea 'Cathedral Gem'",
+                            "machine_name": "holboellia_coriacea_cathedral_gem",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cathedral Gem",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "holboellia_coriacea",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620256",
+                                "legacy_id": "343717",
+                                "fgsid": "18405",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419785",
+                        "legacy_id": "3985",
+                        "fgsid": "18405",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Holboellia latifolia",
+                    "machine_name": "holboellia_latifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Wallich.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Holboellia latifolia 'Ritak'",
+                            "machine_name": "holboellia_latifolia_ritak",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ritak",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "holboellia_latifolia",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1650086",
+                                "legacy_id": "367950",
+                                "fgsid": "18406",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Holboellia latifolia chartacea",
+                            "machine_name": "holboellia_latifolia_chartacea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "chartacea",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "holboellia_latifolia",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2237941",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1518446107"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1419786",
+                        "legacy_id": "8936",
+                        "fgsid": "18406",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Holboellia fargesii",
+                    "machine_name": "holboellia_fargesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Reaub.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1436128",
+                        "legacy_id": "5802",
+                        "fgsid": "41944",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Holboellia angustifolia",
+                    "machine_name": "holboellia_angustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Holboellia angustifolia linifolia",
+                            "machine_name": "holboellia_angustifolia_linifolia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "linifolia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "holboellia_angustifolia",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597863",
+                                "legacy_id": "232218",
+                                "fgsid": "97031",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849539"
+                            }
+                        },
+                        {
+                            "name": "Holboellia angustifolia trifoliata",
+                            "machine_name": "holboellia_angustifolia_trifoliata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "trifoliata",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Subspecies"
+                            ],
+                            "species": "holboellia_angustifolia",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620255",
+                                "legacy_id": "343716",
+                                "fgsid": "97031",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853696"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446456",
+                        "legacy_id": "827",
+                        "fgsid": "97031",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Holboellia chapaensis",
+                    "machine_name": "holboellia_chapaensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "Gagnep.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446457",
+                        "legacy_id": "53073",
+                        "fgsid": "97032",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Holboellia brachyandra",
+                    "machine_name": "holboellia_brachyandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.N. Qin.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Holboellia brachyandra Heavenly Ascent \u00ae",
+                            "machine_name": "holboellia_brachyandra_heavenly_ascent",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Heavenly Ascent",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "holboellia_brachyandra",
+                            "genus": "holboellia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2291706",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1523119909"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456119",
+                        "legacy_id": "2194",
+                        "fgsid": "128261",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Holboellia grandiflora",
+                    "machine_name": "holboellia_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Reaub.",
+                    "description": null,
+                    "genus": "holboellia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1457935",
+                        "legacy_id": "6879",
+                        "fgsid": "143959",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1382975",
+                "legacy_id": "2762",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sinofranchetia",
+            "machine_name": "sinofranchetia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "1998 Sources",
+            "naming_authorities": "Hemsley.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sinofranchetia [Cultivars]",
+                    "machine_name": "sinofranchetia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sinofranchetia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1384100",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sinofranchetia chinensis",
+                    "machine_name": "sinofranchetia_chinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": "Hemsley.",
+                    "description": null,
+                    "genus": "sinofranchetia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1437176",
+                        "legacy_id": "3351",
+                        "fgsid": "40945",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1384099",
+                "legacy_id": "6275",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Lardizabala",
+            "machine_name": "lardizabala",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Ruiz & Pavon.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lardizabala [Cultivars]",
+                    "machine_name": "lardizabala_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lardizabala",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1385562",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Lardizabala biternata",
+                    "machine_name": "lardizabala_biternata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Mabberley",
+                    "naming_authorities": "Ruiz & Pavon.",
+                    "description": null,
+                    "genus": "lardizabala",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1421025",
+                        "legacy_id": "1998",
+                        "fgsid": "20264",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Lardizabala funaria",
+                    "machine_name": "lardizabala_funaria",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Looser.",
+                    "description": null,
+                    "genus": "lardizabala",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1459566",
+                        "legacy_id": "82665",
+                        "fgsid": "142964",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1385561",
+                "legacy_id": "3109",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Decaisnea",
+            "machine_name": "decaisnea",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Decaisnea [Cultivars]",
+                    "machine_name": "decaisnea_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "decaisnea",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1388646",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Decaisnea fargesii",
+                    "machine_name": "decaisnea_fargesii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Franch.",
+                    "description": null,
+                    "genus": "decaisnea",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1405741",
+                        "legacy_id": "5802",
+                        "fgsid": "10317",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Decaisnea insignis",
+                    "machine_name": "decaisnea_insignis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri",
+                    "naming_authorities": "Hook.f. & Thomson.",
+                    "description": null,
+                    "genus": "decaisnea",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1446443",
+                        "legacy_id": "8073",
+                        "fgsid": "97018",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388645",
+                "legacy_id": "1740",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Stauntonia",
+            "machine_name": "stauntonia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "DC.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Stauntonia [Cultivars]",
+                    "machine_name": "stauntonia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1389204",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Stauntonia hexaphylla",
+                    "machine_name": "stauntonia_hexaphylla",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1432646",
+                        "legacy_id": "7447",
+                        "fgsid": "33657",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Stauntonia purpurea",
+                    "machine_name": "stauntonia_purpurea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 17",
+                    "naming_authorities": "Liu & Lu.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440990",
+                        "legacy_id": "13338",
+                        "fgsid": "64335",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stauntonia grandiflora",
+                    "machine_name": "stauntonia_grandiflora",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis 29\/3",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456626",
+                        "legacy_id": "6879",
+                        "fgsid": "142966",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stauntonia libera",
+                    "machine_name": "stauntonia_libera",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "H.N. Qin.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456627",
+                        "legacy_id": "82666",
+                        "fgsid": "142967",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stauntonia chapaensis",
+                    "machine_name": "stauntonia_chapaensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis 29\/3",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456628",
+                        "legacy_id": "53073",
+                        "fgsid": "142968",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stauntonia brachyandra",
+                    "machine_name": "stauntonia_brachyandra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Curtis 29\/3",
+                    "naming_authorities": "Christenh.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456629",
+                        "legacy_id": "2194",
+                        "fgsid": "142969",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stauntonia angustifolia",
+                    "machine_name": "stauntonia_angustifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456630",
+                        "legacy_id": "827",
+                        "fgsid": "142970",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Stauntonia latifolia",
+                    "machine_name": "stauntonia_latifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Wall.",
+                    "description": null,
+                    "genus": "stauntonia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456631",
+                        "legacy_id": "8936",
+                        "fgsid": "142971",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389203",
+                "legacy_id": "5247",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Akebia",
+            "machine_name": "akebia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": null,
+            "naming_authorities": "Decne.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Akebia pentaphylla",
+                    "machine_name": "akebia_pentaphylla",
+                    "type": "species",
+                    "hybrid": "true",
+                    "authorities": "Royal change",
+                    "naming_authorities": "Mak.",
+                    "description": null,
+                    "genus": "akebia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Akebia pentaphylla Purple Incense \u2122",
+                            "machine_name": "akebia_pentaphylla_purple_incense",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Purple Incense",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_pentaphylla",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1634105",
+                                "legacy_id": "308417",
+                                "fgsid": "1620",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401351",
+                        "legacy_id": "12296",
+                        "fgsid": "1620",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Akebia quinata",
+                    "machine_name": "akebia_quinata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "akebia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Akebia quinata 'Alba'",
+                            "machine_name": "akebia_quinata_alba",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Alba",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499791",
+                                "legacy_id": "70775",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Leucanta'",
+                            "machine_name": "akebia_quinata_leucanta",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Leucanta",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499792",
+                                "legacy_id": "70776",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Rosea'",
+                            "machine_name": "akebia_quinata_rosea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Rosea",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499793",
+                                "legacy_id": "70777",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Shirobana'",
+                            "machine_name": "akebia_quinata_shirobana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Shirobana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499794",
+                                "legacy_id": "70778",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Variegata'",
+                            "machine_name": "akebia_quinata_variegata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499795",
+                                "legacy_id": "70779",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata Purple Bouquet \u2122",
+                            "machine_name": "akebia_quinata_purple_bouquet",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Purple Bouquet",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540956",
+                                "legacy_id": "114419",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata Silver Bells \u2122",
+                            "machine_name": "akebia_quinata_silver_bells",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Silver Bells",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540957",
+                                "legacy_id": "114420",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Brookside Variegated'",
+                            "machine_name": "akebia_quinata_brookside_variegated",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Brookside Variegated",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1560613",
+                                "legacy_id": "169739",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Raintree White'",
+                            "machine_name": "akebia_quinata_raintree_white",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Raintree White",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567129",
+                                "legacy_id": "174790",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Raintree Purple'",
+                            "machine_name": "akebia_quinata_raintree_purple",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Raintree Purple",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1567130",
+                                "legacy_id": "174791",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840869"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Amethyst Glow'",
+                            "machine_name": "akebia_quinata_amethyst_glow",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Amethyst Glow",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1569103",
+                                "legacy_id": "182376",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata 'Chocolate Vine'",
+                            "machine_name": "akebia_quinata_chocolate_vine",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Chocolate Vine",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1582524",
+                                "legacy_id": "210634",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        },
+                        {
+                            "name": "Akebia quinata Purple Rose \u2122",
+                            "machine_name": "akebia_quinata_purple_rose",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Purple Rose",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_quinata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1585232",
+                                "legacy_id": "220175",
+                                "fgsid": "1621",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845206"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401352",
+                        "legacy_id": "13479",
+                        "fgsid": "1621",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Akebia trifoliata",
+                    "machine_name": "akebia_trifoliata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "G. Koidz.",
+                    "description": null,
+                    "genus": "akebia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Akebia trifoliata 'Big Purple'",
+                            "machine_name": "akebia_trifoliata_big_purple",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Big Purple",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_trifoliata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499796",
+                                "legacy_id": "70780",
+                                "fgsid": "1622",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828543"
+                            }
+                        },
+                        {
+                            "name": "Akebia trifoliata Deep Purple \u2122",
+                            "machine_name": "akebia_trifoliata_deep_purple",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Deep Purple",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_trifoliata",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1540955",
+                                "legacy_id": "114418",
+                                "fgsid": "1622",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836612"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1401353",
+                        "legacy_id": "16664",
+                        "fgsid": "1622",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812190"
+                    }
+                },
+                {
+                    "name": "Akebia longeracemosa",
+                    "machine_name": "akebia_longeracemosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 2",
+                    "naming_authorities": "Matsum.",
+                    "description": null,
+                    "genus": "akebia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1440590",
+                        "legacy_id": "9446",
+                        "fgsid": "46315",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                },
+                {
+                    "name": "Akebia [Cultivars]",
+                    "machine_name": "akebia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "akebia",
+                    "family": "lardizabalaceae",
+                    "variety_items": [
+                        {
+                            "name": "Akebia [Cultivars] 'Kohin Nishiki'",
+                            "machine_name": "akebia_cultivars_kohin_nishiki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kohin Nishiki",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "akebia_cultivars",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1632930",
+                                "legacy_id": "312496",
+                                "fgsid": "122299",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482857903"
+                            }
+                        },
+                        {
+                            "name": "Akebia [Cultivars] Purple Kimono \u2122",
+                            "machine_name": "akebia_cultivars_purple_kimono",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Purple Kimono",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_cultivars",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1646532",
+                                "legacy_id": "373221",
+                                "fgsid": "122299",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        },
+                        {
+                            "name": "Akebia [Cultivars] Purple Haze \u2122",
+                            "machine_name": "akebia_cultivars_purple_haze",
+                            "type": "variety",
+                            "mark": "tm",
+                            "lower_ranks_name": "Purple Haze",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "akebia_cultivars",
+                            "genus": "akebia",
+                            "family": "lardizabalaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1652200",
+                                "legacy_id": "376772",
+                                "fgsid": "122299",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862047"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456422",
+                        "legacy_id": "2",
+                        "fgsid": "122299",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1389449",
+                "legacy_id": "192",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Sargentodoxa",
+            "machine_name": "sargentodoxa",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Rehd. & E.H. Wilson.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Sargentodoxa [Cultivars]",
+                    "machine_name": "sargentodoxa_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "sargentodoxa",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395690",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Sargentodoxa cuneata",
+                    "machine_name": "sargentodoxa_cuneata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Rehd. & E.H. Wilson.",
+                    "description": null,
+                    "genus": "sargentodoxa",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1461600",
+                        "legacy_id": "4308",
+                        "fgsid": "142963",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395689",
+                "legacy_id": "27406",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        },
+        {
+            "name": "Boquila",
+            "machine_name": "boquila",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Missouri.",
+            "naming_authorities": "Decne.",
+            "description": null,
+            "family": "lardizabalaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Boquila [Cultivars]",
+                    "machine_name": "boquila_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "boquila",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1395692",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Boquila trifoliolata",
+                    "machine_name": "boquila_trifoliolata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri.",
+                    "naming_authorities": "Decne.",
+                    "description": null,
+                    "genus": "boquila",
+                    "family": "lardizabalaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1456625",
+                        "legacy_id": "16669",
+                        "fgsid": "142965",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1395691",
+                "legacy_id": "27407",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

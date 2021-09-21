@@ -1,0 +1,133 @@
+{
+    "name": "Hydatellaceae",
+    "machine_name": "hydatellaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Hook.f.",
+    "description": null,
+    "archival_data": {
+        "id": "2309776",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1524852261"
+    },
+    "genus_items": [
+        {
+            "name": "Trithuria",
+            "machine_name": "trithuria",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "hydatellaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Trithuria [Cultivars]",
+                    "machine_name": "trithuria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "trithuria",
+                    "family": "hydatellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1397308",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Trithuria submersa",
+                    "machine_name": "trithuria_submersa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "trithuria",
+                    "family": "hydatellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309166",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524835500"
+                    }
+                },
+                {
+                    "name": "Trithuria filamentosa",
+                    "machine_name": "trithuria_filamentosa",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Rodway.",
+                    "description": null,
+                    "genus": "trithuria",
+                    "family": "hydatellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309171",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524835980"
+                    }
+                },
+                {
+                    "name": "Trithuria bibracteata",
+                    "machine_name": "trithuria_bibracteata",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Stapf & D.A. Cooke.",
+                    "description": null,
+                    "genus": "trithuria",
+                    "family": "hydatellaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2309176",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1524836100"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1397307",
+                "legacy_id": "19924",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

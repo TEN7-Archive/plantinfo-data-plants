@@ -1,0 +1,1107 @@
+{
+    "name": "Taxodiaceae",
+    "machine_name": "taxodiaceae",
+    "type": "family",
+    "authorities": null,
+    "naming_authorities": null,
+    "description": null,
+    "archival_data": {
+        "id": "1381419",
+        "legacy_id": "408",
+        "author": "oitadmin",
+        "created": "1473443572"
+    },
+    "genus_items": [
+        {
+            "name": "Cephalotaxus",
+            "machine_name": "cephalotaxus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "Siebold & Zucc.",
+            "description": null,
+            "family": "taxodiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Cephalotaxus [Cultivars]",
+                    "machine_name": "cephalotaxus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1383600",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443580"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus fortunei",
+                    "machine_name": "cephalotaxus_fortunei",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Hook.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cephalotaxus fortunei 'Prostrata'",
+                            "machine_name": "cephalotaxus_fortunei_prostrata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prostrata",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_fortunei",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503160",
+                                "legacy_id": "74077",
+                                "fgsid": "7024",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus fortunei alpina",
+                            "machine_name": "cephalotaxus_fortunei_alpina",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "alpina",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cephalotaxus_fortunei",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1609607",
+                                "legacy_id": "375012",
+                                "fgsid": "7024",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus fortunei 'Prostrate Spreader'",
+                            "machine_name": "cephalotaxus_fortunei_prostrate_spreader",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prostrate Spreader",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_fortunei",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2456641",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549907336"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404809",
+                        "legacy_id": "6193",
+                        "fgsid": "7024",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus harringtonia",
+                    "machine_name": "cephalotaxus_harringtonia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Royal Hort.",
+                    "naming_authorities": "Koch.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [
+                        {
+                            "name": "Cephalotaxus harringtonia drupacea",
+                            "machine_name": "cephalotaxus_harringtonia_drupacea",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "drupacea",
+                            "authorities": "Hortus",
+                            "naming_authorities": "G. Koidz.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467076",
+                                "legacy_id": "4443",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Fastigiata'",
+                            "machine_name": "cephalotaxus_harringtonia_fastigiata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fastigiata",
+                            "authorities": "Welch change",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467077",
+                                "legacy_id": "4444",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia harringtonia",
+                            "machine_name": "cephalotaxus_harringtonia_harringtonia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "harringtonia",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467078",
+                                "legacy_id": "4445",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Korean Gold'",
+                            "machine_name": "cephalotaxus_harringtonia_korean_gold",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Korean Gold",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467307",
+                                "legacy_id": "4446",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia koreana",
+                            "machine_name": "cephalotaxus_harringtonia_koreana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "koreana",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": "Rehd.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467308",
+                                "legacy_id": "4447",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Prostrata'",
+                            "machine_name": "cephalotaxus_harringtonia_prostrata",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Prostrata",
+                            "authorities": "Welch",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1467309",
+                                "legacy_id": "4448",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Duke Gardens'",
+                            "machine_name": "cephalotaxus_harringtonia_duke_gardens",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Duke Gardens",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503161",
+                                "legacy_id": "74078",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Fritz Huber'",
+                            "machine_name": "cephalotaxus_harringtonia_fritz_huber",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Fritz Huber",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503162",
+                                "legacy_id": "74079",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Uptight'",
+                            "machine_name": "cephalotaxus_harringtonia_uptight",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Uptight",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1503163",
+                                "legacy_id": "74080",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Watnog'",
+                            "machine_name": "cephalotaxus_harringtonia_watnog",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Watnog",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538617",
+                                "legacy_id": "113847",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Ogon'",
+                            "machine_name": "cephalotaxus_harringtonia_ogon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ogon",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1549937",
+                                "legacy_id": "122752",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Green Vase'",
+                            "machine_name": "cephalotaxus_harringtonia_green_vase",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Green Vase",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1555725",
+                                "legacy_id": "151314",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia nana",
+                            "machine_name": "cephalotaxus_harringtonia_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "nana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1568310",
+                                "legacy_id": "175409",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Yewtopia'",
+                            "machine_name": "cephalotaxus_harringtonia_yewtopia",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yewtopia",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1620173",
+                                "legacy_id": "340608",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Gnome'",
+                            "machine_name": "cephalotaxus_harringtonia_gnome",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gnome",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655375",
+                                "legacy_id": "375013",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'H.W. Sargent'",
+                            "machine_name": "cephalotaxus_harringtonia_h_w_sargent",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "H.W. Sargent",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1655376",
+                                "legacy_id": "375014",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482862020"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Hedgehog'",
+                            "machine_name": "cephalotaxus_harringtonia_hedgehog",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Hedgehog",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1661468",
+                                "legacy_id": "393223",
+                                "fgsid": "7025",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'McCorkle'",
+                            "machine_name": "cephalotaxus_harringtonia_mccorkle",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "McCorkle",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2126291",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "jense035",
+                                "created": "1491232560"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Gold Splash'",
+                            "machine_name": "cephalotaxus_harringtonia_gold_splash",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Gold Splash",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2159161",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1511204220"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia wilsoniana",
+                            "machine_name": "cephalotaxus_harringtonia_wilsoniana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "wilsoniana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2456646",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549907458"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Lad'",
+                            "machine_name": "cephalotaxus_harringtonia_lad",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Lad",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2456651",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549907601"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Kools'",
+                            "machine_name": "cephalotaxus_harringtonia_kools",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kools",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2456661",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "r-isaa",
+                                "created": "1549907694"
+                            }
+                        },
+                        {
+                            "name": "Cephalotaxus harringtonia 'Scott Wallace'",
+                            "machine_name": "cephalotaxus_harringtonia_scott_wallace",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Scott Wallace",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "cephalotaxus_harringtonia",
+                            "genus": "cephalotaxus",
+                            "family": "taxodiaceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "2614781",
+                                "legacy_id": null,
+                                "fgsid": null,
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "false",
+                                "author": "foste411",
+                                "created": "1584557052"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404810",
+                        "legacy_id": "7184",
+                        "fgsid": "7025",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus sinensis",
+                    "machine_name": "cephalotaxus_sinensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "H.L. Li.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404811",
+                        "legacy_id": "15144",
+                        "fgsid": "7026",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus wilsoniana",
+                    "machine_name": "cephalotaxus_wilsoniana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Kewensis 5",
+                    "naming_authorities": "Hayata.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1404812",
+                        "legacy_id": "17743",
+                        "fgsid": "7027",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus drupacea*",
+                    "machine_name": "cephalotaxus_drupacea",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "1998 Sources",
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [
+                        {
+                            "machine_name": "cephalotaxus_harringtonia_drupacea",
+                            "type": "plant"
+                        }
+                    ],
+                    "archival_data": {
+                        "id": "1438396",
+                        "legacy_id": "5135",
+                        "fgsid": "38474",
+                        "legacy_from_data_cross_ref": [
+                            "C. harringtonia drupacea"
+                        ],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus koreana",
+                    "machine_name": "cephalotaxus_koreana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Missouri change.",
+                    "naming_authorities": "Nak.",
+                    "description": "Kewensis 1 says is C. pedunculata",
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1442483",
+                        "legacy_id": "8615",
+                        "fgsid": "43792",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus oliveri",
+                    "machine_name": "cephalotaxus_oliveri",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Mast.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1455359",
+                        "legacy_id": "11613",
+                        "fgsid": "127524",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus hainanensis",
+                    "machine_name": "cephalotaxus_hainanensis",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "H.L. Li.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2448116",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549284613"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus latifolia",
+                    "machine_name": "cephalotaxus_latifolia",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "W.C. Cheng & L.K. Fu.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2448121",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549284750"
+                    }
+                },
+                {
+                    "name": "Cephalotaxus mannii",
+                    "machine_name": "cephalotaxus_mannii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "E. Pritz. & Diels.",
+                    "description": null,
+                    "genus": "cephalotaxus",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2448126",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1549284826"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1383599",
+                "legacy_id": "1145",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        },
+        {
+            "name": "Taxodiomeria",
+            "machine_name": "taxodiomeria",
+            "type": "genus",
+            "hybrid": "true",
+            "authorities": "gen. nov.",
+            "naming_authorities": "Z.J.Ye, J.J.Zhang & S.H.Pan.",
+            "description": null,
+            "family": "taxodiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Taxodiomeria [Cultivars]",
+                    "machine_name": "taxodiomeria_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "taxodiomeria",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1394806",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "oitadmin",
+                        "created": "1473443597"
+                    }
+                },
+                {
+                    "name": "Taxodiomeria peizhongii",
+                    "machine_name": "taxodiomeria_peizhongii",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "sp. nov.",
+                    "naming_authorities": "Z.J.Ye, J.J.Zhang & S.H.Pan.",
+                    "description": "Cryptomeria fortunei \u221a\u00f3 Taxodium mucronatum",
+                    "genus": "taxodiomeria",
+                    "family": "taxodiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1454211",
+                        "legacy_id": "64604",
+                        "fgsid": "117419",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "false",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815432"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1394805",
+                "legacy_id": "21424",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758874"
+            }
+        }
+    ]
+}

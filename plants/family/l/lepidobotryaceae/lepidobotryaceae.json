@@ -1,0 +1,85 @@
+{
+    "name": "Lepidobotryaceae",
+    "machine_name": "lepidobotryaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Leonard.",
+    "description": null,
+    "archival_data": {
+        "id": "2321531",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526735400"
+    },
+    "genus_items": [
+        {
+            "name": "Ruptiliocarpon",
+            "machine_name": "ruptiliocarpon",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hammel & N. Zamora.",
+            "description": null,
+            "family": "lepidobotryaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Ruptiliocarpon [Cultivars]",
+                    "machine_name": "ruptiliocarpon_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "ruptiliocarpon",
+                    "family": "lepidobotryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321541",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526735487"
+                    }
+                },
+                {
+                    "name": "Ruptiliocarpon caaracolito",
+                    "machine_name": "ruptiliocarpon_caaracolito",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hammel & N. Zamora.",
+                    "description": null,
+                    "genus": "ruptiliocarpon",
+                    "family": "lepidobotryaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2321546",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526735542"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2321536",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526735487"
+            }
+        }
+    ]
+}

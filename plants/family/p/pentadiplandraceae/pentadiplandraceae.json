@@ -1,0 +1,85 @@
+{
+    "name": "Pentadiplandraceae",
+    "machine_name": "pentadiplandraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Hutch. & Dalziel.",
+    "description": null,
+    "archival_data": {
+        "id": "2331821",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1528546867"
+    },
+    "genus_items": [
+        {
+            "name": "Pentadiplandra",
+            "machine_name": "pentadiplandra",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Baill.",
+            "description": null,
+            "family": "pentadiplandraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Pentadiplandra [Cultivars]",
+                    "machine_name": "pentadiplandra_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "pentadiplandra",
+                    "family": "pentadiplandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331831",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528546905"
+                    }
+                },
+                {
+                    "name": "Pentadiplandra brazzeana",
+                    "machine_name": "pentadiplandra_brazzeana",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Baill.",
+                    "description": null,
+                    "genus": "pentadiplandra",
+                    "family": "pentadiplandraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2331836",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1528546940"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2331826",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1528546905"
+            }
+        }
+    ]
+}

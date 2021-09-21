@@ -1,0 +1,85 @@
+{
+    "name": "Lophopyxidaceae",
+    "machine_name": "lophopyxidaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "H. Pfeiff.",
+    "description": null,
+    "archival_data": {
+        "id": "2322886",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1526915431"
+    },
+    "genus_items": [
+        {
+            "name": "Lophopyxis",
+            "machine_name": "lophopyxis",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Hook.f.",
+            "description": null,
+            "family": "lophopyxidaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Lophopyxis [Cultivars]",
+                    "machine_name": "lophopyxis_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "lophopyxis",
+                    "family": "lophopyxidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322896",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915457"
+                    }
+                },
+                {
+                    "name": "Lophopyxis maingayi",
+                    "machine_name": "lophopyxis_maingayi",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Hook.f.",
+                    "description": null,
+                    "genus": "lophopyxis",
+                    "family": "lophopyxidaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2322901",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1526915498"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2322891",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1526915457"
+            }
+        }
+    ]
+}

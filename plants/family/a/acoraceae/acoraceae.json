@@ -1,0 +1,929 @@
+{
+    "name": "Acoraceae",
+    "machine_name": "acoraceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Martinov.",
+    "description": null,
+    "archival_data": {
+        "id": "2310546",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1525011261"
+    },
+    "genus_items": [
+        {
+            "name": "Acorus",
+            "machine_name": "acorus",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos change",
+            "naming_authorities": "L.",
+            "description": null,
+            "family": "acoraceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Acorus americanus",
+                    "machine_name": "acorus_americanus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "WF Center change",
+                    "naming_authorities": "Raf.",
+                    "description": null,
+                    "genus": "acorus",
+                    "family": "acoraceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398563",
+                        "legacy_id": "649",
+                        "fgsid": "901",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Acorus calamus",
+                    "machine_name": "acorus_calamus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "L.",
+                    "description": null,
+                    "genus": "acorus",
+                    "family": "acoraceae",
+                    "variety_items": [
+                        {
+                            "name": "Acorus calamus angustifolius",
+                            "machine_name": "acorus_calamus_angustifolius",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "angustifolius",
+                            "authorities": "Hortus",
+                            "naming_authorities": "Engl.",
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "acorus_calamus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465934",
+                                "legacy_id": "597",
+                                "fgsid": "902",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus calamus 'Variegatus'",
+                            "machine_name": "acorus_calamus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegatus",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_calamus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465935",
+                                "legacy_id": "598",
+                                "fgsid": "902",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus calamus americana",
+                            "machine_name": "acorus_calamus_americana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "americana",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Variety"
+                            ],
+                            "species": "acorus_calamus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1662747",
+                                "legacy_id": "391920",
+                                "fgsid": "902",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482866040"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398564",
+                        "legacy_id": "2607",
+                        "fgsid": "902",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Acorus gramineus",
+                    "machine_name": "acorus_gramineus",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Hortus",
+                    "naming_authorities": "Ait.",
+                    "description": null,
+                    "genus": "acorus",
+                    "family": "acoraceae",
+                    "variety_items": [
+                        {
+                            "name": "Acorus gramineus 'Albovariegatus'",
+                            "machine_name": "acorus_gramineus_albovariegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Albovariegatus",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465936",
+                                "legacy_id": "599",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Argenteostriatus'",
+                            "machine_name": "acorus_gramineus_argenteostriatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Argenteostriatus",
+                            "authorities": "Royal Hort",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465937",
+                                "legacy_id": "600",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [
+                                    "+A.g. 'Albov."
+                                ],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Aureovariegatus'",
+                            "machine_name": "acorus_gramineus_aureovariegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Aureovariegatus",
+                            "authorities": "Cv.",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465938",
+                                "legacy_id": "601",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Oborozuki'",
+                            "machine_name": "acorus_gramineus_oborozuki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Oborozuki",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465939",
+                                "legacy_id": "602",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Ogon'",
+                            "machine_name": "acorus_gramineus_ogon",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Ogon",
+                            "authorities": "PlantFinder",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465940",
+                                "legacy_id": "603",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Pusillus'",
+                            "machine_name": "acorus_gramineus_pusillus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pusillus",
+                            "authorities": "Hortus",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1465941",
+                                "legacy_id": "604",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482817680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Licorice'",
+                            "machine_name": "acorus_gramineus_licorice",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Licorice",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1498984",
+                                "legacy_id": "70596",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Masamune'",
+                            "machine_name": "acorus_gramineus_masamune",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Masamune",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1498985",
+                                "legacy_id": "70597",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Minimus Aureus'",
+                            "machine_name": "acorus_gramineus_minimus_aureus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Minimus Aureus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1498986",
+                                "legacy_id": "70598",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [
+                                    "A. g. 'Pusillus Minimus Aureus'"
+                                ],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Pusillus Minimus'",
+                            "machine_name": "acorus_gramineus_pusillus_minimus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pusillus Minimus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1498987",
+                                "legacy_id": "70599",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Pusillus Minimus Aureus'",
+                            "machine_name": "acorus_gramineus_pusillus_minimus_aureus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pusillus Minimus Aureus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1498988",
+                                "legacy_id": "70600",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Pusillus Nana'",
+                            "machine_name": "acorus_gramineus_pusillus_nana",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pusillus Nana",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499198",
+                                "legacy_id": "70601",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Pusillus Variegatus'",
+                            "machine_name": "acorus_gramineus_pusillus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Pusillus Variegatus",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499199",
+                                "legacy_id": "70602",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Tanimanoyuki'",
+                            "machine_name": "acorus_gramineus_tanimanoyuki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Tanimanoyuki",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499200",
+                                "legacy_id": "70603",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Yodonoyuki'",
+                            "machine_name": "acorus_gramineus_yodonoyuki",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Yodonoyuki",
+                            "authorities": "1998 Sources",
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1499201",
+                                "legacy_id": "70604",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482828540"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Minimus Variegatus'",
+                            "machine_name": "acorus_gramineus_minimus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Minimus Variegatus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1538637",
+                                "legacy_id": "113867",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482836580"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Minimus'",
+                            "machine_name": "acorus_gramineus_minimus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Minimus",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1553966",
+                                "legacy_id": "145682",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Variegatus*'",
+                            "machine_name": "acorus_gramineus_variegatus",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Variegatus*",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [
+                                {
+                                    "machine_name": "acorus_gramineus_argenteostriatus",
+                                    "type": "plant"
+                                }
+                            ],
+                            "archival_data": {
+                                "id": "1571544",
+                                "legacy_id": "188301",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [
+                                    "Acorus gramineus Argenteostriatus"
+                                ],
+                                "fpi": "true",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Himemasamune dwarf'",
+                            "machine_name": "acorus_gramineus_himemasamune_dwarf",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Himemasamune dwarf",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1575339",
+                                "legacy_id": "201247",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482845160"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Isuzugawa'",
+                            "machine_name": "acorus_gramineus_isuzugawa",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Isuzugawa",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1592745",
+                                "legacy_id": "317905",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Cava'",
+                            "machine_name": "acorus_gramineus_cava",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Cava",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1597637",
+                                "legacy_id": "390821",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482849480"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus Golden Pheasant \u00ae",
+                            "machine_name": "acorus_gramineus_golden_pheasant",
+                            "type": "variety",
+                            "mark": "r",
+                            "lower_ranks_name": "Golden Pheasant",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1612384",
+                                "legacy_id": "234811",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Omogo'",
+                            "machine_name": "acorus_gramineus_omogo",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Omogo",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614126",
+                                "legacy_id": "243161",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        },
+                        {
+                            "name": "Acorus gramineus 'Kin Gin Chu Ya'",
+                            "machine_name": "acorus_gramineus_kin_gin_chu_ya",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Kin Gin Chu Ya",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_gramineus",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1614127",
+                                "legacy_id": "243162",
+                                "fgsid": "903",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "false",
+                                "source": "true",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482853680"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1398565",
+                        "legacy_id": "6855",
+                        "fgsid": "903",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482812160"
+                    }
+                },
+                {
+                    "name": "Acorus [Cultivars]",
+                    "machine_name": "acorus_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "acorus",
+                    "family": "acoraceae",
+                    "variety_items": [
+                        {
+                            "name": "Acorus [Cultivars] 'Golden Edge'",
+                            "machine_name": "acorus_cultivars_golden_edge",
+                            "type": "variety",
+                            "mark": null,
+                            "lower_ranks_name": "Golden Edge",
+                            "authorities": null,
+                            "naming_authorities": null,
+                            "description": null,
+                            "lower_ranks": [
+                                "Cultivar"
+                            ],
+                            "species": "acorus_cultivars",
+                            "genus": "acorus",
+                            "family": "acoraceae",
+                            "cross_references": [],
+                            "archival_data": {
+                                "id": "1561821",
+                                "legacy_id": "167168",
+                                "fgsid": "68015",
+                                "legacy_from_data_cross_ref": [],
+                                "fpi": "true",
+                                "source": "false",
+                                "active": "true",
+                                "author": "oitadmin",
+                                "created": "1482840840"
+                            }
+                        }
+                    ],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "1448630",
+                        "legacy_id": "2",
+                        "fgsid": "68015",
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "true",
+                        "source": "true",
+                        "active": "true",
+                        "author": "oitadmin",
+                        "created": "1482815400"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "1388545",
+                "legacy_id": "70",
+                "legacy_from_data_cross_ref": [],
+                "active": "true",
+                "author": "oitadmin",
+                "created": "1482758820"
+            }
+        }
+    ]
+}

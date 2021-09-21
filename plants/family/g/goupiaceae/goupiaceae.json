@@ -1,0 +1,85 @@
+{
+    "name": "Goupiaceae",
+    "machine_name": "goupiaceae",
+    "type": "family",
+    "authorities": "Tropicos",
+    "naming_authorities": "Miers.",
+    "description": null,
+    "archival_data": {
+        "id": "2323406",
+        "legacy_id": null,
+        "author": "r-isaa",
+        "created": "1527002148"
+    },
+    "genus_items": [
+        {
+            "name": "Goupia",
+            "machine_name": "goupia",
+            "type": "genus",
+            "hybrid": "false",
+            "authorities": "Tropicos",
+            "naming_authorities": "Aubl.",
+            "description": null,
+            "family": "goupiaceae",
+            "cross_references": [],
+            "species_items": [
+                {
+                    "name": "Goupia [Cultivars]",
+                    "machine_name": "goupia_cultivars",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": null,
+                    "naming_authorities": null,
+                    "description": null,
+                    "genus": "goupia",
+                    "family": "goupiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323416",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527002204"
+                    }
+                },
+                {
+                    "name": "Goupia glabra",
+                    "machine_name": "goupia_glabra",
+                    "type": "species",
+                    "hybrid": "false",
+                    "authorities": "Tropicos",
+                    "naming_authorities": "Aubl.",
+                    "description": null,
+                    "genus": "goupia",
+                    "family": "goupiaceae",
+                    "variety_items": [],
+                    "cross_references": [],
+                    "archival_data": {
+                        "id": "2323421",
+                        "legacy_id": null,
+                        "fgsid": null,
+                        "legacy_from_data_cross_ref": [],
+                        "fpi": "false",
+                        "source": "false",
+                        "active": "false",
+                        "author": "r-isaa",
+                        "created": "1527002235"
+                    }
+                }
+            ],
+            "archival_data": {
+                "id": "2323411",
+                "legacy_id": null,
+                "legacy_from_data_cross_ref": [],
+                "active": "false",
+                "author": "r-isaa",
+                "created": "1527002204"
+            }
+        }
+    ]
+}
