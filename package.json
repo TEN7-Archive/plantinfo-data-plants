@@ -1,0 +1,23 @@
+{
+  "name": "plantinfo-data-plants",
+  "version": "1.0.0",
+  "description": "Plantinfo Data - Plants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ten7/plantinfo-data-plants.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ten7/plantinfo-data-plants/issues"
+  },
+  "homepage": "https://github.com/ten7/plantinfo-data-plants#readme",
+  "dependencies": {
+    "directory-tree": "^3.2.2"
+  }
+}
